@@ -1,16 +1,22 @@
 {
-  "name": "prefabricadascasas",
+  "name": "casascontenedores",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "validar": "node scripts/validar.mjs"
+    "validar": "node scripts/validar.mjs",
+    "comparar": "node scripts/comparar-encabezados.mjs",
+    "webp": "node scripts/webp.mjs",
+    "capturas": "node scripts/capturas.mjs"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.6.0",
-    "astro": "^5.14.1",
-    "playwright": "^1.56.1"
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.3.2"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0",
+    "sharp": "^0.35.4"
   }
 }

@@ -1,0 +1,161 @@
+---
+import site from '../data/site.json';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Migas from '../components/Migas.astro';
+import WhatsApp from '../components/WhatsApp.astro';
+import { aWebp, existe } from '../utils/imagenes.js';
+import '../styles/global.css';
+
+const {
+  ruta = '/',
+  titulo,
+  tituloSeo,
+  descripcion,
+  h1,
+  hero = {},
+  faq = [],
+  noindex = false,
+} = Astro.props;
+
+const canonical = site.dominio + ruta;
+const heroSrc = hero?.src && existe(hero.src) ? aWebp(hero.src) : '';
+
+const jsonld = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: site.nombre,
+    url: site.dominio,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: site.nombre,
+    url: site.dominio,
+    email: site.email,
+    contactPoint: [{
+      '@type': 'ContactPoint',
+      contactType: 'ventas',
+      telephone: '+' + site.whatsapp,
+      email: site.email,
+      areaServed: 'ES',
+      availableLanguage: 'es',
+    }],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: h1 || titulo,
+    description: descripcion,
+    url: canonical,
+    inLanguage: 'es-ES',
+    isPartOf: { '@type': 'WebSite', name: site.nombre, url: site.dominio },
+  },
+];
+
+if (faq.length) {
+  jsonld.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faq.map((f) => ({
+      '@type': 'Question',
+      name: f.pregunta,
+      acceptedAnswer: { '@type': 'Answer', text: f.respuesta },
+    })),
+  });
+}
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{tituloSeo || titulo}</title>
+    {descripcion && <meta name="description" content={descripcion} />}
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={site.nombre} />
+    <meta property="og:title" content={tituloSeo || titulo} />
+    {descripcion && <meta property="og:description" content={descripcion} />}
+    <meta property="og:url" content={canonical} />
+    {heroSrc && <meta property="og:image" content={site.dominio + heroSrc} />}
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="preload" href="/fonts/roboto-variable.woff2" as="font" type="font/woff2" crossorigin />
+    {heroSrc && <link rel="preload" as="image" href={heroSrc} imagesrcset={hero.srcset} imagesizes={hero.sizes} />}
+
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    {site.verificaciones.google && (
+      <meta name="google-site-verification" content={site.verificaciones.google} />
+    )}
+
+    {jsonld.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d)} />)}
+
+    {site.analitica.ga4 && (
+      <>
+        <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${site.analitica.ga4}`}></script>
+        <script is:inline define:vars={{ ga4: site.analitica.ga4 }}>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', ga4);
+        </script>
+      </>
+    )}
+
+    {site.analitica.adsense && (
+      <script
+        is:inline
+        async
+        src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.analitica.adsense}`}
+        crossorigin="anonymous"
+        data-overlays="bottom"
+      ></script>
+    )}
+  </head>
+
+  <body>
+    <div id="wrap">
+      <Header ruta={ruta} />
+
+      <div class="banda-titulo">
+        <div class="contenedor">
+          <h1 class="titulo">{h1 || titulo}</h1>
+          <Migas ruta={ruta} titulo={titulo} />
+        </div>
+      </div>
+
+      <main id="contenido">
+        <div class="contenedor">
+          {heroSrc && (
+            <div class="heroe">
+              <img
+                src={heroSrc}
+                alt={hero.alt || h1 || titulo}
+                width={hero.ancho}
+                height={hero.alto}
+                srcset={hero.srcset}
+                sizes={hero.sizes}
+                fetchpriority="high"
+                decoding="async"
+              />
+            </div>
+          )}
+          <article class="entrada">
+            <slot />
+          </article>
+        </div>
+      </main>
+
+      <Footer />
+    </div>
+    <WhatsApp />
+  </body>
+</html>

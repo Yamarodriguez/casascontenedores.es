@@ -1,0 +1,80 @@
+{
+ "nombre": "Casas Contenedores",
+ "dominio": "https://casascontenedores.es",
+ "descripcion": "Casas con contenedores marítimos: arquitectura y construcción modular de container en toda España.",
+ "email": "Contacto@casascontenedores.es",
+ "whatsapp": "34666171391",
+ "whatsappTexto": "Hola, me gustaría información sobre casas contenedores",
+ "titular": {
+  "nombre": "Yamandu Rodriguez",
+  "nif": "Y8543818",
+  "direccion": "Calle Finestrat, Valencia, España",
+  "email": "Contacto@casascontenedores.es"
+ },
+ "analitica": {
+  "adsense": "ca-pub-7333712322602518",
+  "ga4": "G-GG1YNWSWB4"
+ },
+ "verificaciones": {
+  "google": ""
+ },
+ "formulario": {
+  "accion": "https://api.web3forms.com/submit",
+  "accessKey": "",
+  "destino": "Contacto@casascontenedores.es",
+  "gracias": "/gracias/"
+ },
+ "pie": {
+  "copyright": "Casas Contenedores",
+  "menu": [
+   { "rotulo": "Aviso legal", "url": "/aviso-legal/" },
+   { "rotulo": "Política de privacidad", "url": "/politica-privacidad/" },
+   { "rotulo": "Política de cookies", "url": "/politica-de-cookies/" }
+  ],
+  "columnas": [
+   {
+    "titulo": "Casas contenedores",
+    "enlaces": [
+     { "rotulo": "Precios", "url": "/precios/" },
+     { "rotulo": "Modelos", "url": "/modelos/" },
+     { "rotulo": "Catálogo", "url": "/catalogo/" },
+     { "rotulo": "Planos", "url": "/planos/" },
+     { "rotulo": "Permisos", "url": "/permisos/" }
+    ]
+   },
+   {
+    "titulo": "Contenedores marítimos",
+    "enlaces": [
+     { "rotulo": "Contenedores marítimos", "url": "/contenedores-maritimos/" },
+     { "rotulo": "Precios", "url": "/precios-contenedores-maritimos/" },
+     { "rotulo": "Tipos", "url": "/tipos-de-contenedores/" },
+     { "rotulo": "Medidas", "url": "/medidas-contenedores-maritimos/" },
+     { "rotulo": "Venta", "url": "/venta-contenedores-maritimos/" }
+    ]
+   },
+   {
+    "titulo": "Otros usos",
+    "enlaces": [
+     { "rotulo": "Oficinas", "url": "/oficinas-contenedores/" },
+     { "rotulo": "Locales", "url": "/local-containers/" },
+     { "rotulo": "Piscinas", "url": "/piscina-contenedor/" },
+     { "rotulo": "Módulos sanitarios", "url": "/modulos-sanitarios/" },
+     { "rotulo": "Pérgolas", "url": "/pergolas/" }
+    ]
+   },
+   {
+    "titulo": "Contacto",
+    "enlaces": [
+     { "rotulo": "Pedir presupuesto", "url": "/presupuesto-casas-contenedores/" },
+     { "rotulo": "Fotos de obras", "url": "/fotos-de-casas-containers/" },
+     { "rotulo": "Paso a paso", "url": "/casa-container-paso-a-paso/" },
+     { "rotulo": "Diseño 3D", "url": "/renders/" }
+    ]
+   }
+  ]
+ },
+ "menuPorSeccion": {
+  "maritimos": "contenedores-maritimos",
+  "casas": "menu-principal"
+ }
+}

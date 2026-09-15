@@ -1,0 +1,41 @@
+# Redirecciones 301 de las URL de WordPress que desaparecen al pasar a estatico.
+# Las 263 paginas conservan su direccion: aqui solo estan las que dejan de existir.
+
+# --- sitemaps de Yoast -> el sitemap nuevo
+/sitemap_index.xml            /sitemap-index.xml            301!
+/page-sitemap.xml             /sitemap-index.xml            301!
+/post-sitemap.xml             /sitemap-index.xml            301!
+/category-sitemap.xml         /sitemap-index.xml            301!
+/attachment-sitemap.xml       /sitemap-index.xml            301!
+/author-sitemap.xml           /sitemap-index.xml            301!
+/sitemap.xml                  /sitemap-index.xml            301!
+
+# --- canales RSS
+/feed                         /                             301!
+/feed/*                       /                             301!
+/comments/feed                /                             301!
+/*/feed                       /:splat                       301!
+
+# --- panel y trastienda de WordPress
+/wp-admin                     /                             301!
+/wp-admin/*                   /                             301!
+/wp-login.php                 /                             301!
+/xmlrpc.php                   /                             301!
+/wp-json/*                    /                             301!
+/wp-content/plugins/*         /                             301!
+/wp-content/themes/*          /                             301!
+/wp-includes/*                /                             301!
+
+# --- taxonomias y archivos que el sitio estatico no tiene
+/category/*                   /                             301!
+/tag/*                        /                             301!
+/author/*                     /                             301!
+/?p=*                         /                             301!
+/20*/*                        /                             301!
+
+# --- busqueda interna de WordPress
+/?s=*                         /                             301!
+
+# --- el subdominio de Netlify manda al dominio bueno
+# (se activa el dia que el DNS apunte aqui; hasta entonces no molesta)
+https://casascontenedores.netlify.app/*  https://casascontenedores.es/:splat  301!

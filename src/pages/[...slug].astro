@@ -1,0 +1,47 @@
+---
+/**
+ * La ruta dinámica que pinta las 263 páginas. Las rutas se conservan tal cual
+ * estaban en WordPress: salen del campo `ruta` de cada JSON.
+ */
+import Base from '../layouts/Base.astro';
+import Formulario from '../components/Formulario.astro';
+import { reconstruir } from '../utils/estructura.js';
+import { sanearImagenes } from '../utils/imagenes.js';
+
+export async function getStaticPaths() {
+  const modulos = import.meta.glob('../content/pages/*.json', { eager: true });
+  return Object.values(modulos).map((m) => {
+    const p = m.default || m;
+    const slug = p.ruta.replace(/^\/|\/$/g, '');
+    return { params: { slug: slug || undefined }, props: { pagina: p } };
+  });
+}
+
+const { pagina } = Astro.props;
+
+// 1. se reconstruye la maquetación que Elementor tenía y el export perdió
+// 2. se sanean las imágenes (webp cuando existe, marcador cuando falta)
+const reconstruido = reconstruir(pagina.cuerpo);
+const { html, faltan } = sanearImagenes(reconstruido);
+
+// el marcador del formulario se parte para insertar el componente
+const trozos = html.split(/<div data-formulario="1"><\/div>/);
+---
+
+<Base
+  ruta={pagina.ruta}
+  titulo={pagina.titulo}
+  tituloSeo={pagina.tituloSeo}
+  descripcion={pagina.descripcion}
+  h1={pagina.h1}
+  hero={pagina.hero}
+  faq={pagina.faq}
+  noindex={pagina.noindex}
+>
+  {trozos.map((trozo, i) => (
+    <>
+      <Fragment set:html={trozo} />
+      {i < trozos.length - 1 && <Formulario />}
+    </>
+  ))}
+</Base>
