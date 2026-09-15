@@ -38,6 +38,15 @@ function rutasReferenciadas() {
     const crudo = fs.readFileSync(path.join(dir, f), 'utf8');
     for (const m of crudo.matchAll(re)) rutas.add(m[0]);
   }
+  // rutas que no aparecen en el contenido pero hacen falta igual (el logo del
+  // tema, por ejemplo, que WordPress guarda en la configuracion y no en el texto)
+  const extras = path.join(RAIZ, 'scripts', 'extra-imagenes.txt');
+  if (fs.existsSync(extras)) {
+    for (const linea of fs.readFileSync(extras, 'utf8').split('\n')) {
+      const r = linea.trim();
+      if (r && !r.startsWith('#')) rutas.add(r);
+    }
+  }
   return [...rutas].sort();
 }
 
