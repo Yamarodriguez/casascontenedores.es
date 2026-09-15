@@ -1,0 +1,8 @@
+# Imagenes que no aparecen en el texto de las paginas y hacen falta igual.
+# WordPress las guarda en la configuracion del tema, no en el contenido, asi
+# que el extractor no las ve.
+
+# Logo de la cabecera (custom-logo del tema OceanWP)
+/wp-content/uploads/2021/08/casas-contenedores-.jpg
+/wp-content/uploads/2021/08/casas-contenedores--300x167.jpg
+/wp-content/uploads/2021/08/casas-contenedores--768x427.jpg
