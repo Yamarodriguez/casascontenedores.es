@@ -37,5 +37,13 @@
 /?s=*                         /                             301!
 
 # --- el subdominio de Netlify manda al dominio bueno
-# (se activa el dia que el DNS apunte aqui; hasta entonces no molesta)
-https://casascontenedores.netlify.app/*  https://casascontenedores.es/:splat  301!
+#
+# DESACTIVADO A PROPOSITO. Mientras casascontenedores.es apunte al hosting
+# viejo, esta regla manda las visitas del subdominio a la web ANTIGUA, asi que
+# la web nueva no se puede ni mirar.
+#
+# SE ACTIVA EL DIA DEL CAMBIO DE DNS: quita la almohadilla de la linea de
+# abajo, junto con el bloque X-Robots-Tag de netlify.toml. Asi el subdominio
+# deja de competir con el dominio en Google.
+#
+# https://casascontenedores.netlify.app/*  https://casascontenedores.es/:splat  301!
