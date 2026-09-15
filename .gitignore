@@ -1,0 +1,14 @@
+# Exports de WordPress y de Search Console: son la materia prima, no van al repo
+*.xml
+*.zip
+casascontenedores-descargas/
+
+# Dependencias y compilacion
+node_modules/
+dist/
+.astro/
+
+# Basura del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
