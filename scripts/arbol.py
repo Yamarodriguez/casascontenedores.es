@@ -116,7 +116,11 @@ def limpiar_html(h):
     """Limpia el HTML de un bloque de texto del editor."""
     if not h:
         return ""
-    h = re.sub(r"<(script|style)\b[\s\S]*?</\1>", "", h, flags=re.I)
+    # El <script> fuera, pero el <style> NO: la portada y otras paginas llevan
+    # bloques de HTML escritos a mano (rejillas de tarjetas, el acordeon de
+    # preguntas) cuyo aspecto vive en un <style> pegado al lado. Quitarlo
+    # dejaba esas tarjetas apiladas a todo lo ancho.
+    h = re.sub(r"<script\b[\s\S]*?</script>", "", h, flags=re.I)
     h = re.sub(r"<!--[\s\S]*?-->", "", h)
     h = h.replace(BASE + "/", "/").replace(BASE, "/")
     h = re.sub(r"(https?:)?//(?:www\.)?casascontenedores\.es/", "/", h)
@@ -203,6 +207,62 @@ def fondo(s, prefijo=""):
     return f
 
 
+# --------------------------------------------------- tamanos de las imagenes
+
+# id de adjunto -> {"dir": "2021/09/", "full": "foo.jpg", "large": "foo-1024x1024.jpg", ...}
+TAMANOS = {}
+
+
+def leer_tamanos(xml):
+    """Saca de los adjuntos que variantes genero WordPress de cada imagen.
+
+    Por que hace falta: el widget de imagen de Elementor pinta por defecto la
+    variante `large`, no el original. Si se sirve el original, una foto que en
+    la web real es cuadrada de 1024 sale con otra proporcion y la pagina entera
+    cambia de alto.
+    """
+    for it in re.findall(r"<item>(.*?)</item>", xml, re.S):
+        if cdata(it, "post_type") != "attachment":
+            continue
+        m = re.search(r"<wp:post_id>(\d+)</wp:post_id>", it)
+        if not m:
+            continue
+        pid = m.group(1)
+        archivo = meta(it, "_wp_attached_file")
+        if not archivo:
+            continue
+        carpeta = archivo.rsplit("/", 1)[0] + "/" if "/" in archivo else ""
+        datos = {"dir": carpeta, "full": archivo.rsplit("/", 1)[-1]}
+        crudo = meta(it, "_wp_attachment_metadata")
+        if crudo:
+            # PHP serializado: s:5:"large";a:4:{s:4:"file";s:NN:"nombre.jpg";
+            for nombre, fichero in re.findall(
+                    r's:\d+:"([a-z0-9_-]+)";a:\d+:\{s:4:"file";s:\d+:"([^"]+)"', crudo):
+                if nombre not in ("sizes",):
+                    datos[nombre] = fichero
+        TAMANOS[pid] = datos
+
+
+FALTAN_VARIANTES = set()
+
+
+def variante(url, ident, nombre="large"):
+    """URL de la variante que pinta Elementor, o la original si no la hay.
+
+    Se comprueba que el archivo este descargado: apuntar a una variante que
+    no existe deja la imagen rota, y una imagen rota mide cero, que es peor
+    que servirla en otro tamano.
+    """
+    datos = TAMANOS.get(str(ident))
+    if not datos or nombre not in datos:
+        return url
+    ruta = "/wp-content/uploads/" + datos["dir"] + datos[nombre]
+    if os.path.exists(os.path.join(RAIZ, "public") + ruta):
+        return ruta
+    FALTAN_VARIANTES.add(ruta)
+    return url
+
+
 # ----------------------------------------------------------------- conversion
 
 def convertir_widget(e):
@@ -245,7 +305,9 @@ def convertir_widget(e):
         if not url:
             return None
         b["t"] = "imagen"
-        b["src"] = relativo(url)
+        # Elementor sirve la variante `large` salvo que se diga otra cosa
+        tam = s.get("image_size") or "large"
+        b["src"] = variante(relativo(url), (s.get("image") or {}).get("id"), tam)
         b["alt"] = (s.get("image") or {}).get("alt") or ""
         an = medida(s.get("width"))
         if an:
@@ -450,6 +512,8 @@ def main():
     ensayo = "--ensayo" in sys.argv
 
     xml = open(ruta, encoding="utf-8").read()
+    leer_tamanos(xml)
+    print("adjuntos con variantes:", len(TAMANOS))
 
     # H1 que enseña hoy cada pagina, medido sobre la web viva.
     h1_vivos = {}
@@ -546,6 +610,19 @@ def main():
                 json.dump(pagina, fh, ensure_ascii=False, indent=1)
 
         resumen["menu:" + (menu or "(por defecto)")] += 1
+
+    if FALTAN_VARIANTES:
+        lista = os.path.join(RAIZ, "scripts", "extra-imagenes.txt")
+        previas = set()
+        if os.path.exists(lista):
+            previas = {l.strip() for l in open(lista, encoding="utf-8")}
+        nuevas = sorted(FALTAN_VARIANTES - previas)
+        if nuevas:
+            with open(lista, "a", encoding="utf-8") as f:
+                f.write("\n# Variantes que pinta Elementor y no estaban descargadas\n")
+                f.write("\n".join(nuevas) + "\n")
+        print("variantes sin descargar: %d (apuntadas en scripts/extra-imagenes.txt)"
+              % len(FALTAN_VARIANTES))
 
     print("ENSAYO" if ensayo else "APLICADO")
     for k, v in sorted(resumen.items()):

@@ -35,7 +35,7 @@
        "t": "imagen",
        "id": "aaee262",
        "margen": "0px 0px 0px 0px",
-       "src": "/wp-content/uploads/2024/11/bar-contenedor.webp",
+       "src": "/wp-content/uploads/2024/11/bar-contenedor-1024x585.webp",
        "alt": "bar-contenedor",
        "ancho": "100%"
       },
@@ -246,7 +246,7 @@
       {
        "t": "imagen",
        "id": "06f0eb9",
-       "src": "/wp-content/uploads/2024/11/bar-container.webp",
+       "src": "/wp-content/uploads/2024/11/bar-container-1024x585.webp",
        "alt": "bar-container",
        "ancho": "100%"
       }
@@ -303,7 +303,7 @@
       {
        "t": "imagen",
        "id": "f610f5c",
-       "src": "/wp-content/uploads/2024/11/bares-con-contenedores.webp",
+       "src": "/wp-content/uploads/2024/11/bares-con-contenedores-1024x585.webp",
        "alt": "bares-con-contenedores",
        "ancho": "100%"
       }
@@ -447,7 +447,7 @@
       {
        "t": "imagen",
        "id": "7122b60",
-       "src": "/wp-content/uploads/2024/11/bar-contenedores.webp",
+       "src": "/wp-content/uploads/2024/11/bar-contenedores-1024x727.webp",
        "alt": "bar-contenedores",
        "ancho": "100%",
        "url": "/renders/"
@@ -1531,7 +1531,7 @@
       {
        "t": "imagen",
        "id": "2ad8b53",
-       "src": "/wp-content/uploads/2021/09/casas-contenedores-catalogo.jpg",
+       "src": "/wp-content/uploads/2021/09/casas-contenedores-catalogo-1024x1024.jpg",
        "alt": "casas-contenedores-catalogo",
        "ancho": "83%",
        "anchoMovil": "96%",
@@ -2693,7 +2693,7 @@
       {
        "t": "imagen",
        "id": "491d940",
-       "src": "/wp-content/uploads/2022/02/casas-prefabricadas.jpg",
+       "src": "/wp-content/uploads/2022/02/casas-prefabricadas-1024x576.jpg",
        "alt": "casas-prefabricadas",
        "ancho": "100%",
        "url": "/casas-prefabricadas/"

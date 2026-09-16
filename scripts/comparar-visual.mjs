@@ -34,10 +34,24 @@ async function medir(base, ruta) {
   const pag = await ctx.newPage();
   await ctx.route('**://**', (r) => (r.request().url().startsWith(base) ? r.continue() : r.abort()));
   await pag.goto(base + ruta, { waitUntil: 'load' });
-  await pag.evaluate(() => {
+  // Hay que recorrer la pagina antes de medir: las imagenes perezosas que no
+  // se han cargado miden cero y falsean tanto las posiciones como el alto.
+  await pag.evaluate(async () => {
     for (const img of document.querySelectorAll('img[data-src]')) img.src = img.getAttribute('data-src');
+    for (const img of document.querySelectorAll('img[loading="lazy"]')) img.loading = 'eager';
+    await new Promise((listo) => {
+      let y = 0;
+      const paso = () => {
+        window.scrollTo(0, y); y += 600;
+        if (y < document.body.scrollHeight) setTimeout(paso, 30);
+        else { window.scrollTo(0, 0); setTimeout(listo, 500); }
+      };
+      paso();
+    });
+    await Promise.all([...document.images].filter((i) => !i.complete)
+      .map((i) => new Promise((r) => { i.onload = i.onerror = r; })));
   });
-  await pag.waitForTimeout(700);
+  await pag.waitForTimeout(800);
 
   const datos = await pag.evaluate(() => {
     const salida = [];
@@ -95,11 +109,21 @@ for (const a of vieja.elementos) {
   const d = [];
   if (Math.abs(a.x - b.x) > 12) d.push(`x ${a.x}→${b.x}`);
   if (Math.abs(a.w - b.w) > 20) d.push(`ancho ${a.w}→${b.w}`);
-  if (a.tam !== b.tam) d.push(`letra ${a.tam}→${b.tam}`);
-  if (a.peso !== b.peso) d.push(`peso ${a.peso}→${b.peso}`);
-  if (a.color !== b.color) d.push(`color ${a.color}→${b.color}`);
-  if (a.familia !== b.familia) d.push(`fuente ${a.familia}→${b.familia}`);
-  if (a.alinear !== b.alinear) d.push(`alineado ${a.alinear}→${b.alinear}`);
+  if (Math.abs(a.h - b.h) > 20) d.push(`alto ${a.h}→${b.h}`);
+  // En una imagen el color y la fuente son los que hereda: no significan nada.
+  if (a.etiqueta !== 'IMG') {
+    if (a.tam !== b.tam) d.push(`letra ${a.tam}→${b.tam}`);
+    if (a.peso !== b.peso) d.push(`peso ${a.peso}→${b.peso}`);
+    if (a.color !== b.color) d.push(`color ${a.color}→${b.color}`);
+    // "Open Sans" no se carga en ninguna de las dos: las dos ven la del sistema
+    const sistema = (f) => /open sans|-apple-system|segoe ui|tahoma|system-ui/i.test(f);
+    if (a.familia !== b.familia && !(sistema(a.familia) && sistema(b.familia))) {
+      d.push(`fuente ${a.familia}→${b.familia}`);
+    }
+    // "start" y "left" son lo mismo escrito distinto
+    const ali = (x) => (x === 'start' ? 'left' : x === 'end' ? 'right' : x);
+    if (ali(a.alinear) !== ali(b.alinear)) d.push(`alineado ${a.alinear}→${b.alinear}`);
+  }
   if (d.length) diferencias.push({ a, d });
 }
 

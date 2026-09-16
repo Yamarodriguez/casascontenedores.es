@@ -35,7 +35,7 @@
        "t": "imagen",
        "id": "aaee262",
        "margen": "0px 0px 0px 0px",
-       "src": "/wp-content/uploads/2022/01/renders.jpg",
+       "src": "/wp-content/uploads/2022/01/renders-1024x379.jpg",
        "alt": "renders",
        "ancho": "100%",
        "anchoMovil": "100%"
@@ -191,7 +191,7 @@
           {
            "t": "imagen",
            "id": "71416ab",
-           "src": "/wp-content/uploads/2023/02/render.jpg",
+           "src": "/wp-content/uploads/2023/02/render-1024x727.jpg",
            "alt": "renders",
            "anchoMovil": "100%",
            "url": "https://renders.es/"
@@ -656,7 +656,7 @@
       {
        "t": "imagen",
        "id": "5e7beab",
-       "src": "/wp-content/uploads/2022/01/zcxvdsvsdv-2.jpg",
+       "src": "/wp-content/uploads/2022/01/zcxvdsvsdv-2-1024x379.jpg",
        "alt": "",
        "anchoMovil": "100%"
       },
@@ -883,7 +883,7 @@
       {
        "t": "imagen",
        "id": "541fb99",
-       "src": "/wp-content/uploads/2022/02/casas-prefabricadas.jpg",
+       "src": "/wp-content/uploads/2022/02/casas-prefabricadas-1024x576.jpg",
        "alt": "casas-prefabricadas",
        "ancho": "100%",
        "url": "https://prefabricadascasas.es/"
