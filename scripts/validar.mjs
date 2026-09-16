@@ -176,6 +176,35 @@ for (const f of fs.readdirSync(PAGINAS).filter((x) => x.endsWith('.json'))) {
   if (/href=""/.test(cuerpo)) fallos.push(`${origen.ruta} — quedan href vacios`);
 }
 
+/* -------------------------------------------- fotos de fondo de las hojas
+ * Las franjas oscuras del sitio (la de "Ventajas de las casas de
+ * Contenedores", la del presupuesto, la del diseño en 3D...) llevan la foto
+ * puesta desde el CSS, no desde el texto de la pagina. Si el fichero no esta
+ * descargado, esa franja sale de color liso y nadie se entera revisando el
+ * HTML, porque en el HTML no hay ninguna imagen rota: simplemente no hay foto.
+ * Por eso se comprueba aqui, contra las hojas, y cuenta como FALLO. */
+{
+  const raizPublica = path.join(RAIZ, 'public');
+  const re = /url\(\s*["']?(?:https?:\/\/(?:www\.)?casascontenedores\.es)?(\/wp-content\/uploads\/[^"')?#]+\.(?:jpg|jpeg|png|gif|webp|svg))/gi;
+  const faltan = new Map();
+  for (const sub of ['paginas', 'comunes']) {
+    const d = path.join(RAIZ, 'css-original', sub);
+    if (!fs.existsSync(d)) continue;
+    for (const f of fs.readdirSync(d)) {
+      if (!f.endsWith('.css')) continue;
+      const css = fs.readFileSync(path.join(d, f), 'utf8');
+      for (const m of css.matchAll(re)) {
+        const r = m[1];
+        if (fs.existsSync(path.join(raizPublica, r.replace(/^\//, '')))) continue;
+        faltan.set(r, (faltan.get(r) || 0) + 1);
+      }
+    }
+  }
+  for (const [r, n] of [...faltan].sort((a, b) => b[1] - a[1])) {
+    fallos.push(`foto de fondo sin descargar, usada en ${n} hoja(s): ${r}`);
+  }
+}
+
 console.log(`paginas revisadas: ${revisadas}`);
 console.log(`fallos: ${fallos.length} | avisos: ${avisos.length}\n`);
 

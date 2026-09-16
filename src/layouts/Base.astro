@@ -21,10 +21,16 @@ const {
   postId = 0,
 } = Astro.props;
 
-// Hojas de estilo originales del sitio: las comunes del tema y de Elementor,
-// y la que Elementor escribio para esta pagina. Las prepara scripts/css.mjs.
+// Hojas de estilo originales del sitio. Van en TRES tandas y en este orden,
+// que es exactamente el de la web en vivo:
+//   comunes.css        tema + Elementor + kit + widgets basicos (01..17)
+//   post-ID.css        lo que Elementor escribio para ESTA pagina
+//   comunes-final.css  widgets de Elementor + fuentes (18..26)
+// La hoja de la pagina va EN MEDIO: si se pusiera al final, reglas de
+// 18-widgets.css dejarian de ganar donde deben. Las prepara scripts/css.mjs.
 const hojaPagina = postId && existe(`/css/post-${postId}.css`) ? `/css/post-${postId}.css` : '';
 const hayComunes = existe('/css/comunes.css');
+const hayComunesFinal = existe('/css/comunes-final.css');
 
 const canonical = site.dominio + ruta;
 const heroSrc = hero?.src && existe(hero.src) ? aWebp(hero.src) : '';
@@ -108,6 +114,7 @@ if (faq.length) {
 
     {hayComunes && <link rel="stylesheet" href="/css/comunes.css" />}
     {hojaPagina && <link rel="stylesheet" href={hojaPagina} />}
+    {hayComunesFinal && <link rel="stylesheet" href="/css/comunes-final.css" />}
 
     {site.analitica.ga4 && (
       <>

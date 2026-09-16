@@ -30,13 +30,31 @@ const FIRMAS = [
 ];
 
 function rutasReferenciadas() {
-  const dir = path.join(RAIZ, 'src', 'content', 'pages');
   const rutas = new Set();
   const re = /\/wp-content\/uploads\/\d{4}\/\d{2}\/[^\s"'<>)]+?\.(?:jpg|jpeg|png|webp|gif|svg|mp4)/gi;
+
+  // 1. las fotos que salen en el CONTENIDO de cada pagina
+  const dir = path.join(RAIZ, 'src', 'content', 'pages');
   for (const f of fs.readdirSync(dir)) {
     if (!f.endsWith('.json')) continue;
     const crudo = fs.readFileSync(path.join(dir, f), 'utf8');
     for (const m of crudo.matchAll(re)) rutas.add(m[0]);
+  }
+
+  // 2. las fotos de FONDO, que viven en las hojas de estilo y no en el texto.
+  //    Es facil olvidarlas y se nota muchisimo: son los fondos de las franjas
+  //    oscuras (la de "Casa Prefabricada con contenedores Maritimos", la de
+  //    "Ventajas de las casas de Contenedores", la del presupuesto...). Son
+  //    pocas fotos distintas, pero se usan en casi todas las paginas: si
+  //    faltan, media web sale con franjas de color liso donde va una foto.
+  for (const sub of ['paginas', 'comunes']) {
+    const d = path.join(RAIZ, 'css-original', sub);
+    if (!fs.existsSync(d)) continue;
+    for (const f of fs.readdirSync(d)) {
+      if (!f.endsWith('.css')) continue;
+      const css = fs.readFileSync(path.join(d, f), 'utf8');
+      for (const m of css.matchAll(re)) rutas.add(m[0]);
+    }
   }
   // rutas que no aparecen en el contenido pero hacen falta igual (el logo del
   // tema, por ejemplo, que WordPress guarda en la configuracion y no en el texto)

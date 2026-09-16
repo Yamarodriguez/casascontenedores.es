@@ -686,6 +686,7 @@
     "velo": "#383838C4",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "2fc05e5",

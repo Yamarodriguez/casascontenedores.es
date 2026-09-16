@@ -131,7 +131,37 @@ def limpiar_html(h):
     # tamanos en linea del editor
     h = re.sub(r'\sstyle="[^"]*font-size:[^"]*"', "", h)
     h = re.sub(r"<p>(?:\s|&nbsp;|<br\s*/?>)*</p>", "", h)
-    return h.strip()
+    return comillas(h).strip()
+
+
+def comillas(h):
+    """Pone las comillas como las pone WordPress al publicar.
+
+    En el export del XML el texto lleva comillas rectas ("asi", 'asi'), porque
+    es lo que se teclea en el editor. Pero WordPress, antes de enviar la pagina
+    al navegador, las convierte a las comillas tipograficas del idioma: en
+    castellano, «asi» y 'asi'. Por eso la web en vivo enseña «containers homes»
+    donde el export dice "containers homes".
+
+    Si no se hace aqui, el texto visible de la web nueva no es identico al de
+    la web en vivo, y eso es justo lo que no puede pasar. Se toca SOLO el texto
+    que se ve: lo que va dentro de una etiqueta (<a href="...">) se salta, que
+    ahi una comilla rizada rompe el HTML.
+    """
+    if not h:
+        return h
+    partes = re.split(r"(<[^>]*>)", h)
+    for i, p in enumerate(partes):
+        if p.startswith("<"):
+            continue          # es una etiqueta: no se toca
+        # apostrofo dentro de una palabra: d'Or -> d’Or
+        p = re.sub(r"(?<=\w)'(?=\w)", "’", p)
+        # comillas dobles emparejadas -> « »
+        p = re.sub(r'"([^"<>]+)"', "«\\1»", p)
+        # comillas simples emparejadas -> ‘ ’
+        p = re.sub(r"(?<![\w’])'([^'<>]+)'(?![\w])", "‘\\1’", p)
+        partes[i] = p
+    return "".join(partes)
 
 
 # --------------------------------------------------------- tipografia y estilo
@@ -182,6 +212,20 @@ def comunes(s):
     if s.get("_element_id"):
         c["ancla"] = s["_element_id"]
     return c
+
+
+def tiene_superposicion(s):
+    """¿Esta seccion o columna lleva "velo" (background overlay)?
+
+    Elementor, cuando el usuario pone un velo, mete DENTRO del bloque un div
+    vacio <div class="elementor-background-overlay"></div> y le cuelga a ese
+    div el color o la foto del velo desde la hoja de la pagina. Sin ese div la
+    regla no tiene a que aplicarse: el velo desaparece y, en las secciones con
+    letra blanca sobre foto oscura, el texto se queda sin el fondo que lo hacia
+    legible. Se detecta por cualquier ajuste que empiece por background_overlay_.
+    """
+    return any(k.startswith("background_overlay_") and s.get(k) not in (None, "", [], {})
+               for k in s)
 
 
 def fondo(s, prefijo=""):
@@ -437,6 +481,8 @@ def convertir_columna(e):
     f = fondo(s)
     if f:
         c["fondo"] = f
+    if tiene_superposicion(s):
+        c["superposicion"] = True
     if s.get("align_self") or s.get("content_position"):
         c["alinearVertical"] = s.get("align_self") or s.get("content_position")
     return c
@@ -474,6 +520,8 @@ def convertir_seccion(e):
     f = fondo(s)
     if f:
         sec["fondo"] = f
+    if tiene_superposicion(s):
+        sec["superposicion"] = True
     alt = num(s.get("min_height"))
     if alt:
         sec["altoMinimo"] = alt

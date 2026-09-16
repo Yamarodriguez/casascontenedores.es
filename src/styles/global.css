@@ -5,35 +5,16 @@
    Las tres correcciones acordadas van marcadas con  [CORREGIDO].
    ========================================================================= */
 
-/* ------------------------------------------------------------- tipografías */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 100 900;
-  font-display: swap;
-  src: url('/fonts/roboto-variable.woff2') format('woff2-variations');
-}
-@font-face {
-  font-family: 'Roboto Condensed';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url('/fonts/roboto-condensed-latin-400-normal.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'Roboto Condensed';
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url('/fonts/roboto-condensed-latin-500-normal.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'Roboto Condensed';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url('/fonts/roboto-condensed-latin-700-normal.woff2') format('woff2');
-}
+/* ------------------------------------------------------------- tipografías
+   Las letras NO se declaran aqui. Las declaran las hojas originales del sitio
+   (comunes-final.css: Roboto, Roboto Slab, Roboto Condensed, Abel, Satisfy,
+   Ubuntu), que son las mismas que carga la web en vivo, con los mismos grosores
+   y los mismos rangos de caracteres.
+
+   Antes este fichero declaraba sus propias versiones recortadas de Roboto y
+   Roboto Condensed. Al ser distintas de las del sitio, cada palabra medía un
+   ancho distinto y los titulos de las tarjetas ocupaban una linea donde en el
+   original ocupaban dos. Los ficheros los baja  npm run fuentes. */
 
 /* ------------------------------------------------------------------ tokens */
 :root {
@@ -86,12 +67,10 @@ html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
   background: var(--fondo-exterior);
-  /* "Open Sans" nunca llegó a cargarse en la web original: el texto del tema
-     se veía con la sans del sistema. Se reproduce igual. */
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Tahoma, Geneva, sans-serif;
-  font-size: 14px;
-  line-height: 1.8;
-  color: var(--tinta);
+  /* Aqui NO se declaran letra, tamaño ni color: los pone el tema original
+     desde comunes.css. Esta hoja se carga la ultima, asi que cualquier cosa
+     que se declarara aqui ganaria a la original y el texto de toda la web
+     saldria con otra letra y otro color que en la web en vivo. */
 }
 
 img { max-width: 100%; height: auto; border: 0; }
@@ -355,14 +334,13 @@ summary:focus-visible {
 /* ------------------------------------------------------------- contenido */
 #contenido { padding: var(--seccion) 0; }
 
-.entrada {
-  /* Base del contenido = el "kit" de Elementor del sitio (post-13.css):
-     Roboto 400 y color #7A7A7A. Cada bloque pone lo suyo encima. */
-  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 14px;
-  line-height: 1.8;
-  color: #7a7a7a;
-}
+/* El contenido NO lleva estilo propio aqui.
+   La letra y el color del texto los ponen las hojas originales del sitio
+   (el tema define body{color:#565656} y la tipografia). Cuando este fichero
+   definia su propia base (#7A7A7A, 14px, Roboto) ganaba por ser mas concreta
+   y TODO el contenido salia de otro color y otro tamano que en la web en
+   vivo. Se quita a proposito: aqui solo va lo que NO esta en las hojas
+   originales (cabecera, pie, botones flotantes, anuncios). */
 
 /* título principal de página */
 
@@ -385,8 +363,10 @@ summary:focus-visible {
 
 /* ------------------------------------------------------------- formulario
    Mismos campos y mismo aspecto que el Contact Form 7 de la web actual. */
-.formulario { font-size: 14px; font-family: inherit; color: var(--tinta); }
-.entrada .formulario, .entrada .formulario * { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Tahoma, Geneva, sans-serif; }
+/* La letra del formulario la hereda del contenido, como en el original.
+   Antes se forzaba aqui la sans del sistema y los enlaces del formulario
+   salian con otra letra que en la web en vivo. */
+.formulario { font-size: 14px; color: var(--tinta); }
 .formulario .campo { margin: 0 0 14px; }
 .formulario label {
   display: block;
@@ -407,7 +387,9 @@ summary:focus-visible {
   color: var(--tinta);
 }
 .formulario .trampa { position: absolute; left: -9999px; }
-.formulario .consentimiento { margin: 0 0 16px; font-size: 13px; }
+/* 14px, no 13: en el formulario original esta linea va del mismo tamano que
+   el resto del formulario. Con 13px salia mas pequeña que en la web en vivo. */
+.formulario .consentimiento { margin: 0 0 16px; font-size: 14px; }
 .formulario .consentimiento label { display: inline; }
 .formulario .consentimiento input { margin-right: 6px; }
 .formulario .consentimiento a { color: var(--enlace); text-decoration: underline; }

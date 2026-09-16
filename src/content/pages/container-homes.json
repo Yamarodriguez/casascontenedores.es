@@ -141,7 +141,7 @@
        "t": "texto",
        "id": "e5f9c47",
        "alinear": "center",
-       "html": "<p>If you're considering building your home with containers, leave us your number, and we will get in touch. Your home awaits you!</p>",
+       "html": "<p>If you’re considering building your home with containers, leave us your number, and we will get in touch. Your home awaits you!</p>",
        "tipo": {
         "familia": "Roboto",
         "peso": "400",
@@ -984,6 +984,7 @@
     "velo": "#090909ED",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "0176463",
@@ -1050,7 +1051,8 @@
       "imagen": "/wp-content/uploads/2022/02/Diseno-de-casas-contenedores.jpg",
       "velo": "#1717176B",
       "veloOpacidad": 0.5
-     }
+     },
+     "superposicion": true
     },
     {
      "id": "6a790da",
@@ -1203,6 +1205,7 @@
     "velo": "#141414",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "f6c0d67",
@@ -1239,7 +1242,7 @@
        "id": "6bd25a4",
        "alinear": "left",
        "margen": "0px 0px 0px 0px",
-       "html": "<p>We manufacture houses made with containers, offering excellent prices and quality. Prefabricated modules with containers provide the cheapest and quickest construction options.</p><p>Due to the type of architecture and manufacturing, you can achieve affordable container homes, so don't hesitate to shape your idea and opt for your new eco-friendly house.</p><p>The price of a prefabricated container house can vary based on several parameters. It could range between €600 and €800 per square meter. The construction budget doesn't skyrocket or experience unexpected increases, and a price can be locked in upon order placement. Additionally, the estimated construction time is around 4 to 7 months, in contrast to a conventional home, which would take more than double that time.</p><p>These prices can also vary depending on the quality of the material used, whether they are new or recycled containers. Therefore, it's possible to find affordable container homes. Request your online quote now! Container homes prices and models.</p>",
+       "html": "<p>We manufacture houses made with containers, offering excellent prices and quality. Prefabricated modules with containers provide the cheapest and quickest construction options.</p><p>Due to the type of architecture and manufacturing, you can achieve affordable container homes, so don’t hesitate to shape your idea and opt for your new eco-friendly house.</p><p>The price of a prefabricated container house can vary based on several parameters. It could range between €600 and €800 per square meter. The construction budget doesn’t skyrocket or experience unexpected increases, and a price can be locked in upon order placement. Additionally, the estimated construction time is around 4 to 7 months, in contrast to a conventional home, which would take more than double that time.</p><p>These prices can also vary depending on the quality of the material used, whether they are new or recycled containers. Therefore, it’s possible to find affordable container homes. Request your online quote now! Container homes prices and models.</p>",
        "color": "#FEFEFE",
        "tipo": {
         "familia": "Roboto",
@@ -1332,7 +1335,7 @@
            "alinear": "left",
            "alinearMovil": "center",
            "margen": "0px 0px 0px 0px",
-           "html": "<p>Permits for Container Homes: According to the civil code, we distinguish the construction of homes made from containers as real estate, which includes \"land, buildings, roads, and all kinds of constructions attached to the ground.\" Consequently, a permit is required for the construction, anchoring to the ground, and other related work. Additionally, compliance with permits under the Building Ordinance Law (LOE) and the Technical Building Code is necessary, along with the involvement of an architect's expertise. However, there are other possibilities...</p>",
+           "html": "<p>Permits for Container Homes: According to the civil code, we distinguish the construction of homes made from containers as real estate, which includes «land, buildings, roads, and all kinds of constructions attached to the ground.» Consequently, a permit is required for the construction, anchoring to the ground, and other related work. Additionally, compliance with permits under the Building Ordinance Law (LOE) and the Technical Building Code is necessary, along with the involvement of an architect’s expertise. However, there are other possibilities...</p>",
            "color": "#676767",
            "tipo": {
             "familia": "Roboto",
@@ -1536,6 +1539,7 @@
     "velo": "#030303",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "fcd59d6",
@@ -1579,6 +1583,7 @@
         "velo": "#0E0E0E00",
         "veloOpacidad": 0.5
        },
+       "superposicion": true,
        "columnas": [
         {
          "id": "e2c2074",
@@ -1589,7 +1594,7 @@
            "alinear": "justify",
            "alinearMovil": "center",
            "margen": "0px 0px 0px 0px",
-           "html": "<p>The versatility of \"container homes\" is what makes them unique and sought after. Unlike a conventional brick house, prefabricated homes made from shipping containers offer the possibility of creating thousands of designs based on pre-existing structures. Moreover, you have the option to redesign the layout at any time you desire, easily and quickly, expanding the house or any part of the home without the need to demolish any structure.</p>",
+           "html": "<p>The versatility of «container homes» is what makes them unique and sought after. Unlike a conventional brick house, prefabricated homes made from shipping containers offer the possibility of creating thousands of designs based on pre-existing structures. Moreover, you have the option to redesign the layout at any time you desire, easily and quickly, expanding the house or any part of the home without the need to demolish any structure.</p>",
            "color": "#FEFEFE",
            "tipo": {
             "familia": "Roboto",
@@ -1695,7 +1700,7 @@
        "id": "4bfd0ed",
        "margen": "0px 39px 0px 100px",
        "margenMovil": "0px 0px 0px 0px",
-       "html": "<p>The demand for prefabricated and eco-friendly homes has been rapidly increasing today. The environment demands responsibility for what we consume, which is why we present you with the best option: your container home!</p><p>We're talking about low-cost constructions, quicker project execution, the ability to transform the structure and design of the container home at any time, eco-friendly manufacturing using the finest materials, resulting in a perfect and elegant finish with top-notch quality.</p>",
+       "html": "<p>The demand for prefabricated and eco-friendly homes has been rapidly increasing today. The environment demands responsibility for what we consume, which is why we present you with the best option: your container home!</p><p>We’re talking about low-cost constructions, quicker project execution, the ability to transform the structure and design of the container home at any time, eco-friendly manufacturing using the finest materials, resulting in a perfect and elegant finish with top-notch quality.</p>",
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
@@ -1720,7 +1725,8 @@
       "repetir": "no-repeat",
       "velo": "#000000",
       "veloOpacidad": 0.5
-     }
+     },
+     "superposicion": true
     },
     {
      "id": "1d18844",
@@ -1797,7 +1803,7 @@
        "t": "texto",
        "id": "47ea648",
        "margen": "0px 035px 0px 15px",
-       "html": "<p>This type of construction adapts to any terrain and can be easily expanded without complications. It's possible to disassemble, reuse, and relocate the acquired modules and components. Being a modular system of independent combined pieces, it offers versatility and flexibility.</p>",
+       "html": "<p>This type of construction adapts to any terrain and can be easily expanded without complications. It’s possible to disassemble, reuse, and relocate the acquired modules and components. Being a modular system of independent combined pieces, it offers versatility and flexibility.</p>",
        "color": "#FDFDFD",
        "tipo": {
         "familia": "Roboto",
@@ -1931,7 +1937,7 @@
        "alinear": "left",
        "alinearMovil": "center",
        "margen": "0px 0px 0px 0px",
-       "html": "<p>Container House Step by Step. Here you will find a series of steps for the construction of a home using maritime containers. Sometimes, we know what we want but not where to start. We'll show you some steps on how to begin the process of building your home.</p>",
+       "html": "<p>Container House Step by Step. Here you will find a series of steps for the construction of a home using maritime containers. Sometimes, we know what we want but not where to start. We’ll show you some steps on how to begin the process of building your home.</p>",
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
@@ -2316,6 +2322,7 @@
     "velo": "#353535",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "070a474",
@@ -2348,7 +2355,7 @@
        "alinearMovil": "center",
        "margen": "0px 99px 0px 99px",
        "margenMovil": "0px 0px 0px 0px",
-       "html": "<p>If you're looking for prices and a budget for container houses, don't hesitate to get in touch with us. We offer non-binding consultation for your container home. We will guide you through the steps or assess the feasibility of your project.</p>",
+       "html": "<p>If you’re looking for prices and a budget for container houses, don’t hesitate to get in touch with us. We offer non-binding consultation for your container home. We will guide you through the steps or assess the feasibility of your project.</p>",
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",

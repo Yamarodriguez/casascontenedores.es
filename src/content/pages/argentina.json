@@ -1264,6 +1264,7 @@
     "velo": "#090909ED",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "4498327",
@@ -1481,6 +1482,7 @@
     "velo": "#141414",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "f6c0d67",
@@ -1610,7 +1612,7 @@
            "alinear": "left",
            "alinearMovil": "center",
            "margen": "0px 0px 0px 0px",
-           "html": "<p><strong>Permisos de casas con contenedores:</strong> Según el código civil, distinguimos la construcción de las <strong>casas hechas de contenedores</strong> en bienes inmuebles, que son \"tierras, edificios, caminos y construcciones de todo género adheridas al suelo\". Por consiguiente, se necesita un permiso para propia obra, construcción, el anclaje al suelo, etc. Además, se debe cumplir con los permisos de la Ley de Ordenación de Edificios (LOE) y el Código Técnico de Edificación, mas la firma de un arquitecto. Pero existen otras posibilidades...</p>",
+           "html": "<p><strong>Permisos de casas con contenedores:</strong> Según el código civil, distinguimos la construcción de las <strong>casas hechas de contenedores</strong> en bienes inmuebles, que son «tierras, edificios, caminos y construcciones de todo género adheridas al suelo». Por consiguiente, se necesita un permiso para propia obra, construcción, el anclaje al suelo, etc. Además, se debe cumplir con los permisos de la Ley de Ordenación de Edificios (LOE) y el Código Técnico de Edificación, mas la firma de un arquitecto. Pero existen otras posibilidades...</p>",
            "color": "#676767",
            "tipo": {
             "familia": "Roboto",
@@ -1809,6 +1811,7 @@
     "velo": "#1414149E",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "7d0df86",
@@ -1852,6 +1855,7 @@
         "velo": "#0E0E0E00",
         "veloOpacidad": 0.5
        },
+       "superposicion": true,
        "columnas": [
         {
          "id": "7c1ed3e",
@@ -1862,7 +1866,7 @@
            "alinear": "justify",
            "alinearMovil": "center",
            "margen": "0px 0px 0px 0px",
-           "html": "<p>La versatilidad de los <strong>\"containers homes\"</strong>, es lo que los hace únicos y demandados. A diferencia de una vivienda de ladrillo convencional, las <strong>casas prefabricadas en contenedores</strong> de barco dan la posibilidad de crear miles de diseños a partir de estructuras ya hechas, además, tienes la opción de reconstruir el diseño en cualquier momento que desees, de forma sencilla y rápida, ampliando la casa o cualquier parte del hogar, sin tener que destruir ninguna estructura.</p>",
+           "html": "<p>La versatilidad de los <strong>«containers homes»</strong>, es lo que los hace únicos y demandados. A diferencia de una vivienda de ladrillo convencional, las <strong>casas prefabricadas en contenedores</strong> de barco dan la posibilidad de crear miles de diseños a partir de estructuras ya hechas, además, tienes la opción de reconstruir el diseño en cualquier momento que desees, de forma sencilla y rápida, ampliando la casa o cualquier parte del hogar, sin tener que destruir ninguna estructura.</p>",
            "color": "#FEFEFE",
            "tipo": {
             "familia": "Roboto",
@@ -2007,7 +2011,8 @@
       "repetir": "no-repeat",
       "velo": "#000000",
       "veloOpacidad": 0.5
-     }
+     },
+     "superposicion": true
     },
     {
      "id": "1d18844",
@@ -2603,6 +2608,7 @@
     "velo": "#353535",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "070a474",

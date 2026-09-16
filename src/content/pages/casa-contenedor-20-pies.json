@@ -529,6 +529,7 @@
     "velo": "#090909ED",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "5bf5a14",
@@ -595,7 +596,8 @@
       "imagen": "/wp-content/uploads/2022/02/Diseno-de-casas-contenedores.jpg",
       "velo": "#1717176B",
       "veloOpacidad": 0.5
-     }
+     },
+     "superposicion": true
     },
     {
      "id": "636fa54",
@@ -1506,6 +1508,7 @@
     "velo": "#141414",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "2d95f47",
@@ -1635,7 +1638,7 @@
            "alinear": "left",
            "alinearMovil": "center",
            "margen": "0px 0px 0px 0px",
-           "html": "<p><strong>Permisos de casas con contenedores:</strong> Según el código civil, distinguimos la construcción de las casas hechas de contenedores en bienes inmuebles, que son \"tierras, edificios, caminos y construcciones de todo género adheridas al suelo\". Por consiguiente, se necesita un permiso para propia obra, construcción, el anclaje al suelo, etc. Además, se debe cumplir con los permisos de la Ley de Ordenación de Edificios (LOE) y el Código Técnico de Edificación, mas la firma de un arquitecto. Pero existen otras posibilidades...</p>",
+           "html": "<p><strong>Permisos de casas con contenedores:</strong> Según el código civil, distinguimos la construcción de las casas hechas de contenedores en bienes inmuebles, que son «tierras, edificios, caminos y construcciones de todo género adheridas al suelo». Por consiguiente, se necesita un permiso para propia obra, construcción, el anclaje al suelo, etc. Además, se debe cumplir con los permisos de la Ley de Ordenación de Edificios (LOE) y el Código Técnico de Edificación, mas la firma de un arquitecto. Pero existen otras posibilidades...</p>",
            "color": "#676767",
            "tipo": {
             "familia": "Roboto",
@@ -1885,7 +1888,8 @@
       "repetir": "no-repeat",
       "velo": "#000000",
       "veloOpacidad": 0.5
-     }
+     },
+     "superposicion": true
     },
     {
      "id": "1d18844",
@@ -2456,6 +2460,7 @@
     "velo": "#353535",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "ce3e815",

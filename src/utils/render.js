@@ -170,13 +170,22 @@ function pintarElemento(b, ctx, nivel) {
     `<div class="elementor-widget-container">${html}</div></div>`;
 }
 
+/**
+ * El "velo" de Elementor: un div vacio al principio del bloque, al que la hoja
+ * de la pagina le cuelga el color o la foto que va POR ENCIMA del fondo.
+ * Sin ese div la regla no tiene a que aplicarse y el velo desaparece; en las
+ * secciones de letra blanca sobre foto oscura eso dejaba el texto ilegible.
+ */
+const velo = (b) => (b.superposicion ? '<div class="elementor-background-overlay"></div>' : '');
+
 function pintarColumna(c, ctx, nivel) {
   const clases = ['elementor-column', claseColumna(c),
     nivel === 0 ? 'elementor-top-column' : 'elementor-inner-column',
     'elementor-element', `elementor-element-${c.id || 'c' + ctx.n++}`].join(' ');
   const dentro = (c.elementos || []).map((e) => pintarElemento(e, ctx, nivel + 1)).join('');
+  // en la columna el velo va DENTRO de .elementor-widget-wrap, no fuera
   return `<div class="${clases}" data-element_type="column">` +
-    `<div class="elementor-widget-wrap elementor-element-populated">${dentro}</div></div>`;
+    `<div class="elementor-widget-wrap elementor-element-populated">${velo(c)}${dentro}</div></div>`;
 }
 
 function pintarSeccion(s, ctx, nivel) {
@@ -188,8 +197,9 @@ function pintarSeccion(s, ctx, nivel) {
     'elementor-section-height-default'].filter(Boolean).join(' ');
   const columnas = (s.columnas || []).map((c) => pintarColumna(c, ctx, nivel)).join('');
   const ancla = s.ancla ? ` id="${escapar(s.ancla)}"` : '';
+  // en la seccion el velo va justo dentro de <section>, antes del contenedor
   return `<section class="${clases}"${ancla} data-id="${s.id}" data-element_type="section">` +
-    `<div class="elementor-container ${claseHueco(s)}">${columnas}</div></section>`;
+    `${velo(s)}<div class="elementor-container ${claseHueco(s)}">${columnas}</div></section>`;
 }
 
 /**

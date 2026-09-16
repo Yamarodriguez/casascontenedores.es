@@ -1,23 +1,33 @@
 /**
  * css.mjs — prepara las hojas de estilo originales para el sitio estatico.
  *
- *   node scripts/css.mjs            junta y limpia
- *   node scripts/css.mjs --crudo    junta sin limpiar (para comparar)
+ *   node scripts/css.mjs             junta las hojas tal cual (lo normal)
+ *   node scripts/css.mjs --limpiar   ademas quita las reglas que no se usan
  *
  * De donde sale cada cosa:
- *   css-original/comunes/   hojas del tema, de Elementor y del personalizador
- *   css-original/paginas/   una por pagina, escrita por el propio Elementor
- * Las baja scripts/descargar-css.mjs del sitio en vivo.
+ *   css-original/comunes/   hojas del tema, de Elementor, de los iconos y de
+ *                           las fuentes. El numero del nombre es el ORDEN en
+ *                           que las cargaba la web en vivo, y ese orden manda:
+ *                           en CSS gana la ultima regla que se lee.
+ *   css-original/paginas/   una hoja por pagina, escrita por el propio Elementor.
  *
- * Que hace:
- *   1. Junta las comunes en public/css/comunes.css, en el mismo orden en que
- *      las cargaba la web (el orden importa: gana la ultima).
- *   2. Copia cada hoja de pagina a public/css/post-ID.css.
- *   3. Quita las reglas que ninguna pagina usa. La web original cargaba ~900 KB
- *      de CSS de plugins de los que se usaba una minima parte; aqui se queda
- *      solo lo que aparece de verdad en el HTML compilado.
+ * EL ORDEN IMPORTA Y NO ES "TODO LO COMUN Y LUEGO LA PAGINA".
+ * En la web en vivo la secuencia real es:
  *
- * La limpieza necesita dist/ compilado: se ejecuta DESPUES de `npm run build`.
+ *     01..17  tema + Elementor + kit + widgets basicos
+ *     post-ID.css                      <-- la hoja de ESTA pagina
+ *     18..26  widgets de Elementor + fuentes
+ *
+ * Por eso se generan DOS hojas comunes y la de la pagina va en medio:
+ *     public/css/comunes.css        (01..17)
+ *     public/css/post-ID.css        (la de la pagina)
+ *     public/css/comunes-final.css  (18..26)
+ * Si se juntara todo antes de la pagina, reglas como las de 18-widgets.css
+ * dejarian de ganar donde deben y el resultado no seria identico al original.
+ *
+ * Tambien se corrigen las direcciones absolutas (https://casascontenedores.es/…)
+ * que llevan dentro las hojas de fuentes, para que apunten a los ficheros
+ * que estan en public/ y no al sitio antiguo.
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -26,11 +36,27 @@ const RAIZ = path.resolve('.');
 const ORIGEN = path.join(RAIZ, 'css-original');
 const DESTINO = path.join(RAIZ, 'public', 'css');
 const DIST = path.join(RAIZ, 'dist');
-const crudo = process.argv.includes('--crudo');
+const limpiando = process.argv.includes('--limpiar');
 
 if (!fs.existsSync(ORIGEN)) {
   console.error('falta css-original/ — ejecuta antes scripts/descargar-css.mjs');
   process.exit(1);
+}
+
+/* ------------------------------------------- 0. direcciones dentro del CSS */
+
+/**
+ * Las hojas de fuentes traen la direccion completa del sitio antiguo. Si se
+ * dejan, el navegador pide las letras a casascontenedores.es (que el dia de
+ * la mudanza ya sera esta misma web, pero mientras tanto no carga y ademas
+ * delata que la web no es autonoma). Se pasan a rutas de este sitio.
+ *
+ * Las direcciones relativas (../webfonts/…, ../fonts/…) NO se tocan: como la
+ * hoja vive en /css/, resuelven solas a /webfonts/… y /fonts/… y ahi es donde
+ * se guardan los ficheros.
+ */
+function rutasPropias(css) {
+  return css.replace(/https?:\/\/(?:www\.)?casascontenedores\.es\//g, '/');
 }
 
 /* ------------------------------------------------- 1. recoger lo que se usa */
@@ -83,21 +109,45 @@ function trocear(css) {
 
 const SIEMPRE = /^@(font-face|import|charset|keyframes|-webkit-keyframes|page|counter-style|property|layer)/i;
 
-/** ¿Este selector puede llegar a aplicar en alguna de las páginas? */
-function seUsa(selector, voc) {
-  // se mira cada parte por separado; basta con que una valga
-  return selector.split(',').some((parte) => {
-    const clases = [...parte.matchAll(/\.(-?[_a-zA-Z][\w-]*)/g)].map((m) => m[1]);
-    const ids = [...parte.matchAll(/#(-?[_a-zA-Z][\w-]*)/g)].map((m) => m[1]);
-    if (clases.some((c) => !voc.clases.has(c))) return false;
-    if (ids.some((x) => !voc.ids.has(x))) return false;
-    if (!clases.length && !ids.length) {
-      // selector solo de etiquetas: vale si alguna aparece
-      const tags = [...parte.matchAll(/(^|[\s>+~(])([a-z][a-z0-9]*)/g)].map((m) => m[2]);
-      if (tags.length && !tags.some((t) => voc.etiquetas.has(t))) return false;
-    }
-    return true;
-  });
+/**
+ * Quita lo que va dentro de :not(), :is(), :where() y :has().
+ *
+ * ESTO ERA EL FALLO GORDO. Elementor escribe los fondos asi:
+ *
+ *   .elementor-2 .elementor-element-0176463:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap,
+ *   .elementor-2 .elementor-element-0176463 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer
+ *   { background-image:url(…) }
+ *
+ * Las clases "motion-effects" no aparecen en el HTML (son de una animacion que
+ * esta pagina no usa), pero una clase dentro de :not() NO tiene que existir:
+ * precisamente dice "cuando NO este". La version anterior la exigia, daba la
+ * regla por inservible y la borraba — y con ella el fondo. Resultado: letras
+ * blancas sobre blanco y zonas que parecian vacias.
+ */
+const sinFiltros = (sel) => sel.replace(/:(not|is|where|has)\(([^()]*|[^()]*\([^()]*\)[^()]*)\)/gi, '');
+
+/** ¿Este trozo de selector puede llegar a aplicar en alguna pagina? */
+function parteSeUsa(parte, voc) {
+  const util = sinFiltros(parte);
+  const clases = [...util.matchAll(/\.(-?[_a-zA-Z][\w-]*)/g)].map((m) => m[1]);
+  const ids = [...util.matchAll(/#(-?[_a-zA-Z][\w-]*)/g)].map((m) => m[1]);
+  if (clases.some((c) => !voc.clases.has(c))) return false;
+  if (ids.some((x) => !voc.ids.has(x))) return false;
+  if (!clases.length && !ids.length) {
+    const tags = [...util.matchAll(/(^|[\s>+~(])([a-z][a-z0-9]*)/g)].map((m) => m[2]);
+    if (tags.length && !tags.some((t) => voc.etiquetas.has(t))) return false;
+  }
+  return true;
+}
+
+/**
+ * Deja el selector con solo los trozos que pueden aplicar. Si no queda
+ * ninguno, devuelve cadena vacia y la regla entera se descarta.
+ * Antes se conservaba o se tiraba la regla entera: ahora se recorta.
+ */
+function recortarSelector(selector, voc) {
+  const vivos = selector.split(',').map((s) => s.trim()).filter((s) => s && parteSeUsa(s, voc));
+  return vivos.join(',');
 }
 
 function limpiar(css, voc) {
@@ -110,7 +160,8 @@ function limpiar(css, voc) {
       if (dentro.trim()) salida.push(`${cabeza}{${dentro}}`);
       continue;
     }
-    if (seUsa(cabeza, voc)) salida.push(`${cabeza}{${cuerpo}}`);
+    const sel = recortarSelector(cabeza, voc);
+    if (sel) salida.push(`${sel}{${cuerpo}}`);
   }
   return salida.join('\n');
 }
@@ -120,40 +171,52 @@ function limpiar(css, voc) {
 fs.rmSync(DESTINO, { recursive: true, force: true });
 fs.mkdirSync(DESTINO, { recursive: true });
 
-const voc = crudo ? null : vocabulario();
+const voc = limpiando ? vocabulario() : null;
 if (voc) {
   console.log(`vocabulario del sitio: ${voc.clases.size} clases, ${voc.ids.size} ids, ${voc.etiquetas.size} etiquetas`);
 } else {
-  console.log('modo crudo: no se limpia nada');
+  console.log('hojas tal cual, sin quitar reglas (usa --limpiar para adelgazarlas)');
 }
 
 let antes = 0, despues = 0;
 
+/** El corte: hasta el 17 van antes de la hoja de la pagina; del 18 en adelante, despues. */
+const CORTE = 17;
+
 const dirComunes = path.join(ORIGEN, 'comunes');
-const comunes = fs.existsSync(dirComunes) ? fs.readdirSync(dirComunes).sort() : [];
-const juntas = comunes.map((f) => {
-  const css = fs.readFileSync(path.join(dirComunes, f), 'utf8');
-  antes += css.length;
-  const limpio = voc ? limpiar(css, voc) : css;
-  return `/* ${f} */\n${limpio}`;
-}).join('\n');
-fs.writeFileSync(path.join(DESTINO, 'comunes.css'), juntas);
-despues += juntas.length;
-console.log(`comunes.css  ${comunes.length} hojas  ${Math.round(juntas.length / 1024)} KB`);
+const comunes = fs.existsSync(dirComunes) ? fs.readdirSync(dirComunes).filter((f) => f.endsWith('.css')).sort() : [];
+
+function juntar(lista) {
+  return lista.map((f) => {
+    const css = rutasPropias(fs.readFileSync(path.join(dirComunes, f), 'utf8'));
+    antes += css.length;
+    return `/* ${f} */\n${voc ? limpiar(css, voc) : css}`;
+  }).join('\n');
+}
+
+const primeras = comunes.filter((f) => Number(f.slice(0, 2)) <= CORTE);
+const ultimas = comunes.filter((f) => Number(f.slice(0, 2)) > CORTE);
+
+for (const [nombre, lista] of [['comunes.css', primeras], ['comunes-final.css', ultimas]]) {
+  const texto = juntar(lista);
+  fs.writeFileSync(path.join(DESTINO, nombre), texto);
+  despues += texto.length;
+  console.log(`${nombre.padEnd(18)} ${String(lista.length).padStart(2)} hojas  ${Math.round(texto.length / 1024)} KB`);
+}
 
 const dirPaginas = path.join(ORIGEN, 'paginas');
 let n = 0;
 if (fs.existsSync(dirPaginas)) {
   for (const f of fs.readdirSync(dirPaginas)) {
     if (!f.endsWith('.css')) continue;
-    const css = fs.readFileSync(path.join(dirPaginas, f), 'utf8');
+    const css = rutasPropias(fs.readFileSync(path.join(dirPaginas, f), 'utf8'));
     antes += css.length;
-    const limpio = voc ? limpiar(css, voc) : css;
-    fs.writeFileSync(path.join(DESTINO, f), limpio);
-    despues += limpio.length;
+    const salida = voc ? limpiar(css, voc) : css;
+    fs.writeFileSync(path.join(DESTINO, f), salida);
+    despues += salida.length;
     n++;
   }
 }
-console.log(`hojas de pagina: ${n}`);
+console.log(`hojas de pagina:   ${n}`);
 console.log(`\ntotal: ${Math.round(antes / 1024)} KB -> ${Math.round(despues / 1024)} KB` +
   (antes ? ` (${Math.round((1 - despues / antes) * 100)} % menos)` : ''));

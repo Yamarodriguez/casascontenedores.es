@@ -540,7 +540,7 @@
        "alinearMovil": "left",
        "margen": "0px 87px 0px 0px",
        "margenMovil": "0px 0px 0px 0px",
-       "html": "<p>Antes de empezar con el <strong>proceso de construcción</strong> se necesita seguir un plan adecuado y entregar los <strong>permisos para la construcción de la casa contenedor</strong> correspondientes. Como la <strong>construcción es \"in situ\"</strong>, será considerado como bien inmueble, que requerirá una series de <strong>permisos</strong> explicados en:...</p><p>Es importante destacar que es <strong>obligatorio obtener la cedula de habitualidad</strong> y <strong>licencia de ocupación que corresponda que cada comunidad autónoma</strong>. Ademas de esto, siguen unas serie de estudios y documentación que requiere ser entrega para la realización del proyecto, así como la contratación del personal cualificado para la obra:</p><p>Estudios previos:</p><ul><li><strong>Estudio geotécnico</strong>: para conocer las características del terreno (situación de estabilidad y soporte) se hace un estudio de este.</li><li><strong>Estudio topográfico</strong>: estudio técnico de un terreno para observar las características físicas, geográficas y geológicas del terreno, pero también sus variaciones y alteraciones. Con ciertas herramientas se obtiene una representación gráfica o plano.</li><li><strong>Gestión de suministros.</strong></li><li><strong>Proyecto básico y de ejecución (llevado a cabo por le arquitecto contratado)</strong>.</li><li><strong>Dirección de obra</strong></li><li><strong>Coordinación en materia de seguridad y salud</strong></li><li><strong>Licencia de obras</strong></li><li><strong>Gestiones para acometidas de servicios municipales</strong>: (agua potable, saneamiento, electricidad y telecomunicaciones).</li><li><strong>Informe de OCT</strong>: son entidades independientes cualificadas para realizar un análisis y seguimiento de las fases de proyecto y ejecución durante la cual se lleva a cabo el proceso edificatorio.</li><li><strong>Seguro decenal</strong>: cobertura que garantiza, durante diez años, el resarcimiento de los daños materiales causados en el edificio por vicios o defectos que tengan su origen o afecten a los elementos estructurales.</li></ul>",
+       "html": "<p>Antes de empezar con el <strong>proceso de construcción</strong> se necesita seguir un plan adecuado y entregar los <strong>permisos para la construcción de la casa contenedor</strong> correspondientes. Como la <strong>construcción es «in situ»</strong>, será considerado como bien inmueble, que requerirá una series de <strong>permisos</strong> explicados en:...</p><p>Es importante destacar que es <strong>obligatorio obtener la cedula de habitualidad</strong> y <strong>licencia de ocupación que corresponda que cada comunidad autónoma</strong>. Ademas de esto, siguen unas serie de estudios y documentación que requiere ser entrega para la realización del proyecto, así como la contratación del personal cualificado para la obra:</p><p>Estudios previos:</p><ul><li><strong>Estudio geotécnico</strong>: para conocer las características del terreno (situación de estabilidad y soporte) se hace un estudio de este.</li><li><strong>Estudio topográfico</strong>: estudio técnico de un terreno para observar las características físicas, geográficas y geológicas del terreno, pero también sus variaciones y alteraciones. Con ciertas herramientas se obtiene una representación gráfica o plano.</li><li><strong>Gestión de suministros.</strong></li><li><strong>Proyecto básico y de ejecución (llevado a cabo por le arquitecto contratado)</strong>.</li><li><strong>Dirección de obra</strong></li><li><strong>Coordinación en materia de seguridad y salud</strong></li><li><strong>Licencia de obras</strong></li><li><strong>Gestiones para acometidas de servicios municipales</strong>: (agua potable, saneamiento, electricidad y telecomunicaciones).</li><li><strong>Informe de OCT</strong>: son entidades independientes cualificadas para realizar un análisis y seguimiento de las fases de proyecto y ejecución durante la cual se lleva a cabo el proceso edificatorio.</li><li><strong>Seguro decenal</strong>: cobertura que garantiza, durante diez años, el resarcimiento de los daños materiales causados en el edificio por vicios o defectos que tengan su origen o afecten a los elementos estructurales.</li></ul>",
        "color": "#373535",
        "tipo": {
         "familia": "Roboto",
@@ -564,6 +564,7 @@
     "velo": "#090909ED",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "67f6bb2",
@@ -1362,6 +1363,7 @@
     "velo": "#090909ED",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "4841385",
@@ -1524,7 +1526,7 @@
        "alinearMovil": "left",
        "margen": "0px 87px 0px 0px",
        "margenMovil": "0px 0px 0px 0px",
-       "html": "<p>La obra se lleva acabo de acuerdo con el <strong>proyecto de ejecución.</strong></p><p>Al finalizar la obra, se <strong>transporta desde la fabrica hasta el lugar de destino</strong>, para ser montada en el terreno ya trabajado, de acuerdo al tipo de suelo.</p><p>A este tipo de sistema se le conoce como <strong>casas contenedores \"llave en mano\".</strong></p>",
+       "html": "<p>La obra se lleva acabo de acuerdo con el <strong>proyecto de ejecución.</strong></p><p>Al finalizar la obra, se <strong>transporta desde la fabrica hasta el lugar de destino</strong>, para ser montada en el terreno ya trabajado, de acuerdo al tipo de suelo.</p><p>A este tipo de sistema se le conoce como <strong>casas contenedores «llave en mano».</strong></p>",
        "color": "#373535",
        "tipo": {
         "familia": "Roboto",
@@ -2060,6 +2062,7 @@
     "velo": "#141414",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "e79d7c1",
@@ -2668,6 +2671,7 @@
     "velo": "#353535",
     "veloOpacidad": 0.5
    },
+   "superposicion": true,
    "columnas": [
     {
      "id": "6d189b2",

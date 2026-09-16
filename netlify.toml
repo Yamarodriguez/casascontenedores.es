@@ -1,5 +1,8 @@
 [build]
-  command = "npm run build"
+  # Primero se preparan las hojas de estilo originales (junta css-original/ en
+  # public/css/) y despues se compila. Si se compilara sin ese paso, la web
+  # saldria sin los estilos del tema.
+  command = "npm run css && npm run build"
   publish = "dist"
 
 [build.environment]

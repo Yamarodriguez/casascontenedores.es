@@ -55,6 +55,11 @@ async function medir(base, ruta) {
 
   const datos = await pag.evaluate(() => {
     const salida = [];
+    // Se mide el CONTENIDO, no la pagina entera: la cabecera, el menu y el pie
+    // estan hechos a mano y se comparan aparte con capturas. Si se metieran
+    // aqui, sus diferencias taparian las del contenido, que es lo que importa.
+    // La banda de titulo y las migas viven fuera de <main> en la web nueva:
+    // salen como "elementos que faltan" y es esperado, no es un defecto.
     const raiz = document.querySelector('main, #main, #content') || document.body;
     const visto = new Set();
     for (const el of raiz.querySelectorAll('h1,h2,h3,h4,p,a,img,iframe,input,button,li')) {
@@ -94,7 +99,16 @@ const nueva = await medir('http://127.0.0.1:8080', rutaNueva);
 await navegador.close();
 
 const indice = new Map();
-for (const e of nueva.elementos) indice.set(e.etiqueta + '|' + e.texto, e);
+const porTexto = new Map();
+for (const e of nueva.elementos) {
+  indice.set(e.etiqueta + '|' + e.texto, e);
+  if (!porTexto.has(e.texto)) porTexto.set(e.texto, e);
+}
+
+// Diferencia acordada y documentada: en las 192 paginas que hoy no tienen
+// ningun <h1>, el primer encabezado sube de h2 (o h3) a h1. El texto y el
+// sitio son los mismos, solo cambia la etiqueta, asi que no es una falta.
+const ASCENSO = { H2: 'H1', H3: 'H1', H4: 'H1' };
 
 console.log(`\n=== ${cual} a ${ancho} px ===`);
 console.log(`alto de pagina:  original ${vieja.alto}  nueva ${nueva.alto}  (${nueva.alto - vieja.alto >= 0 ? '+' : ''}${nueva.alto - vieja.alto})`);
@@ -103,8 +117,14 @@ console.log(`elementos medidos: original ${vieja.elementos.length}, nueva ${nuev
 const faltan = [];
 const diferencias = [];
 
+const ascendidos = [];
+
 for (const a of vieja.elementos) {
-  const b = indice.get(a.etiqueta + '|' + a.texto);
+  let b = indice.get(a.etiqueta + '|' + a.texto);
+  if (!b && ASCENSO[a.etiqueta]) {
+    const sube = indice.get(ASCENSO[a.etiqueta] + '|' + a.texto);
+    if (sube) { ascendidos.push(a); continue; }   // h2 -> h1: previsto
+  }
   if (!b) { faltan.push(a); continue; }
   const d = [];
   if (Math.abs(a.x - b.x) > 12) d.push(`x ${a.x}→${b.x}`);
@@ -125,6 +145,10 @@ for (const a of vieja.elementos) {
     if (ali(a.alinear) !== ali(b.alinear)) d.push(`alineado ${a.alinear}→${b.alinear}`);
   }
   if (d.length) diferencias.push({ a, d });
+}
+
+if (ascendidos.length) {
+  console.log(`(${ascendidos.length} encabezado(s) ascendidos a H1 — previsto, no es una falta)\n`);
 }
 
 console.log(`--- ${faltan.length} elemento(s) del original que no aparecen en la nueva ---`);

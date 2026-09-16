@@ -12,3 +12,6 @@ dist/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Hojas de estilo generadas: las monta "npm run css" desde css-original/
+public/css/
