@@ -2,10 +2,17 @@
 import site from '../data/site.json';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import Cierre from '../components/Cierre.astro';
 import Migas from '../components/Migas.astro';
 import WhatsApp from '../components/WhatsApp.astro';
 import { aWebp, existe } from '../utils/imagenes.js';
+// El aspecto de la web. diseno.css pinta el contenido (lo que escribe
+// render.js) y rediseno.css la cabecera, la franja de cierre y el pie.
+// Las 26 hojas de Elementor ya NO se cargan: eran las que hacian que la web
+// siguiera viendose igual que la vieja.
 import '../styles/global.css';
+import '../styles/diseno.css';
+import '../styles/rediseno.css';
 
 const {
   ruta = '/',
@@ -20,6 +27,7 @@ const {
   huecoTitulo = false,
   menu = '',
   postId = 0,
+  localidad = '',
 } = Astro.props;
 
 // Hojas de estilo originales del sitio. Van en TRES tandas y en este orden,
@@ -113,9 +121,10 @@ if (faq.length) {
 
     {jsonld.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d)} />)}
 
-    {hayComunes && <link rel="stylesheet" href="/css/comunes.css" />}
-    {hojaPagina && <link rel="stylesheet" href={hojaPagina} />}
-    {hayComunesFinal && <link rel="stylesheet" href="/css/comunes-final.css" />}
+    {/* Solo las tipografias y los iconos. Las hojas de Elementor (el tema,
+        el kit y una por pagina) ya no se cargan: el diseño lo pone ahora
+        src/styles/diseno.css. */}
+    <link rel="stylesheet" href="/css/comunes-final.css" />
 
     {site.analitica.ga4 && (
       <>
@@ -140,9 +149,7 @@ if (faq.length) {
     )}
   </head>
 
-  <!-- Las clases del <body> son las que espera el CSS del tema: sin ellas,
-       reglas como .boxed-layout #wrap .container no llegan a aplicar. -->
-  <body class={`page wp-custom-logo boxed-layout wrap-boxshadow content-full-width default-breakpoint has-topbar elementor-kit-13 ${postId ? `elementor-page elementor-page-${postId}` : ''}`}>
+  <body>
     <div id="wrap">
       <Header ruta={ruta} menu={menu} />
 
@@ -155,28 +162,16 @@ if (faq.length) {
         </div>
       )}
 
-      {/* Franja vacia que ocupa el sitio que tenia la banda del tema en la web
-          en vivo (45 px). No lleva texto a proposito: el de la web original
-          estaba en blanco sobre gris claro y no se leia. El hueco se conserva
-          porque la primera seccion de estas paginas sube con margen negativo
-          contando con el. */}
-      {huecoTitulo && <div class="hueco-titulo" aria-hidden="true"></div>}
 
-      <!-- Mismo envoltorio que usaba el tema: sus hojas de estilo originales
-           son las que fijan el ancho de la caja y los 30 px de margen. -->
-      <main id="main" class="site-main clr">
-        <div id="content-wrap" class="container clr">
-          <div id="primary" class="content-area clr">
-            <div id="content" class="site-content clr">
-              <article class="single-page-article clr">
-                <div class="entry clr entrada">
-                  <slot />
-                </div>
-              </article>
-            </div>
-          </div>
+
+      <main id="main">
+        <div class="entrada">
+          <slot />
         </div>
       </main>
+
+      <!-- Franja de cierre: contenido NUEVO, despues de todo lo original. -->
+      <Cierre titulo={titulo} localidad={localidad} ruta={ruta} />
 
       <Footer />
     </div>

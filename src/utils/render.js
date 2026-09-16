@@ -1,14 +1,24 @@
 /**
  * render.js — Pinta el arbol de maquetacion (`bloques`) de cada pagina.
  *
- * Escribe EL MISMO MARCADO que escribia Elementor: las mismas etiquetas, las
- * mismas clases y los mismos identificadores de elemento. Asi las hojas de
- * estilo originales del sitio (una por pagina, en `css-original/`) encajan
- * encima sin tocar nada y el diseno no es una reconstruccion: es el suyo.
+ * QUE CAMBIO Y POR QUE
+ * Hasta ahora este modulo escribia EL MISMO marcado que Elementor, para que
+ * las 26 hojas de estilo originales encajaran encima. Eso daba una copia
+ * fiel... y por eso la web seguia viendose exactamente igual que la vieja por
+ * mucho que se le pusiera una capa de estilo encima: el aspecto lo mandaban
+ * esas hojas, no nosotros.
  *
- * Por eso aqui NO se genera CSS. Lo unico que decide este modulo es la
- * estructura del HTML. Cualquier valor visual (tamanos, colores, margenes,
- * anchos) sale de las hojas originales.
+ * Ahora pinta marcado PROPIO y limpio, y el aspecto lo pone src/styles/
+ * diseno.css. Del arbol se sacan los datos que antes vivian en el CSS de
+ * Elementor —fondos, velos, colores de texto, alineacion, relleno— y se
+ * escriben en el elemento como variables CSS. Asi las franjas oscuras siguen
+ * siendo oscuras y el texto blanco sigue siendo blanco, sin cargar 900 KB de
+ * hojas ajenas.
+ *
+ * LO QUE NO CAMBIA, Y ES LA REGLA DE ORO
+ * El CONTENIDO no se toca. Cada encabezado conserva su nivel (h1/h2/h3) y su
+ * texto exacto, cada parrafo su HTML, cada enlace su destino, y todo en el
+ * mismo orden. Lo que cambia es la caja en la que va, nunca lo que dice.
  *
  * Anadir un tipo de bloque nuevo = anadir una funcion a PINTORES.
  */
@@ -32,20 +42,52 @@ function textoConLinea(t) {
     .join('');
 }
 
-/** La clase elementor-col-N que usa Elementor para el ancho de estructura. */
-function claseColumna(c) {
-  const n = c.anchoBase ?? (c.ancho != null ? Math.round(c.ancho) : 100);
-  return `elementor-col-${n}`;
+/* ------------------------------------------------------- estilo desde datos */
+
+/** Junta pares "prop:valor" saltandose los vacios. Devuelve ' style="..."'. */
+function estilo(pares) {
+  const txt = pares.filter(Boolean).join(';');
+  return txt ? ` style="${escapar(txt)}"` : '';
 }
 
-/** La clase de separacion entre columnas de una seccion. */
-function claseHueco(s) {
-  return `elementor-column-gap-${s.hueco || 'default'}`;
+/**
+ * Fondo de una seccion o columna, sacado del arbol.
+ *
+ * El "velo" es la capa de color que Elementor pone POR ENCIMA de la foto para
+ * que el texto blanco se lea. Aqui se pinta con un pseudoelemento desde el
+ * CSS, y lo unico que viaja en el HTML son las dos variables que necesita.
+ */
+function fondoDe(b) {
+  const f = b.fondo;
+  if (!f) return { pares: [], clases: [] };
+  const pares = [];
+  const clases = [];
+  if (f.color) pares.push(`--bl-color:${f.color}`);
+  if (f.imagen) {
+    pares.push(`--bl-foto:url('${f.imagen}')`);
+    clases.push('con-foto');
+    if (f.posicion) pares.push(`--bl-pos:${f.posicion}`);
+    if (f.tamano) pares.push(`--bl-tam:${f.tamano}`);
+    if (f.repetir) pares.push(`--bl-rep:${f.repetir}`);
+    if (f.fijado === 'fixed') clases.push('foto-fija');
+  }
+  if (f.velo) {
+    pares.push(`--bl-velo:${f.velo}`);
+    pares.push(`--bl-velo-op:${f.veloOpacidad ?? 0.5}`);
+    clases.push('con-velo');
+    // Red de seguridad: si el bloque lleva velo pero no color propio, se le
+    // pone el color del velo DEBAJO de la foto. Asi, si la foto no carga (o
+    // tarda), la franja sigue siendo oscura y el texto blanco se lee igual.
+    // Sin esto, una foto que falla deja letra blanca sobre blanco.
+    if (!f.color) pares.push(`--bl-color:${f.velo}`);
+  }
+  if (f.color || f.imagen || f.velo) clases.push('con-fondo');
+  return { pares, clases };
 }
 
 /* ------------------------------------------------------------- los pintores
-   Cada uno devuelve SOLO lo que va dentro de .elementor-widget-container.
-   `extra` son clases adicionales para el <div> del widget. */
+   Cada uno devuelve SOLO lo que va dentro del bloque.
+   `clases` son clases adicionales para el <div> que lo envuelve. */
 
 const PINTORES = {
   encabezado(b) {
@@ -53,9 +95,9 @@ const PINTORES = {
     const dentro = b.url
       ? `<a href="${escapar(b.url)}">${textoConLinea(b.texto)}</a>`
       : textoConLinea(b.texto);
-    return {
-      html: `<${etiqueta} class="elementor-heading-title elementor-size-default">${dentro}</${etiqueta}>`,
-    };
+    // El color del titular viene del arbol: en las franjas oscuras es blanco.
+    const s = estilo([b.color ? `color:${b.color}` : '']);
+    return { html: `<${etiqueta} class="tit"${s}>${dentro}</${etiqueta}>` };
   },
 
   texto(b, ctx) {
@@ -66,40 +108,32 @@ const PINTORES = {
     const img = ctx.imagenes(
       `<img src="${escapar(b.src)}" alt="${escapar(b.alt)}" loading="lazy" decoding="async">`);
     const cuerpo = b.url ? `<a href="${escapar(b.url)}">${img}</a>` : img;
-    const pie = b.pie
-      ? `<figcaption class="widget-image-caption wp-caption-text">${escapar(b.pie)}</figcaption>`
-      : '';
-    return { html: pie ? `<figure class="wp-caption">${cuerpo}${pie}</figure>` : cuerpo };
+    const pie = b.pie ? `<figcaption class="pie-foto">${escapar(b.pie)}</figcaption>` : '';
+    return { html: pie ? `<figure class="foto">${cuerpo}${pie}</figure>` : cuerpo };
   },
 
   boton(b) {
     const externo = /^https?:\/\//.test(b.url) && !b.url.includes('casascontenedores.es');
     const extra = externo ? ' rel="noopener" target="_blank"' : '';
     return {
-      clases: b.alinear ? [`elementor-align-${b.alinear}`] : [],
-      html: '<div class="elementor-button-wrapper">' +
-        `<a class="elementor-button elementor-button-link elementor-size-sm" href="${escapar(b.url || '#')}"${extra}>` +
-        '<span class="elementor-button-content-wrapper">' +
-        `<span class="elementor-button-text">${textoConLinea(b.texto)}</span>` +
-        '</span></a></div>',
+      clases: b.alinear ? [`al-${b.alinear}`] : [],
+      html: `<a class="boton" href="${escapar(b.url || '#')}"${extra}>${textoConLinea(b.texto)}</a>`,
     };
   },
 
-  separador(b) {
-    return {
-      clases: ['elementor-widget-divider--view-line'],
-      html: '<div class="elementor-divider"><span class="elementor-divider-separator"></span></div>',
-    };
+  separador() {
+    return { clases: ['es-separador'], html: '<hr class="filete">' };
   },
 
-  espaciador() {
-    return { html: '<div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div>' };
+  espaciador(b) {
+    const alto = Number(b.alto);
+    return { html: `<div class="hueco"${estilo([alto ? `height:${alto}px` : ''])}></div>` };
   },
 
   mapa(b) {
     const q = encodeURIComponent(b.direccion || '');
     return {
-      html: '<div class="elementor-custom-embed">' +
+      html: '<div class="mapa">' +
         `<iframe loading="lazy" title="${escapar(b.direccion)}" aria-label="${escapar(b.direccion)}"` +
         ` src="https://maps.google.com/maps?q=${q}&amp;t=m&amp;z=${b.zoom || 10}&amp;output=embed&amp;iwloc=near"` +
         ' referrerpolicy="no-referrer-when-downgrade"></iframe></div>',
@@ -116,43 +150,27 @@ const PINTORES = {
     const yt = b.url.match(/(?:youtu\.be\/|v=)([\w-]{6,})/);
     if (yt) {
       return {
-        html: '<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-aspect-ratio-169">' +
-          `<iframe class="elementor-video" loading="lazy" title="Vídeo"` +
+        html: '<div class="video">' +
+          '<iframe loading="lazy" title="Vídeo"' +
           ` src="https://www.youtube-nocookie.com/embed/${yt[1]}" allowfullscreen></iframe></div>`,
       };
     }
     return {
-      html: '<div class="elementor-wrapper elementor-fit-aspect-ratio">' +
-        `<video class="elementor-video" controls preload="none" src="${escapar(b.url)}"></video></div>`,
+      html: `<div class="video"><video controls preload="none" src="${escapar(b.url)}"></video></div>`,
     };
   },
 
   galeria(b, ctx) {
     const fotos = b.imagenes
-      .map((u) => '<div class="gallery-item">' +
-        ctx.imagenes(`<img src="${escapar(u)}" alt="" loading="lazy" decoding="async">`) + '</div>')
+      .map((u) => '<figure>' +
+        ctx.imagenes(`<img src="${escapar(u)}" alt="" loading="lazy" decoding="async">`) + '</figure>')
       .join('');
-    return { html: `<div class="gallery galley-columns-${b.columnas || 4}">${fotos}</div>` };
+    return { html: `<div class="galeria" data-cols="${b.columnas || 4}">${fotos}</div>` };
   },
 
   ancla(b) {
-    return { html: `<div class="elementor-menu-anchor" id="${escapar(b.ancla)}"></div>` };
+    return { html: `<div class="ancla" id="${escapar(b.ancla)}"></div>` };
   },
-};
-
-/* Nombre del widget en las clases de Elementor. */
-const NOMBRE = {
-  encabezado: 'heading',
-  texto: 'text-editor',
-  imagen: 'image',
-  boton: 'button',
-  separador: 'divider',
-  espaciador: 'spacer',
-  mapa: 'google_maps',
-  formulario: 'eael-contact-form-7',
-  video: 'video',
-  galeria: 'image-gallery',
-  ancla: 'menu-anchor',
 };
 
 /* ------------------------------------------------------------- el recorrido */
@@ -163,56 +181,97 @@ function pintarElemento(b, ctx, nivel) {
   if (!pintor) return '';
   const { html, clases = [] } = pintor(b, ctx);
   if (html === '') return '';
-  const tipo = NOMBRE[b.t] || b.t;
-  const todas = ['elementor-element', `elementor-element-${b.id}`, ...clases,
-    'elementor-widget', `elementor-widget-${tipo}`].join(' ');
-  return `<div class="${todas}" data-id="${b.id}" data-element_type="widget" data-widget_type="${tipo}.default">` +
-    `<div class="elementor-widget-container">${html}</div></div>`;
+
+  // Alineacion, color, fondo, borde y relleno: del arbol, no de una hoja ajena.
+  const pares = [];
+  if (b.alinear) pares.push(`text-align:${b.alinear}`);
+  if (b.t === 'texto' && b.color) pares.push(`color:${b.color}`);
+  if (b.relleno) pares.push(`padding:${b.relleno}`);
+  if (b.margen) pares.push(`margin:${b.margen}`);
+
+  // El fondo del propio widget: es lo que convierte en tarjeta gris los
+  // bloques de la portada. Sin esto sus titulos blancos quedan sobre blanco.
+  const extras = [];
+  if (b.fondo?.color) { pares.push(`background-color:${b.fondo.color}`); extras.push('con-fondo'); }
+  if (b.fondo?.imagen) {
+    pares.push(`background-image:url('${b.fondo.imagen}')`);
+    pares.push('background-size:cover', 'background-position:center');
+    extras.push('con-fondo');
+  }
+  if (b.borde) {
+    if (b.borde.tipo && b.borde.tipo !== 'none') pares.push(`border-style:${b.borde.tipo}`);
+    if (b.borde.ancho) pares.push(`border-width:${b.borde.ancho}`);
+    if (b.borde.color) pares.push(`border-color:${b.borde.color}`);
+    if (b.borde.radio) pares.push(`border-radius:${b.borde.radio}`);
+  }
+
+  const todas = ['b', `b--${b.t}`, ...clases, ...extras].join(' ');
+  return `<div class="${todas}"${estilo(pares)}>${html}</div>`;
+}
+
+function pintarColumna(c, ctx, nivel) {
+  const { pares, clases } = fondoDe(c);
+  // El ancho que el usuario dio a la columna. La rejilla lo usa como base;
+  // en movil todas pasan a una sola columna (lo hace el CSS).
+  const ancho = c.ancho ?? c.anchoBase ?? 100;
+  pares.push(`--col:${Number(ancho).toFixed(3)}`);
+  if (c.relleno) pares.push(`--col-relleno:${c.relleno}`);
+  if (c.alinearVertical) pares.push(`justify-content:${c.alinearVertical === 'middle' ? 'center' : c.alinearVertical}`);
+
+  const dentro = (c.elementos || []).map((e) => pintarElemento(e, ctx, nivel + 1)).join('');
+  return `<div class="${['col', ...clases].join(' ')}"${estilo(pares)}>${dentro}</div>`;
 }
 
 /**
- * El "velo" de Elementor: un div vacio al principio del bloque, al que la hoja
- * de la pagina le cuelga el color o la foto que va POR ENCIMA del fondo.
- * Sin ese div la regla no tiene a que aplicarse y el velo desaparece; en las
- * secciones de letra blanca sobre foto oscura eso dejaba el texto ilegible.
+ * Margen de una seccion, con el margen superior NEGATIVO anulado en las
+ * secciones de primer nivel.
+ *
+ * Por que: varias paginas traian `margin-top:-84px` en su primera seccion. Ese
+ * numero lo puso el autor para que la foto principal se comiera la franja gris
+ * del tema de WordPress. Esa franja ya no existe, asi que el margen negativo
+ * ya no compensa nada: sube la foto y la mete DEBAJO de la barra del menu.
  */
-const velo = (b) => (b.superposicion ? '<div class="elementor-background-overlay"></div>' : '');
-
-function pintarColumna(c, ctx, nivel) {
-  const clases = ['elementor-column', claseColumna(c),
-    nivel === 0 ? 'elementor-top-column' : 'elementor-inner-column',
-    'elementor-element', `elementor-element-${c.id || 'c' + ctx.n++}`].join(' ');
-  const dentro = (c.elementos || []).map((e) => pintarElemento(e, ctx, nivel + 1)).join('');
-  // en la columna el velo va DENTRO de .elementor-widget-wrap, no fuera
-  return `<div class="${clases}" data-element_type="column">` +
-    `<div class="elementor-widget-wrap elementor-element-populated">${velo(c)}${dentro}</div></div>`;
+function margenDe(s, nivel) {
+  if (!s.margen) return '';
+  if (nivel !== 0) return `margin:${s.margen}`;
+  const lados = String(s.margen).trim().split(/\s+/);
+  if (lados.length && parseFloat(lados[0]) < 0) lados[0] = '0px';
+  return `margin:${lados.join(' ')}`;
 }
 
 function pintarSeccion(s, ctx, nivel) {
-  const clases = ['elementor-section',
-    nivel === 0 ? 'elementor-top-section' : 'elementor-inner-section',
-    'elementor-element', `elementor-element-${s.id}`,
-    s.estirada ? 'elementor-section-stretched' : '',
-    `elementor-section-${s.disposicion || 'boxed'}`,
-    'elementor-section-height-default'].filter(Boolean).join(' ');
-  const columnas = (s.columnas || []).map((c) => pintarColumna(c, ctx, nivel)).join('');
+  const { pares, clases } = fondoDe(s);
+  if (s.relleno) pares.push(`--bl-relleno:${s.relleno}`);
+  const m = margenDe(s, nivel);
+  if (m) pares.push(m);
+  if (s.altoMinimo) pares.push(`min-height:${s.altoMinimo}px`);
+
+  const hueco = s.hueco || 'default';
+  const cols = s.columnas || [];
+  const columnas = cols.map((c) => pintarColumna(c, ctx, nivel)).join('');
   const ancla = s.ancla ? ` id="${escapar(s.ancla)}"` : '';
-  // en la seccion el velo va justo dentro de <section>, antes del contenedor
-  return `<section class="${clases}"${ancla} data-id="${s.id}" data-element_type="section">` +
-    `${velo(s)}<div class="elementor-container ${claseHueco(s)}">${columnas}</div></section>`;
+
+  const todas = ['bloque',
+    nivel === 0 ? 'bloque--raiz' : 'bloque--dentro',
+    (s.disposicion || 'boxed') === 'full_width' ? 'bloque--ancho' : '',
+    ...clases].filter(Boolean).join(' ');
+
+  return `<section class="${todas}"${ancla}${estilo(pares)}>` +
+    // El numero de columnas viaja al CSS: sin el, no se puede descontar el
+    // hueco del ancho de cada una y una fila de cuatro al 25 % se parte.
+    `<div class="bloque-in"><div class="fila fila--${hueco}" style="--n:${cols.length || 1}">` +
+    `${columnas}</div></div></section>`;
 }
 
 /**
- * Pinta el arbol entero con el marcado de Elementor.
+ * Pinta el arbol entero.
  * @param {Array} bloques   arbol de la pagina
  * @param {Object} opciones { imagenes, postId }
  * @returns {{html: string, formularios: string[]}}
  */
-export function pintar(bloques, { imagenes = (h) => h, postId = 0 } = {}) {
+export function pintar(bloques, { imagenes = (h) => h } = {}) {
   const ctx = { n: 0, imagenes, formularios: [] };
-  const dentro = (bloques || []).map((s) => pintarElemento(s, ctx, 0)).join('\n');
-  const html = `<div class="elementor elementor-${postId}">` +
-    `<div class="elementor-inner"><div class="elementor-section-wrap">${dentro}</div></div></div>`;
+  const html = (bloques || []).map((s) => pintarElemento(s, ctx, 0)).join('\n');
   return { html, formularios: ctx.formularios };
 }
 
@@ -226,20 +285,17 @@ export function pintar(bloques, { imagenes = (h) => h, postId = 0 } = {}) {
  */
 export function asegurarH1(bloques, banda, titulo) {
   let primero = null;
-  const recorrer = (lista) => {
+  const buscar = (lista) => {
     for (const b of lista || []) {
-      if (b.t === 'seccion') { for (const c of b.columnas || []) recorrer(c.elementos); }
-      else if (b.t === 'encabezado') {
-        if (!primero) primero = b;
-        if (b.etiqueta === 'h1') b.etiqueta = 'h2';   // primero se bajan todos
-      }
+      if (primero) return;
+      if (b.t === 'encabezado') { primero = b; return; }
+      if (b.t === 'seccion') for (const c of b.columnas || []) buscar(c.elementos);
     }
   };
-  recorrer(bloques);
+  buscar(bloques);
 
-  if (banda || !primero) return titulo;
+  if (banda) return titulo;
+  if (!primero) return titulo;
   primero.etiqueta = 'h1';
-  return primero.texto;
+  return String(primero.texto || titulo).replace(/<[^>]+>/g, '').trim() || titulo;
 }
-
-export default { pintar, asegurarH1 };

@@ -36,6 +36,11 @@ const FAMILIAS = [
   ['Abel', 'abel', [400]],
   ['Satisfy', 'satisfy', [400]],
   ['Ubuntu', 'ubuntu', [300, 400, 500, 700]],
+  // Tipografias del rediseño (rama "rediseno"): Archivo para los titulares,
+  // IBM Plex Sans para el texto e IBM Plex Mono para datos y etiquetas.
+  ['Archivo', 'archivo', [500, 600, 700]],
+  ['IBM Plex Sans', 'ibm-plex-sans', [400, 500, 600]],
+  ['IBM Plex Mono', 'ibm-plex-mono', [500, 600]],
 ];
 
 // Solo alfabeto latino: es lo unico que usa esta web.

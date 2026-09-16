@@ -40,6 +40,12 @@ const activo = (url) => url === ruta;
           ? <img src={aWebp(LOGO)} alt={site.nombre} width="810" height="450" />
           : <span class="marca">Casas Contenedores</span>}
       </a>
+      {/* Llamada a la accion en la cabecera. Es un enlace nuevo, no toca
+          ningun texto ni encabezado del contenido. */}
+      <div class="cabecera-acciones">
+        <a class="cabecera-correo" href={`mailto:${site.email}`}>{site.email}</a>
+        <a class="cabecera-boton" href={`https://wa.me/${site.whatsapp}`} rel="nofollow">Pedir presupuesto</a>
+      </div>
       <button class="boton-menu" type="button" aria-expanded="false" aria-controls="menu-movil" data-menu>
         Menú
       </button>

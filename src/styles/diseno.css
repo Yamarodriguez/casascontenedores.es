@@ -1,0 +1,374 @@
+/* =========================================================================
+   diseno.css — el aspecto de la web. Ahora manda esta hoja, no Elementor.
+
+   Es el mismo lenguaje visual de la maqueta: ACERO.
+   Los colores salen del material del que está hecha la casa. Neutros grises
+   con un punto de frío, como la chapa del contenedor; el verde del logo, más
+   profundo, reservado SOLO para los botones de acción; y el óxido corten para
+   antetítulos y datos. Archivo en los titulares, IBM Plex Sans en el texto,
+   IBM Plex Mono en cifras y etiquetas.
+
+   El marcado que estiliza lo escribe src/utils/render.js:
+     section.bloque > .bloque-in > .fila > .col > .b
+   Los fondos, velos y colores de texto vienen del árbol de cada página como
+   variables CSS en el propio elemento (--bl-color, --bl-foto, --bl-velo…),
+   porque ahí es donde estaban en el CSS de Elementor que ya no cargamos.
+   ========================================================================= */
+
+:root {
+  --ink:        #12171b;
+  --texto:      #2f383f;
+  --suave:      #5c666d;
+  --tenue:      #8b959b;
+  --linea:      #dde3e6;
+  --linea-2:    #eef2f4;
+  --fondo:      #f2f5f6;
+  --papel:      #ffffff;
+  --papel-2:    #f8fafb;
+
+  --verde:      #0e7a3c;
+  --verde-osc:  #0a5c2d;
+  --verde-claro:#e8f3ec;
+  --corten:     #a8562f;
+
+  --titular: 'Archivo', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --cuerpo:  'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --mono:    'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Consolas, monospace;
+
+  --radio: 4px;
+  --sombra: 0 1px 2px rgba(18,23,27,.06), 0 10px 28px -14px rgba(18,23,27,.22);
+  --sombra-2: 0 2px 6px rgba(18,23,27,.08), 0 20px 44px -20px rgba(18,23,27,.3);
+  --caja: 1180px;
+  --margen: 22px;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+/* El contenido de algunas páginas trae un <style> escrito a mano con una regla
+   `body { padding: 60px 20px; background:#f0f4f8 }`. Es un copiar-pegar del
+   autor original que se cuela en TODA la web. Se neutraliza aquí, que es lo
+   único que puede ganarle sin tocar el contenido. */
+html body {
+  margin: 0 !important;
+  padding: 0 !important;
+  background: var(--fondo) !important;
+  color: var(--texto);
+  font-family: var(--cuerpo) !important;
+  font-size: 17px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img, video, iframe { max-width: 100%; }
+img { display: block; height: auto; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--titular);
+  color: var(--ink);
+  line-height: 1.15;
+  letter-spacing: -.024em;
+  margin: 0;
+  text-wrap: balance;
+}
+h1 { font-size: clamp(31px, 20px + 1.7vw, 46px); font-weight: 700; letter-spacing: -.034em; }
+h2 { font-size: clamp(26px, 19px + 1.1vw, 36px); font-weight: 700; letter-spacing: -.028em; }
+h3 { font-size: clamp(19px, 17px + .35vw, 22px); font-weight: 600; letter-spacing: -.016em; }
+h4 { font-size: 18px; font-weight: 600; }
+p  { margin: 0; }
+
+a { color: var(--verde-osc); }
+
+:where(a, button, summary, input, select, textarea):focus-visible {
+  outline: 2px solid var(--verde);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+::selection { background: var(--verde-claro); color: var(--verde-osc); }
+
+/* =========================================================================
+   ESTRUCTURA: bloque > fila > columna
+   ========================================================================= */
+
+#wrap { background: var(--papel); overflow-x: hidden; }
+#main { display: block; }
+.entrada > * + * { margin-top: 0; }
+
+.bloque {
+  position: relative;
+  background-color: var(--bl-color, transparent);
+  padding: var(--bl-relleno, clamp(40px, 5vw, 72px) 0);
+}
+/* Un bloque sin relleno propio y sin fondo no necesita aire extra: se lo da
+   la rejilla. Sin esto la página se llena de huecos de 72 px. */
+.bloque:not(.con-fondo) { padding: var(--bl-relleno, 0); }
+.bloque.con-fondo { padding: var(--bl-relleno, clamp(40px, 5vw, 72px) 0); }
+
+/* La foto de fondo y el velo van en capas, para que el velo quede ENTRE la
+   foto y el texto y no lo tape. */
+.bloque.con-foto {
+  background-image: var(--bl-foto);
+  background-position: var(--bl-pos, center center);
+  background-size: var(--bl-tam, cover);
+  background-repeat: var(--bl-rep, no-repeat);
+}
+.bloque.foto-fija { background-attachment: fixed; }
+.bloque.con-velo::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--bl-velo);
+  opacity: var(--bl-velo-op, .5);
+  pointer-events: none;
+}
+.bloque > .bloque-in { position: relative; z-index: 1; }
+
+.bloque-in {
+  max-width: var(--caja);
+  margin-inline: auto;
+  padding-inline: var(--margen);
+}
+.bloque--ancho > .bloque-in { max-width: none; padding-inline: 0; }
+.bloque--dentro { padding-block: 0; }
+.bloque--dentro > .bloque-in { max-width: none; padding-inline: 0; }
+
+/* El hueco entre columnas hay que DESCONTARLO del ancho de cada una, si no
+   una fila de cuatro al 25 % suma mas del 100 % y la cuarta se cae a la linea
+   de abajo. Por eso el renderizador manda --n (cuantas columnas hay). */
+.fila {
+  display: flex;
+  flex-wrap: wrap;
+  --gap: clamp(20px, 2.4vw, 34px);
+  --hueco: calc(var(--gap) * (var(--n, 1) - 1) / var(--n, 1));
+  gap: var(--gap);
+  align-items: flex-start;
+}
+.fila--no     { --gap: 0px; }
+.fila--narrow { --gap: 12px; }
+.fila--wide   { --gap: 40px; }
+.fila--wider  { --gap: 56px; }
+
+.col {
+  flex: 0 1 calc(var(--col, 100) * 1% - var(--hueco, 0px));
+  min-width: 0;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding: var(--col-relleno, 0);
+  background-color: var(--bl-color, transparent);
+  position: relative;
+}
+.col.con-foto {
+  background-image: var(--bl-foto);
+  background-position: var(--bl-pos, center center);
+  background-size: var(--bl-tam, cover);
+  background-repeat: var(--bl-rep, no-repeat);
+}
+.col.con-velo::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--bl-velo);
+  opacity: var(--bl-velo-op, .5);
+  pointer-events: none;
+}
+.col.con-velo > * { position: relative; z-index: 1; }
+/* Una columna con fondo propio es una tarjeta: se le da aire y esquina. */
+.col.con-fondo { padding: var(--col-relleno, 26px); border-radius: var(--radio); }
+
+@media (max-width: 860px) {
+  .col { flex-basis: 100%; }
+}
+
+/* =========================================================================
+   BLOQUES DE CONTENIDO
+   ========================================================================= */
+
+.b { min-width: 0; }
+.b--texto { font-size: 17px; line-height: 1.72; }
+.b--texto p + p { margin-top: 1.05em; }
+.b--texto strong, .b--texto b { font-weight: 600; }
+.b--texto ul, .b--texto ol { margin: .6em 0; padding-left: 1.2em; }
+.b--texto li { margin-bottom: .45em; }
+.b--texto li::marker { color: var(--verde); }
+.b--texto a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  transition: text-decoration-color .18s ease;
+}
+.b--texto a:hover { text-decoration-color: currentColor; }
+.b--texto img { border-radius: var(--radio); margin-block: .8em; }
+.b--texto h1, .b--texto h2, .b--texto h3, .b--texto h4 { margin: 1.1em 0 .5em; }
+.b--texto h1:first-child, .b--texto h2:first-child, .b--texto h3:first-child { margin-top: 0; }
+
+/* Filete corto bajo cada H2, como en la maqueta. Marca el inicio de sección
+   sin añadir ningún elemento al HTML. */
+.b--encabezado h2.tit::after {
+  content: "";
+  display: block;
+  width: 46px;
+  height: 3px;
+  margin-top: 15px;
+  background: var(--verde);
+  border-radius: 2px;
+}
+/* Sobre fondo oscuro el filete verde ensucia: ahí va blanco y más fino. */
+.con-velo .b--encabezado h2.tit::after,
+.con-foto .b--encabezado h2.tit::after {
+  background: rgba(255,255,255,.55);
+  height: 2px;
+}
+/* Si el titular va centrado (o a la derecha), el filete lo acompaña. */
+.b--encabezado[style*="center"] h2.tit::after { margin-inline: auto; }
+.b--encabezado[style*="right"]  h2.tit::after { margin-inline: auto 0; }
+
+.tit a { color: inherit; text-decoration: none; }
+.tit a:hover { color: var(--verde); }
+
+/* Botones */
+.boton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--titular);
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: -.005em;
+  text-decoration: none;
+  background: var(--verde);
+  color: #fff;
+  padding: 13px 24px;
+  border-radius: var(--radio);
+  transition: background-color .18s ease, transform .18s ease, box-shadow .18s ease;
+}
+.boton:hover {
+  background: var(--verde-osc);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px -8px rgba(14,122,60,.7);
+}
+.b--boton.al-center { text-align: center; }
+.b--boton.al-right  { text-align: right; }
+
+/* Separador, hueco, ancla */
+.filete { border: 0; border-top: 1px solid var(--linea); margin: 0; }
+.con-velo .filete, .con-foto .filete { border-top-color: rgba(255,255,255,.28); }
+.es-separador { padding-block: 4px; }
+.hueco { height: 24px; }
+.ancla { position: relative; top: -80px; }
+
+/* Fotos
+   Van al ancho completo de su caja, alineadas con el menu, el heroe y el
+   resto del contenido. Es lo mismo que hace hoy casascontenedores.es.
+
+   El coste: la foto principal de la portada mide 820 px de verdad y la caja
+   1.136, asi que se agranda un 38 % y pierde algo de nitidez. Se acepta a
+   proposito, porque una foto centrada a 820 px dentro de una caja de 1.136
+   deja un margen distinto al de todo lo demas y la pagina se ve descuadrada.
+   Si algun dia aparece el original en grande, se sustituye el fichero y esto
+   deja de ser un apaño: la regla ya es la correcta. */
+.b--imagen img {
+  border-radius: var(--radio);
+  width: 100%;
+  max-width: 100%;
+  margin-inline: auto;
+}
+.foto { margin: 0; }
+.pie-foto {
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: .03em;
+  color: var(--tenue);
+  margin-top: 8px;
+}
+
+/* Mapa y vídeo */
+.mapa iframe, .video iframe, .video video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: var(--radio);
+  display: block;
+}
+.mapa iframe { aspect-ratio: 4 / 3; }
+
+/* Galería */
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 14px;
+}
+.galeria figure { margin: 0; }
+.galeria img { border-radius: var(--radio); aspect-ratio: 4 / 3; object-fit: cover; width: 100%; }
+
+/* Tablas */
+.b--texto table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 15px;
+  font-variant-numeric: tabular-nums;
+  background: var(--papel);
+  border: 1px solid var(--linea);
+  border-radius: var(--radio);
+  overflow: hidden;
+}
+.b--texto th {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .11em;
+  text-transform: uppercase;
+  color: var(--suave);
+  background: var(--papel-2);
+  text-align: left;
+  padding: 13px 16px;
+  border-bottom: 1px solid var(--linea);
+}
+.b--texto td { padding: 13px 16px; border-bottom: 1px solid var(--linea-2); }
+.b--texto tr:last-child td { border-bottom: 0; }
+
+/* Acordeón de preguntas (viene escrito a mano en el contenido) */
+.b--texto details { border-bottom: 1px solid var(--linea); }
+.b--texto summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 18px 42px 18px 0;
+  position: relative;
+  font-family: var(--titular);
+  font-weight: 600;
+  font-size: 17px;
+  color: var(--ink);
+  letter-spacing: -.014em;
+}
+.b--texto summary::-webkit-details-marker { display: none; }
+.b--texto summary::after {
+  content: "";
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  width: 10px;
+  height: 10px;
+  border-right: 2px solid var(--suave);
+  border-bottom: 2px solid var(--suave);
+  transform: translateY(-70%) rotate(45deg);
+  transition: transform .2s ease;
+}
+.b--texto details[open] summary::after { transform: translateY(-30%) rotate(-135deg); }
+
+/* Texto corrido: las cuatro páginas legales, que no tienen árbol */
+.texto-corrido {
+  max-width: 76ch;
+  margin-inline: auto;
+  padding: clamp(36px, 5vw, 64px) var(--margen);
+}
+.texto-corrido h2 { margin: 1.6em 0 .5em; }
+.texto-corrido h3 { margin: 1.3em 0 .4em; }
+.texto-corrido p + p { margin-top: 1em; }
+
+/* Un bloque con fondo propio es una tarjeta: se le da aire y esquina, salvo
+   que el original ya le pusiera su propio relleno. */
+.b.con-fondo { padding: 20px 22px; border-radius: var(--radio); }
+.b.con-fondo[style*="padding"] { border-radius: var(--radio); }

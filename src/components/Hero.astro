@@ -1,0 +1,76 @@
+---
+/**
+ * Hero.astro — la franja de entrada de cada página, como en la maqueta.
+ *
+ * Es CONTENIDO NUEVO que va ENCIMA de todo lo original: no mueve, no cambia y
+ * no borra nada de lo que ya había. El H1 de la página sigue donde estaba,
+ * justo debajo.
+ *
+ * Por qué el titular va en un <p> y no en un <h1> o un <h2>:
+ * porque es un título que nos inventamos nosotros para la presentación. La
+ * regla del proyecto es clara — los títulos inventados van en <p> con clase,
+ * nunca en un encabezado — para que la jerarquía h1 > h2 > h3 de la página
+ * siga siendo exactamente la de la web en vivo.
+ *
+ * Y no lleva ni una cifra. Ni precios ni plazos: eso entra cuando el
+ * propietario pase los números reales.
+ */
+import site from '../data/site.json';
+import { aWebp, existe } from '../utils/imagenes.js';
+
+const { titulo = '', hero = {}, ruta = '', localidad = '' } = Astro.props;
+
+/* La foto del héroe es una FOTO LIMPIA elegida a mano, no la de la página.
+ *
+ * Por qué: la imagen principal de casi todas las páginas es el banner que ya
+ * traía el texto incrustado ("PROYECTOS, DISEÑOS Y CONSTRUCCIONES CON
+ * CONTENEDORES"). Puesta de fondo, ese texto se cruzaba con el titular del
+ * héroe y se leía fatal; y además el mismo banner vuelve a salir justo debajo,
+ * dentro del contenido, que no se toca. Con una foto sin texto el héroe se lee
+ * y el banner original sigue en su sitio.
+ *
+ * Si la página trae una foto propia y no es la del banner, se usa la suya.
+ */
+const FOTO_POR_DEFECTO = '/wp-content/uploads/2022/02/RENDER-3A-1-2048x1152.jpg';
+const BANNER = /casas-contenedores\.(webp|jpg|png)$/i;
+
+const propia = hero?.src && !BANNER.test(hero.src) && existe(hero.src) ? hero.src : '';
+const elegida = propia || (existe(FOTO_POR_DEFECTO) ? FOTO_POR_DEFECTO : '');
+const foto = elegida ? aWebp(elegida) : '';
+
+const maritimos = /^\/contenedor(es)?-maritimo/.test(ruta);
+
+const antetitulo = maritimos
+  ? (localidad ? `Contenedores marítimos · ${localidad}` : 'Venta y alquiler · Toda España')
+  : (localidad ? `Llave en mano · ${localidad}` : 'Llave en mano · Toda España');
+
+const entradilla = maritimos
+  ? 'Contenedores marítimos nuevos y usados, con transporte y colocación en tu parcela. Te decimos el precio y el plazo antes de que te comprometas a nada.'
+  : 'Diseñamos, fabricamos en taller y montamos tu vivienda en la parcela. Te decimos qué entra en el precio, qué va aparte y cuánto tarda, antes de que te comprometas a nada.';
+
+const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto || 'Hola, quiero información sobre casas contenedores')}`;
+
+/* Tres datos que NO son cifras: se pueden afirmar sin inventar nada. */
+const fichas = maritimos
+  ? [['Entrega', 'En tu parcela'], ['Estado', 'Nuevos y usados'], ['Cobertura', 'Toda España']]
+  : [['Proyecto y licencia', 'Los tramitamos nosotros'], ['Presupuesto', 'Cerrado antes de empezar'], ['Montaje', 'En tu parcela']];
+---
+
+<section class="hero" aria-label="Presentación">
+  {foto && <img class="hero-foto" src={foto} alt={hero.alt || titulo} fetchpriority="high" decoding="async" />}
+  <div class="hero-in">
+    <p class="antetitulo">{antetitulo}</p>
+    <p class="hero-titulo">{titulo}</p>
+    <p class="hero-sub">{entradilla}</p>
+    <div class="hero-botones">
+      <a class="hero-boton" href={wa} rel="nofollow">Pedir presupuesto</a>
+      <a class="hero-boton hero-boton--s" href="/precios/">Ver precios</a>
+    </div>
+    <ul class="hero-fichas">
+      {fichas.map(([k, v]) => (
+        <li><span class="k">{k}</span><span class="v">{v}</span></li>
+      ))}
+    </ul>
+  </div>
+</section>
+<div class="corrugado" aria-hidden="true"></div>

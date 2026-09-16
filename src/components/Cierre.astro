@@ -1,0 +1,62 @@
+---
+/**
+ * Cierre.astro — franja oscura de llamada a la acción, al final de cada página.
+ *
+ * Es contenido NUEVO: se añade después de todo lo que ya había y no toca ni un
+ * encabezado ni un texto del original. Su H2 se escribe como la pregunta que
+ * la gente teclea, no como una etiqueta de palabra clave.
+ *
+ * IMPORTANTE: aquí no hay ni una cifra. Ni precios, ni plazos, ni número de
+ * obras. Todo lo que dice es verificable o es una invitación a pedir
+ * presupuesto. Los cuadros con datos (tabla de precios, pasos con plazos,
+ * opiniones) van cuando el propietario pase las cifras reales.
+ */
+import site from '../data/site.json';
+
+const { titulo = '', localidad = '', ruta = '' } = Astro.props;
+
+// El H2 se adapta a la página: si es de localidad, la nombra, que es como se
+// busca de verdad ("contenedores marítimos en Lugo"). Y nombra el producto
+// correcto: las páginas de contenedores marítimos no venden casas.
+const producto = /^\/contenedor(es)?-maritimo/.test(ruta)
+  ? 'un contenedor marítimo'
+  : 'una casa contenedor';
+
+const encabezado = localidad
+  ? `¿Quieres ${producto} en ${localidad}?`
+  : '¿Quieres presupuesto para tu proyecto?';
+
+const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto || 'Hola, quiero información sobre casas contenedores')}`;
+---
+
+<section class="cierre-cta" aria-labelledby="cierre-titulo">
+  <div class="contenedor">
+    <div class="cierre-texto">
+      <p class="cierre-antetitulo">Presupuesto sin compromiso</p>
+      <h2 id="cierre-titulo">{encabezado}</h2>
+      <p class="cierre-sub">
+        Cuéntanos qué necesitas y dónde está la parcela. Te decimos qué entra en
+        el precio, qué va aparte y cuánto tarda, antes de que te comprometas a nada.
+      </p>
+      <div class="cierre-botones">
+        <a class="cierre-boton" href={wa} rel="nofollow">Escríbenos por WhatsApp</a>
+        <a class="cierre-boton cierre-boton--s" href={`mailto:${site.email}`}>Escribir un correo</a>
+      </div>
+    </div>
+
+    <ul class="cierre-fichas">
+      <li>
+        <span class="k">Proyecto y licencia</span>
+        <span class="v">Los tramitamos nosotros</span>
+      </li>
+      <li>
+        <span class="k">Presupuesto</span>
+        <span class="v">Cerrado antes de empezar</span>
+      </li>
+      <li>
+        <span class="k">Dónde construimos</span>
+        <span class="v">Toda España</span>
+      </li>
+    </ul>
+  </div>
+</section>

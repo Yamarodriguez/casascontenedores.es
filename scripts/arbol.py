@@ -150,6 +150,20 @@ def comillas(h):
     """
     if not h:
         return h
+    # Los bloques <style> y <script> NO son texto visible: son codigo. Ahi una
+    # comilla rizada rompe la regla. Paso en falso que ya costo un rato: el CSS
+    # escrito a mano de las tarjetas decia  font-family: 'Segoe UI'  y salia
+    # convertido en  ‘Segoe UI’ , que ningun navegador reconoce.
+    trozos = re.split(r"(<(?:style|script)\b[\s\S]*?</(?:style|script)>)", h, flags=re.I)
+    for j, trozo in enumerate(trozos):
+        if re.match(r"<(?:style|script)\b", trozo, re.I):
+            continue          # es codigo: se deja tal cual
+        trozos[j] = _comillas_texto(trozo)
+    return "".join(trozos)
+
+
+def _comillas_texto(h):
+    """Convierte las comillas de un trozo que ya no contiene <style> ni <script>."""
     partes = re.split(r"(<[^>]*>)", h)
     for i, p in enumerate(partes):
         if p.startswith("<"):
@@ -209,6 +223,36 @@ def comunes(s):
         v = caja(s.get(clave))
         if v:
             c[destino] = v
+    # Fondo y borde DEL PROPIO WIDGET (pestaña "Avanzado" de Elementor, que
+    # guarda estos ajustes con guion bajo delante).
+    #
+    # Esto faltaba y se notaba: las tarjetas grises de la portada («Casa
+    # contenedor 40 Pies», «Contenedores vivienda 75 m2») llevan el gris en el
+    # widget, no en la columna ni en la seccion. Sin traerlo, el titulo blanco
+    # de esas tarjetas se quedaba sobre fondo blanco y no se leia nada.
+    f = {}
+    if s.get("_background_color"):
+        f["color"] = s["_background_color"]
+    img = (s.get("_background_image") or {}).get("url")
+    if img:
+        f["imagen"] = relativo(img)
+    if f:
+        c["fondo"] = f
+
+    b = {}
+    if s.get("_border_border"):
+        b["tipo"] = s["_border_border"]
+    anchoBorde = caja(s.get("_border_width"))
+    if anchoBorde:
+        b["ancho"] = anchoBorde
+    if s.get("_border_color"):
+        b["color"] = s["_border_color"]
+    radio = caja(s.get("_border_radius"))
+    if radio:
+        b["radio"] = radio
+    if b:
+        c["borde"] = b
+
     if s.get("_element_id"):
         c["ancla"] = s["_element_id"]
     return c

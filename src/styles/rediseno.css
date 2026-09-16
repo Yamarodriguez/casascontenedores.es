@@ -1,0 +1,735 @@
+/* =========================================================================
+   rediseno.css — CAPA DE ESTILO. Va encima de todo lo demás.
+
+   QUÉ ES
+   Esta hoja cambia CÓMO SE VE la web, sin tocar ni una letra del contenido
+   ni un solo encabezado. No hay marcado nuevo: se apoya en el que ya escribió
+   Elementor. Por eso se puede quitar (borrando la línea de import en
+   Base.astro) y la web vuelve exactamente al aspecto anterior.
+
+   POR QUÉ VA LA ÚLTIMA
+   Astro mete su CSS compilado después de las hojas originales del sitio, así
+   que lo que se escriba aquí gana sin necesidad de !important... salvo en las
+   reglas que Elementor escribe por página con selectores muy concretos
+   (.elementor-2 .elementor-element.elementor-element-abc123 ...). Esas son las
+   únicas donde se usa !important, y cada una lleva su motivo escrito al lado.
+
+   IDIOMA VISUAL: ACERO
+   Los colores salen del material del que está hecha la casa. Neutros grises
+   con un punto de frío, como la chapa del contenedor; el verde del logo, más
+   profundo, reservado SOLO para los botones de acción; y el óxido corten para
+   antetítulos y datos. Tres tipografías: Archivo en los titulares, IBM Plex
+   Sans en el texto e IBM Plex Mono en cifras y etiquetas, que es lo que da a
+   los precios y las medidas aire de ficha técnica.
+   ========================================================================= */
+
+:root {
+  /* --- acero: neutros con sesgo frío ---------------------------------- */
+  --r-ink:        #12171b;   /* titulares */
+  --r-texto:      #2f383f;   /* texto corrido */
+  --r-suave:      #5c666d;   /* texto secundario */
+  --r-tenue:      #8b959b;   /* etiquetas, pies */
+  --r-linea:      #dbe1e4;
+  --r-linea-2:    #eef2f4;
+  --r-fondo:      #f2f5f6;   /* fondo de página */
+  --r-papel:      #ffffff;   /* cajas y tarjetas */
+  --r-papel-2:    #f8fafb;
+
+  /* --- verde del logo, más profundo: color de ACCIÓN ------------------- */
+  --r-verde:      #0e7a3c;
+  --r-verde-osc:  #0a5c2d;
+  --r-verde-claro:#e8f3ec;
+
+  /* --- óxido corten: datos y antetítulos, nunca botones ---------------- */
+  --r-corten:     #a8562f;
+
+  /* --- tipografía ------------------------------------------------------ */
+  --r-titular: 'Archivo', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --r-texto-f: 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --r-mono:    'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Consolas, monospace;
+
+  --r-radio:   4px;
+  --r-sombra:  0 1px 2px rgba(18,23,27,.06), 0 10px 28px -14px rgba(18,23,27,.22);
+  --r-sombra-2:0 2px 4px rgba(18,23,27,.07), 0 18px 40px -18px rgba(18,23,27,.28);
+}
+
+/* =========================================================================
+   1. BASE
+   ========================================================================= */
+
+html body {
+  background: var(--r-fondo);
+  color: var(--r-texto);
+  font-family: var(--r-texto-f);
+  font-size: 16px;
+  line-height: 1.68;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* La caja blanca del tema, sobre el fondo gris */
+#wrap { background: var(--r-papel); }
+
+/* =========================================================================
+   2. TITULARES
+   El TEXTO de cada encabezado no se toca: solo su aspecto. Se respeta el
+   nivel que ya tenía (h1, h2, h3), que es lo que sostiene el SEO.
+   ========================================================================= */
+
+.entrada h1, .entrada h2, .entrada h3, .entrada h4,
+.elementor-heading-title,
+.banda-titulo .titulo {
+  font-family: var(--r-titular) !important;
+  color: var(--r-ink);
+  letter-spacing: -.022em;
+  line-height: 1.16;
+  text-wrap: balance;
+}
+
+/* Escala de tamaños. Elementor fija el tamaño por widget con un selector muy
+   concreto, así que aquí hace falta !important para que la escala nueva valga
+   en las 263 páginas en lugar de página por página. */
+.entrada h1, .entrada .elementor-widget-heading h1.elementor-heading-title {
+  font-size: clamp(30px, 18px + 1.5vw, 44px) !important;
+  font-weight: 700 !important;
+  letter-spacing: -.032em !important;
+  margin-bottom: .45em;
+}
+.entrada h2, .entrada .elementor-widget-heading h2.elementor-heading-title {
+  font-size: clamp(26px, 18px + 1vw, 36px) !important;
+  font-weight: 700 !important;
+  letter-spacing: -.025em !important;
+}
+.entrada h3, .entrada .elementor-widget-heading h3.elementor-heading-title {
+  font-size: clamp(19px, 16px + .35vw, 21px) !important;
+  font-weight: 600 !important;
+  letter-spacing: -.015em !important;
+}
+.entrada h4, .entrada .elementor-widget-heading h4.elementor-heading-title {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+}
+
+/* Un filete corto bajo los H2 del contenido: marca el principio de sección
+   sin añadir ningún elemento al HTML. */
+.entrada .elementor-widget-heading h2.elementor-heading-title::after {
+  content: "";
+  display: block;
+  width: 46px;
+  height: 3px;
+  margin-top: 14px;
+  background: var(--r-verde);
+  border-radius: 2px;
+}
+/* ...salvo cuando el titular va sobre fondo oscuro o de color, donde el
+   filete verde ensucia. Ahí se hace blanco y más fino. */
+.elementor-element-populated[style*="background"] h2.elementor-heading-title::after,
+.entrada section[class*="elementor-section"] .elementor-widget-heading h2.elementor-heading-title[style*="color:#fff"]::after {
+  background: rgba(255,255,255,.55);
+  height: 2px;
+}
+
+/* =========================================================================
+   3. TEXTO
+   ========================================================================= */
+
+/* OJO con dos cosas que aquí NO se tocan, y que costaron una vuelta atrás:
+ *
+ * 1. El COLOR. Las franjas oscuras de la web (la de «Casa Prefabricada con
+ *    contenedores Marítimos», la de ventajas) llevan el texto en blanco,
+ *    puesto por Elementor en el widget. Si aquí se declara un gris, gana por
+ *    ser más concreto para el <p> y esas franjas se quedan con letra oscura
+ *    sobre fondo oscuro: ilegibles. El color se hereda del body y ya está.
+ *
+ * 2. El TAMAÑO. Elementor dimensionó cada bloque según el ancho de su caja:
+ *    20 px en una columna ancha, 14 px dentro de una tarjeta estrecha. Al
+ *    forzar un tamaño único, las cajas estrechas (PERMISOS, PLANOS) se
+ *    desbordaban y el botón quedaba flotando en el hueco. Se respeta el
+ *    tamaño original y se cambia solo la VOZ: la letra y el interlineado.
+ */
+.entrada .elementor-widget-text-editor,
+.entrada .elementor-widget-text-editor p,
+.entrada .elementor-widget-text-editor li {
+  font-family: var(--r-texto-f) !important;
+  line-height: 1.72;
+}
+.entrada .elementor-widget-text-editor p + p { margin-top: 1.05em; }
+
+/* Negritas: en el original hay muchísimas. Se dejan, pero con un peso que no
+   grite tanto. El COLOR no se toca, por lo mismo de antes: en las franjas
+   oscuras la negrita va en blanco, y ponerle aquí un gris la borraría. */
+.entrada strong, .entrada b {
+  font-weight: 600;
+}
+
+/* Enlaces dentro del texto: subrayado fino y separado, no el subrayado
+   pegado del navegador. */
+/* Tercera vez con la misma lección, y por eso queda escrita: aquí NO se
+   declara el color del enlace. El directorio de localidades va sobre una
+   franja oscura y Elementor ya le puso su color; al forzar aquí un verde
+   oscuro, unos enlaces se quedaban con el color de Elementor y otros con el
+   mío, y la rejilla salía a dos colores. Se cambia solo el subrayado, que se
+   ve bien sobre cualquier fondo porque hereda el color del propio enlace. */
+.entrada .elementor-widget-text-editor a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  transition: text-decoration-color .18s ease;
+}
+.entrada .elementor-widget-text-editor a:hover {
+  text-decoration-color: currentColor;
+}
+
+/* Listas de viñetas: la viñeta en verde, el texto con aire */
+.entrada .elementor-widget-text-editor ul { padding-left: 1.15em; }
+.entrada .elementor-widget-text-editor ul li { margin-bottom: .5em; }
+.entrada .elementor-widget-text-editor ul li::marker { color: var(--r-verde); }
+
+/* =========================================================================
+   4. BOTONES
+   Elementor pinta el fondo del botón desde la hoja de cada página, así que
+   el color va con !important; lo demás (forma, peso, transición) no hace
+   falta forzarlo.
+   ========================================================================= */
+
+.entrada .elementor-button,
+.entrada a.elementor-button {
+  font-family: var(--r-titular);
+  font-weight: 600;
+  letter-spacing: -.005em;
+  border-radius: var(--r-radio) !important;
+  padding: 13px 24px !important;
+  border: 0;
+  box-shadow: none;
+  transition: background-color .18s ease, transform .18s ease, box-shadow .18s ease;
+  background-color: var(--r-verde) !important;
+  color: #fff !important;
+  text-transform: none;
+}
+.entrada .elementor-button:hover {
+  background-color: var(--r-verde-osc) !important;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px -8px rgba(14,122,60,.7);
+}
+.entrada .elementor-button .elementor-button-text { font-weight: 600; }
+
+/* =========================================================================
+   5. TARJETAS
+   La portada y las páginas de tema llevan rejillas de tarjetas escritas a
+   mano, con su propio <style> al lado. Aquí se les da la forma nueva sin
+   tocar ese HTML: se buscan por la forma que tienen (un borde o una sombra
+   dentro de una rejilla), no por una clase inventada.
+   ========================================================================= */
+
+.entrada .elementor-widget-text-editor div[style*="grid"] > div,
+.entrada .elementor-widget-text-editor div[style*="flex"] > div[style*="border"] {
+  border-radius: var(--r-radio);
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+
+/* Las columnas de Elementor que llevan fondo propio (las cajas de PRECIOS,
+   PERMISOS, PLANOS y las tarjetas de ventajas) */
+.entrada .elementor-column .elementor-element-populated {
+  border-radius: var(--r-radio);
+}
+
+/* Fotos: esquina suave y una sombra muy contenida */
+.entrada .elementor-widget-image img {
+  border-radius: var(--r-radio);
+}
+
+/* =========================================================================
+   6. RITMO VERTICAL
+   El original va apretado en unos sitios y suelto en otros. Aquí se iguala
+   el aire entre widgets, que es lo que más hace que una web parezca
+   ordenada.
+   ========================================================================= */
+
+.entrada .elementor-widget:not(:last-child) { margin-block-end: 24px; }
+.entrada .elementor-widget-heading:not(:last-child) { margin-block-end: 18px; }
+.entrada .elementor-widget-divider:not(:last-child) { margin-block-end: 28px; }
+
+/* El separador de Elementor, más discreto */
+.entrada .elementor-divider-separator {
+  border-top-color: var(--r-linea) !important;
+}
+
+/* =========================================================================
+   7. CABECERA Y MENÚ  (marcado propio, en global.css)
+   ========================================================================= */
+
+.barra-superior {
+  background: var(--r-ink);
+  color: #c3ccd2;
+  font-family: var(--r-mono);
+  font-size: 12px;
+  letter-spacing: .04em;
+}
+.barra-superior a { color: #e4eaee; }
+
+#cabecera {
+  background: var(--r-papel);
+  border-bottom: 1px solid var(--r-linea);
+}
+
+.barra-navegacion {
+  background: var(--r-papel);
+  border-bottom: 1px solid var(--r-linea);
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  backdrop-filter: saturate(180%) blur(10px);
+}
+#menu-principal > li > a {
+  font-family: var(--r-texto-f);
+  font-weight: 500;
+  font-size: 15px;
+  color: var(--r-texto);
+  letter-spacing: -.005em;
+  border-bottom: 2px solid transparent;
+  transition: color .16s ease, border-color .16s ease;
+}
+#menu-principal > li > a:hover,
+#menu-principal > li:hover > a {
+  color: var(--r-verde-osc);
+  border-bottom-color: var(--r-verde);
+  background: transparent;
+}
+#menu-principal .submenu {
+  border: 1px solid var(--r-linea);
+  border-radius: var(--r-radio);
+  box-shadow: var(--r-sombra-2);
+  padding: 6px;
+}
+#menu-principal .submenu a {
+  border-radius: 3px;
+  font-size: 15px;
+  padding: 8px 12px;
+}
+#menu-principal .submenu a:hover {
+  background: var(--r-verde-claro);
+  color: var(--r-verde-osc);
+}
+
+/* =========================================================================
+   8. BANDA DE TÍTULO Y MIGAS
+   ========================================================================= */
+
+.banda-titulo, .hueco-titulo { background: var(--r-papel-2); }
+.banda-titulo { border-bottom: 1px solid var(--r-linea); }
+.banda-titulo .titulo { font-weight: 700; }
+
+.migas {
+  font-family: var(--r-mono);
+  font-size: 12px;
+  letter-spacing: .04em;
+  color: var(--r-tenue);
+}
+.migas a { color: var(--r-suave); text-decoration: none; }
+.migas a:hover { color: var(--r-verde-osc); }
+
+/* =========================================================================
+   9. FORMULARIO
+   ========================================================================= */
+
+.formulario { font-family: var(--r-texto-f); }
+.formulario label {
+  font-family: var(--r-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--r-suave);
+}
+.formulario input[type="text"],
+.formulario input[type="email"],
+.formulario input[type="tel"],
+.formulario textarea,
+.formulario select {
+  font-family: var(--r-texto-f);
+  font-size: 16px;
+  padding: 11px 13px;
+  border: 1px solid var(--r-linea);
+  border-radius: var(--r-radio);
+  background: var(--r-papel);
+  color: var(--r-texto);
+  transition: border-color .16s ease, box-shadow .16s ease;
+  width: 100%;
+}
+.formulario input:focus,
+.formulario textarea:focus,
+.formulario select:focus {
+  outline: 0;
+  border-color: var(--r-verde);
+  box-shadow: 0 0 0 3px var(--r-verde-claro);
+}
+/* La linea del consentimiento NO es una etiqueta de campo: es una frase que
+   hay que leer. Se la saca del estilo de etiqueta (mono, mayusculas, 11px),
+   que la dejaba ilegible. */
+.formulario .consentimiento,
+.formulario .consentimiento label {
+  font-family: var(--r-texto-f);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: normal;
+  text-transform: none;
+  color: var(--r-suave);
+}
+.formulario .consentimiento a { color: var(--r-verde-osc); }
+.formulario button,
+.formulario .boton-enviar {
+  font-family: var(--r-titular);
+  font-weight: 600;
+  background: var(--r-verde);
+  color: #fff;
+  border: 0;
+  border-radius: var(--r-radio);
+  padding: 13px 26px;
+  cursor: pointer;
+  transition: background-color .18s ease;
+}
+.formulario button:hover,
+.formulario .boton-enviar:hover { background: var(--r-verde-osc); }
+
+/* =========================================================================
+   10. PREGUNTAS FRECUENTES
+   El acordeón del contenido está escrito a mano con <details>. Se le quita
+   el triángulo del navegador y se le pone una flecha dibujada en CSS.
+   ========================================================================= */
+
+.entrada details {
+  border-bottom: 1px solid var(--r-linea);
+  background: transparent;
+}
+.entrada details summary,
+.entrada .faq-question {
+  font-family: var(--r-titular);
+  font-weight: 600;
+  font-size: 17px;
+  color: var(--r-ink);
+  letter-spacing: -.012em;
+  cursor: pointer;
+  list-style: none;
+  position: relative;
+  padding-right: 42px;
+}
+.entrada details summary::-webkit-details-marker { display: none; }
+.entrada details summary::after {
+  content: "";
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  width: 10px;
+  height: 10px;
+  border-right: 2px solid var(--r-suave);
+  border-bottom: 2px solid var(--r-suave);
+  transform: translateY(-70%) rotate(45deg);
+  transition: transform .2s ease;
+}
+.entrada details[open] summary::after { transform: translateY(-30%) rotate(-135deg); }
+
+/* =========================================================================
+   11. TABLAS
+   ========================================================================= */
+
+.entrada table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 15px;
+  font-variant-numeric: tabular-nums;
+}
+.entrada table th {
+  font-family: var(--r-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .11em;
+  text-transform: uppercase;
+  color: var(--r-suave);
+  background: var(--r-papel-2);
+  text-align: left;
+  padding: 13px 16px;
+  border-bottom: 1px solid var(--r-linea);
+}
+.entrada table td {
+  padding: 13px 16px;
+  border-bottom: 1px solid var(--r-linea-2);
+}
+.entrada table tr:hover td { background: var(--r-papel-2); }
+
+/* =========================================================================
+   12. DIRECTORIO DE LOCALIDADES
+   ========================================================================= */
+
+.entrada .directorio a,
+.entrada .elementor-widget-text-editor a[href^="/"][class*="loc"] {
+  text-decoration: none;
+}
+
+/* =========================================================================
+   13. PIE
+   ========================================================================= */
+
+#pie {
+  background: var(--r-ink);
+  color: #aeb8be;
+  border-top: 0;
+}
+#pie h3, #pie h4, #pie .titulo-pie {
+  font-family: var(--r-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .11em;
+  text-transform: uppercase;
+  color: #7e8991;
+}
+#pie a { color: #d5dde2; text-decoration: none; }
+#pie a:hover { color: #fff; }
+#pie .legal { color: #7e8991; border-top: 1px solid rgba(255,255,255,.1); }
+
+/* =========================================================================
+   14. BOTÓN FLOTANTE DE WHATSAPP
+   ========================================================================= */
+
+.boton-whatsapp {
+  box-shadow: 0 4px 14px -4px rgba(18,23,27,.45);
+  transition: transform .18s ease, box-shadow .18s ease;
+}
+.boton-whatsapp:hover {
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 8px 22px -6px rgba(18,23,27,.5);
+}
+
+/* =========================================================================
+   15. MÓVIL
+   Lo acordado: letra de 16 px, botones dentro de su caja, imágenes enteras.
+   ========================================================================= */
+
+@media (max-width: 767px) {
+  body { font-size: 16px; }
+  .entrada .elementor-widget-text-editor,
+  .entrada .elementor-widget-text-editor p,
+  .entrada .elementor-widget-text-editor li { font-size: 16px; }
+
+  .entrada .elementor-button {
+    padding: 13px 20px !important;
+    max-width: 100%;
+    white-space: normal;
+  }
+  .entrada .elementor-widget:not(:last-child) { margin-block-end: 20px; }
+
+  /* Nada se sale de la pantalla */
+  .entrada img, .entrada table, .entrada iframe { max-width: 100%; }
+}
+
+/* =========================================================================
+   16. DETALLES
+   ========================================================================= */
+
+:where(a, button, summary, input, select, textarea):focus-visible {
+  outline: 2px solid var(--r-verde);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+::selection { background: var(--r-verde-claro); color: var(--r-verde-osc); }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+
+/* Los anuncios de AdSense no se tocan: el hueco y el comportamiento siguen
+   siendo los de global.css. Aquí solo se redondea el contenedor para que no
+   desentone con el resto. */
+.anuncio, .adsbygoogle { border-radius: var(--r-radio); }
+
+/* =========================================================================
+   17. CABECERA: llamada a la acción
+   Marcado nuevo de Header.astro. No sustituye a nada: se añade al lado del
+   logo, donde la web no tenía nada.
+   ========================================================================= */
+
+.cabecera-logo { display: flex; align-items: center; gap: 20px; }
+.cabecera-acciones {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+.cabecera-correo {
+  font-family: var(--r-mono);
+  font-size: 12px;
+  letter-spacing: .03em;
+  color: var(--r-suave);
+  text-decoration: none;
+}
+.cabecera-correo:hover { color: var(--r-verde-osc); }
+.cabecera-boton {
+  font-family: var(--r-titular);
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: -.005em;
+  background: var(--r-verde);
+  color: #fff;
+  text-decoration: none;
+  padding: 11px 20px;
+  border-radius: var(--r-radio);
+  white-space: nowrap;
+  transition: background-color .18s ease, transform .18s ease;
+}
+.cabecera-boton:hover { background: var(--r-verde-osc); transform: translateY(-1px); }
+
+@media (max-width: 900px) {
+  .cabecera-correo { display: none; }
+  .cabecera-acciones { gap: 10px; }
+  .cabecera-boton { font-size: 14px; padding: 10px 14px; }
+}
+@media (max-width: 560px) {
+  .cabecera-boton { display: none; }
+}
+
+/* =========================================================================
+   18. FRANJA DE CIERRE  (Cierre.astro)
+   Contenido nuevo, después de todo lo original.
+   ========================================================================= */
+
+.cierre-cta {
+  background: var(--r-ink);
+  color: #c3ccd2;
+  padding-block: clamp(46px, 6vw, 76px);
+}
+.cierre-cta .contenedor {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: clamp(28px, 4vw, 56px);
+  align-items: center;
+}
+@media (max-width: 840px) {
+  .cierre-cta .contenedor { grid-template-columns: 1fr; }
+}
+
+.cierre-antetitulo {
+  font-family: var(--r-mono);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: #e7a276;                      /* corten aclarado para fondo oscuro */
+  margin: 0 0 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.cierre-antetitulo::before {
+  content: "";
+  width: 22px;
+  height: 2px;
+  background: #e7a276;
+  flex: none;
+}
+
+.cierre-cta h2 {
+  font-family: var(--r-titular) !important;
+  font-size: clamp(25px, 18px + 1vw, 34px) !important;
+  font-weight: 700 !important;
+  letter-spacing: -.026em;
+  line-height: 1.16;
+  color: #fff !important;
+  margin: 0 0 14px;
+  text-wrap: balance;
+}
+/* Sin el filete verde de los H2 del contenido: aquí ya lo hace el antetítulo */
+.cierre-cta h2::after { content: none; }
+
+.cierre-sub {
+  margin: 0;
+  color: #aab4bb;
+  font-size: 16px;
+  line-height: 1.7;
+  max-width: 54ch;
+}
+
+.cierre-botones { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 22px; }
+.cierre-boton {
+  font-family: var(--r-titular);
+  font-weight: 600;
+  font-size: 15px;
+  text-decoration: none;
+  padding: 13px 24px;
+  border-radius: var(--r-radio);
+  background: var(--r-verde);
+  color: #fff;
+  border: 1.5px solid transparent;
+  transition: background-color .18s ease, border-color .18s ease, transform .18s ease;
+}
+.cierre-boton:hover { background: var(--r-verde-osc); transform: translateY(-1px); }
+.cierre-boton--s { background: transparent; color: #fff; border-color: rgba(255,255,255,.38); }
+.cierre-boton--s:hover { background: rgba(255,255,255,.08); border-color: #fff; }
+
+/* Las tres fichas: separadas por filetes, como una ficha técnica */
+.cierre-fichas {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid rgba(255,255,255,.18);
+}
+.cierre-fichas li {
+  padding: 16px 0;
+  border-bottom: 1px solid rgba(255,255,255,.18);
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.cierre-fichas .k {
+  font-family: var(--r-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: #8c99a2;
+}
+.cierre-fichas .v {
+  font-family: var(--r-titular);
+  font-size: 17px;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: -.015em;
+}
+
+/* =========================================================================
+   19. PIE OSCURO
+   ========================================================================= */
+
+#pie-widgets {
+  background: #0d1216;
+  color: #aeb8be;
+  padding-block: 46px 34px;
+  border-top: 0;
+}
+#pie-widgets .titulo-widget {
+  font-family: var(--r-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: #7e8991;
+  margin: 0 0 14px;
+}
+#pie-widgets ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 9px; }
+#pie-widgets a {
+  color: #d5dde2;
+  text-decoration: none;
+  font-size: 14px;
+  transition: color .16s ease;
+}
+#pie-widgets a:hover { color: #fff; }
+
+#pie-barra {
+  background: #0d1216;
+  color: #7e8991;
+  border-top: 1px solid rgba(255,255,255,.1);
+  padding-block: 18px;
+  font-size: 13px;
+}
+#pie-barra a { color: #98a3aa; text-decoration: none; }
+#pie-barra a:hover { color: #fff; }

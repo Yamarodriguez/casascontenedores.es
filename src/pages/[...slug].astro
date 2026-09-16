@@ -9,6 +9,7 @@
 import Base from '../layouts/Base.astro';
 import Formulario from '../components/Formulario.astro';
 import { pintar, asegurarH1 } from '../utils/render.js';
+import { localidadDe } from '../utils/localidades.js';
 import { sanearImagenes } from '../utils/imagenes.js';
 
 export async function getStaticPaths() {
@@ -35,11 +36,19 @@ const h1 = asegurarH1(bloques, conBanda, pagina.h1 || pagina.titulo);
 // tapa la barra del menu.
 const conHueco = !conBanda && Boolean(pagina.huecoTitulo);
 
+// Localidad de la pagina, para que la franja de cierre pueda nombrarla
+// ("¿Quieres una casa contenedor en Lugo?"). Sale de la tabla que construye
+// src/utils/localidades.js a partir del menu de provincias de WordPress: son
+// los nombres que escribio el propietario, no una adivinanza sobre la palabra
+// clave. Si la pagina no es de localidad, viene vacia y la franja usa el texto
+// general.
+const localidad = localidadDe(pagina.ruta);
+
 // 2. se pinta el árbol; las imágenes pasan por el saneador (webp / marcador).
 //    Las 4 páginas sin árbol de Elementor (las legales) van como texto corrido.
 const hayArbol = bloques.length > 0;
 const { html } = hayArbol
-  ? pintar(bloques, { imagenes: (trozo) => sanearImagenes(trozo).html, postId: pagina.postId })
+  ? pintar(bloques, { imagenes: (trozo) => sanearImagenes(trozo).html })
   : { html: `<div class="texto-corrido">${sanearImagenes(pagina.cuerpo).html}</div>` };
 
 // 3. el marcador del formulario se parte para insertar el componente
@@ -54,6 +63,7 @@ const trozos = html.split(/<!--FORMULARIO:[^>]*?-->/);
   h1={h1}
   bandaTitulo={conBanda}
   huecoTitulo={conHueco}
+  localidad={localidad}
   menu={pagina.menu}
   faq={pagina.faq}
   noindex={pagina.noindex}
