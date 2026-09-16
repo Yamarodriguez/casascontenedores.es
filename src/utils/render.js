@@ -1,18 +1,17 @@
 /**
  * render.js — Pinta el arbol de maquetacion (`bloques`) de cada pagina.
  *
- * El arbol sale de scripts/arbol.py, que lo saca del propio Elementor. Aqui
- * NO se decide nada de diseno: cada bloque se pinta con los valores que trae.
- * Lo que es comun a todos los bloques vive en global.css; lo que es propio de
- * un elemento concreto (un tamano de letra, un ancho de columna, un color)
- * sale como una regla CSS con su identificador, igual que hacia Elementor.
+ * Escribe EL MISMO MARCADO que escribia Elementor: las mismas etiquetas, las
+ * mismas clases y los mismos identificadores de elemento. Asi las hojas de
+ * estilo originales del sitio (una por pagina, en `css-original/`) encajan
+ * encima sin tocar nada y el diseno no es una reconstruccion: es el suyo.
  *
- * Anadir un tipo de bloque nuevo = anadir una funcion a PINTORES. Nada mas.
+ * Por eso aqui NO se genera CSS. Lo unico que decide este modulo es la
+ * estructura del HTML. Cualquier valor visual (tamanos, colores, margenes,
+ * anchos) sale de las hojas originales.
+ *
+ * Anadir un tipo de bloque nuevo = anadir una funcion a PINTORES.
  */
-
-const ANCHO_POR_DEFECTO = 1140;     // .elementor-section-boxed de Elementor
-const HUECO_POR_DEFECTO = 20;       // padding de columna (10px a cada lado)
-const MARGEN_BLOQUE = 20;           // .elementor-widget:not(:last-child)
 
 const escapar = (s) =>
   String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -20,8 +19,8 @@ const escapar = (s) =>
 const ETIQUETAS = new Set(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'div', 'span']);
 
 /* Los titulos de Elementor pueden traer HTML por dentro (<strong>, <br>, un
-   enlace). Escaparlo entero dejaba "<strong>Planos de..." a la vista. Se deja
-   pasar solo un puñado de etiquetas de linea y se escapa el resto. */
+   enlace). Se deja pasar solo un puñado de etiquetas de linea; el resto se
+   escapa. */
 const LINEA = /^<\/?(?:strong|b|em|i|u|br|span|small|sup|sub|a)(?:\s[^<>]*)?\/?>$/i;
 
 function textoConLinea(t) {
@@ -33,249 +32,178 @@ function textoConLinea(t) {
     .join('');
 }
 
-/** Acumula las reglas CSS propias de cada elemento. */
-class Hoja {
-  constructor() { this.normal = []; this.tablet = []; this.movil = []; }
-  add(sel, decl, medio = 'normal') {
-    // se prefija con .entrada para que estas reglas ganen siempre a las
-    // generales de global.css, que se carga despues
-    sel = sel.split(',').map((x) => `.entrada ${x.trim()}`).join(',');
-    const cuerpo = Object.entries(decl)
-      .filter(([, v]) => v !== undefined && v !== null && v !== '')
-      .map(([k, v]) => `${k}:${v}`)
-      .join(';');
-    if (cuerpo) this[medio].push(`${sel}{${cuerpo}}`);
-  }
-  toString() {
-    const partes = [this.normal.join('\n')];
-    if (this.tablet.length) partes.push(`@media (max-width:1024px){\n${this.tablet.join('\n')}\n}`);
-    if (this.movil.length) partes.push(`@media (max-width:767px){\n${this.movil.join('\n')}\n}`);
-    return partes.filter(Boolean).join('\n');
-  }
+/** La clase elementor-col-N que usa Elementor para el ancho de estructura. */
+function claseColumna(c) {
+  const n = c.anchoBase ?? (c.ancho != null ? Math.round(c.ancho) : 100);
+  return `elementor-col-${n}`;
 }
 
-/** Reglas que puede llevar cualquier bloque: alineacion, margenes, rellenos. */
-function estiloComun(b, sel, hoja) {
-  hoja.add(sel, {
-    'text-align': b.alinear,
-    margin: b.margen,
-    padding: b.relleno,
-  });
-  hoja.add(sel, { 'text-align': b.alinearTablet, margin: b.margenTablet }, 'tablet');
-  hoja.add(sel, { 'text-align': b.alinearMovil, margin: b.margenMovil, padding: b.rellenoMovil }, 'movil');
+/** La clase de separacion entre columnas de una seccion. */
+function claseHueco(s) {
+  return `elementor-column-gap-${s.hueco || 'default'}`;
 }
 
-function estiloTexto(t, sel, hoja) {
-  if (!t) return;
-  hoja.add(sel, {
-    'font-family': t.familia ? `'${t.familia}', sans-serif` : undefined,
-    'font-size': t.tamano ? `${t.tamano}px` : undefined,
-    'font-weight': t.peso,
-    'line-height': t.interlineado ? `${t.interlineado}${t.interlineadoUnidad || 'em'}` : undefined,
-    'letter-spacing': t.espaciado ? `${t.espaciado}px` : undefined,
-    'text-transform': t.transformar,
-    'font-style': t.estilo,
-  });
-  if (t.tamanoTablet) hoja.add(sel, { 'font-size': `${t.tamanoTablet}px` }, 'tablet');
-  if (t.tamanoMovil) hoja.add(sel, { 'font-size': `${t.tamanoMovil}px` }, 'movil');
-}
-
-/* ------------------------------------------------------------- los pintores */
+/* ------------------------------------------------------------- los pintores
+   Cada uno devuelve SOLO lo que va dentro de .elementor-widget-container.
+   `extra` son clases adicionales para el <div> del widget. */
 
 const PINTORES = {
-  encabezado(b, sel, hoja, ctx) {
+  encabezado(b) {
     const etiqueta = ETIQUETAS.has(b.etiqueta) ? b.etiqueta : 'h2';
-    hoja.add(`${sel} .titulo`, { color: b.color });
-    estiloTexto(b.tipo, `${sel} .titulo`, hoja);
     const dentro = b.url
       ? `<a href="${escapar(b.url)}">${textoConLinea(b.texto)}</a>`
       : textoConLinea(b.texto);
-    return `<${etiqueta} class="titulo">${dentro}</${etiqueta}>`;
+    return {
+      html: `<${etiqueta} class="elementor-heading-title elementor-size-default">${dentro}</${etiqueta}>`,
+    };
   },
 
-  texto(b, sel, hoja, ctx) {
-    hoja.add(`${sel}`, { color: b.color });
-    estiloTexto(b.tipo, `${sel}`, hoja);
-    return ctx.imagenes(b.html);
+  texto(b, ctx) {
+    return { html: ctx.imagenes(b.html) };
   },
 
-  imagen(b, sel, hoja, ctx) {
-    if (b.ancho) hoja.add(`${sel} img`, { width: b.ancho });
-    if (b.anchoMovil) hoja.add(`${sel} img`, { width: b.anchoMovil }, 'movil');
+  imagen(b, ctx) {
     const img = ctx.imagenes(
       `<img src="${escapar(b.src)}" alt="${escapar(b.alt)}" loading="lazy" decoding="async">`);
     const cuerpo = b.url ? `<a href="${escapar(b.url)}">${img}</a>` : img;
-    const pie = b.pie ? `<figcaption>${escapar(b.pie)}</figcaption>` : '';
-    return `<figure class="figura">${cuerpo}${pie}</figure>`;
+    const pie = b.pie
+      ? `<figcaption class="widget-image-caption wp-caption-text">${escapar(b.pie)}</figcaption>`
+      : '';
+    return { html: pie ? `<figure class="wp-caption">${cuerpo}${pie}</figure>` : cuerpo };
   },
 
-  boton(b, sel, hoja) {
-    hoja.add(`${sel} .boton`, {
-      'background-color': b.fondo,
-      color: b.colorTexto,
-      'border-color': b.colorBorde,
-      'border-width': b.grosorBorde,
-      'border-style': b.grosorBorde ? 'solid' : undefined,
-      'border-radius': b.radio,
-      padding: b.rellenoBoton,
-    });
-    estiloTexto(b.tipo, `${sel} .boton`, hoja);
-    if (b.fondoHover || b.colorHover) {
-      hoja.add(`${sel} .boton:hover, ${sel} .boton:focus`, {
-        'background-color': b.fondoHover,
-        color: b.colorHover,
-        'border-color': b.colorBordeHover,
-      });
-    }
+  boton(b) {
     const externo = /^https?:\/\//.test(b.url) && !b.url.includes('casascontenedores.es');
     const extra = externo ? ' rel="noopener" target="_blank"' : '';
-    return `<a class="boton" href="${escapar(b.url || '#')}"${extra}>${textoConLinea(b.texto)}</a>`;
+    return {
+      clases: b.alinear ? [`elementor-align-${b.alinear}`] : [],
+      html: '<div class="elementor-button-wrapper">' +
+        `<a class="elementor-button elementor-button-link elementor-size-sm" href="${escapar(b.url || '#')}"${extra}>` +
+        '<span class="elementor-button-content-wrapper">' +
+        `<span class="elementor-button-text">${textoConLinea(b.texto)}</span>` +
+        '</span></a></div>',
+    };
   },
 
-  separador(b, sel, hoja) {
-    hoja.add(`${sel} .separador`, {
-      'border-top-color': b.color,
-      'border-top-width': `${b.grosor}px`,
-      width: b.ancho,
-      'margin-block': `${b.hueco ?? 15}px`,
-    });
-    return '<hr class="separador">';
+  separador(b) {
+    return {
+      clases: ['elementor-widget-divider--view-line'],
+      html: '<div class="elementor-divider"><span class="elementor-divider-separator"></span></div>',
+    };
   },
 
-  espaciador(b, sel, hoja) {
-    hoja.add(sel, { height: `${b.alto}px` });
-    if (b.altoMovil != null) hoja.add(sel, { height: `${b.altoMovil}px` }, 'movil');
-    return '';
+  espaciador() {
+    return { html: '<div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div>' };
   },
 
-  mapa(b, sel, hoja, ctx) {
-    hoja.add(`${sel} iframe`, { height: `${b.alto || 300}px` });
+  mapa(b) {
     const q = encodeURIComponent(b.direccion || '');
-    return `<iframe class="mapa" loading="lazy" title="Mapa de ${escapar(b.direccion)}"` +
-      ` src="https://maps.google.com/maps?q=${q}&t=m&z=${b.zoom || 10}&output=embed&iwloc=near"` +
-      ` allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>`;
+    return {
+      html: '<div class="elementor-custom-embed">' +
+        `<iframe loading="lazy" title="${escapar(b.direccion)}" aria-label="${escapar(b.direccion)}"` +
+        ` src="https://maps.google.com/maps?q=${q}&amp;t=m&amp;z=${b.zoom || 10}&amp;output=embed&amp;iwloc=near"` +
+        ' referrerpolicy="no-referrer-when-downgrade"></iframe></div>',
+    };
   },
 
-  formulario(b, sel, hoja, ctx) {
-    ctx.formularios.push(sel);
-    return `<!--FORMULARIO:${sel}-->`;
+  formulario(b, ctx) {
+    ctx.formularios.push(b.id);
+    return { html: `<!--FORMULARIO:${b.id}-->` };
   },
 
   video(b) {
-    if (!b.url) return '';
+    if (!b.url) return { html: '' };
     const yt = b.url.match(/(?:youtu\.be\/|v=)([\w-]{6,})/);
     if (yt) {
-      return `<div class="video"><iframe loading="lazy" title="Vídeo"` +
-        ` src="https://www.youtube-nocookie.com/embed/${yt[1]}" allowfullscreen></iframe></div>`;
+      return {
+        html: '<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-aspect-ratio-169">' +
+          `<iframe class="elementor-video" loading="lazy" title="Vídeo"` +
+          ` src="https://www.youtube-nocookie.com/embed/${yt[1]}" allowfullscreen></iframe></div>`,
+      };
     }
-    return `<video class="video" controls preload="none" src="${escapar(b.url)}"></video>`;
+    return {
+      html: '<div class="elementor-wrapper elementor-fit-aspect-ratio">' +
+        `<video class="elementor-video" controls preload="none" src="${escapar(b.url)}"></video></div>`,
+    };
   },
 
-  galeria(b, sel, hoja, ctx) {
-    hoja.add(`${sel} .galeria`, { '--columnas': b.columnas || 4 });
+  galeria(b, ctx) {
     const fotos = b.imagenes
-      .map((u) => ctx.imagenes(`<img src="${escapar(u)}" alt="" loading="lazy" decoding="async">`))
+      .map((u) => '<div class="gallery-item">' +
+        ctx.imagenes(`<img src="${escapar(u)}" alt="" loading="lazy" decoding="async">`) + '</div>')
       .join('');
-    return `<div class="galeria">${fotos}</div>`;
+    return { html: `<div class="gallery galley-columns-${b.columnas || 4}">${fotos}</div>` };
   },
 
   ancla(b) {
-    return `<span id="${escapar(b.ancla)}" class="ancla"></span>`;
+    return { html: `<div class="elementor-menu-anchor" id="${escapar(b.ancla)}"></div>` };
   },
+};
+
+/* Nombre del widget en las clases de Elementor. */
+const NOMBRE = {
+  encabezado: 'heading',
+  texto: 'text-editor',
+  imagen: 'image',
+  boton: 'button',
+  separador: 'divider',
+  espaciador: 'spacer',
+  mapa: 'google_maps',
+  formulario: 'eael-contact-form-7',
+  video: 'video',
+  galeria: 'image-gallery',
+  ancla: 'menu-anchor',
 };
 
 /* ------------------------------------------------------------- el recorrido */
 
-function pintarElemento(b, hoja, ctx, nivel = 1) {
-  if (b.t === 'seccion') return pintarSeccion(b, hoja, ctx, nivel > 0);
+function pintarElemento(b, ctx, nivel) {
+  if (b.t === 'seccion') return pintarSeccion(b, ctx, nivel);
   const pintor = PINTORES[b.t];
   if (!pintor) return '';
-  const sel = `.e-${b.id}`;
-  estiloComun(b, sel, hoja);
-  const dentro = pintor(b, sel, hoja, ctx);
-  if (b.t === 'espaciador') return `<div class="bloque espaciador e-${b.id}"></div>`;
-  if (!dentro) return '';
-  const ancla = b.ancla && b.t !== 'ancla' ? ` id="${escapar(b.ancla)}"` : '';
-  return `<div class="bloque bloque-${b.t} e-${b.id}"${ancla}>${dentro}</div>`;
+  const { html, clases = [] } = pintor(b, ctx);
+  if (html === '') return '';
+  const tipo = NOMBRE[b.t] || b.t;
+  const todas = ['elementor-element', `elementor-element-${b.id}`, ...clases,
+    'elementor-widget', `elementor-widget-${tipo}`].join(' ');
+  return `<div class="${todas}" data-id="${b.id}" data-element_type="widget" data-widget_type="${tipo}.default">` +
+    `<div class="elementor-widget-container">${html}</div></div>`;
 }
 
-function pintarColumna(c, hoja, ctx, i) {
-  const id = `c${ctx.n++}`;
-  const sel = `.${id}`;
-  // el ancho va en `flex`, no en `width`: dentro de un contenedor flex es la
-  // base la que manda, y un width con base 0 deja la columna en nada
-  hoja.add(sel, {
-    flex: c.ancho != null ? `0 0 ${c.ancho}%` : undefined,
-    'max-width': c.ancho != null ? `${c.ancho}%` : undefined,
-    padding: c.relleno,
-    'background-color': c.fondo?.color,
-    'justify-content': c.alinearVertical,
-  });
-  if (c.anchoTablet != null) {
-    hoja.add(sel, { flex: `0 0 ${c.anchoTablet}%`, 'max-width': `${c.anchoTablet}%` }, 'tablet');
-  }
-  hoja.add(sel, {
-    flex: c.anchoMovil != null ? `0 0 ${c.anchoMovil}%` : '0 0 100%',
-    'max-width': c.anchoMovil != null ? `${c.anchoMovil}%` : '100%',
-  }, 'movil');
-
-  const dentro = c.elementos.map((e) => pintarElemento(e, hoja, ctx, 1)).join('');
-  return `<div class="columna ${id}">${dentro}</div>`;
+function pintarColumna(c, ctx, nivel) {
+  const clases = ['elementor-column', claseColumna(c),
+    nivel === 0 ? 'elementor-top-column' : 'elementor-inner-column',
+    'elementor-element', `elementor-element-${c.id || 'c' + ctx.n++}`].join(' ');
+  const dentro = (c.elementos || []).map((e) => pintarElemento(e, ctx, nivel + 1)).join('');
+  return `<div class="${clases}" data-element_type="column">` +
+    `<div class="elementor-widget-wrap elementor-element-populated">${dentro}</div></div>`;
 }
 
-function pintarSeccion(s, hoja, ctx, anidada = false) {
-  const sel = `.e-${s.id}`;
-  // OJO: en Elementor la separacion entre columnas NO es un `gap` de flex,
-  // es relleno de la propia columna. Ponerla como gap ademas del relleno
-  // hacia que cuatro columnas del 25 % sumaran mas del 100 % y se partieran
-  // las rejillas de tarjetas.
-  const lados = s.hueco === 'no' ? 0
-    : s.hueco === 'custom' ? (s.huecoPx ?? 0) / 2
-      : HUECO_POR_DEFECTO / 2;
-  const arriba = s.hueco === 'no' ? 0 : HUECO_POR_DEFECTO / 2;
-
-  hoja.add(sel, {
-    margin: s.margen,
-    padding: s.relleno,
-    'background-color': s.fondo?.color,
-    'background-image': s.fondo?.imagen ? `url('${s.fondo.imagen}')` : undefined,
-    'background-position': s.fondo?.posicion,
-    'background-size': s.fondo?.tamano,
-    'background-repeat': s.fondo?.repetir,
-    'background-attachment': s.fondo?.fijado,
-    'min-height': s.altoMinimo ? `${s.altoMinimo}px` : undefined,
-  });
-  if (s.margenMovil || s.rellenoMovil) {
-    hoja.add(sel, { margin: s.margenMovil, padding: s.rellenoMovil }, 'movil');
-  }
-  if (s.fondo?.velo) {
-    hoja.add(`${sel} > .velo`, {
-      'background-color': s.fondo.velo,
-      opacity: s.fondo.veloOpacidad ?? 0.5,
-    });
-  }
-  hoja.add(`${sel} > .interior`, { 'max-width': `${s.ancho || ANCHO_POR_DEFECTO}px` });
-  hoja.add(`${sel} > .interior > .columna`, { padding: `${arriba}px ${lados}px` });
-
-  const columnas = (s.columnas || []).map((c, i) => pintarColumna(c, hoja, ctx, i)).join('');
-  const velo = s.fondo?.velo ? '<div class="velo"></div>' : '';
-  const clases = ['seccion', s.estirada ? 'estirada' : '', anidada ? 'anidada' : '', `e-${s.id}`]
-    .filter(Boolean).join(' ');
+function pintarSeccion(s, ctx, nivel) {
+  const clases = ['elementor-section',
+    nivel === 0 ? 'elementor-top-section' : 'elementor-inner-section',
+    'elementor-element', `elementor-element-${s.id}`,
+    s.estirada ? 'elementor-section-stretched' : '',
+    `elementor-section-${s.disposicion || 'boxed'}`,
+    'elementor-section-height-default'].filter(Boolean).join(' ');
+  const columnas = (s.columnas || []).map((c) => pintarColumna(c, ctx, nivel)).join('');
   const ancla = s.ancla ? ` id="${escapar(s.ancla)}"` : '';
-  return `<section class="${clases}"${ancla}>${velo}<div class="interior">${columnas}</div></section>`;
+  return `<section class="${clases}"${ancla} data-id="${s.id}" data-element_type="section">` +
+    `<div class="elementor-container ${claseHueco(s)}">${columnas}</div></section>`;
 }
 
 /**
- * Pinta el arbol entero.
- * @param {Array} bloques  arbol de la pagina
- * @param {Function} imagenes  funcion que sanea el HTML de imagenes (webp, marcador)
- * @returns {{html: string, css: string, formularios: string[]}}
+ * Pinta el arbol entero con el marcado de Elementor.
+ * @param {Array} bloques   arbol de la pagina
+ * @param {Object} opciones { imagenes, postId }
+ * @returns {{html: string, formularios: string[]}}
  */
-export function pintar(bloques, imagenes = (h) => h) {
-  const hoja = new Hoja();
+export function pintar(bloques, { imagenes = (h) => h, postId = 0 } = {}) {
   const ctx = { n: 0, imagenes, formularios: [] };
-  const html = (bloques || []).map((s) => pintarElemento(s, hoja, ctx, 0)).join('\n');
-  return { html, css: hoja.toString(), formularios: ctx.formularios };
+  const dentro = (bloques || []).map((s) => pintarElemento(s, ctx, 0)).join('\n');
+  const html = `<div class="elementor elementor-${postId}">` +
+    `<div class="elementor-inner"><div class="elementor-section-wrap">${dentro}</div></div></div>`;
+  return { html, formularios: ctx.formularios };
 }
 
 /**

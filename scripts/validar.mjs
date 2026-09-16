@@ -104,7 +104,7 @@ for (const f of fs.readdirSync(PAGINAS).filter((x) => x.endsWith('.json'))) {
   }
   revisadas++;
   const html = fs.readFileSync(destino, 'utf8');
-  const cuerpo = (html.match(/<article class="entrada">([\s\S]*?)<\/article>/) || [, ''])[1];
+  const cuerpo = (html.match(/<main id="main"[^>]*>([\s\S]*?)<\/main>/) || [, ''])[1];
 
   for (const e of ETIQUETAS) {
     const d = equilibrio(cuerpo, e);

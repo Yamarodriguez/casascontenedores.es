@@ -349,7 +349,7 @@ def convertir_widget(e):
 
 def convertir_columna(e):
     s = e.get("settings") or {}
-    c = {"elementos": [convertir(h) for h in (e.get("elements") or [])]}
+    c = {"id": e.get("id"), "elementos": [convertir(h) for h in (e.get("elements") or [])]}
     c["elementos"] = [x for x in c["elementos"] if x]
     # _inline_size es el ancho que el usuario ajusto arrastrando; _column_size
     # es el de la estructura. Manda el primero cuando existe.
@@ -358,6 +358,11 @@ def convertir_columna(e):
         an = num(s.get("_column_size"))
     if an is not None:
         c["ancho"] = round(an, 3)
+    # el ancho de la ESTRUCTURA (25, 33, 50, 100...): Elementor lo usa para la
+    # clase elementor-col-N, que es lo que engancha con sus hojas de estilo
+    base = num(s.get("_column_size"))
+    if base is not None:
+        c["anchoBase"] = int(base)
     anm = num(s.get("_inline_size_mobile"))
     if anm is not None:
         c["anchoMovil"] = round(anm, 3)
@@ -380,8 +385,12 @@ def convertir_seccion(e):
     sec = {"t": "seccion", "id": e.get("id")}
     if s.get("stretch_section") == "section-stretched":
         sec["estirada"] = True
+    # boxed (el contenedor lleva ancho maximo) o full_width (no lo lleva).
+    # Elementor lo escribe como clase, no como CSS: sin esto una seccion a
+    # ancho completo se queda encogida al ancho del kit.
+    sec["disposicion"] = s.get("layout") or "boxed"
     ancho = num(s.get("content_width"))
-    if ancho:
+    if ancho and sec["disposicion"] == "boxed":
         sec["ancho"] = int(ancho)
     if s.get("gap"):
         sec["hueco"] = s["gap"]
@@ -523,6 +532,12 @@ def main():
         destino = os.path.join(PAGINAS, fichero)
         with open(destino, encoding="utf-8") as fh:
             pagina = json.load(fh)
+        # el id del post: con el se localiza la hoja de estilo que Elementor
+        # escribio para esta pagina (/wp-content/uploads/elementor/css/post-ID.css)
+        m_pid = re.search(r"<wp:post_id>(\d+)</wp:post_id>", it)
+        pid = m_pid.group(1) if m_pid else ""
+        if pid:
+            pagina["postId"] = int(pid)
         pagina["bloques"] = bloques
         pagina["menu"] = menu
         pagina["bandaTitulo"] = banda

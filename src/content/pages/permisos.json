@@ -22,12 +22,14 @@
    "t": "seccion",
    "id": "23d09ea",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
    "huecoPx": 0.0,
    "margen": "-84px 0px 0px 0px",
    "columnas": [
     {
+     "id": "134ae30",
      "elementos": [
       {
        "t": "imagen",
@@ -37,15 +39,18 @@
        "ancho": "100%"
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "ca8fa9e",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "ced9c2f",
      "elementos": [
       {
        "t": "espaciador",
@@ -96,15 +101,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "3e7085e",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "7d4e5ef",
      "elementos": [
       {
        "t": "encabezado",
@@ -184,15 +192,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "3c150d3",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "5470020",
      "elementos": [
       {
        "t": "boton",
@@ -214,17 +225,20 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "936e2fa",
+   "disposicion": "boxed",
    "ancho": 1131,
    "hueco": "no",
    "columnas": [
     {
+     "id": "cbb0917",
      "elementos": [
       {
        "t": "encabezado",
@@ -246,15 +260,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "d599686",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "e8baef2",
      "elementos": [
       {
        "t": "espaciador",
@@ -262,15 +279,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "1569676",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "3bf1ee2",
      "elementos": [
       {
        "t": "boton",
@@ -287,9 +307,11 @@
        }
       }
      ],
-     "ancho": 50.0
+     "ancho": 50.0,
+     "anchoBase": 50
     },
     {
+     "id": "733a7d2",
      "elementos": [
       {
        "t": "boton",
@@ -306,15 +328,18 @@
        }
       }
      ],
-     "ancho": 50.0
+     "ancho": 50.0,
+     "anchoBase": 50
     }
    ]
   },
   {
    "t": "seccion",
    "id": "6bc1c36",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "defa393",
      "elementos": [
       {
        "t": "espaciador",
@@ -322,15 +347,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "0e7a810",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "5bdbf98",
      "elementos": [
       {
        "t": "separador",
@@ -350,8 +378,10 @@
       {
        "t": "seccion",
        "id": "d7f0e9f",
+       "disposicion": "boxed",
        "columnas": [
         {
+         "id": "6e7c50a",
          "elementos": [
           {
            "t": "espaciador",
@@ -407,9 +437,11 @@
            }
           }
          ],
-         "ancho": 57.513
+         "ancho": 57.513,
+         "anchoBase": 50
         },
         {
+         "id": "5484d9f",
          "elementos": [
           {
            "t": "imagen",
@@ -426,20 +458,24 @@
            "ancho": "100%"
           }
          ],
-         "ancho": 42.391
+         "ancho": 42.391,
+         "anchoBase": 50
         }
        ]
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "a377aa6",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "e41d0c4",
      "elementos": [
       {
        "t": "espaciador",
@@ -448,6 +484,7 @@
       }
      ],
      "ancho": 100.0,
+     "anchoBase": 100,
      "fondo": {
       "imagen": "/wp-content/uploads/2021/07/casas-prefabricadas-de-contenedores-permanente.jpg",
       "posicion": "center center",
@@ -461,8 +498,10 @@
   {
    "t": "seccion",
    "id": "b719959",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "f26588e",
      "elementos": [
       {
        "t": "espaciador",
@@ -510,13 +549,15 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "31d29c8",
+   "disposicion": "boxed",
    "ancho": 1600,
    "fondo": {
     "imagen": "/wp-content/uploads/2022/01/casa-hechas-con-contenedores-scaled.jpg",
@@ -525,6 +566,7 @@
    },
    "columnas": [
     {
+     "id": "67f6bb2",
      "elementos": [
       {
        "t": "espaciador",
@@ -582,12 +624,14 @@
       }
      ],
      "ancho": 60.818,
+     "anchoBase": 50,
      "fondo": {
       "color": "#0000000A",
       "imagen": "/wp-content/uploads/2022/02/Diseno-de-casas-contenedores.jpg"
      }
     },
     {
+     "id": "96c168a",
      "elementos": [
       {
        "t": "imagen",
@@ -599,6 +643,7 @@
       }
      ],
      "ancho": 39.138,
+     "anchoBase": 50,
      "fondo": {
       "color": "#000000"
      }
@@ -608,8 +653,10 @@
   {
    "t": "seccion",
    "id": "0b38fa8",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "d8cefc1",
      "elementos": [
       {
        "t": "espaciador",
@@ -617,15 +664,18 @@
        "alto": 19.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "0d4faf5",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "45e738d",
      "elementos": [
       {
        "t": "encabezado",
@@ -668,15 +718,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "b6b1d6f",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "34afd32",
      "elementos": [
       {
        "t": "encabezado",
@@ -719,15 +772,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "b63f092",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "9bd7c0c",
      "elementos": [
       {
        "t": "encabezado",
@@ -770,15 +826,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "3fbe3c9",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "5070c1b",
      "elementos": [
       {
        "t": "encabezado",
@@ -930,15 +989,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "a449b39",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "e6b7ac8",
      "elementos": [
       {
        "t": "espaciador",
@@ -962,9 +1024,11 @@
        }
       }
      ],
-     "ancho": 50.0
+     "ancho": 50.0,
+     "anchoBase": 50
     },
     {
+     "id": "38a1dbd",
      "elementos": [
       {
        "t": "imagen",
@@ -973,17 +1037,20 @@
        "alt": ""
       }
      ],
-     "ancho": 50.0
+     "ancho": 50.0,
+     "anchoBase": 50
     }
    ]
   },
   {
    "t": "seccion",
    "id": "81a15a5",
+   "disposicion": "boxed",
    "ancho": 1131,
    "hueco": "no",
    "columnas": [
     {
+     "id": "1887145",
      "elementos": [
       {
        "t": "ancla",
@@ -993,8 +1060,10 @@
       {
        "t": "seccion",
        "id": "a5f8912",
+       "disposicion": "boxed",
        "columnas": [
         {
+         "id": "6ec717c",
          "elementos": [
           {
            "t": "encabezado",
@@ -1043,9 +1112,11 @@
            "alt": ""
           }
          ],
-         "ancho": 54.419
+         "ancho": 54.419,
+         "anchoBase": 50
         },
         {
+         "id": "7a6694e",
          "elementos": [
           {
            "t": "imagen",
@@ -1069,20 +1140,24 @@
            "ancho": "77%"
           }
          ],
-         "ancho": 45.485
+         "ancho": 45.485,
+         "anchoBase": 50
         }
        ]
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "52f927b",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "13f3954",
      "elementos": [
       {
        "t": "espaciador",
@@ -1090,17 +1165,20 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "5eab7fb",
+   "disposicion": "boxed",
    "ancho": 1131,
    "hueco": "no",
    "columnas": [
     {
+     "id": "811995b",
      "elementos": [
       {
        "t": "encabezado",
@@ -1134,15 +1212,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "f475393",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "54a1552",
      "elementos": [
       {
        "t": "encabezado",
@@ -1176,15 +1257,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "537651e",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "f1699e6",
      "elementos": [
       {
        "t": "encabezado",
@@ -1218,15 +1302,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "3608893",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "5148bfe",
      "elementos": [
       {
        "t": "encabezado",
@@ -1260,13 +1347,15 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "f7811d2",
+   "disposicion": "boxed",
    "ancho": 1600,
    "fondo": {
     "imagen": "/wp-content/uploads/2022/01/casa-hechas-con-contenedores-scaled.jpg",
@@ -1275,6 +1364,7 @@
    },
    "columnas": [
     {
+     "id": "4841385",
      "elementos": [
       {
        "t": "espaciador",
@@ -1332,12 +1422,14 @@
       }
      ],
      "ancho": 60.818,
+     "anchoBase": 50,
      "fondo": {
       "color": "#0000000A",
       "imagen": "/wp-content/uploads/2022/02/Diseno-de-casas-contenedores.jpg"
      }
     },
     {
+     "id": "0461993",
      "elementos": [
       {
        "t": "imagen",
@@ -1349,6 +1441,7 @@
       }
      ],
      "ancho": 39.138,
+     "anchoBase": 50,
      "fondo": {
       "color": "#000000"
      }
@@ -1358,8 +1451,10 @@
   {
    "t": "seccion",
    "id": "79c60b6",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "e6e6091",
      "elementos": [
       {
        "t": "encabezado",
@@ -1393,15 +1488,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "409ebb6",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "1da8118",
      "elementos": [
       {
        "t": "encabezado",
@@ -1435,15 +1533,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "e959444",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "270d1f7",
      "elementos": [
       {
        "t": "encabezado",
@@ -1459,15 +1560,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "cc2418e",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "8f19cd4",
      "elementos": [
       {
        "t": "texto",
@@ -1475,9 +1579,11 @@
        "html": "<ul class=\"texto-negro-mediana\"><li>Contenedores marítimos transformados en <b>equipamientos sociales para ayuntamientos y organismos públicos</b></li><li>Contenedor transformado para el tratamiento y depuración de aguas</li><li>Contenedor convertido en taller</li><li>Contenedor marítimo transformado en un comercio</li><li>Contenedor solar autónomo</li><li>Módulo prefabricado vestuario</li><li>Contenedores para bares o restaurantes, en Centros comerciales, parques, playas o piscinas.</li><li>Contenedor almacén ligero</li></ul>"
       }
      ],
-     "ancho": 50.0
+     "ancho": 50.0,
+     "anchoBase": 50
     },
     {
+     "id": "22a886c",
      "elementos": [
       {
        "t": "texto",
@@ -1485,15 +1591,18 @@
        "html": "<ul class=\"texto-negro-mediana\"><li>Contenedor de 6 m transformado en una oficina</li><li>Módulo prefabricado forrado de madera</li><li>Contenedor marítimo para punto de venta o información</li><li>Módulos prefabricados para servicios diversos en playa</li><li>Contenedor transformado en laboratorio móvil</li><li>Contenedor transformado de altura 2,90m (hc) a uno con puertas laterales (openside)</li><li>Contenedor transformado de carga seca (dry) con y sin aislamiento térmico</li><li>Conjunto modular para oficina de campaña</li><li>Casas modulares prefabricadas, etc</li></ul>"
       }
      ],
-     "ancho": 50.0
+     "ancho": 50.0,
+     "anchoBase": 50
     }
    ]
   },
   {
    "t": "seccion",
    "id": "cfb7508",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "ef99fe8",
      "elementos": [
       {
        "t": "espaciador",
@@ -1501,21 +1610,26 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "6c56cf5",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "764efea",
      "elementos": [
       {
        "t": "seccion",
        "id": "63149fe",
+       "disposicion": "boxed",
        "columnas": [
         {
+         "id": "534a2a8",
          "elementos": [
           {
            "t": "encabezado",
@@ -1556,9 +1670,11 @@
            }
           }
          ],
-         "ancho": 73.424
+         "ancho": 73.424,
+         "anchoBase": 50
         },
         {
+         "id": "ffe3d65",
          "elementos": [
           {
            "t": "espaciador",
@@ -1581,6 +1697,7 @@
           }
          ],
          "ancho": 26.477,
+         "anchoBase": 50,
          "fondo": {
           "imagen": "/wp-content/uploads/2021/06/casas-contenedores-planos.jpg",
           "posicion": "center center",
@@ -1591,15 +1708,18 @@
        ]
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "a57b46f",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "23bb943",
      "elementos": [
       {
        "t": "espaciador",
@@ -1607,15 +1727,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "e7b716d",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "3144212",
      "elementos": [
       {
        "t": "espaciador",
@@ -1661,9 +1784,11 @@
        }
       }
      ],
-     "ancho": 91.967
+     "ancho": 91.967,
+     "anchoBase": 50
     },
     {
+     "id": "a791e22",
      "elementos": [
       {
        "t": "imagen",
@@ -1687,15 +1812,18 @@
        }
       }
      ],
-     "ancho": 32.837
+     "ancho": 32.837,
+     "anchoBase": 50
     }
    ]
   },
   {
    "t": "seccion",
    "id": "b67b320",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "fd32cd5",
      "elementos": [
       {
        "t": "espaciador",
@@ -1703,15 +1831,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "880887d",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "3a316c3",
      "elementos": [
       {
        "t": "espaciador",
@@ -1757,9 +1888,11 @@
        }
       }
      ],
-     "ancho": 92.291
+     "ancho": 92.291,
+     "anchoBase": 50
     },
     {
+     "id": "1eadbee",
      "elementos": [
       {
        "t": "imagen",
@@ -1783,15 +1916,18 @@
        }
       }
      ],
-     "ancho": 32.661
+     "ancho": 32.661,
+     "anchoBase": 50
     }
    ]
   },
   {
    "t": "seccion",
    "id": "536a02c",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "996ceaf",
      "elementos": [
       {
        "t": "espaciador",
@@ -1799,15 +1935,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "97c1f99",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "3f2b9fa",
      "elementos": [
       {
        "t": "espaciador",
@@ -1853,9 +1992,11 @@
        }
       }
      ],
-     "ancho": 92.291
+     "ancho": 92.291,
+     "anchoBase": 50
     },
     {
+     "id": "b6f7825",
      "elementos": [
       {
        "t": "imagen",
@@ -1879,15 +2020,18 @@
        }
       }
      ],
-     "ancho": 32.661
+     "ancho": 32.661,
+     "anchoBase": 50
     }
    ]
   },
   {
    "t": "seccion",
    "id": "7597dd5",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "eb1c38d",
      "elementos": [
       {
        "t": "espaciador",
@@ -1895,13 +2039,15 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "d9dac57",
+   "disposicion": "boxed",
    "ancho": 1214,
    "hueco": "custom",
    "huecoPx": 49.0,
@@ -1916,6 +2062,7 @@
    },
    "columnas": [
     {
+     "id": "e79d7c1",
      "elementos": [
       {
        "t": "encabezado",
@@ -1969,15 +2116,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "dacd1a1",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "8b8dcc4",
      "elementos": [
       {
        "t": "espaciador",
@@ -1985,15 +2135,18 @@
        "alto": 10.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "6d791ef",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "e50b692",
      "elementos": [
       {
        "t": "encabezado",
@@ -2022,9 +2175,11 @@
        "hueco": 5.0
       }
      ],
-     "ancho": 50.0
+     "ancho": 50.0,
+     "anchoBase": 50
     },
     {
+     "id": "3bfefc8",
      "elementos": [
       {
        "t": "texto",
@@ -2042,7 +2197,8 @@
        }
       }
      ],
-     "ancho": 50.0
+     "ancho": 50.0,
+     "anchoBase": 50
     }
    ]
   },
@@ -2050,9 +2206,11 @@
    "t": "seccion",
    "id": "c64f00a",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 1113,
    "columnas": [
     {
+     "id": "3cd7643",
      "elementos": [
       {
        "t": "encabezado",
@@ -2078,12 +2236,14 @@
       }
      ],
      "ancho": 24.775,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "52a7280",
      "elementos": [
       {
        "t": "encabezado",
@@ -2109,12 +2269,14 @@
       }
      ],
      "ancho": 25.18,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "d65093e",
      "elementos": [
       {
        "t": "encabezado",
@@ -2140,12 +2302,14 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "7f2f6c3",
      "elementos": [
       {
        "t": "encabezado",
@@ -2171,6 +2335,7 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E8E8E8"
@@ -2181,8 +2346,10 @@
   {
    "t": "seccion",
    "id": "c783c9b",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "1bf3e8e",
      "elementos": [
       {
        "t": "espaciador",
@@ -2190,7 +2357,8 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
@@ -2198,9 +2366,11 @@
    "t": "seccion",
    "id": "1b908e8",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 1130,
    "columnas": [
     {
+     "id": "5036a8a",
      "elementos": [
       {
        "t": "encabezado",
@@ -2226,12 +2396,14 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "47a4494",
      "elementos": [
       {
        "t": "encabezado",
@@ -2257,12 +2429,14 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "db7c619",
      "elementos": [
       {
        "t": "encabezado",
@@ -2288,12 +2462,14 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "ac4fa62",
      "elementos": [
       {
        "t": "encabezado",
@@ -2319,6 +2495,7 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E8E8E8"
@@ -2329,8 +2506,10 @@
   {
    "t": "seccion",
    "id": "9a72801",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "df2e91e",
      "elementos": [
       {
        "t": "espaciador",
@@ -2338,16 +2517,19 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "5be6bd3",
+   "disposicion": "boxed",
    "ancho": 750,
    "columnas": [
     {
+     "id": "edf8a1d",
      "elementos": [
       {
        "t": "encabezado",
@@ -2365,9 +2547,11 @@
        "url": "/casa-contenedor-40-pies/"
       }
      ],
-     "ancho": 50.0
+     "ancho": 50.0,
+     "anchoBase": 50
     },
     {
+     "id": "d82df0a",
      "elementos": [
       {
        "t": "encabezado",
@@ -2385,16 +2569,19 @@
        "url": "/casa-contendor-20-pies/"
       }
      ],
-     "ancho": 50.0
+     "ancho": 50.0,
+     "anchoBase": 50
     }
    ]
   },
   {
    "t": "seccion",
    "id": "7249048",
+   "disposicion": "boxed",
    "ancho": 750,
    "columnas": [
     {
+     "id": "e85a637",
      "elementos": [
       {
        "t": "encabezado",
@@ -2412,15 +2599,18 @@
        "url": "/piscina-contenedor/"
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "c428ca3",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "a4e3547",
      "elementos": [
       {
        "t": "espaciador",
@@ -2442,15 +2632,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "66f78b8",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "957bfd3",
      "elementos": [
       {
        "t": "espaciador",
@@ -2458,13 +2651,15 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "b535734",
+   "disposicion": "boxed",
    "fondo": {
     "imagen": "/wp-content/uploads/2021/06/que-contenedor-de-escombros-elegir.jpg",
     "posicion": "center center",
@@ -2475,6 +2670,7 @@
    },
    "columnas": [
     {
+     "id": "6d189b2",
      "elementos": [
       {
        "t": "espaciador",
@@ -2532,15 +2728,18 @@
        "alto": 38.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "f0522b6",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "c947344",
      "elementos": [
       {
        "t": "espaciador",
@@ -2548,15 +2747,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "56e99a6",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "6494b0b",
      "elementos": [
       {
        "t": "encabezado",
@@ -2583,7 +2785,8 @@
        "hueco": 5.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
@@ -2591,10 +2794,12 @@
    "t": "seccion",
    "id": "e3d37f6",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 653,
    "hueco": "no",
    "columnas": [
     {
+     "id": "1aa15fe",
      "elementos": [
       {
        "t": "encabezado",
@@ -2626,9 +2831,11 @@
       }
      ],
      "ancho": 50.0,
+     "anchoBase": 50,
      "anchoMovil": 50.0
     },
     {
+     "id": "e8c4117",
      "elementos": [
       {
        "t": "encabezado",
@@ -2660,6 +2867,7 @@
       }
      ],
      "ancho": 50.0,
+     "anchoBase": 50,
      "anchoMovil": 50.0
     }
    ]

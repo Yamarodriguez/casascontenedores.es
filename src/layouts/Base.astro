@@ -18,8 +18,13 @@ const {
   noindex = false,
   bandaTitulo = true,
   menu = '',
-  css = '',
+  postId = 0,
 } = Astro.props;
+
+// Hojas de estilo originales del sitio: las comunes del tema y de Elementor,
+// y la que Elementor escribio para esta pagina. Las prepara scripts/css.mjs.
+const hojaPagina = postId && existe(`/css/post-${postId}.css`) ? `/css/post-${postId}.css` : '';
+const hayComunes = existe('/css/comunes.css');
 
 const canonical = site.dominio + ruta;
 const heroSrc = hero?.src && existe(hero.src) ? aWebp(hero.src) : '';
@@ -101,7 +106,8 @@ if (faq.length) {
 
     {jsonld.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d)} />)}
 
-    {css && <style set:html={css} />}
+    {hayComunes && <link rel="stylesheet" href="/css/comunes.css" />}
+    {hojaPagina && <link rel="stylesheet" href={hojaPagina} />}
 
     {site.analitica.ga4 && (
       <>
@@ -126,7 +132,9 @@ if (faq.length) {
     )}
   </head>
 
-  <body>
+  <!-- Las clases del <body> son las que espera el CSS del tema: sin ellas,
+       reglas como .boxed-layout #wrap .container no llegan a aplicar. -->
+  <body class={`page wp-custom-logo boxed-layout wrap-boxshadow content-full-width default-breakpoint has-topbar elementor-kit-13 ${postId ? `elementor-page elementor-page-${postId}` : ''}`}>
     <div id="wrap">
       <Header ruta={ruta} menu={menu} />
 
@@ -139,10 +147,20 @@ if (faq.length) {
         </div>
       )}
 
-      <main id="contenido">
-        <article class="entrada">
-          <slot />
-        </article>
+      <!-- Mismo envoltorio que usaba el tema: sus hojas de estilo originales
+           son las que fijan el ancho de la caja y los 30 px de margen. -->
+      <main id="main" class="site-main clr">
+        <div id="content-wrap" class="container clr">
+          <div id="primary" class="content-area clr">
+            <div id="content" class="site-content clr">
+              <article class="single-page-article clr">
+                <div class="entry clr entrada">
+                  <slot />
+                </div>
+              </article>
+            </div>
+          </div>
+        </div>
       </main>
 
       <Footer />

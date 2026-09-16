@@ -9,7 +9,10 @@
     "validar": "node scripts/validar.mjs",
     "comparar": "node scripts/comparar-encabezados.mjs",
     "webp": "node scripts/webp.mjs",
-    "capturas": "node scripts/capturas.mjs"
+    "capturas": "node scripts/capturas.mjs",
+    "css": "node scripts/css.mjs",
+    "css:crudo": "node scripts/css.mjs --crudo",
+    "todo": "astro build && node scripts/css.mjs && astro build && node scripts/validar.mjs && node scripts/comparar-encabezados.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",

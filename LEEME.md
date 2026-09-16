@@ -30,9 +30,22 @@ npm run validar       # comprueba las 263 páginas
 
 ## El diseño
 
-Copia del diseño actual. Los valores no están inventados: salen de medir el
-CSS del sitio en vivo (el personalizador de OceanWP y los CSS por página de
-Elementor).
+**No está reescrito: es el original.** El sitio carga las mismas hojas de
+estilo que cargaba WordPress, y el HTML se escribe con las mismas clases que
+escribía Elementor, así que encajan sin tocar nada.
+
+```
+css-original/comunes/    hojas del tema, de Elementor y del personalizador
+css-original/paginas/    una por página, escrita por el propio Elementor
+public/css/              las anteriores, juntas y sin las reglas que no se usan
+```
+
+`scripts/descargar-css.mjs` las baja del sitio en vivo; `scripts/css.mjs` las
+junta y las limpia. La limpieza mira el HTML ya compilado y tira toda regla
+que ninguna de las 263 páginas usa: de ahí sale la mitad del peso.
+
+`src/styles/global.css` ya solo se ocupa de la cabecera, el pie y el
+formulario. Del contenido no toca nada.
 
 | | valor |
 |---|---|

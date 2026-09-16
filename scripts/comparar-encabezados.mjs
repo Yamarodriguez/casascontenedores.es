@@ -49,7 +49,7 @@ function encabezadosDe(html) {
   const salida = [];
   const h1 = html.match(/<h1[^>]*class="titulo"[^>]*>([\s\S]*?)<\/h1>/);
   if (h1) salida.push({ nivel: 'h1', texto: normalizar(h1[1]) });
-  const cuerpo = (html.match(/<article class="entrada">([\s\S]*?)<\/article>/) || [, ''])[1];
+  const cuerpo = (html.match(/<main id="main"[^>]*>([\s\S]*?)<\/main>/) || [, ''])[1];
   for (const m of cuerpo.matchAll(/<(h[123])\b[^>]*>([\s\S]*?)<\/\1>/gi)) {
     const t = normalizar(m[2]);
     if (t) salida.push({ nivel: m[1].toLowerCase(), texto: t });

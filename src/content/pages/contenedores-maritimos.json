@@ -22,12 +22,14 @@
    "t": "seccion",
    "id": "6300182",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
    "huecoPx": 0.0,
    "margen": "-50px 0px -3px 0px",
    "columnas": [
     {
+     "id": "dd7725c",
      "elementos": [
       {
        "t": "imagen",
@@ -43,15 +45,18 @@
        "alto": 19.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "ca8fa9e",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "ced9c2f",
      "elementos": [
       {
        "t": "espaciador",
@@ -103,9 +108,11 @@
        }
       }
      ],
-     "ancho": 67.28
+     "ancho": 67.28,
+     "anchoBase": 50
     },
     {
+     "id": "95c4ca9",
      "elementos": [
       {
        "t": "espaciador",
@@ -161,8 +168,10 @@
       {
        "t": "seccion",
        "id": "a7a3604",
+       "disposicion": "boxed",
        "columnas": [
         {
+         "id": "39478e5",
          "elementos": [
           {
            "t": "boton",
@@ -173,23 +182,27 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 100.0
+         "ancho": 100.0,
+         "anchoBase": 100
         }
        ]
       }
      ],
-     "ancho": 32.59
+     "ancho": 32.59,
+     "anchoBase": 50
     }
    ]
   },
   {
    "t": "seccion",
    "id": "94ab880",
+   "disposicion": "boxed",
    "fondo": {
     "color": "#FFFFFF"
    },
    "columnas": [
     {
+     "id": "545789e",
      "elementos": [
       {
        "t": "espaciador",
@@ -247,9 +260,11 @@
        }
       }
      ],
-     "ancho": 56.49
+     "ancho": 56.49,
+     "anchoBase": 50
     },
     {
+     "id": "dbf4d89",
      "elementos": [
       {
        "t": "imagen",
@@ -262,15 +277,18 @@
        "url": "/contenedores-maritimos-catalogo/"
       }
      ],
-     "ancho": 43.206
+     "ancho": 43.206,
+     "anchoBase": 50
     }
    ]
   },
   {
    "t": "seccion",
    "id": "2311a09",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "4bb745a",
      "elementos": [
       {
        "t": "espaciador",
@@ -278,17 +296,20 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "1bb565a",
+   "disposicion": "boxed",
    "ancho": 1101,
    "hueco": "no",
    "columnas": [
     {
+     "id": "1ffa617",
      "elementos": [
       {
        "t": "espaciador",
@@ -324,12 +345,14 @@
       }
      ],
      "ancho": 20.0,
+     "anchoBase": 20,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "3b7f5c7",
      "elementos": [
       {
        "t": "espaciador",
@@ -360,12 +383,14 @@
       }
      ],
      "ancho": 20.0,
+     "anchoBase": 20,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "5e7b681",
      "elementos": [
       {
        "t": "espaciador",
@@ -396,11 +421,13 @@
       }
      ],
      "ancho": 20.0,
+     "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "b8c941a",
      "elementos": [
       {
        "t": "espaciador",
@@ -431,11 +458,13 @@
       }
      ],
      "ancho": 20.0,
+     "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "6604b3c",
      "elementos": [
       {
        "t": "espaciador",
@@ -466,6 +495,7 @@
       }
      ],
      "ancho": 20.0,
+     "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -475,8 +505,10 @@
   {
    "t": "seccion",
    "id": "2e1d887",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "790a3fe",
      "elementos": [
       {
        "t": "espaciador",
@@ -484,16 +516,19 @@
        "alto": 41.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "97a36f6",
+   "disposicion": "boxed",
    "ancho": 995,
    "columnas": [
     {
+     "id": "babf24a",
      "elementos": [
       {
        "t": "encabezado",
@@ -518,11 +553,13 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "4bf2fb5",
      "elementos": [
       {
        "t": "encabezado",
@@ -547,11 +584,13 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "ce66337",
      "elementos": [
       {
        "t": "encabezado",
@@ -576,11 +615,13 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "bbddf04",
      "elementos": [
       {
        "t": "encabezado",
@@ -605,6 +646,7 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -614,8 +656,10 @@
   {
    "t": "seccion",
    "id": "ca466b7",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "d3e6c9d",
      "elementos": [
       {
        "t": "espaciador",
@@ -623,16 +667,19 @@
        "alto": 53.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "93af598",
+   "disposicion": "boxed",
    "ancho": 921,
    "columnas": [
     {
+     "id": "a9a3fc6",
      "elementos": [
       {
        "t": "encabezado",
@@ -657,11 +704,13 @@
       }
      ],
      "ancho": 20.0,
+     "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "c7d0d38",
      "elementos": [
       {
        "t": "encabezado",
@@ -686,11 +735,13 @@
       }
      ],
      "ancho": 20.0,
+     "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "2050206",
      "elementos": [
       {
        "t": "encabezado",
@@ -716,11 +767,13 @@
       }
      ],
      "ancho": 20.0,
+     "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "ff2ca21",
      "elementos": [
       {
        "t": "encabezado",
@@ -746,11 +799,13 @@
       }
      ],
      "ancho": 20.0,
+     "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "298274f",
      "elementos": [
       {
        "t": "encabezado",
@@ -776,6 +831,7 @@
       }
      ],
      "ancho": 20.0,
+     "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -785,8 +841,10 @@
   {
    "t": "seccion",
    "id": "844986b",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "9730b85",
      "elementos": [
       {
        "t": "espaciador",
@@ -794,15 +852,18 @@
        "alto": 35.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "b66bc33",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "ba51787",
      "elementos": [
       {
        "t": "boton",
@@ -819,15 +880,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "786b263",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "2914fe3",
      "elementos": [
       {
        "t": "espaciador",
@@ -835,15 +899,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "b1dc32e",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "7036139",
      "elementos": [
       {
        "t": "espaciador",
@@ -889,9 +956,11 @@
        }
       }
      ],
-     "ancho": 91.967
+     "ancho": 91.967,
+     "anchoBase": 50
     },
     {
+     "id": "5e143ad",
      "elementos": [
       {
        "t": "imagen",
@@ -916,6 +985,7 @@
       }
      ],
      "ancho": 32.837,
+     "anchoBase": 50,
      "anchoTablet": 100.0
     }
    ]
@@ -923,8 +993,10 @@
   {
    "t": "seccion",
    "id": "b4ae546",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "c9077d8",
      "elementos": [
       {
        "t": "espaciador",
@@ -932,15 +1004,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "7441ef9",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "3099c62",
      "elementos": [
       {
        "t": "espaciador",
@@ -986,9 +1061,11 @@
        }
       }
      ],
-     "ancho": 91.967
+     "ancho": 91.967,
+     "anchoBase": 50
     },
     {
+     "id": "e3cda3c",
      "elementos": [
       {
        "t": "imagen",
@@ -1013,6 +1090,7 @@
       }
      ],
      "ancho": 32.837,
+     "anchoBase": 50,
      "anchoTablet": 100.0
     }
    ]
@@ -1020,8 +1098,10 @@
   {
    "t": "seccion",
    "id": "791de8b",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "2b654bc",
      "elementos": [
       {
        "t": "espaciador",
@@ -1029,15 +1109,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "569c08b",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "2098a96",
      "elementos": [
       {
        "t": "espaciador",
@@ -1083,9 +1166,11 @@
        }
       }
      ],
-     "ancho": 91.967
+     "ancho": 91.967,
+     "anchoBase": 50
     },
     {
+     "id": "2d40c6f",
      "elementos": [
       {
        "t": "imagen",
@@ -1110,6 +1195,7 @@
       }
      ],
      "ancho": 32.837,
+     "anchoBase": 50,
      "anchoTablet": 100.0
     }
    ]
@@ -1117,8 +1203,10 @@
   {
    "t": "seccion",
    "id": "b710472",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "e704a66",
      "elementos": [
       {
        "t": "espaciador",
@@ -1126,15 +1214,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "e95a909",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "2dffd61",
      "elementos": [
       {
        "t": "espaciador",
@@ -1180,9 +1271,11 @@
        }
       }
      ],
-     "ancho": 91.967
+     "ancho": 91.967,
+     "anchoBase": 50
     },
     {
+     "id": "c14a6f2",
      "elementos": [
       {
        "t": "imagen",
@@ -1207,6 +1300,7 @@
       }
      ],
      "ancho": 32.837,
+     "anchoBase": 50,
      "anchoTablet": 100.0
     }
    ]
@@ -1214,8 +1308,10 @@
   {
    "t": "seccion",
    "id": "a76e3ca",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "7da9a00",
      "elementos": [
       {
        "t": "espaciador",
@@ -1223,15 +1319,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "44e141d",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "85721a6",
      "elementos": [
       {
        "t": "encabezado",
@@ -1272,9 +1371,11 @@
        }
       }
      ],
-     "ancho": 25.0
+     "ancho": 25.0,
+     "anchoBase": 25
     },
     {
+     "id": "e514cc4",
      "elementos": [
       {
        "t": "imagen",
@@ -1297,9 +1398,11 @@
        }
       }
      ],
-     "ancho": 25.0
+     "ancho": 25.0,
+     "anchoBase": 25
     },
     {
+     "id": "8ac1a59",
      "elementos": [
       {
        "t": "encabezado",
@@ -1340,9 +1443,11 @@
        }
       }
      ],
-     "ancho": 25.0
+     "ancho": 25.0,
+     "anchoBase": 25
     },
     {
+     "id": "e629100",
      "elementos": [
       {
        "t": "imagen",
@@ -1365,15 +1470,18 @@
        }
       }
      ],
-     "ancho": 25.0
+     "ancho": 25.0,
+     "anchoBase": 25
     }
    ]
   },
   {
    "t": "seccion",
    "id": "ddbbbf7",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "0f00a26",
      "elementos": [
       {
        "t": "espaciador",
@@ -1381,14 +1489,15 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "73aca9f",
-   "ancho": 1205,
+   "disposicion": "full_width",
    "hueco": "no",
    "fondo": {
     "imagen": "/wp-content/uploads/2021/08/presupuestos-de-contenedores-maritimos.jpg",
@@ -1401,6 +1510,7 @@
    },
    "columnas": [
     {
+     "id": "070a474",
      "elementos": [
       {
        "t": "espaciador",
@@ -1456,15 +1566,18 @@
        "alto": 38.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "840f036",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "315efe4",
      "elementos": [
       {
        "t": "espaciador",
@@ -1472,15 +1585,18 @@
        "alto": 23.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "5e9a795",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "8ef6301",
      "elementos": [
       {
        "t": "encabezado",
@@ -1507,7 +1623,8 @@
        "hueco": 5.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
@@ -1515,10 +1632,12 @@
    "t": "seccion",
    "id": "8990dc1",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 653,
    "hueco": "no",
    "columnas": [
     {
+     "id": "fffb17e",
      "elementos": [
       {
        "t": "encabezado",
@@ -1555,6 +1674,7 @@
       }
      ],
      "ancho": 100.0,
+     "anchoBase": 100,
      "anchoMovil": 50.0
     }
    ]
@@ -1562,6 +1682,7 @@
   {
    "t": "seccion",
    "id": "244fe15",
+   "disposicion": "boxed",
    "ancho": 1600,
    "hueco": "custom",
    "huecoPx": 0.0,
@@ -1571,6 +1692,7 @@
    },
    "columnas": [
     {
+     "id": "27742d8",
      "elementos": [
       {
        "t": "espaciador",
@@ -1578,13 +1700,15 @@
        "alto": 25.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "aff5d68",
+   "disposicion": "boxed",
    "ancho": 1600,
    "hueco": "custom",
    "huecoPx": 0.0,
@@ -1594,6 +1718,7 @@
    },
    "columnas": [
     {
+     "id": "bfd8fc1",
      "elementos": [
       {
        "t": "encabezado",
@@ -1622,13 +1747,15 @@
        "hueco": 5.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "d23b5cc",
+   "disposicion": "boxed",
    "ancho": 1432,
    "hueco": "custom",
    "huecoPx": 5.0,
@@ -1639,6 +1766,7 @@
    },
    "columnas": [
     {
+     "id": "71a266e",
      "elementos": [
       {
        "t": "texto",
@@ -1648,9 +1776,11 @@
        "color": "#FFFFFF"
       }
      ],
-     "ancho": 20.0
+     "ancho": 20.0,
+     "anchoBase": 20
     },
     {
+     "id": "df3abd0",
      "elementos": [
       {
        "t": "texto",
@@ -1660,9 +1790,11 @@
        "color": "#FFFFFF"
       }
      ],
-     "ancho": 20.0
+     "ancho": 20.0,
+     "anchoBase": 20
     },
     {
+     "id": "8a77f09",
      "elementos": [
       {
        "t": "texto",
@@ -1672,9 +1804,11 @@
        "color": "#FFFFFF"
       }
      ],
-     "ancho": 20.0
+     "ancho": 20.0,
+     "anchoBase": 20
     },
     {
+     "id": "7f83636",
      "elementos": [
       {
        "t": "texto",
@@ -1684,9 +1818,11 @@
        "color": "#FFFFFF"
       }
      ],
-     "ancho": 20.0
+     "ancho": 20.0,
+     "anchoBase": 20
     },
     {
+     "id": "b823764",
      "elementos": [
       {
        "t": "texto",
@@ -1696,7 +1832,8 @@
        "color": "#FFFFFF"
       }
      ],
-     "ancho": 20.0
+     "ancho": 20.0,
+     "anchoBase": 20
     }
    ]
   }

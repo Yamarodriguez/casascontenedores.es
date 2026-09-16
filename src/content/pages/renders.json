@@ -22,12 +22,14 @@
    "t": "seccion",
    "id": "6300182",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
    "huecoPx": 0.0,
    "margen": "-84px 0px 0px 0px",
    "columnas": [
     {
+     "id": "dd7725c",
      "elementos": [
       {
        "t": "imagen",
@@ -39,15 +41,18 @@
        "anchoMovil": "100%"
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "ab408b0",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "7ddd843",
      "elementos": [
       {
        "t": "espaciador",
@@ -56,18 +61,20 @@
        "altoMovil": 10.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "ca8fa9e",
-   "ancho": 1600,
+   "disposicion": "full_width",
    "hueco": "no",
    "margenMovil": "0px 0px 0px 0px",
    "columnas": [
     {
+     "id": "ced9c2f",
      "elementos": [
       {
        "t": "espaciador",
@@ -121,9 +128,11 @@
       {
        "t": "seccion",
        "id": "22d306c",
+       "disposicion": "boxed",
        "ancho": 1600,
        "columnas": [
         {
+         "id": "e8bd56f",
          "elementos": [
           {
            "t": "texto",
@@ -168,9 +177,11 @@
            "url": "https://renders.es/"
           }
          ],
-         "ancho": 57.804
+         "ancho": 57.804,
+         "anchoBase": 50
         },
         {
+         "id": "6dd9389",
          "elementos": [
           {
            "t": "espaciador",
@@ -210,6 +221,7 @@
           }
          ],
          "ancho": 42.066,
+         "anchoBase": 50,
          "fondo": {
           "color": "#000000"
          }
@@ -242,15 +254,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "4351887",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "2de4bd6",
      "elementos": [
       {
        "t": "espaciador",
@@ -258,15 +273,18 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "e652f3b",
+   "disposicion": "full_width",
    "columnas": [
     {
+     "id": "01db495",
      "elementos": [
       {
        "t": "espaciador",
@@ -275,6 +293,7 @@
       }
      ],
      "ancho": 100.0,
+     "anchoBase": 100,
      "fondo": {
       "imagen": "/wp-content/uploads/2022/01/renders.jpeg",
       "posicion": "center center",
@@ -288,10 +307,12 @@
   {
    "t": "seccion",
    "id": "0f55ec2",
+   "disposicion": "boxed",
    "hueco": "custom",
    "huecoPx": 47.0,
    "columnas": [
     {
+     "id": "def5b4e",
      "elementos": [
       {
        "t": "encabezado",
@@ -366,15 +387,18 @@
        "columnas": 3
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "256d1dd",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "1a4a818",
      "elementos": [
       {
        "t": "encabezado",
@@ -419,15 +443,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "c30b7da",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "49e8dea",
      "elementos": [
       {
        "t": "espaciador",
@@ -435,15 +462,18 @@
        "alto": 10.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "c9ad14c",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "018ed8b",
      "elementos": [
       {
        "t": "espaciador",
@@ -494,9 +524,11 @@
        "html": "<div class=\"elementor-element elementor-element-8ed96d1 elementor-widget elementor-widget-text-editor\" data-id=\"8ed96d1\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><ul><li>6 Render de buena calidad</li><li>Resolución 4K (3840X2160)</li><li>1 Corrección gratis (textura, color, mobiliario)</li><li>Con postproducción</li></ul></div></div></div><div class=\"elementor-element elementor-element-7509a48 elementor-widget elementor-widget-text-editor\" data-id=\"7509a48\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><p>**Proyectos de hasta 250m², incluye modelo 3D y Diseño de Interiores.</p></div></div></div>"
       }
      ],
-     "ancho": 33.0
+     "ancho": 33.0,
+     "anchoBase": 33
     },
     {
+     "id": "04bf50c",
      "elementos": [
       {
        "t": "espaciador",
@@ -547,9 +579,11 @@
        "html": "<div class=\"elementor-element elementor-element-ca73797 elementor-widget elementor-widget-text-editor\" data-id=\"ca73797\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><ul><li>6 Render de buena calidad</li><li>Resolución 4K (3840X2160)</li><li>1 Corrección gratis (textura, color, mobiliario)</li><li>Con postproducción </li></ul></div></div></div><div class=\"elementor-element elementor-element-c6d8f28 elementor-widget elementor-widget-text-editor\" data-id=\"c6d8f28\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><p>**Proyectos de hasta 250m², incluye modelo 3D y Diseño de Interiores.</p></div></div></div>"
       }
      ],
-     "ancho": 33.0
+     "ancho": 33.0,
+     "anchoBase": 33
     },
     {
+     "id": "dcedcaa",
      "elementos": [
       {
        "t": "espaciador",
@@ -600,7 +634,8 @@
        "html": "<div class=\"elementor-element elementor-element-ca73797 elementor-widget elementor-widget-text-editor\" data-id=\"ca73797\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><ul><li>1 Render de buena calidad</li><li>Resolución 4K (3840X2160)</li><li>1 Corrección gratis (textura, color, mobiliario)</li><li>Con postproducción</li></ul></div></div></div><div class=\"elementor-element elementor-element-c6d8f28 elementor-widget elementor-widget-text-editor\" data-id=\"c6d8f28\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><p>**Proyectos de hasta 250m², incluye modelo 3D y Diseño de Interiores.</p></div></div></div>"
       }
      ],
-     "ancho": 33.0
+     "ancho": 33.0,
+     "anchoBase": 33
     }
    ]
   },
@@ -608,8 +643,10 @@
    "t": "seccion",
    "id": "1dd5961",
    "estirada": true,
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "9384d7a",
      "elementos": [
       {
        "t": "espaciador",
@@ -629,13 +666,15 @@
        "ancla": "uno"
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "d7e9d5d",
+   "disposicion": "boxed",
    "ancho": 1168,
    "hueco": "custom",
    "huecoPx": 0.0,
@@ -649,12 +688,15 @@
    },
    "columnas": [
     {
+     "id": "2fc05e5",
      "elementos": [
       {
        "t": "seccion",
        "id": "c86f619",
+       "disposicion": "boxed",
        "columnas": [
         {
+         "id": "0b7c21a",
          "elementos": [
           {
            "t": "espaciador",
@@ -716,29 +758,35 @@
            "alto": 44.0
           }
          ],
-         "ancho": 59.561
+         "ancho": 59.561,
+         "anchoBase": 50
         },
         {
+         "id": "a098dec",
          "elementos": [
           {
            "t": "formulario",
            "id": "9a23dc7"
           }
          ],
-         "ancho": 39.199
+         "ancho": 39.199,
+         "anchoBase": 50
         }
        ]
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "3417001",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "0c89673",
      "elementos": [
       {
        "t": "espaciador",
@@ -770,7 +818,8 @@
        "altoMovil": 10.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
@@ -778,9 +827,11 @@
    "t": "seccion",
    "id": "5c66cbc",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 709,
    "columnas": [
     {
+     "id": "a205be5",
      "elementos": [
       {
        "t": "encabezado",
@@ -806,12 +857,14 @@
       }
      ],
      "ancho": 50.0,
+     "anchoBase": 50,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "48546d0",
      "elementos": [
       {
        "t": "encabezado",
@@ -837,6 +890,7 @@
       }
      ],
      "ancho": 50.0,
+     "anchoBase": 50,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E8E8E8"
@@ -847,8 +901,10 @@
   {
    "t": "seccion",
    "id": "e261eec",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "4dc460d",
      "elementos": [
       {
        "t": "espaciador",
@@ -856,7 +912,8 @@
        "alto": 26.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
@@ -864,9 +921,11 @@
    "t": "seccion",
    "id": "11ccbd1",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 1113,
    "columnas": [
     {
+     "id": "37f3d53",
      "elementos": [
       {
        "t": "encabezado",
@@ -892,12 +951,14 @@
       }
      ],
      "ancho": 24.775,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "cc02e2f",
      "elementos": [
       {
        "t": "encabezado",
@@ -923,12 +984,14 @@
       }
      ],
      "ancho": 25.18,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "62c155c",
      "elementos": [
       {
        "t": "encabezado",
@@ -954,12 +1017,14 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "1700979",
      "elementos": [
       {
        "t": "encabezado",
@@ -985,6 +1050,7 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E8E8E8"
@@ -995,8 +1061,10 @@
   {
    "t": "seccion",
    "id": "9cded88",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "4a0d5ff",
      "elementos": [
       {
        "t": "espaciador",
@@ -1004,7 +1072,8 @@
        "alto": 29.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
@@ -1012,9 +1081,11 @@
    "t": "seccion",
    "id": "f0b5bcc",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 1130,
    "columnas": [
     {
+     "id": "da408db",
      "elementos": [
       {
        "t": "encabezado",
@@ -1040,12 +1111,14 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "4d837e4",
      "elementos": [
       {
        "t": "encabezado",
@@ -1071,12 +1144,14 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E7E7E7"
      }
     },
     {
+     "id": "ba7025e",
      "elementos": [
       {
        "t": "encabezado",
@@ -1102,12 +1177,14 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E8E8E8"
      }
     },
     {
+     "id": "991e5ff",
      "elementos": [
       {
        "t": "encabezado",
@@ -1133,6 +1210,7 @@
       }
      ],
      "ancho": 25.0,
+     "anchoBase": 25,
      "anchoMovil": 50.0,
      "fondo": {
       "color": "#E8E8E8"
@@ -1143,9 +1221,11 @@
   {
    "t": "seccion",
    "id": "400b936",
+   "disposicion": "boxed",
    "ancho": 500,
    "columnas": [
     {
+     "id": "a99ec83",
      "elementos": [
       {
        "t": "espaciador",
@@ -1153,7 +1233,8 @@
        "alto": 29.0
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
@@ -1161,9 +1242,11 @@
    "t": "seccion",
    "id": "57b5244",
    "estirada": true,
+   "disposicion": "boxed",
    "ancho": 500,
    "columnas": [
     {
+     "id": "7c8c323",
      "elementos": [
       {
        "t": "encabezado",
@@ -1189,6 +1272,7 @@
       }
      ],
      "ancho": 100.0,
+     "anchoBase": 100,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1198,8 +1282,10 @@
   {
    "t": "seccion",
    "id": "c428ca3",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "a4e3547",
      "elementos": [
       {
        "t": "separador",
@@ -1223,15 +1309,18 @@
        }
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   },
   {
    "t": "seccion",
    "id": "31920b5",
+   "disposicion": "boxed",
    "columnas": [
     {
+     "id": "b56bdb0",
      "elementos": [
       {
        "t": "espaciador",
@@ -1239,7 +1328,8 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0
+     "ancho": 100.0,
+     "anchoBase": 100
     }
    ]
   }

@@ -32,9 +32,9 @@ const h1 = asegurarH1(bloques, conBanda, pagina.h1 || pagina.titulo);
 // 2. se pinta el árbol; las imágenes pasan por el saneador (webp / marcador).
 //    Las 4 páginas sin árbol de Elementor (las legales) van como texto corrido.
 const hayArbol = bloques.length > 0;
-const { html, css } = hayArbol
-  ? pintar(bloques, (trozo) => sanearImagenes(trozo).html)
-  : { html: `<div class="texto-corrido">${sanearImagenes(pagina.cuerpo).html}</div>`, css: '' };
+const { html } = hayArbol
+  ? pintar(bloques, { imagenes: (trozo) => sanearImagenes(trozo).html, postId: pagina.postId })
+  : { html: `<div class="texto-corrido">${sanearImagenes(pagina.cuerpo).html}</div>` };
 
 // 3. el marcador del formulario se parte para insertar el componente
 const trozos = html.split(/<!--FORMULARIO:[^>]*?-->/);
@@ -50,7 +50,7 @@ const trozos = html.split(/<!--FORMULARIO:[^>]*?-->/);
   menu={pagina.menu}
   faq={pagina.faq}
   noindex={pagina.noindex}
-  css={css}
+  postId={pagina.postId}
 >
   {trozos.map((trozo, i) => (
     <>
