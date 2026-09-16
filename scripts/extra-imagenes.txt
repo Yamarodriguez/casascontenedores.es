@@ -6,3 +6,25 @@
 /wp-content/uploads/2021/08/casas-contenedores-.jpg
 /wp-content/uploads/2021/08/casas-contenedores--300x167.jpg
 /wp-content/uploads/2021/08/casas-contenedores--768x427.jpg
+
+# Imagenes que solo aparecen en el arbol de Elementor (no en el HTML plano)
+/wp-content/uploads/2021/06/casas-de-contenedores.jpg
+/wp-content/uploads/2021/06/casas-prefabricadas-scaled.jpg
+/wp-content/uploads/2022/02/FINAL-2A-scaled.jpg
+/wp-content/uploads/2022/02/FINAL-5A-scaled.jpg
+/wp-content/uploads/2022/02/INTERIOR-4-scaled.jpg
+/wp-content/uploads/2022/02/INTERIOR-5-scaled.jpg
+/wp-content/uploads/2022/02/PRUEBA-1B-scaled.jpg
+/wp-content/uploads/2022/02/PRUEBA-2Ceditada--scaled.jpg
+/wp-content/uploads/2022/02/PRUEBA-3B-scaled.jpg
+/wp-content/uploads/2022/02/PRUEBA-4B-editada-scaled.jpg
+/wp-content/uploads/2022/02/RENDER-1A-1-scaled.jpg
+/wp-content/uploads/2022/02/RENDER-1A-2-scaled.jpg
+/wp-content/uploads/2022/02/RENDER-1a-scaled.jpg
+/wp-content/uploads/2022/02/RENDER-2A-1-scaled.jpg
+/wp-content/uploads/2022/02/RENDER-2A-scaled.jpg
+/wp-content/uploads/2022/02/RENDER-3A-1-scaled.jpg
+/wp-content/uploads/2022/02/RENDER-3A-scaled.jpg
+/wp-content/uploads/2022/02/RENDER-4A-1-scaled.jpg
+/wp-content/uploads/2022/02/RENDER-4a-scaled.jpg
+/wp-content/uploads/2022/02/RENDER-6a-scaled.jpg

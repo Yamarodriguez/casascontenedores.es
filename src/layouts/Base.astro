@@ -16,6 +16,9 @@ const {
   hero = {},
   faq = [],
   noindex = false,
+  bandaTitulo = true,
+  menu = '',
+  css = '',
 } = Astro.props;
 
 const canonical = site.dominio + ruta;
@@ -98,6 +101,8 @@ if (faq.length) {
 
     {jsonld.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d)} />)}
 
+    {css && <style set:html={css} />}
+
     {site.analitica.ga4 && (
       <>
         <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${site.analitica.ga4}`}></script>
@@ -123,35 +128,21 @@ if (faq.length) {
 
   <body>
     <div id="wrap">
-      <Header ruta={ruta} />
+      <Header ruta={ruta} menu={menu} />
 
-      <div class="banda-titulo">
-        <div class="contenedor">
-          <h1 class="titulo">{h1 || titulo}</h1>
-          <Migas ruta={ruta} titulo={titulo} />
+      {bandaTitulo && (
+        <div class="banda-titulo">
+          <div class="contenedor">
+            <h1 class="titulo">{h1 || titulo}</h1>
+            <Migas ruta={ruta} titulo={titulo} />
+          </div>
         </div>
-      </div>
+      )}
 
       <main id="contenido">
-        <div class="contenedor">
-          {heroSrc && (
-            <div class="heroe">
-              <img
-                src={heroSrc}
-                alt={hero.alt || h1 || titulo}
-                width={hero.ancho}
-                height={hero.alto}
-                srcset={hero.srcset}
-                sizes={hero.sizes}
-                fetchpriority="high"
-                decoding="async"
-              />
-            </div>
-          )}
-          <article class="entrada">
-            <slot />
-          </article>
-        </div>
+        <article class="entrada">
+          <slot />
+        </article>
       </main>
 
       <Footer />

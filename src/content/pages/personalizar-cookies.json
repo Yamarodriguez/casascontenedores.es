@@ -10,5 +10,8 @@
  "hero": {},
  "faq": [],
  "cuerpo": "Esta web utiliza cookies propias y de terceros para su correcto funcionamiento y para fines analíticos. Al hacer clic en el botón Aceptar, acepta el uso de estas tecnologías y el procesamiento de sus datos para estos propósitos\n&nbsp;&nbsp;\n<button>Rechazar</button>\n<button>ACEPTAR TODAS LAS COOKIES</button>\n<br/>\n<p>\nPuedes cambiar tus preferencias de cookies en cualquier momento si vuelves a la página de Personalizar cookies, a la que puedes acceder a través del Aviso de cookies.\n</p>\n<h3>Cookies técnicas</h3>\n<p>\nSon aquellas que permiten a los usuarios registrados navegar a través del sitio Web, del área restringida y a utilizar sus diferentes funciones, como por ejemplo, el sistema de comentarios o el buscador y no pueden ser desactivadas.\n</p>\n<h3>Cookies de análisis o medición</h3>\n<span>\n<input type=\"radio\" name=\"cookies-analytics-option\" value=\"true\" >\n<label for=\"custom-cookies-accept-analytics\">Activar</label>\n&nbsp;&nbsp;\n<input type=\"radio\" name=\"cookies-analytics-option\" value=\"false\"\nchecked>\n<label for=\"custom-cookies-reject-analytics\">Desactivar</label>\n</span>\n<p>\nSon aquellas que, bien tratadas por el sitio Web o por terceros, permiten cuantificar el número de usuarios y así realizar la medición y análisis estadístico de la utilización que hacen los usuarios del sitio Web. Para ello se analiza la navegación que realizas en este sitio Web con el fin de mejorarlo.\n</p>",
- "palabras": 173
+ "palabras": 173,
+ "bloques": [],
+ "menu": "",
+ "bandaTitulo": false
 }

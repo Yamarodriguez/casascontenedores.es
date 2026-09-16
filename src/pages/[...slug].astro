@@ -2,10 +2,13 @@
 /**
  * La ruta dinámica que pinta las 263 páginas. Las rutas se conservan tal cual
  * estaban en WordPress: salen del campo `ruta` de cada JSON.
+ *
+ * La maquetación sale del árbol `bloques` (lo extrae scripts/arbol.py del
+ * propio Elementor). Aquí no se decide nada de diseño: se pinta lo que trae.
  */
 import Base from '../layouts/Base.astro';
 import Formulario from '../components/Formulario.astro';
-import { reconstruir } from '../utils/estructura.js';
+import { pintar, asegurarH1 } from '../utils/render.js';
 import { sanearImagenes } from '../utils/imagenes.js';
 
 export async function getStaticPaths() {
@@ -19,13 +22,22 @@ export async function getStaticPaths() {
 
 const { pagina } = Astro.props;
 
-// 1. se reconstruye la maquetación que Elementor tenía y el export perdió
-// 2. se sanean las imágenes (webp cuando existe, marcador cuando falta)
-const reconstruido = reconstruir(pagina.cuerpo);
-const { html, faltan } = sanearImagenes(reconstruido);
+// 1. un solo H1 por página
+const bloques = structuredClone(pagina.bloques || []);
+// las páginas sin árbol de Elementor (las legales) no tienen dónde poner el
+// H1 dentro del contenido: lo pone la banda de título del tema
+const conBanda = pagina.bandaTitulo || bloques.length === 0;
+const h1 = asegurarH1(bloques, conBanda, pagina.h1 || pagina.titulo);
 
-// el marcador del formulario se parte para insertar el componente
-const trozos = html.split(/<div data-formulario="1"><\/div>/);
+// 2. se pinta el árbol; las imágenes pasan por el saneador (webp / marcador).
+//    Las 4 páginas sin árbol de Elementor (las legales) van como texto corrido.
+const hayArbol = bloques.length > 0;
+const { html, css } = hayArbol
+  ? pintar(bloques, (trozo) => sanearImagenes(trozo).html)
+  : { html: `<div class="texto-corrido">${sanearImagenes(pagina.cuerpo).html}</div>`, css: '' };
+
+// 3. el marcador del formulario se parte para insertar el componente
+const trozos = html.split(/<!--FORMULARIO:[^>]*?-->/);
 ---
 
 <Base
@@ -33,10 +45,12 @@ const trozos = html.split(/<div data-formulario="1"><\/div>/);
   titulo={pagina.titulo}
   tituloSeo={pagina.tituloSeo}
   descripcion={pagina.descripcion}
-  h1={pagina.h1}
-  hero={pagina.hero}
+  h1={h1}
+  bandaTitulo={conBanda}
+  menu={pagina.menu}
   faq={pagina.faq}
   noindex={pagina.noindex}
+  css={css}
 >
   {trozos.map((trozo, i) => (
     <>

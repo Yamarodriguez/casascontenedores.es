@@ -28,8 +28,13 @@ const textoVisible = (h) =>
     .replace(/<[^>]+>/g, ' ')
     .replace(/&nbsp;/g, ' ')
     .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#0?39;|&apos;/g, "'")
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
     .replace(/&[a-z]+;/gi, ' ')
+    // comillas tipograficas: el arbol trae las curvas y el HTML las rectas
+    .replace(/[\u2018\u2019\u201a\u201b]/g, "'")
+    .replace(/[\u201c\u201d\u201e\u201f\u00ab\u00bb]/g, '"')
     .replace(/[\s ]+/g, ' ')
     .trim()
     .toLowerCase();
@@ -60,6 +65,30 @@ function equilibrio(html, etiqueta) {
   const abre = (html.match(new RegExp(`<${etiqueta}(?=[\\s>])`, 'gi')) || []).length;
   const cierra = (html.match(new RegExp(`</${etiqueta}\\s*>`, 'gi')) || []).length;
   return abre - cierra;
+}
+
+/** Todo el texto que el arbol de maquetacion deberia acabar enseñando. */
+function textoDelArbol(bloques, salida = []) {
+  for (const b of bloques || []) {
+    if (b.t === 'seccion') { for (const c of b.columnas || []) textoDelArbol(c.elementos, salida); }
+    else if (b.t === 'encabezado') salida.push(b.texto);
+    else if (b.t === 'texto') salida.push(b.html);
+    else if (b.t === 'boton') salida.push(b.texto);
+  }
+  return salida.join(' ');
+}
+
+/** Los destinos de enlace que el arbol deberia acabar enseñando. */
+function enlacesDelArbol(bloques, salida = []) {
+  for (const b of bloques || []) {
+    if (b.t === 'seccion') { for (const c of b.columnas || []) enlacesDelArbol(c.elementos, salida); }
+    else if (b.t === 'video') { /* se pinta como reproductor, no como enlace */ }
+    else {
+      if (b.url) salida.push(b.url);
+      if (b.html) for (const m of b.html.matchAll(/href="([^"]+)"/g)) salida.push(m[1]);
+    }
+  }
+  return salida;
 }
 
 const fallos = [];
@@ -94,19 +123,22 @@ for (const f of fs.readdirSync(PAGINAS).filter((x) => x.endsWith('.json'))) {
   }
 
   // 4. texto visible: ninguna palabra del original puede haberse perdido.
-  //    Se comparan bolsas de palabras, no cadenas: el motor reagrupa los
-  //    bloques y eso cambia los espacios, pero nunca el texto.
+  //    La referencia es el arbol `bloques` (lo que Elementor tenia), no el
+  //    HTML plano del export: el HTML plano trae ademas las URL de los videos
+  //    como texto, que en la web real son un reproductor.
   const cuenta = (t) => {
     const m = new Map();
     for (const p of t.split(' ')) if (p) m.set(p, (m.get(p) || 0) + 1);
     return m;
   };
   // texto que el motor quita a proposito, con su regla documentada en
-  // src/utils/estructura.js (funcion limpiezas)
+  // scripts/arbol.py (funcion limpiar_html)
   const QUITADO = [
     /[^.]*estamos realizando modificaciones[^.]*\./gi,   // aviso de obras olvidado
   ];
-  let original = textoVisible(origen.cuerpo);
+  let original = origen.bloques && origen.bloques.length
+    ? textoVisible(textoDelArbol(origen.bloques))
+    : textoVisible(origen.cuerpo);
   for (const re of QUITADO) original = original.replace(re, ' ');
 
   const antes = cuenta(original.replace(/\s+/g, ' ').trim());
@@ -120,9 +152,15 @@ for (const f of fs.readdirSync(PAGINAS).filter((x) => x.endsWith('.json'))) {
     fallos.push(`${origen.ruta} — ${perdidas.length} palabra(s) del original perdidas: ${perdidas.slice(0, 6).join(', ')}`);
   }
 
-  const destinos = (h) => new Set([...h.matchAll(/href="([^"]+)"/g)].map((m) => m[1])
-    .filter((u) => !u.startsWith('#') && !u.startsWith('mailto:')));
-  const faltan = [...destinos(origen.cuerpo)].filter((u) => !cuerpo.includes(`href="${u}"`));
+  const normalizar_url = (u) => decodeURI(u).replace(/&amp;/g, '&').replace(/\s+/g, '').toLowerCase();
+  const presentes = new Set([...cuerpo.matchAll(/href="([^"]+)"/g)]
+    .map((m) => normalizar_url(m[1])));
+  const esperados = origen.bloques && origen.bloques.length
+    ? enlacesDelArbol(origen.bloques)
+    : [...cuerpo.matchAll(/href="([^"]+)"/g)].map((m) => m[1]);
+  const faltan = [...new Set(esperados)]
+    .filter((u) => u && !u.startsWith('#') && !u.startsWith('mailto:'))
+    .filter((u) => !presentes.has(normalizar_url(u)));
   if (faltan.length) {
     fallos.push(`${origen.ruta} — ${faltan.length} enlace(s) perdidos: ${faltan.slice(0, 3).join(' ')}`);
   }

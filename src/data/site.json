@@ -27,54 +27,117 @@
  "pie": {
   "copyright": "Casas Contenedores",
   "menu": [
-   { "rotulo": "Aviso legal", "url": "/aviso-legal/" },
-   { "rotulo": "Política de privacidad", "url": "/politica-privacidad/" },
-   { "rotulo": "Política de cookies", "url": "/politica-de-cookies/" }
+   {
+    "rotulo": "Aviso legal",
+    "url": "/aviso-legal/"
+   },
+   {
+    "rotulo": "Política de privacidad",
+    "url": "/politica-privacidad/"
+   },
+   {
+    "rotulo": "Política de cookies",
+    "url": "/politica-de-cookies/"
+   }
   ],
   "columnas": [
    {
     "titulo": "Casas contenedores",
     "enlaces": [
-     { "rotulo": "Precios", "url": "/precios/" },
-     { "rotulo": "Modelos", "url": "/modelos/" },
-     { "rotulo": "Catálogo", "url": "/catalogo/" },
-     { "rotulo": "Planos", "url": "/planos/" },
-     { "rotulo": "Permisos", "url": "/permisos/" }
+     {
+      "rotulo": "Precios",
+      "url": "/precios/"
+     },
+     {
+      "rotulo": "Modelos",
+      "url": "/modelos/"
+     },
+     {
+      "rotulo": "Catálogo",
+      "url": "/catalogo/"
+     },
+     {
+      "rotulo": "Planos",
+      "url": "/planos/"
+     },
+     {
+      "rotulo": "Permisos",
+      "url": "/permisos/"
+     }
     ]
    },
    {
     "titulo": "Contenedores marítimos",
     "enlaces": [
-     { "rotulo": "Contenedores marítimos", "url": "/contenedores-maritimos/" },
-     { "rotulo": "Precios", "url": "/precios-contenedores-maritimos/" },
-     { "rotulo": "Tipos", "url": "/tipos-de-contenedores/" },
-     { "rotulo": "Medidas", "url": "/medidas-contenedores-maritimos/" },
-     { "rotulo": "Venta", "url": "/venta-contenedores-maritimos/" }
+     {
+      "rotulo": "Contenedores marítimos",
+      "url": "/contenedores-maritimos/"
+     },
+     {
+      "rotulo": "Precios",
+      "url": "/precios-contenedores-maritimos/"
+     },
+     {
+      "rotulo": "Tipos",
+      "url": "/tipos-de-contenedores/"
+     },
+     {
+      "rotulo": "Medidas",
+      "url": "/medidas-contenedores-maritimos/"
+     },
+     {
+      "rotulo": "Venta",
+      "url": "/venta-contenedores-maritimos/"
+     }
     ]
    },
    {
     "titulo": "Otros usos",
     "enlaces": [
-     { "rotulo": "Oficinas", "url": "/oficinas-contenedores/" },
-     { "rotulo": "Locales", "url": "/local-containers/" },
-     { "rotulo": "Piscinas", "url": "/piscina-contenedor/" },
-     { "rotulo": "Módulos sanitarios", "url": "/modulos-sanitarios/" },
-     { "rotulo": "Pérgolas", "url": "/pergolas/" }
+     {
+      "rotulo": "Oficinas",
+      "url": "/oficinas-contenedores/"
+     },
+     {
+      "rotulo": "Locales",
+      "url": "/local-containers/"
+     },
+     {
+      "rotulo": "Piscinas",
+      "url": "/piscina-contenedor/"
+     },
+     {
+      "rotulo": "Módulos sanitarios",
+      "url": "/modulos-sanitarios/"
+     },
+     {
+      "rotulo": "Pérgolas",
+      "url": "/pergolas/"
+     }
     ]
    },
    {
     "titulo": "Contacto",
     "enlaces": [
-     { "rotulo": "Pedir presupuesto", "url": "/presupuesto-casas-contenedores/" },
-     { "rotulo": "Fotos de obras", "url": "/fotos-de-casas-containers/" },
-     { "rotulo": "Paso a paso", "url": "/casa-container-paso-a-paso/" },
-     { "rotulo": "Diseño 3D", "url": "/renders/" }
+     {
+      "rotulo": "Pedir presupuesto",
+      "url": "/presupuesto-casas-contenedores/"
+     },
+     {
+      "rotulo": "Fotos de obras",
+      "url": "/fotos-de-casas-containers/"
+     },
+     {
+      "rotulo": "Paso a paso",
+      "url": "/casa-container-paso-a-paso/"
+     },
+     {
+      "rotulo": "Diseño 3D",
+      "url": "/renders/"
+     }
     ]
    }
   ]
  },
- "menuPorSeccion": {
-  "maritimos": "contenedores-maritimos",
-  "casas": "menu-principal"
- }
+ "menuPorDefecto": "menu-principal"
 }

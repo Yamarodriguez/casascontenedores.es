@@ -31,6 +31,8 @@ const normalizar = (t) =>
   t.replace(/<[^>]+>/g, ' ')
     .replace(/&nbsp;/g, ' ')
     .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#0?39;|&apos;/g, "'")
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
     .replace(/&[a-z]+;/gi, ' ')
     // comillas y guiones tipograficos: el HTML vivo usa los curvos y el

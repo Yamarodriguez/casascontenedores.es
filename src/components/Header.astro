@@ -12,13 +12,11 @@ import site from '../data/site.json';
 import menus from '../data/menus.json';
 import { existe, aWebp } from '../utils/imagenes.js';
 
-const { ruta = '/' } = Astro.props;
+const { ruta = '/', menu: nombreMenu = '' } = Astro.props;
 
-const esMaritimos = /^\/(contenedores-maritimos|precios-contenedores-maritimos|tipos-de-contenedores|medidas-contenedores-maritimos|venta-contenedores-maritimos|transporte-contenedores-maritimos|alquiler-contenedores-maritimos|comprar-contenedores-maritimos|contenedor-|contenedores-)/.test(ruta);
-
-const menu = esMaritimos
-  ? menus[site.menuPorSeccion.maritimos]
-  : menus[site.menuPorSeccion.casas];
+// Cada pagina dice que menu lleva: OceanWP lo guarda pagina por pagina y
+// scripts/arbol.py lo trae al JSON. Cuando no dice nada, el del tema.
+const menu = menus[nombreMenu] || menus[site.menuPorDefecto] || [];
 
 const LOGO = '/wp-content/uploads/2021/08/casas-contenedores-.jpg';
 const hayLogo = existe(LOGO);
