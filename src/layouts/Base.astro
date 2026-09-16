@@ -17,6 +17,7 @@ const {
   faq = [],
   noindex = false,
   bandaTitulo = true,
+  huecoTitulo = false,
   menu = '',
   postId = 0,
 } = Astro.props;
@@ -153,6 +154,13 @@ if (faq.length) {
           </div>
         </div>
       )}
+
+      {/* Franja vacia que ocupa el sitio que tenia la banda del tema en la web
+          en vivo (45 px). No lleva texto a proposito: el de la web original
+          estaba en blanco sobre gris claro y no se leia. El hueco se conserva
+          porque la primera seccion de estas paginas sube con margen negativo
+          contando con el. */}
+      {huecoTitulo && <div class="hueco-titulo" aria-hidden="true"></div>}
 
       <!-- Mismo envoltorio que usaba el tema: sus hojas de estilo originales
            son las que fijan el ancho de la caja y los 30 px de margen. -->

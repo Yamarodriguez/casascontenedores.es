@@ -1402,5 +1402,6 @@
  ],
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
- "postId": 3444
+ "postId": 3444,
+ "huecoTitulo": false
 }

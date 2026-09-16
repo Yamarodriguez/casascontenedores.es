@@ -1336,6 +1336,7 @@
   }
  ],
  "menu": "",
- "bandaTitulo": true,
- "postId": 6367
+ "bandaTitulo": false,
+ "postId": 6367,
+ "huecoTitulo": true
 }

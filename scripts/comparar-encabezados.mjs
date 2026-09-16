@@ -70,15 +70,18 @@ for (const [ruta, datos] of Object.entries(vivo)) {
   }
   revisadas++;
 
-  // La banda de titulo del tema va DENTRO de <main>, asi que su H1 ya viene
-  // en `encabezados`. Solo se antepone el de `h1` cuando no esta repetido.
+  // La banda de titulo del tema va DENTRO de <main>, asi que su H1 viene en
+  // `encabezados`. Ese H1 NO se exige, y es a proposito: en la web en vivo la
+  // franja lleva el texto en blanco sobre gris claro (#f5f5f5), o sea que no
+  // se lee. La web nueva no enseña esa franja (ver el comentario largo en
+  // scripts/arbol.py) y su H1 es el primer encabezado del contenido. Pedir
+  // aqui un encabezado que en la web real nadie ve seria exigir que copiemos
+  // un fallo del tema.
+  const bandaVivas = new Set((datos.h1 || []).map((t) => normalizar(t)).filter(Boolean));
   const enMain = (datos.encabezados || [])
     .map((e) => ({ nivel: e.nivel, texto: normalizar(e.texto) }))
     .filter((e) => e.texto);
-  const sueltos = (datos.h1 || [])
-    .map((t) => ({ nivel: 'h1', texto: normalizar(t) }))
-    .filter((e) => e.texto && !enMain.some((x) => x.texto === e.texto));
-  const antes = [...sueltos, ...enMain];
+  const antes = enMain.filter((e, i) => !(i === 0 && e.nivel === 'h1' && bandaVivas.has(e.texto)));
 
   const ahora = encabezadosDe(fs.readFileSync(destino, 'utf8'));
   const textosAhora = ahora.map((e) => e.texto);

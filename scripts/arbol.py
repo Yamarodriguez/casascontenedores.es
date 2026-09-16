@@ -639,7 +639,33 @@ def main():
                             return t
             return ""
         primero = primer_encabezado(bloques)
-        banda = bool(h1v) and h1v.strip().lower() != primero.strip().lower()
+        # La "banda de titulo" del tema (la franja gris con el nombre de la
+        # pagina) NO se enseña en ninguna pagina, y esto es a proposito.
+        #
+        # En la web en vivo esa franja existe en 7 paginas, pero su texto —el
+        # H1 y las migas— esta escrito en BLANCO sobre gris claro (#f5f5f5):
+        # no se lee nada. Lo que se ve es una franja gris vacia de 45 px
+        # encima de la foto principal. Es un fallo de la configuracion del
+        # tema, no una decision de diseño.
+        #
+        # Copiarla tal cual serian dos males: una franja inutil que empuja la
+        # foto hacia abajo, y un H1 invisible (a Google no le gusta el texto
+        # oculto). Copiarla pero con el texto legible tampoco vale: entonces
+        # la web nueva enseña algo que la vieja no enseñaba.
+        #
+        # Asi que se quita el TEXTO en todas, y el H1 pasa a ser el primer
+        # encabezado del contenido, igual que en las otras 256 paginas: un
+        # solo H1, a la vista, y con el texto que de verdad describe la pagina.
+        #
+        # Pero la franja SI tiene que seguir ocupando su sitio (`huecoTitulo`).
+        # No es un capricho: la primera seccion de estas paginas lleva un
+        # margen superior NEGATIVO (-84 px en la portada) que el autor puso
+        # contando con que la franja estuviera ahi. Si se quita del todo, la
+        # foto principal sube 45 px de mas y se come la barra del menu.
+        # Dejando el hueco vacio, la pagina queda EXACTAMENTE donde estaba en
+        # la web en vivo, que es lo que se busca.
+        banda = False
+        hueco = bool(h1v) and h1v.strip().lower() != primero.strip().lower()
 
         destino = os.path.join(PAGINAS, fichero)
         with open(destino, encoding="utf-8") as fh:
@@ -653,6 +679,7 @@ def main():
         pagina["bloques"] = bloques
         pagina["menu"] = menu
         pagina["bandaTitulo"] = banda
+        pagina["huecoTitulo"] = hueco
         if not ensayo:
             with open(destino, "w", encoding="utf-8") as fh:
                 json.dump(pagina, fh, ensure_ascii=False, indent=1)

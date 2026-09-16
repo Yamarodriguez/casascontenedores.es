@@ -2456,6 +2456,7 @@
   }
  ],
  "menu": "",
- "bandaTitulo": true,
- "postId": 8155
+ "bandaTitulo": false,
+ "postId": 8155,
+ "huecoTitulo": true
 }

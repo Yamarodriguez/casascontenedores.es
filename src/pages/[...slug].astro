@@ -28,6 +28,12 @@ const bloques = structuredClone(pagina.bloques || []);
 // H1 dentro del contenido: lo pone la banda de título del tema
 const conBanda = pagina.bandaTitulo || bloques.length === 0;
 const h1 = asegurarH1(bloques, conBanda, pagina.h1 || pagina.titulo);
+// Las 7 paginas que en la web en vivo llevan la franja gris del tema no la
+// enseñan aqui (su texto estaba en blanco sobre gris: no se leia), pero si
+// conservan su HUECO. La primera seccion de esas paginas sube con un margen
+// superior negativo que cuenta con la franja; sin el hueco, la foto principal
+// tapa la barra del menu.
+const conHueco = !conBanda && Boolean(pagina.huecoTitulo);
 
 // 2. se pinta el árbol; las imágenes pasan por el saneador (webp / marcador).
 //    Las 4 páginas sin árbol de Elementor (las legales) van como texto corrido.
@@ -47,6 +53,7 @@ const trozos = html.split(/<!--FORMULARIO:[^>]*?-->/);
   descripcion={pagina.descripcion}
   h1={h1}
   bandaTitulo={conBanda}
+  huecoTitulo={conHueco}
   menu={pagina.menu}
   faq={pagina.faq}
   noindex={pagina.noindex}

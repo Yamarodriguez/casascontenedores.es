@@ -2664,5 +2664,6 @@
  ],
  "menu": "sin-provincias",
  "bandaTitulo": false,
- "postId": 913
+ "postId": 913,
+ "huecoTitulo": false
 }

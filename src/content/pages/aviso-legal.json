@@ -14,5 +14,6 @@
  "bloques": [],
  "menu": "",
  "bandaTitulo": false,
- "postId": 1590
+ "postId": 1590,
+ "huecoTitulo": false
 }

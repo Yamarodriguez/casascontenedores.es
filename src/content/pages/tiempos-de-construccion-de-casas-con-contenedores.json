@@ -2151,5 +2151,6 @@
  ],
  "menu": "",
  "bandaTitulo": false,
- "postId": 800
+ "postId": 800,
+ "huecoTitulo": false
 }

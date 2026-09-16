@@ -1,0 +1,44 @@
+/* Tipografias del sitio (Roboto, Roboto Slab, Roboto Condensed, Abel,
+   Satisfy, Ubuntu) servidas desde este mismo dominio. Las genera
+   scripts/fuentes-locales.mjs desde los paquetes oficiales @fontsource:
+   son las mismas letras de Google que usaba la web en WordPress. */
+@font-face{font-family:'Roboto';font-style:normal;font-weight:100;font-display:swap;src:url(/fonts/texto/roboto-latin-100-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:100;font-display:swap;src:url(/fonts/texto/roboto-latin-ext-100-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/texto/roboto-latin-300-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/texto/roboto-latin-ext-300-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/texto/roboto-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/texto/roboto-latin-ext-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/texto/roboto-latin-500-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/texto/roboto-latin-ext-500-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/texto/roboto-latin-700-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/texto/roboto-latin-ext-700-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:900;font-display:swap;src:url(/fonts/texto/roboto-latin-900-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto';font-style:normal;font-weight:900;font-display:swap;src:url(/fonts/texto/roboto-latin-ext-900-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:100;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-100-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:100;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-ext-100-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-300-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-ext-300-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-ext-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-500-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-ext-500-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-700-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-ext-700-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:900;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-900-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:900;font-display:swap;src:url(/fonts/texto/roboto-slab-latin-ext-900-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Condensed';font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/texto/roboto-condensed-latin-300-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Condensed';font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/texto/roboto-condensed-latin-ext-300-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Condensed';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/texto/roboto-condensed-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Condensed';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/texto/roboto-condensed-latin-ext-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Condensed';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/texto/roboto-condensed-latin-700-normal.woff2) format('woff2')}
+@font-face{font-family:'Roboto Condensed';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/texto/roboto-condensed-latin-ext-700-normal.woff2) format('woff2')}
+@font-face{font-family:'Abel';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/texto/abel-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Satisfy';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/texto/satisfy-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Ubuntu';font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/texto/ubuntu-latin-300-normal.woff2) format('woff2')}
+@font-face{font-family:'Ubuntu';font-style:normal;font-weight:300;font-display:swap;src:url(/fonts/texto/ubuntu-latin-ext-300-normal.woff2) format('woff2')}
+@font-face{font-family:'Ubuntu';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/texto/ubuntu-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Ubuntu';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/texto/ubuntu-latin-ext-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Ubuntu';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/texto/ubuntu-latin-500-normal.woff2) format('woff2')}
+@font-face{font-family:'Ubuntu';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/texto/ubuntu-latin-ext-500-normal.woff2) format('woff2')}
+@font-face{font-family:'Ubuntu';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/texto/ubuntu-latin-700-normal.woff2) format('woff2')}
+@font-face{font-family:'Ubuntu';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/texto/ubuntu-latin-ext-700-normal.woff2) format('woff2')}
