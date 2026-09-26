@@ -2293,5 +2293,44 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 842,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Tipos de oficinas con contenedores y qué llevan dentro",
+    "html": "<p>Un contenedor se convierte en oficina cuando se le abren huecos de puerta y ventana con el marco reforzado, se aísla por dentro y se conecta a la electricidad, los datos y la climatización. El uso marca el tipo de módulo:</p><ul><li><strong>Caseta de obra:</strong> despacho temporal en el propio solar, con suelo técnico o canaletas para el cableado.</li><li><strong>Oficina de jardín para teletrabajo:</strong> módulo independiente en tu parcela, con aseo opcional (ver <a href=\"/modulos-sanitarios/\">módulos sanitarios</a>) si vas a pasar el día entero dentro.</li><li><strong>Módulos apilados para empresas:</strong> varias unidades combinadas para sumar despachos sin obra de fábrica.</li><li><strong>Punto de venta o información:</strong> mostrador y almacén en un mismo módulo, a pie de calle o de evento.</li><li><strong>Oficina móvil:</strong> se traslada entera en camión cuando cambia el emplazamiento.</li></ul><p>Todas necesitan <strong>aislamiento térmico</strong>, climatización e instalación eléctrica y de datos propia. La capacidad depende del contenedor de partida: uno de 20 pies (interior de aprox. 13,9 m², 2,35 m de ancho útil) encaja para un despacho individual o compartido; uno de 40 pies (interior de aprox. 28,3 m²) da cabida a un equipo completo repartido en varias zonas de trabajo. El <a href=\"/contenedor-high-cube/\">contenedor High Cube</a> suma altura libre por fuera si la necesitas.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Licencias, alquiler o compra y reubicación",
+    "html": "<p>El trámite depende de dónde y cómo se instale la oficina. En obra, entra dentro de la propia licencia de obra, como caseta auxiliar mientras dura la construcción. Fija en una parcela, necesita licencia de obra y, además, la licencia de actividad o la declaración responsable que corresponda según el uso, con el módulo cumpliendo el DB-SUA del CTE en accesibilidad y seguridad de uso. En el jardín de una vivienda suele tratarse como uso complementario, dentro de lo que permita la ordenanza municipal; consúltalo en los <a href=\"/permisos/\">permisos de casas contenedores</a> antes de instalar nada.</p><p>Alquilar compensa cuando el uso es temporal o el proyecto no tiene fecha de fin clara; comprar, cuando la oficina se queda de forma permanente. Los módulos se pueden apilar en altura con escalera exterior para ganar superficie sin ocupar más parcela, y se recolocan enteros en camión si cambias de sede. Consulta las condiciones en <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a> para valorar qué opción encaja con tu proyecto.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre oficinas con contenedores",
+   "items": [
+    {
+     "pregunta": "¿Se puede trabajar en verano dentro de una oficina contenedor?",
+     "respuesta": "Sí, si lleva aislamiento térmico en paredes, suelo y techo y un sistema de climatización acorde al uso. El acero sin aislar acumula calor con el sol directo, así que el aislamiento y la ventilación forman parte del proyecto desde el principio, igual que en cualquier oficina prefabricada."
+    },
+    {
+     "pregunta": "¿Necesita licencia una oficina de jardín para teletrabajo?",
+     "respuesta": "Normalmente sí. Aunque se instale en el jardín de tu propia vivienda, suele tratarse como una construcción auxiliar sujeta a la ordenanza municipal, con su propio trámite de obra menor o mayor según el tamaño y el uso. Antes de comprar el módulo, consulta con el ayuntamiento qué exige en tu caso concreto."
+    },
+    {
+     "pregunta": "¿Se puede climatizar y tener internet en una oficina contenedor?",
+     "respuesta": "Sí. El acero facilita pasar canaletas o instalar suelo técnico para el cableado eléctrico y de datos, y admite aire acondicionado tipo split o sistemas centralizados si combinas varios módulos. La instalación se proyecta igual que en cualquier oficina convencional."
+    },
+    {
+     "pregunta": "¿Se puede alquilar una oficina contenedor por meses?",
+     "respuesta": "Sí, el alquiler suele plantearse para necesidades temporales: una obra, un proyecto con fecha de fin conocida o mientras decides si te conviene comprar. Las condiciones concretas, como la duración mínima, la fianza o la devolución, las fija cada contrato; conviene revisarlas antes de firmar."
+    },
+    {
+     "pregunta": "¿Se puede trasladar una oficina contenedor a otra obra?",
+     "respuesta": "Sí, es una de sus ventajas frente a una caseta de obra convencional: se desconecta, se carga en un camión y se traslada entera a la siguiente ubicación, sin demoler ni reconstruir nada. Antes de moverla conviene revisar accesos y comprobar que el nuevo emplazamiento admite su instalación."
+    }
+   ]
+  }
+ }
 }

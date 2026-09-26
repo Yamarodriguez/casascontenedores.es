@@ -2678,5 +2678,60 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 9811,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Construir una casa contenedor en Roquetas de Mar: normativa y licencias",
+    "html": "<p>Andalucía suprimió la cédula de habitabilidad con el Decreto 283/1987: la vivienda se acredita con la <strong>licencia de ocupación municipal</strong> o, según la Ley 7/2021 LISTA, con declaración responsable ante el Ayuntamiento, que aún adapta el PGOU de 2009 a la nueva norma.</p><p>El frente litoral queda bajo la servidumbre de protección de la <strong>Ley de Costas</strong>, y hacia el interior hay que respetar el Paraje Natural Punta Entinas-Sabinar y la Ribera de la Algaida; pide antes la <a href=\"/permisos/\">consulta urbanística de permisos</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puedo poner una casa contenedor en una parcela de invernadero del Campo de Dalías?",
+    "html": "<p>No como vivienda: en el <strong>suelo no urbanizable agrícola</strong> del Campo de Dalías la LISTA solo admite construcciones ligadas a la explotación, como un almacén de finca. Para vivienda, busca suelo urbano turístico-residencial en la franja litoral o en el casco.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "El clima de Roquetas de Mar y el aislamiento de la casa contenedor",
+    "html": "<p>El municipio está en la <strong>zona climática A4</strong> del CTE DB-HE, la más cálida de la tabla, con ambiente salino permanente por la cercanía al mar. El proyecto debe resolver sombreamiento y ventilación cruzada, y conviene comprobar el nivel freático antes de cimentar por el acuífero salinizado.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Aguanta un contenedor marítimo el salitre de la costa almeriense?",
+    "html": "<p>Sí, siempre que se refuerce el galvanizado y la pintura marina en cada corte o soldadura que abra un hueco, porque ahí arranca la corrosión. Conviene revisarlo junto con el sombreamiento y la ventilación cruzada.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo llega el contenedor a tu parcela en Roquetas de Mar",
+    "html": "<p>El contenedor viaja desde el <strong>Puerto de Almería</strong>, con terminal en el muelle de Pechina y conexión al Poniente por la A-7. Revisa medidas en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> y compara con <a href=\"/contenedores-maritimos-almeria/\">contenedores marítimos en Almería</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Necesita permiso especial la grúa para entrar en una urbanización de Aguadulce?",
+    "html": "<p>En las urbanizaciones costeras los viales interiores suelen ser estrechos, así que conviene comprobar el acceso con el transportista. En el casco, la Zona de Bajas Emisiones exige distintivo ambiental para el camión; consulta el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Roquetas de Mar",
+   "items": [
+    {
+     "pregunta": "¿Qué licencia pide el Ayuntamiento de Roquetas de Mar para una casa contenedor?",
+     "respuesta": "Necesitas licencia urbanística municipal conforme al PGOU de 2009, en adaptación a la Ley 7/2021 LISTA, y un proyecto de arquitecto visado. Al terminar la obra, el Ayuntamiento exige licencia de ocupación o, en los supuestos que marca la LISTA, declaración responsable de ocupación. Consulta el trámite exacto antes de comprar la parcela."
+    },
+    {
+     "pregunta": "¿Hace falta cédula de habitabilidad en Andalucía?",
+     "respuesta": "No. Andalucía suprimió la cédula de habitabilidad con el Decreto 283/1987. En Roquetas de Mar acreditas que la vivienda es habitable con la licencia de ocupación municipal o, en los supuestos que marca la Ley 7/2021 LISTA, con una declaración responsable de ocupación presentada ante el Ayuntamiento."
+    },
+    {
+     "pregunta": "¿Puedo usar un contenedor como almacén en una explotación del Campo de Dalías?",
+     "respuesta": "Sí, ese es el uso que admite la Ley 7/2021 LISTA en suelo no urbanizable agrícola: un almacén o una oficina de finca vinculados a la explotación, distinto de una vivienda nueva, que no está permitida en ese suelo. Consulta el trámite exacto con el Ayuntamiento antes de instalarlo."
+    },
+    {
+     "pregunta": "¿Vendéis también contenedores marítimos en Roquetas de Mar?",
+     "respuesta": "Sí. Si buscas el contenedor sin construir la vivienda, la ficha de contenedores marítimos en Roquetas de Mar reúne medidas, tipos y transporte hasta tu parcela en el Poniente almeriense, tanto en la franja litoral como en el Campo de Dalías."
+    }
+   ]
+  }
+ }
 }

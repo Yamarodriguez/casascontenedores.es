@@ -2678,5 +2678,56 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 10155,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Construir una casa contenedor en Rubí: normativa y licencias",
+    "html": "<p>En Cataluña, la <strong>cédula de habitabilidad de primera ocupación</strong> la expide la Generalitat, junto a la comunicación de primera ocupación ante el Ajuntament al terminar la obra. El planeamiento vigente es el Pla General de 1981 (texto refundido de 2005) y la licencia sigue el Decret Legislatiu 1/2010.</p><p>El suelo urbano residencial del casco convive con polígonos industriales como <strong>La Llana, Can Jardí o La Bastida</strong>, donde el uso habitual es la oficina o el almacén, no la vivienda. La riera de Rubí, canalizada tras la riada de 1962, deja zonas inundables que conviene comprobar antes de comprar.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Necesito cédula de habitabilidad para una casa contenedor en Rubí?",
+    "html": "<p>Sí. La vivienda nueva necesita la cédula de habitabilidad de primera ocupación, un <strong>trámite de la Generalitat</strong> independiente de la licencia municipal, que se pide antes de dar de alta los suministros.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "El clima de Rubí y el aislamiento de la casa contenedor",
+    "html": "<p>Rubí comparte la <strong>zona climática C2</strong> del CTE DB-HE con Barcelona capital, en un clima mediterráneo templado con vientos dominantes del sur y del oeste. El aislamiento continuo por el exterior y la protección solar evitan el puente térmico del acero y reducen la ganancia de calor.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Necesita una casa contenedor más aislamiento en Rubí que en Barcelona capital?",
+    "html": "<p>No especialmente: comparte la zona climática C2 con Barcelona capital y la misma exigencia del CTE DB-HE. Lo que sí cambia es el <strong>viento dominante del sur y del oeste</strong>, a tener en cuenta al orientar ventanas y sombreamientos.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo llega el contenedor a tu parcela en Rubí",
+    "html": "<p>El contenedor entra por el <strong>Port de Barcelona</strong> (terminales del Moll Adossat) y llega por la AP-7, la B-30 o la C-16. Consulta medidas en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> y compara con <a href=\"/sabadell/\">casas contenedores en Sabadell</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puede la grúa acceder al casco antiguo de Rubí?",
+    "html": "<p>Con más dificultad que en un polígono: las calles del casco antiguo son estrechas, conviene comprobar el punto de descarga y el radio de la grúa. Revisa la <a href=\"/permisos/\">guía de permisos para casas contenedor</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Rubí",
+   "items": [
+    {
+     "pregunta": "¿Qué papel juega el Ajuntament de Rubí en la licencia de la casa contenedor?",
+     "respuesta": "El Ajuntament tramita la licencia urbanística sobre el planeamiento vigente (Pla General de 1981 con texto refundido de 2005) y, al final de la obra, recibe la comunicación de primera ocupación. La cédula de habitabilidad, en cambio, la expide la Generalitat de Catalunya, no el Ayuntamiento."
+    },
+    {
+     "pregunta": "¿Hay patrimonio protegido en Rubí que afecte a la construcción?",
+     "respuesta": "Rubí conserva elementos patrimoniales como el castillo de Rubí, la iglesia de Sant Pere, las Escuelas Ribas o el yacimiento romano de Ca n'Oriol. Si tu parcela está cerca de alguno, el planeamiento puede imponer restricciones adicionales, así que conviene consultarlo con el Ajuntament antes de comprar el terreno."
+    },
+    {
+     "pregunta": "¿Hay Zona de Bajas Emisiones en Rubí que afecte al transporte del contenedor?",
+     "respuesta": "Sí. La ordenanza de la ZBE se aprobó de forma definitiva en octubre de 2025 y funciona desde diciembre de 2025 en gran parte del centro urbano, en días laborables y horario diurno; los polígonos industriales quedan fuera del perímetro. Conviene planificar con el transportista la hora de entrada del camión."
+    }
+   ]
+  }
+ }
 }

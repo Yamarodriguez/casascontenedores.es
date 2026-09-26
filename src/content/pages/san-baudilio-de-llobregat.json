@@ -2678,5 +2678,51 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 10103,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Construir una casa contenedor en San Baudilio de Llobregat: normativa y licencias",
+    "html": "<p>El planeamiento de referencia es el <strong>Pla General Metropolità</strong> de Barcelona (PGM-76), pues el municipio pertenece a l'Àrea Metropolitana de Barcelona. La licencia se tramita conforme al Decret Legislatiu 1/2010, y la vivienda nueva necesita además la cédula de habitabilidad de la Generalitat.</p><p>El suelo urbano residencial se concentra en el casco; los polígonos siguen la C-32 hacia el aeropuerto y la llanura del delta conserva suelo agrícola protegido por el <strong>Parc Agrari del Baix Llobregat</strong>. Fuera del casco, el caso habitual es el módulo de oficina o almacén en polígono.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Se puede construir una casa contenedor en el Parc Agrari del Baix Llobregat?",
+    "html": "<p>No como vivienda. El Parc Agrari del Baix Llobregat, regulado por su <strong>Pla especial de 2004</strong>, incluye el municipio y reserva el suelo a usos agrarios. Para vivienda hay que buscar suelo urbano dentro del casco; consulta la <a href=\"/permisos/\">guía de permisos para casas contenedor</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "El clima de San Baudilio de Llobregat y el aislamiento de la casa contenedor",
+    "html": "<p>El municipio comparte la <strong>zona climática C2</strong> del CTE DB-HE con Barcelona capital, en un ambiente húmedo por el delta y el río Llobregat. El aislamiento continuo por el exterior y una buena ventilación ayudan a controlar la humedad del delta.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Es muy húmedo el clima de San Baudilio de Llobregat?",
+    "html": "<p>Sí, la llanura del delta y la cercanía del río Llobregat mantienen un ambiente más húmedo que en zonas de interior. Un <strong>aislamiento continuo por el exterior</strong> y una buena ventilación cruzada ayudan a controlar la condensación en el contenedor.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo llega el contenedor a tu parcela en San Baudilio de Llobregat",
+    "html": "<p>El contenedor sale del <strong>Port de Barcelona</strong> (terminales del Moll Adossat) y llega por la C-32, la A-2 o la C-31C. La llanura del delta, con nivel freático somero, pide estudio geotécnico antes de cimentar. La Zona de Bajas Emisiones funciona desde 2024, con sanción desde enero; en el casco antiguo las calles son estrechas. Revisa medidas en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> y compara con <a href=\"/cornella-de-llobregat/\">casas contenedores en Cornellà de Llobregat</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en San Baudilio de Llobregat",
+   "items": [
+    {
+     "pregunta": "¿Qué licencia pide el Ayuntamiento de San Baudilio de Llobregat para una casa contenedor?",
+     "respuesta": "Necesitas licencia urbanística sobre el Pla General Metropolità (PGM-76) y un proyecto visado conforme al Decret Legislatiu 1/2010. Al terminar la obra, el Ajuntament recibe la comunicación de primera ocupación, mientras que la cédula de habitabilidad la expide por separado la Generalitat de Catalunya."
+    },
+    {
+     "pregunta": "¿Hay elementos patrimoniales en San Baudilio de Llobregat que limiten la construcción?",
+     "respuesta": "El municipio conserva elementos patrimoniales como termas romanas y masías tradicionales del Baix Llobregat. Si tu parcela está cerca de alguno, el planeamiento puede añadir restricciones adicionales a la licencia urbanística, así que conviene consultarlo con el Ajuntament antes de comprar el terreno para la casa contenedor."
+    },
+    {
+     "pregunta": "¿La Zona de Bajas Emisiones afecta al transporte del contenedor en San Baudilio de Llobregat?",
+     "respuesta": "Sí. La ZBE municipal funciona en días laborables y horario diurno desde 2024, así que conviene planificar con el transportista la hora de entrada del camión y la grúa. En el casco antiguo, además, las calles estrechas pueden limitar el punto de descarga."
+    }
+   ]
+  }
+ }
 }

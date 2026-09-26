@@ -2518,5 +2518,55 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1347,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Construir una casa contenedor en Salamanca: normativa y licencias",
+    "html": "<p>Castilla y León suprimió la cédula de habitabilidad con el <strong>Decreto 147/2000</strong>: la vivienda se acredita con la licencia de primera ocupación municipal. El planeamiento vigente es la revisión del Plan General aprobada por la Orden FOM/59/2007, conforme a la Ley 5/1999 de Urbanismo de Castilla y León.</p><p>El término combina suelo urbano consolidado con un entorno rural de <strong>suelo rústico</strong> común y de protección en las riberas del Tormes y las dehesas del Campo Charro. En suelo rústico común, los usos vinculados a una explotación necesitan autorización de uso excepcional.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Hace falta cédula de habitabilidad para una casa contenedor en Salamanca?",
+    "html": "<p>No. Castilla y León suprimió la cédula de habitabilidad con el <strong>Decreto 147/2000</strong>; la vivienda terminada se acredita con la licencia de primera ocupación del Ayuntamiento. Pídela al acabar la obra, antes de dar de alta los suministros.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "El clima de Salamanca y el aislamiento de la casa contenedor",
+    "html": "<p>Salamanca capital está justo en la cota que separa la <strong>zona climática D2</strong> de la E1 del CTE DB-HE, así que la altitud de tu parcela decide la zona. Los inviernos largos y los veranos secos de la meseta exigen buen aislamiento y rotura de puente térmico.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Por qué hace tanto frío en invierno en Salamanca?",
+    "html": "<p>Porque la ciudad está en plena meseta, lejos del efecto suavizador del mar, con inviernos largos y veranos secos. La zona, D2 o <strong>E1</strong> según la altitud de la parcela, exige aislamiento continuo grueso y buena rotura de puente térmico.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo llega el contenedor a tu parcela en Salamanca",
+    "html": "<p>Cuenta con puerto seco propio: la <strong>Zona de Actividades Logísticas de Salamanca</strong> (ZALDESA), con terminal intermodal ferroviaria y aduana, además de la A-62 hacia Portugal y la A-66, Ruta de la Plata. Se asienta sobre cerros como San Vicente y una penillanura de pizarras y granitos; fuera de la vega del Tormes, la cimentación es sencilla. El casco histórico, Patrimonio de la Humanidad, controla los accesos para el transporte y la grúa. Revisa medidas en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> y compara con <a href=\"/avila/\">casas contenedores en Ávila</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Salamanca",
+   "items": [
+    {
+     "pregunta": "¿Qué licencia pide el Ayuntamiento de Salamanca para una casa contenedor?",
+     "respuesta": "Hace falta licencia urbanística conforme al Plan General revisado por la Orden FOM/59/2007 y un proyecto de arquitecto conforme a la Ley 5/1999 de Urbanismo de Castilla y León. Al terminar la obra se pide la licencia de primera ocupación municipal, que sustituye a la cédula de habitabilidad en esta comunidad."
+    },
+    {
+     "pregunta": "¿Se puede instalar una casa contenedor en suelo rústico cerca de Salamanca?",
+     "respuesta": "En suelo rústico común de la comarca sí es posible, pero solo para usos vinculados a una explotación, con autorización de uso excepcional del Ayuntamiento. En el suelo rústico de protección de las riberas del Tormes o las dehesas del Campo Charro, las restricciones son mayores. Consulta tu parcela antes de comprarla."
+    },
+    {
+     "pregunta": "¿Afecta el casco histórico de Salamanca al transporte de la casa contenedor?",
+     "respuesta": "Si tu parcela está dentro o cerca de la Ciudad Vieja, Patrimonio de la Humanidad, el Ayuntamiento controla los accesos y puede exigir autorización y horario concretos para el camión y la grúa. Conviene revisarlo con el transportista antes de fijar la fecha de entrega del contenedor."
+    },
+    {
+     "pregunta": "¿También vendéis contenedores marítimos en Salamanca?",
+     "respuesta": "Sí. La ficha de contenedores marítimos en Salamanca reúne medidas, tipos y transporte hasta tu parcela, con apoyo del puerto seco de ZALDESA y accesos por la A-62 y la A-66, tanto para la ciudad como para el resto de la provincia."
+    }
+   ]
+  }
+ }
 }

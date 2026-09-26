@@ -8,9 +8,10 @@
  * PC del propietario, que si tiene salida a casascontenedores.es).
  *
  * Que se compara: la SECUENCIA DE TEXTOS de los encabezados, en orden.
- * El nivel puede cambiar en un solo caso permitido y documentado: en las 192
- * paginas que hoy no tienen ningun <h1>, el primer encabezado asciende de h2
- * (o h3) a h1. Cualquier otra diferencia se reporta.
+ * El nivel puede cambiar en un solo caso permitido y documentado: el <h1> de
+ * cada pagina es ahora el del heroe (su titulo, fuera de <main>), asi que en
+ * las 64 paginas que traian un h1 dentro del contenido ese encabezado baja a
+ * h2. Cualquier otra diferencia se reporta.
  *
  * Lo que la web nueva anade a proposito (formulario, pie, bloques generados)
  * no cuenta como diferencia: solo se exige que NO FALTE nada del original.
@@ -110,7 +111,8 @@ for (const [ruta, datos] of Object.entries(vivo)) {
     for (let i = 0; i < antes.length; i++) {
       if (antes[i].texto !== ahora[i].texto) continue;
       if (antes[i].nivel === ahora[i].nivel) continue;
-      if (i === 0 && ahora[i].nivel === 'h1') continue;
+      // el h1 del contenido original baja a h2: el h1 lo pone el heroe
+      if (antes[i].nivel === 'h1' && ahora[i].nivel === 'h2') continue;
       cambios.push({ ...antes[i], nuevo: ahora[i].nivel });
     }
   }

@@ -1677,5 +1677,44 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3967,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Qué es un contenedor refrigerado (reefer) y para qué sirve",
+    "html": "<p>Un <strong>contenedor refrigerado</strong>, o <strong>reefer</strong>, es una unidad con paredes, suelo y techo aislados y un equipo frigorífico integrado en uno de los testeros, que mantiene una temperatura constante dentro de un rango de frío o de congelación. El suelo en T marca unos canales bajo la carga por los que circula el aire desde el evaporador hasta el fondo, así que el frío llega de manera uniforme y no solo por arriba.</p><p>El equipo se conecta a una toma eléctrica trifásica, en puerto o en tu instalación, o a un generador acoplado al chasis durante el transporte por carretera. Se usa para conservar alimentación y productos frescos, farmacia y material sanitario, o flores, y también como cámara puntual en hostelería, eventos, agricultura o pesca.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Qué necesitas para instalar un reefer: medidas y la opción sin equipo",
+    "html": "<p>Antes de recibir la unidad conviene revisar estos puntos:</p><ul><li><strong>Toma eléctrica trifásica</strong> cerca del punto de descarga, o un generador si el emplazamiento no tiene acometida cercana.</li><li><strong>Base nivelada y firme</strong> que reparta el peso sobre las cantoneras, sin que el equipo quede inclinado.</li><li><strong>Espacio libre junto al testero</strong> del equipo, para que el aire circule y el compresor no recaliente.</li><li><strong>Revisión periódica</strong> del compresor, las juntas de las puertas y el ciclo de desescarche, sobre todo si es de segunda mano.</li></ul><p>El aislamiento interior resta espacio frente a un contenedor estándar de las mismas <a href=\"/medidas-contenedores-maritimos/\">medidas exteriores</a>; se fabrica en versiones de 20 y 40 pies, también en <a href=\"/contenedor-high-cube/\">High Cube</a>. Si no necesitas frío activo, existe la opción de un contenedor aislado sin equipo. Y para una campaña agrícola, pesquera o un evento puntual, el <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a> te da la unidad solo durante esas fechas.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre el contenedor refrigerado",
+   "items": [
+    {
+     "pregunta": "¿Qué temperatura mantiene un contenedor refrigerado?",
+     "respuesta": "Mantiene la temperatura que le programes, desde la congelación hasta la simple conservación en frío, según lo que transportes o almacenes. El equipo regula esa consigna de forma automática y la sostiene mientras reciba alimentación eléctrica o el generador esté en marcha; el rango exacto depende del modelo y del motor de cada unidad."
+    },
+    {
+     "pregunta": "¿Cuánta electricidad consume un reefer?",
+     "respuesta": "Depende del equipo instalado, la temperatura de consigna, la temperatura exterior y la frecuencia con la que se abren las puertas, así que no existe una cifra única válida para todos los casos. Pide el dato al fabricante del equipo o consúltalo en el presupuesto de la unidad que elijas."
+    },
+    {
+     "pregunta": "¿Un reefer funciona con generador?",
+     "respuesta": "Sí. Además de la toma eléctrica trifásica fija, el equipo puede alimentarse con un generador acoplado al chasis o colocado junto a la unidad, algo habitual durante el transporte por carretera o en emplazamientos sin acometida cercana. El generador debe dimensionarse según la potencia que pida el compresor de cada equipo."
+    },
+    {
+     "pregunta": "¿Sirve como cámara frigorífica fija?",
+     "respuesta": "Sí, muchos negocios la usan como cámara frigorífica fija en lugar de levantar una obra nueva: solo necesita una base nivelada, la toma eléctrica y espacio de ventilación junto al equipo. Es habitual en hostelería, distribución de alimentación o almacenaje de flores y productos frescos, y se puede combinar con más unidades si el volumen crece."
+    },
+    {
+     "pregunta": "¿Se puede alquilar por temporada?",
+     "respuesta": "Sí, es una de las formas más habituales de usarlo: alquilarlo solo durante una campaña agrícola, pesquera o un evento puntual, sin asumir el mantenimiento a largo plazo. Las condiciones de duración, recogida y devolución se acuerdan caso por caso; puedes consultarlas en el apartado de <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a>."
+    }
+   ]
+  }
+ }
 }

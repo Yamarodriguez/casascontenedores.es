@@ -1626,5 +1626,44 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3586,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Cómo se transporta un contenedor marítimo por carretera",
+    "html": "<p>El vehículo depende del tipo y la medida del contenedor. Un <a href=\"/contenedores-20-pies/\">contenedor de 20 pies</a> suele moverse con un camión rígido con pluma propia, que lo carga y descarga sin necesitar una grúa aparte. Para un <a href=\"/contenedores-40-pies/\">contenedor de 40 pies</a> se emplea plataforma o portacontenedores, y en el caso de un <a href=\"/contenedor-high-cube/\">High Cube</a> es habitual recurrir a una góndola rebajada: su altura exterior de 2,90 m deja poco margen frente al límite legal de altura para circular por carretera. Cuando la pluma del camión no llega al punto exacto de descarga, se recurre a una autogrúa.</p><p>Antes de la entrega conviene revisar en el terreno:</p><ul><li>Anchura del acceso y radio de giro para un camión articulado</li><li>Altura libre de cables, ramas o marquesinas</li><li>Firmeza del suelo para apoyar los estabilizadores de la grúa</li><li>Espacio despejado para el recorrido del brazo</li><li>Si la maniobra ocupa vía pública y hace falta permiso municipal</li><li>Orientación de puertas que quieras para el contenedor ya colocado</li></ul>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Transporte por tu cuenta, islas y cómo pedir presupuesto",
+    "html": "<p>Si prefieres <strong>transportar el contenedor por tu cuenta</strong>, necesitas un vehículo y una plataforma adecuados a su peso y longitud, sistemas de sujeción homologados (twist-locks o eslingas certificadas) y un seguro que cubra la carga durante el trayecto. Antes de salir, comprueba la altura total del conjunto para evitar puentes o líneas eléctricas, y el peso máximo autorizado en las vías que vas a recorrer.</p><p>Para <strong>Baleares y Canarias</strong> el trayecto incluye un tramo marítimo con su propia documentación de embarque; coordínalo con antelación junto al transporte terrestre.</p><p>Para preparar tu <a href=\"/precios/\">presupuesto de transporte</a>, indícanos origen y destino, medida del contenedor, si va vacío o cargado, fecha prevista, cómo es el acceso en destino y si hace falta grúa.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre el transporte de contenedores marítimos",
+   "items": [
+    {
+     "pregunta": "¿Puedo mover el contenedor más adelante?",
+     "respuesta": "Sí. Un contenedor marítimo no queda anclado a la parcela como una cimentación tradicional, así que se puede volver a cargar y llevar a otra ubicación siguiendo el mismo proceso de transporte: camión con pluma o grúa, según la medida. Si el contenedor se ha usado como vivienda o local, conviene revisar antes su estructura y desconectar las instalaciones."
+    },
+    {
+     "pregunta": "¿Tengo que estar en la entrega?",
+     "respuesta": "No es obligatorio, pero sí recomendable. Alguien debe indicar al conductor el punto exacto de descarga, la orientación de puertas y confirmar que el acceso es el que se había descrito al pedir el transporte. Si no puedes estar presente, deja instrucciones claras y un contacto localizable para el día de la entrega."
+    },
+    {
+     "pregunta": "¿Qué pasa si el camión no puede entrar?",
+     "respuesta": "Si el acceso es demasiado estrecho, tiene poca altura libre o el firme no aguanta el peso del vehículo, se valoran alternativas: descargar en un punto cercano y trasladar el contenedor después, cambiar a un camión más pequeño o usar una autogrúa para salvar el tramo complicado. Por eso conviene describir bien el acceso al pedir el transporte."
+    },
+    {
+     "pregunta": "¿Transportáis contenedores cargados?",
+     "respuesta": "Sí, se pueden transportar contenedores con carga dentro, siempre dentro del peso máximo autorizado para el vehículo y la vía. Conviene indicarlo al solicitar el transporte, porque cambia el tipo de camión, los sistemas de sujeción necesarios y, en función de la mercancía, puede exigir un seguro específico para la carga transportada."
+    },
+    {
+     "pregunta": "¿Se entrega en una finca sin asfaltar?",
+     "respuesta": "Depende del firme y del acceso real. Un terreno compactado, sin barro ni desniveles importantes, suele bastar para que el camión maniobre y la grúa apoye los estabilizadores con seguridad. Si el suelo es blando, arenoso o tiene pendiente pronunciada, puede que haga falta preparar el acceso antes de la entrega."
+    }
+   ]
+  }
+ }
 }

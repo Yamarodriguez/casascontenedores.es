@@ -2621,5 +2621,49 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 4620,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Medidas reales de un contenedor de 40 pies para vivir",
+    "html": "<table><thead><tr><th></th><th>Exterior</th><th>Interior aproximado</th></tr></thead><tbody><tr><td>Estándar</td><td>12,19 × 2,44 × 2,59 m</td><td>≈ 28,3 m² (ancho útil 2,35 m)</td></tr><tr><td>High Cube</td><td>2,90 m de alto</td><td>≈ 2,69 m libres bajo techo</td></tr></tbody></table><p>El ancho interior, 2,35 m, es igual en las dos versiones: lo que cambia es la altura. Esos centímetros de más del <strong>High Cube</strong> son los que dejan pasar aislamiento, instalaciones y falso techo sin que el interior quede bajo, y por eso es la opción habitual para vivienda. Puedes comparar ambas en <a href=\"/contenedores-40-pies/\">contenedores de 40 pies</a> y en <a href=\"/contenedor-high-cube/\">contenedor High Cube</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Distribuciones para uno o dos módulos, de estudio a tres dormitorios",
+    "html": "<p>La distribución cambia según trabajes con una unidad o con dos:</p><ul><li><strong>Un módulo en línea:</strong> salón y cocina abiertos en un extremo, baño en el otro, sin tabiques que corten el largo interior.</li><li><strong>Un módulo con un dormitorio:</strong> un tabique cierra un tercio del contenedor, con el baño junto a la entrada.</li><li><strong>Un módulo con dos dormitorios:</strong> pasillo central y baño compartido, la opción más ajustada para los 2,35 m de ancho.</li><li><strong>Dos módulos en paralelo:</strong> tres dormitorios o zona de día y de noche separadas.</li><li><strong>Dos módulos en dos plantas:</strong> el de abajo hace de planta baja y el de arriba de dormitorios, sin ocupar más parcela.</li></ul>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Estructura, transporte y qué versión elegir",
+    "html": "<p>El largo total, 12,19 m, da más luz libre que dos módulos cortos, pero también más flecha: al abrir un ventanal corrido en la fachada larga, la estructura pide un refuerzo perimetral para no perder la rigidez de la chapa continua.</p><p>El transporte también condiciona el proyecto: una plataforma de esa longitud pide más radio de giro que un camión corto y, según el acceso, una autogrúa para la descarga (lo tratamos en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>). Si eliges una unidad usada en vez de nueva o one trip, revisa el estado del suelo, las abolladuras en las cantoneras —ahí se reparte toda la carga— y que conserve su placa CSC. Grados disponibles en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores marítimos de segunda mano</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedor de 40 pies",
+   "items": [
+    {
+     "pregunta": "¿Caben dos dormitorios en un solo contenedor?",
+     "respuesta": "Sí, aunque ajustados: el ancho interior útil es de 2,35 m, así que cada dormitorio queda estrecho y el baño suele ir centrado entre los dos. Si buscas más holgura, la alternativa habitual es sumar un segundo contenedor y repartir mejor los usos."
+    },
+    {
+     "pregunta": "¿Conviene la versión estándar o el High Cube?",
+     "respuesta": "Para vivienda, el High Cube es la referencia: gana altura hasta 2,90 m exteriores (unos 2,69 m libres por dentro) frente a los 2,59 m del estándar, margen que deja pasar aislamiento, instalaciones y falso techo sin bajar la altura interior."
+    },
+    {
+     "pregunta": "¿Qué acceso necesita el camión para la descarga?",
+     "respuesta": "El largo del contenedor, 12,19 m, exige una plataforma más larga que un camión rígido: hace falta una calle o camino con radio de giro suficiente para maniobrar y, en la mayoría de los casos, una autogrúa que lo coloque en su posición final."
+    },
+    {
+     "pregunta": "¿Cabe esta casa en una parcela urbana?",
+     "respuesta": "Depende del planeamiento municipal: edificabilidad, ocupación y retranqueos del PGOU o el POM determinan si ese largo entra en tu parcela y con qué orientación colocarlo. Antes de comprar el contenedor, conviene pedir la consulta urbanística al ayuntamiento para confirmarlo por escrito."
+    },
+    {
+     "pregunta": "¿Se puede ampliar a dos plantas más adelante?",
+     "respuesta": "Sí, apilando un segundo contenedor sobre el primero, siempre que el proyecto de arquitecto calcule desde el principio la cimentación y los refuerzos para ese peso adicional. Ampliar después de construida la planta baja es posible, pero conviene preverlo desde el proyecto inicial."
+    }
+   ]
+  }
+ }
 }

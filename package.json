@@ -13,7 +13,10 @@
     "css": "node scripts/css.mjs",
     "css:limpiar": "astro build && node scripts/css.mjs --limpiar && astro build",
     "fuentes": "node scripts/fuentes-locales.mjs",
-    "todo": "node scripts/fuentes-locales.mjs && node scripts/css.mjs && astro build && node scripts/validar.mjs && node scripts/comparar-encabezados.mjs"
+    "imagenes": "node scripts/analizar-imagenes.mjs",
+    "inventario": "node scripts/inventario.mjs",
+    "capturar": "node scripts/capturar.mjs",
+    "todo": "node scripts/fuentes-locales.mjs && node scripts/css.mjs && node scripts/analizar-imagenes.mjs && astro build && node scripts/validar.mjs && node scripts/comparar-encabezados.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",

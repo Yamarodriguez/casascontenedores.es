@@ -2296,5 +2296,40 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 814,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Fotos de casas contenedores por tipo de proyecto",
+    "html": "<p>Antes de fijar tu diseño conviene mirar las fotos agrupadas por tipo de proyecto, no sueltas: así comparas lo mismo entre sí y distingues una fotografía real de un render.</p><ul><li><strong>Por número de contenedores:</strong> en <a href=\"/modelos/\">todos los modelos de casa con contenedores</a> las fotos están agrupadas por módulos, desde un contenedor hasta combinaciones mayores, cada una con su ficha propia.</li><li><strong>Interior y acabados:</strong> las fotos de <a href=\"/por-dentro/\">una casa contenedor por dentro</a> muestran distribución y materiales ya terminados, no un boceto.</li><li><strong>Renders frente a fotos reales:</strong> un render es una imagen generada por ordenador antes de fabricar el proyecto; una fotografía muestra la obra ya construida. Si una imagen no lo indica, pregúntanoslo antes de tomarla como referencia de acabado final.</li><li><strong>Proceso de fabricación:</strong> el taller, el transporte y el montaje en la parcela también forman parte de la documentación del proyecto; puedes seguir cada fase en <a href=\"/casa-container-paso-a-paso/\">casa container paso a paso</a>.</li></ul>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Qué mirar en las fotos antes de decidir tu diseño",
+    "html": "<p>Una foto bonita no siempre resuelve las dudas técnicas. Antes de fijar tu diseño, fíjate en estos puntos de cada imagen:</p><ul><li><strong>Orientación y tamaño de los huecos:</strong> ventanas y puertas grandes en la fachada equivocada suman calor en verano; comprueba hacia dónde mira la fachada con más superficie acristalada.</li><li><strong>Protección solar:</strong> aleros, porches o lamas delante de los huecos indican que el proyecto ya tuvo en cuenta el clima, no solo la estética.</li><li><strong>Revestimiento y cubierta:</strong> el acero visto necesita un tratamiento distinto al de una fachada revestida en madera o panel; fíjate también en si la cubierta es plana o inclinada y cómo evacua el agua.</li><li><strong>Unión entre módulos:</strong> en las casas de dos o más contenedores, mira cómo se resuelve la junta entre cuerpos: un hueco grande abierto justo en el punto de unión le resta rigidez a la estructura si no estaba calculado en el proyecto.</li><li><strong>Porches y terrazas:</strong> comprueba si están integrados en la estructura o son un añadido posterior, porque cambia el tipo de apoyo y de cimentación que necesitan.</li></ul><p>Puedes comparar estos mismos puntos sobre plano en <a href=\"/planos/\">planos de casas con contenedores</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre las fotos de casas contenedores",
+   "items": [
+    {
+     "pregunta": "¿Las fotos de la web son de casas reales o son renders?",
+     "respuesta": "Se mezclan las dos cosas: algunas imágenes son fotografías de proyectos ya construidos y otras son renders, diseños en 3D previos a la fabricación. Cuando una imagen no lo indica, pregúntanoslo antes de tomarla como referencia exacta de acabados, colores o proporciones; te confirmamos su origen sin compromiso."
+    },
+    {
+     "pregunta": "¿Puedo enviaros fotos de referencia para mi proyecto?",
+     "respuesta": "Sí, es habitual y ayuda mucho: cuéntanos qué te gusta de esa foto (distribución, revestimiento, tamaño de huecos, color) y lo tenemos en cuenta al preparar tu propuesta. La imagen no se copia tal cual: se adapta a tu contenedor y a tu parcela."
+    },
+    {
+     "pregunta": "¿Cómo se consigue que una casa contenedor no parezca un contenedor por fuera?",
+     "respuesta": "Con el revestimiento exterior: madera, panel composite, aplacados o pintura en distintos colores rompen la lectura de las cantoneras y las ondas del acero. También ayudan los huecos a medida, los porches y combinar varios módulos con distinto retranqueo, en vez de dejarlos alineados en un único plano."
+    },
+    {
+     "pregunta": "¿Puedo ver una casa contenedor terminada antes de decidirme?",
+     "respuesta": "Podemos enseñarte fotografías y, si el propietario lo permite, ponerte en contacto para resolver dudas sobre acabados o comportamiento real de la vivienda. Las visitas dependen de la disponibilidad de cada proyecto y de la voluntad de sus dueños, así que coméntanoslo y vemos qué opción encaja con tu caso."
+    }
+   ]
+  }
+ }
 }

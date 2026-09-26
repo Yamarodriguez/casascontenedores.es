@@ -2613,5 +2613,49 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 510,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Cómo se combinan dos contenedores para hacer una casa",
+    "html": "<p>Dos contenedores se combinan de varias formas, y cada una cambia la distribución final:</p><ul><li><strong>En paralelo y unidos</strong>: se retira parte de la pared común y se refuerza la zona abierta, quedando una sola pieza interior.</li><li><strong>Separados con un cuerpo central</strong>, a menudo acristalado, como en los vídeos \"expandible\" de más arriba.</li><li><strong>En L</strong>, con un patio o porche cubierto en la esquina que forman.</li><li><strong>Apilados</strong>, si la estructura y la cimentación del inferior soportan el peso del de arriba.</li></ul><p>Como referencia de cada módulo por separado, la <a href=\"/medidas-contenedores-maritimos/\">medida ISO 668</a> deja unos 13,9 m² interiores en un contenedor de 20 pies y unos 28,3 m² en uno de 40 pies; la superficie final de la vivienda depende de cómo se combinen los dos cuerpos y de si dejas o no un hueco entre ambos.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Distribuciones típicas para dos contenedores de 40 pies",
+    "html": "<ul><li>Dos dormitorios, baño y salón-cocina en una sola planta.</li><li>Un dormitorio amplio junto a un despacho, dejando más metros para el salón.</li><li>Dos plantas, con la zona de noche arriba y el día abajo, si los módulos se apilan.</li></ul>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Estructura, refuerzos y logística al unir dos módulos",
+    "html": "<p>La pared que separa dos contenedores no se corta sin más: las cantoneras de las esquinas reparten parte de la carga de la estructura, así que abrir un hueco grande ahí exige recalcular y sumar vigas y pilares de refuerzo. Una vez unidos, las juntas entre los dos módulos se sellan frente al agua y al aire, y por encima se resuelve una cubierta única para ambos cuerpos.</p><p>En taller, los dos módulos suelen prepararse en paralelo y después viajan por separado, en dos transportes o en una góndola si la reforma es grande; se colocan y se unen en la parcela con grúa. Puedes ver el proceso completo en <a href=\"/casa-container-paso-a-paso/\">cómo se construye una casa contenedor paso a paso</a>; los plazos de cada fase los detalla el presupuesto.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas con dos contenedores",
+   "items": [
+    {
+     "pregunta": "¿Es mejor elegir contenedores de 20 o de 40 pies para una casa de dos módulos?",
+     "respuesta": "Depende del terreno y de la distribución que busques. Dos de 20 pies dan una planta más cuadrada y caben en accesos estrechos; dos de 40 pies suman más metros en línea recta y permiten habitaciones más generosas. Ambas combinaciones se refuerzan y se unen del mismo modo."
+    },
+    {
+     "pregunta": "¿Se pueden apilar los dos contenedores para hacer una casa de dos plantas?",
+     "respuesta": "Sí, siempre que el contenedor inferior y su cimentación estén calculados para soportar el peso del de arriba. La resistencia de un contenedor se concentra en sus cuatro esquinas, así que el apilado se apoya ahí y no sobre el techo corrugado, que por sí solo no carga peso adicional."
+    },
+    {
+     "pregunta": "¿Cuántas habitaciones caben en una casa de dos contenedores?",
+     "respuesta": "Con dos de 40 pies suele caber una vivienda de dos dormitorios con baño y salón-cocina, o un dormitorio amplio junto a un despacho. Con dos de 20 pies el resultado es más compacto, cercano a un estudio con el dormitorio separado. La distribución final se ajusta en el proyecto."
+    },
+    {
+     "pregunta": "¿Puedo empezar con un contenedor y añadir el segundo más adelante?",
+     "respuesta": "Sí: puedes arrancar con una <a href=\"/casa-con-un-contenedor/\">casa de un contenedor</a> y, cuando lo necesites, adosar el segundo módulo abriendo el paso entre ambos. Conviene preverlo ya en el primer proyecto, dejando calculados desde el inicio la cimentación y el punto por donde se conectarán los dos módulos."
+    },
+    {
+     "pregunta": "¿Qué licencia necesita una casa de dos contenedores?",
+     "respuesta": "La misma que cualquier vivienda: proyecto firmado por un arquitecto conforme al Código Técnico de la Edificación y a la Ley de Ordenación de la Edificación, y licencia de obra mayor del ayuntamiento según su planeamiento urbanístico. Lo explicamos con más detalle en <a href=\"/permisos/\">permisos para casas contenedor</a>."
+    }
+   ]
+  }
+ }
 }

@@ -2459,5 +2459,40 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 8285,
- "huecoTitulo": true
+ "huecoTitulo": true,
+ "ampliacion": {
+ "secciones": [
+  {
+   "nivel": "h2",
+   "titulo": "Recorrido por una casa contenedor por dentro, estancia a estancia",
+   "html": "<p>La entrada suele abrir directamente a la zona de día, con el ventanal grande en el testero (la cara corta del contenedor), porque ahí se puede abrir más superficie sin tocar la estructura de carga de los laterales. La cocina va en línea contra una de las paredes largas si es un único módulo, o en L cuando se unen dos contenedores por el lateral; en ambos casos necesita una salida de humos propia hasta cubierta si lleva placa de cocción.</p><p>Los dormitorios se colocan casi siempre en los extremos de la vivienda. Ahí manda el ancho útil interior, de 2,35 m entre paredes: una cama de matrimonio con mesillas a los lados ocupa buena parte de ese espacio, así que el armario suele quedar empotrado en el testero o junto al pasillo. El baño, compacto y próximo a la cocina para acortar la instalación de fontanería, casi nunca tiene hueco a fachada y necesita ventilación forzada. Fuera, la terraza, el porche cubierto o incluso la cubierta transitable —si el cálculo de cargas del proyecto lo contempla— amplían la vivienda sin sumar más módulos.</p>"
+  },
+  {
+   "nivel": "h2",
+   "titulo": "Cómo ganar luz y espacio, y qué mirar en los vídeos",
+   "html": "<ul><li><strong>Un solo contenedor</strong>: ventanal en el testero y algún hueco recortado en el lateral, siempre con un refuerzo perimetral para no perder la rigidez que aporta la chapa.</li><li><strong>Varios contenedores en paralelo</strong>: separarlos y cubrir el hueco central da un salón de doble ancho o un patio cubierto.</li><li><strong>Dos plantas</strong>: apilar módulos multiplica la superficie sin ocupar más parcela; el añadido real es la escalera.</li><li><strong>Detalles que amplían el espacio</strong>: los <a href=\"/contenedor-high-cube/\">contenedores High Cube</a>, los colores claros, el suelo continuo entre estancias y las puertas correderas en vez de batientes.</li><li>Los vídeos de <a href=\"/interior/\">interiores de casa contenedor</a> repasan uniones entre módulos, acabados, cocinas y baños ya resueltos; la ficha de <a href=\"/casa-con-dos-contenedores/\">casa con dos contenedores</a> muestra un reparto habitual de estancias.</li></ul>"
+  }
+ ],
+ "faq": {
+  "titulo": "Preguntas frecuentes sobre casas de contenedores por dentro",
+  "items": [
+   {
+    "pregunta": "¿Cuántos metros cuadrados tiene por dentro una casa de un contenedor?",
+    "respuesta": "Depende del contenedor de partida: uno de 20 pies deja alrededor de 13,9 m² interiores y uno de 40 pies, cerca de 28,3 m². El ancho útil entre paredes es de 2,35 m en ambos casos, así que la superficie crece a lo largo, no a lo ancho, salvo que se unan varios módulos en paralelo."
+   },
+   {
+    "pregunta": "¿Caben dos dormitorios en una casa de 40 pies?",
+    "respuesta": "Sí, es una de las distribuciones más habituales: un dormitorio en cada extremo del contenedor de 40 pies, con el pasillo, la cocina y el baño en el tramo central. El ancho útil de 2,35 m admite una cama doble con paso lateral, aunque el armario casi siempre va empotrado para no restar espacio a la habitación."
+   },
+   {
+    "pregunta": "¿Se pueden poner ventanas grandes en una casa contenedor?",
+    "respuesta": "En los testeros (las caras cortas) sí, incluso ventanales de suelo a techo, porque ahí no hay carga estructural que soportar. En los laterales hay que ser más prudente: cada hueco que se recorta se refuerza con un perfil metálico perimetral, porque la chapa lateral también trabaja como parte de la estructura."
+   },
+   {
+    "pregunta": "¿La cubierta de una casa contenedor puede ser terraza?",
+    "respuesta": "Sí, siempre que el proyecto lo contemple desde el cálculo estructural: hay que prever la carga añadida, la impermeabilización y un peto o barandilla conforme al DB-SUA del Código Técnico. No es algo que se pueda improvisar después de fabricar el contenedor, así que conviene decidirlo antes."
+   }
+  ]
+ }
+}
 }

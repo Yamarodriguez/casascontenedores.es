@@ -2844,5 +2844,59 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 2,
- "huecoTitulo": true
+ "huecoTitulo": true,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Qué debes comprobar antes de encargar una casa contenedor",
+    "html": "<p>Antes de encargar una casa contenedor conviene revisar cuatro cosas: si el terreno admite vivienda y qué licencia exige el ayuntamiento, cuántos metros y qué distribución caben en los módulos elegidos, si el camión y la grúa tienen acceso a la parcela, y qué incluye el presupuesto y qué queda fuera.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Terreno y licencia: lo primero que hay que mirar",
+    "html": "<p>No todos los terrenos admiten una vivienda. En suelo urbano consolidado normalmente se puede construir; en suelo urbanizable hay que urbanizar antes de edificar; y en suelo rústico o no urbanizable la vivienda nueva no está permitida, salvo excepciones autonómicas. Por eso conviene pedir en el ayuntamiento la consulta urbanística antes de comprar la parcela.</p><p>Una casa contenedor es obra mayor, igual que una de ladrillo: necesita proyecto de arquitecto conforme al Código Técnico de la Edificación, licencia municipal y, al terminar, primera ocupación o cédula de habitabilidad. Que los módulos sean transportables no exime de licencia. Lo desarrollamos en <a href=\"/permisos/\">permisos</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Medidas reales de un contenedor y por qué casi siempre se unen varios",
+    "html": "<table><thead><tr><th>Contenedor</th><th>Medidas exteriores</th><th>Interior útil aprox.</th></tr></thead><tbody><tr><td>20 pies</td><td>6,06 × 2,44 × 2,59 m</td><td>≈ 13,9 m²</td></tr><tr><td>40 pies</td><td>12,19 × 2,44 × 2,59 m</td><td>≈ 28,3 m²</td></tr><tr><td>High Cube (20' o 40')</td><td>2,90 m de alto exterior</td><td>≈ 2,69 m de alto interior</td></tr></tbody></table><p>El ancho interior útil ronda los 2,35 m: el aislamiento resta a la caja original. Por eso el modelo habitual para vivienda es el High Cube, y por eso casi ninguna casa se hace con un solo módulo: se unen varios para sumar dormitorios. Consulta las <a href=\"/medidas-contenedores-maritimos/\">medidas completas</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Aislamiento, cimentación y cómo llega la casa a tu parcela",
+    "html": "<p>El acero conduce el calor y, si no se trata, condensa por dentro. El aislamiento se resuelve por fuera (SATE, fachada ventilada) o por dentro (poliuretano proyectado, lana mineral, panel sándwich), con barrera de vapor y carpinterías con rotura de puente térmico; el proyecto justifica el cumplimiento del DB-HE y del DB-HR.</p><p>Tampoco se apoya directamente sobre la tierra: lleva zapatas bajo las cantoneras, losa o pilotes, según el estudio geotécnico, más anclaje frente al viento.</p><p>El transporte condiciona el proyecto: los módulos llegan en camión y se izan con grúa, así que conviene comprobar antes la anchura de acceso, el radio de giro y la pendiente. Lo explicamos en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Qué incluye un presupuesto llave en mano y qué suele ir aparte",
+    "html": "<p>Un presupuesto llave en mano suele incluir:</p><ul><li>Proyecto técnico y dirección de obra</li><li>Los contenedores, el refuerzo estructural y el tratamiento anticorrosión</li><li>Aislamiento, carpinterías e instalaciones</li><li>Transporte, grúa y montaje en tu parcela</li><li>La cimentación</li></ul><p>Y suele quedar fuera: el terreno, el geotécnico, las acometidas, la licencia y sus tasas, notaría y registro, el seguro decenal si la vivienda se va a vender, y el mobiliario. Un «módulo desde» un precio suelto no es todavía una vivienda legalizable: falta todo lo anterior. Pide tu <a href=\"/presupuesto-casas-contenedores/\">presupuesto</a> con los datos de tu parcela.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en España",
+   "items": [
+    {
+     "pregunta": "¿Se puede poner una casa contenedor en terreno rústico?",
+     "respuesta": "Como norma general, no: el suelo rústico o no urbanizable está pensado para usos agrarios o forestales y no admite vivienda nueva, salvo las excepciones que fije la ley del suelo de cada comunidad autónoma. Pide siempre la consulta urbanística en el ayuntamiento antes de comprar."
+    },
+    {
+     "pregunta": "¿Cuántos metros cuadrados tiene una casa de un contenedor de 40 pies?",
+     "respuesta": "Un contenedor de 40 pies mide 12,19 × 2,44 × 2,59 m por fuera, con unos 28,3 m² interiores; en la versión High Cube la altura exterior sube a 2,90 m. Es superficie para un estudio o una vivienda pequeña de un dormitorio."
+    },
+    {
+     "pregunta": "¿Cómo llega la casa a mi parcela y qué acceso necesita la grúa?",
+     "respuesta": "Los contenedores viajan por carretera en camión y se colocan en su sitio con una grúa móvil. Antes de fabricar conviene comprobar la anchura de las calles o caminos de acceso, el radio de giro y la pendiente del terreno, y si hay tendidos eléctricos que dificulten la maniobra."
+    },
+    {
+     "pregunta": "¿Qué mantenimiento necesita una casa contenedor?",
+     "respuesta": "Menos que una vivienda convencional, pero no ninguno: conviene revisar de vez en cuando la pintura anticorrosiva de la estructura, los sellados de juntas entre módulos y de carpinterías, y el estado de la cubierta, para que la humedad no llegue al acero."
+    },
+    {
+     "pregunta": "¿Se puede ampliar más adelante con otro contenedor?",
+     "respuesta": "Depende del planeamiento y de la licencia con la que se construyó la vivienda: ampliar suele exigir un nuevo proyecto y una nueva licencia municipal, igual que en una vivienda convencional. Es más sencillo cuando el diseño original ya lo tuvo en cuenta."
+    }
+   ]
+  }
+ }
 }

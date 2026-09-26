@@ -2261,5 +2261,64 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 559,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Cómo elegir el modelo de casa contenedor que necesitas",
+    "html": "<p>Antes de fijar un modelo conviene responder a tres preguntas: cuántos contenedores necesitas, qué tamaño de módulo eliges y qué forma le das a la construcción. Estos <strong>modelos de casas contenedores</strong> parten siempre de esa combinación.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Por número de contenedores",
+    "html": "<p>Un contenedor resuelve un estudio o una casa de invitados. Dos suman un dormitorio independiente, como en la <a href=\"/casa-con-dos-contenedores/\">casa con dos contenedores</a>. Con tres entran dos o tres dormitorios, y con cuatro cabe una vivienda familiar completa o, apilados, dos plantas.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Por tamaño: 20 pies, 40 pies y High Cube",
+    "html": "<p>Un módulo de 20 pies deja unos 13,9 m² interiores; uno de 40 pies, casi el doble, unos 28,3 m², con el mismo ancho útil de 2,35 m. La versión <strong>High Cube</strong> gana altura exterior, hasta 2,90 m frente a los 2,59 m del estándar.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Por forma y uso",
+    "html": "<p>Los módulos se combinan en línea, en L o en U, o se apilan cuando el proyecto suma un patio y una escalera. La misma base sirve para vivienda, oficina, local o <a href=\"/piscina-contenedor/\">piscina contenedor</a>; cambia la distribución, no la estructura.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Ejemplos de distribución según el número de módulos",
+    "html": "<p>Cada modelo parte de la superficie de su módulo: unos 13,9 m² en un 20 pies y unos 28,3 m² en un 40 pies. La distribución crece sumando módulos:</p><ul><li>Un módulo de 20 pies solo: estudio o caseta de invitados.</li><li>Un módulo de 40 pies solo: cocina, salón y un dormitorio.</li><li>Un 40 pies más un 20 pies: el mismo salón con un dormitorio adicional.</li><li>Dos módulos de 40 pies unidos: salón de doble ancho y dos dormitorios.</li><li>Tres o cuatro módulos, en planta o apilados: vivienda familiar completa.</li></ul><p>Cada módulo que se suma cambia la carga sobre las cantoneras y el cálculo de la cimentación; fíjalo en el <a href=\"/planos/\">plano</a> desde el principio.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Qué se puede personalizar y qué manda el módulo",
+    "html": "<p>Puedes elegir el acabado de fachada (chapa lacada, madera o SATE), la cubierta, los huecos, la distribución interior, los acabados y las instalaciones, además de sumar un porche. No cambia el ancho interior de 2,35 m ni el refuerzo que exige un hueco nuevo en el lateral.</p><p>El resto se adapta a la parcela: cimentación, orientación y normativa municipal. Si piensas ampliar más adelante, resérvalo en el proyecto, porque cada ampliación necesita su propia <strong>licencia</strong>, como explicamos en <a href=\"/permisos/\">permisos</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre modelos de casas contenedores",
+   "items": [
+    {
+     "pregunta": "¿Se pueden apilar los contenedores en dos plantas?",
+     "respuesta": "Sí, es una fórmula habitual para ganar altura sin ocupar más parcela. El apilado exige reforzar las esquinas que reciben la carga del módulo superior y calcular la cimentación para ese peso, así que conviene decidirlo desde el proyecto y no como una ampliación posterior."
+    },
+    {
+     "pregunta": "¿Puedo combinar contenedores de 20 y 40 pies?",
+     "respuesta": "Sí, es habitual: un 40 pies para el salón y la cocina, y un 20 pies para un dormitorio o un despacho. La combinación ajusta mejor la superficie que usar solo módulos de 40 pies y facilita adaptarte a parcelas alargadas o irregulares."
+    },
+    {
+     "pregunta": "¿Los modelos incluyen planos y proyecto?",
+     "respuesta": "Los modelos de esta página son una referencia de distribución, no un proyecto cerrado. Cada casa necesita su propio proyecto visado por un arquitecto, adaptado a la parcela y a la normativa del municipio; puedes partir de un modelo y pedir después los planos a medida."
+    },
+    {
+     "pregunta": "¿Modelo estándar o a medida: qué cambia?",
+     "respuesta": "El modelo estándar fija el número de contenedores, el tamaño y la distribución general; el proyecto a medida ajusta huecos, acabados, instalaciones y la posición de cada estancia según tu parcela. La estructura de partida es la misma en los dos casos, aunque el proyecto a medida siempre necesita su propio visado."
+    },
+    {
+     "pregunta": "¿Qué modelo conviene como vivienda auxiliar o casa de invitados?",
+     "respuesta": "Lo habitual es un solo contenedor de 40 pies: sus 28,3 m² dan para un estudio completo sin ocupar demasiada parcela. Si necesitas separar el dormitorio del salón, la opción con dos contenedores da más margen, sobre todo cuando se prevén estancias prolongadas."
+    }
+   ]
+  }
+ }
 }

@@ -1,18 +1,21 @@
 /* =========================================================================
-   diseno.css — el aspecto de la web. Ahora manda esta hoja, no Elementor.
+   diseno.css — el aspecto del CONTENIDO. Ahora manda esta hoja, no Elementor.
 
-   Es el mismo lenguaje visual de la maqueta: ACERO.
-   Los colores salen del material del que está hecha la casa. Neutros grises
-   con un punto de frío, como la chapa del contenedor; el verde del logo, más
-   profundo, reservado SOLO para los botones de acción; y el óxido corten para
-   antetítulos y datos. Archivo en los titulares, IBM Plex Sans en el texto,
-   IBM Plex Mono en cifras y etiquetas.
+   Lenguaje visual: ACERO. Neutros grises con un punto de frío, como la chapa
+   del contenedor; el verde del logo, más profundo, para los botones de
+   acción; y el óxido corten para antetítulos y datos. Archivo en los
+   titulares, IBM Plex Sans en el texto, IBM Plex Mono en cifras y etiquetas.
 
    El marcado que estiliza lo escribe src/utils/render.js:
-     section.bloque > .bloque-in > .fila > .col > .b
+     section.bloque > .bloque-in > .fila > .col > .b        (lo genérico)
+     .modelos > .modelo         rejilla de tarjetas foto + título
+     .etiquetas > .etiqueta     fila de rótulos (30 m2 / 90 m2 / 120 m2)
+     .col--ventajas > .ventajas lista de ventajas en tarjetas
+     .col--foto                 foto de fondo con un botón encima
+     .bloque--banda             foto a un lado, texto al otro
+     .col--formulario           la caja del formulario de contacto
    Los fondos, velos y colores de texto vienen del árbol de cada página como
-   variables CSS en el propio elemento (--bl-color, --bl-foto, --bl-velo…),
-   porque ahí es donde estaban en el CSS de Elementor que ya no cargamos.
+   variables CSS en el propio elemento (--bl-color, --bl-foto, --bl-velo…).
    ========================================================================= */
 
 :root {
@@ -30,24 +33,26 @@
   --verde-osc:  #0a5c2d;
   --verde-claro:#e8f3ec;
   --corten:     #a8562f;
+  --corten-claro: #f0b088;
 
   --titular: 'Archivo', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --cuerpo:  'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --mono:    'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Consolas, monospace;
 
-  --radio: 4px;
-  --sombra: 0 1px 2px rgba(18,23,27,.06), 0 10px 28px -14px rgba(18,23,27,.22);
-  --sombra-2: 0 2px 6px rgba(18,23,27,.08), 0 20px 44px -20px rgba(18,23,27,.3);
+  --radio:   6px;
+  --radio-l: 10px;
+  --sombra: 0 1px 2px rgba(18,23,27,.05), 0 10px 28px -14px rgba(18,23,27,.2);
+  --sombra-2: 0 2px 6px rgba(18,23,27,.07), 0 22px 44px -20px rgba(18,23,27,.28);
   --caja: 1180px;
   --margen: 22px;
+  --seccion: clamp(34px, 4.5vw, 60px);
 }
 
 *, *::before, *::after { box-sizing: border-box; }
 
-/* El contenido de algunas páginas trae un <style> escrito a mano con una regla
-   `body { padding: 60px 20px; background:#f0f4f8 }`. Es un copiar-pegar del
-   autor original que se cuela en TODA la web. Se neutraliza aquí, que es lo
-   único que puede ganarle sin tocar el contenido. */
+/* Alguna página traía un <style> a mano con `body { padding: 60px 20px }`
+   (ya no se pinta, render.js lo quita), pero la regla se queda por si
+   vuelve a colarse: es lo único que puede ganarle sin tocar el contenido. */
 html body {
   margin: 0 !important;
   padding: 0 !important;
@@ -87,33 +92,51 @@ a { color: var(--verde-osc); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 ::selection { background: var(--verde-claro); color: var(--verde-osc); }
 
+/* En el teléfono la letra baja un punto y los titulares dos: un h1 de 31 px
+   a 390 px de ancho ocupaba seis lineas. */
+@media (max-width: 640px) {
+  html body { font-size: 16px; line-height: 1.65; }
+  h1 { font-size: 27px; }
+  h2 { font-size: 23px; }
+  h3 { font-size: 19px; }
+}
+
 /* =========================================================================
    ESTRUCTURA: bloque > fila > columna
    ========================================================================= */
 
 #wrap { background: var(--papel); overflow-x: hidden; }
-#main { display: block; }
-.entrada > * + * { margin-top: 0; }
+#main { display: block; padding: var(--seccion) 0 clamp(48px, 6vw, 84px); }
 
-.bloque {
-  position: relative;
-  background-color: var(--bl-color, transparent);
-  padding: var(--bl-relleno, clamp(40px, 5vw, 72px) 0);
-}
-/* Un bloque sin relleno propio y sin fondo no necesita aire extra: se lo da
-   la rejilla. Sin esto la página se llena de huecos de 72 px. */
-.bloque:not(.con-fondo) { padding: var(--bl-relleno, 0); }
-.bloque.con-fondo { padding: var(--bl-relleno, clamp(40px, 5vw, 72px) 0); }
+/* Ritmo vertical: los espaciadores del original ya no se pintan; el aire
+   entre secciones lo pone esta regla, igual para todas. */
+.bloque { position: relative; }
+.bloque--raiz + .bloque--raiz { margin-top: var(--seccion); }
+/* dos franjas con fondo seguidas van pegadas, sin un hilo blanco en medio */
+.bloque--raiz.con-fondo + .bloque--raiz.con-fondo { margin-top: 0; }
+/* las filas de rótulos van pegadas a la rejilla de modelos que las precede */
+.bloque--modelos + .bloque--etiquetas,
+.bloque--etiquetas + .bloque--etiquetas,
+.bloque--etiquetas + .bloque--modelos,
+.bloque--modelos + .bloque--modelos { margin-top: 18px; }
+
+/* Una seccion con fondo es una franja a sangre, de lado a lado de la
+   pantalla; el contenido sigue dentro de la caja de 1180 px. */
+.bloque.con-fondo { padding: var(--bl-relleno, clamp(44px, 5.5vw, 80px) 0); }
+/* el color lo pinta solo quien lo declara: --bl-color se hereda y sin esto
+   las columnas de dentro repetian el color de su seccion */
+.con-color { background-color: var(--bl-color); }
+/* una seccion anidada con fondo es una tarjeta dentro de su columna */
+.bloque--dentro.con-fondo { padding: var(--bl-relleno, 22px); border-radius: var(--radio-l); }
 
 /* La foto de fondo y el velo van en capas, para que el velo quede ENTRE la
    foto y el texto y no lo tape. */
 .bloque.con-foto {
   background-image: var(--bl-foto);
   background-position: var(--bl-pos, center center);
-  background-size: var(--bl-tam, cover);
-  background-repeat: var(--bl-rep, no-repeat);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-.bloque.foto-fija { background-attachment: fixed; }
 .bloque.con-velo::before {
   content: "";
   position: absolute;
@@ -121,16 +144,29 @@ a { color: var(--verde-osc); }
   background: var(--bl-velo);
   opacity: var(--bl-velo-op, .5);
   pointer-events: none;
+  border-radius: inherit;
 }
+/* Sobre una foto con velo el texto se lee mejor con un degradado extra
+   hacia abajo (la firma del héroe), no con un gris plano. */
+.bloque--raiz.con-foto.con-velo::before {
+  background: linear-gradient(180deg, var(--bl-velo) 0%, var(--bl-velo) 55%, rgba(9,13,16,.92) 100%);
+  opacity: max(var(--bl-velo-op, .5), .62);
+}
+/* con texto largo encima, el velo sube un punto mas; en el movil, otro */
+.bloque--raiz.con-foto.con-velo:has(.b--texto)::before { opacity: max(var(--bl-velo-op, .5), .68); }
+@media (max-width: 640px) { .bloque--raiz.con-foto.con-velo::before { opacity: max(var(--bl-velo-op, .5), .76); } }
+/* una foto de fondo de 560 px estirada a toda la pantalla se pixela: bajo
+   el velo se desenfoca un poco y deja de notarse */
+.con-foto-pequena.con-velo::before { -webkit-backdrop-filter: blur(3px); backdrop-filter: blur(3px); }
 .bloque > .bloque-in { position: relative; z-index: 1; }
 
+/* El contenido va SIEMPRE dentro de la caja, tambien en las secciones que
+   Elementor marcaba "a todo el ancho": eso solo afecta al fondo. */
 .bloque-in {
   max-width: var(--caja);
   margin-inline: auto;
   padding-inline: var(--margen);
 }
-.bloque--ancho > .bloque-in { max-width: none; padding-inline: 0; }
-.bloque--dentro { padding-block: 0; }
 .bloque--dentro > .bloque-in { max-width: none; padding-inline: 0; }
 
 /* El hueco entre columnas hay que DESCONTARLO del ancho de cada una, si no
@@ -139,7 +175,7 @@ a { color: var(--verde-osc); }
 .fila {
   display: flex;
   flex-wrap: wrap;
-  --gap: clamp(20px, 2.4vw, 34px);
+  --gap: clamp(22px, 2.8vw, 40px);
   --hueco: calc(var(--gap) * (var(--n, 1) - 1) / var(--n, 1));
   gap: var(--gap);
   align-items: flex-start;
@@ -148,6 +184,17 @@ a { color: var(--verde-osc); }
 .fila--narrow { --gap: 12px; }
 .fila--wide   { --gap: 40px; }
 .fila--wider  { --gap: 56px; }
+.fila--apilada { flex-direction: column; --hueco: 0px; }
+.fila--apilada > .col { flex-basis: auto; width: 100%; }
+/* Dos fichas en paralelo (PERMISOS / PLANOS), cada una con su texto y su
+   foto apilados: las dos columnas se estiran a la misma altura y la foto
+   va pegada abajo, asi las dos fotos quedan alineadas aunque un texto sea
+   mas largo que el otro. */
+.fila:has(> .col > .bloque--dentro > .bloque-in > .fila--apilada) { align-items: stretch; }
+.col > .bloque--dentro:has(> .bloque-in > .fila--apilada) { flex: 1; display: flex; flex-direction: column; }
+.col > .bloque--dentro:has(> .bloque-in > .fila--apilada) > .bloque-in { flex: 1; display: flex; flex-direction: column; }
+.bloque-in > .fila--apilada { flex: 1; }
+.fila--apilada > .col--foto { margin-top: auto; aspect-ratio: 3 / 2; min-height: 0; }
 
 .col {
   flex: 0 1 calc(var(--col, 100) * 1% - var(--hueco, 0px));
@@ -157,15 +204,26 @@ a { color: var(--verde-osc); }
   flex-direction: column;
   gap: 18px;
   padding: var(--col-relleno, 0);
-  background-color: var(--bl-color, transparent);
   position: relative;
 }
 .col.con-foto {
   background-image: var(--bl-foto);
   background-position: var(--bl-pos, center center);
-  background-size: var(--bl-tam, cover);
-  background-repeat: var(--bl-rep, no-repeat);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: var(--radio-l);
+  overflow: hidden;
 }
+/* texto directamente sobre una foto: un velo oscuro para que se lea, aunque
+   el original no lo llevara */
+.col.con-foto:not(.con-velo):not(.col--foto):has(.b--encabezado, .b--texto)::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(9,13,16,.4), rgba(9,13,16,.7));
+  pointer-events: none;
+}
+.col.con-foto > * { position: relative; z-index: 1; }
 .col.con-velo::before {
   content: "";
   position: absolute;
@@ -173,10 +231,11 @@ a { color: var(--verde-osc); }
   background: var(--bl-velo);
   opacity: var(--bl-velo-op, .5);
   pointer-events: none;
+  border-radius: inherit;
 }
 .col.con-velo > * { position: relative; z-index: 1; }
 /* Una columna con fondo propio es una tarjeta: se le da aire y esquina. */
-.col.con-fondo { padding: var(--col-relleno, 26px); border-radius: var(--radio); }
+.col.con-fondo { padding: var(--col-relleno, 26px); border-radius: var(--radio-l); }
 
 @media (max-width: 860px) {
   .col { flex-basis: 100%; }
@@ -188,6 +247,7 @@ a { color: var(--verde-osc); }
 
 .b { min-width: 0; }
 .b--texto { font-size: 17px; line-height: 1.72; }
+@media (max-width: 640px) { .b--texto { font-size: 16px; line-height: 1.65; } }
 .b--texto p + p { margin-top: 1.05em; }
 .b--texto strong, .b--texto b { font-weight: 600; }
 .b--texto ul, .b--texto ol { margin: .6em 0; padding-left: 1.2em; }
@@ -201,12 +261,15 @@ a { color: var(--verde-osc); }
   transition: text-decoration-color .18s ease;
 }
 .b--texto a:hover { text-decoration-color: currentColor; }
-.b--texto img { border-radius: var(--radio); margin-block: .8em; }
+.b--texto img { border-radius: var(--radio-l); margin-block: .8em; }
 .b--texto h1, .b--texto h2, .b--texto h3, .b--texto h4 { margin: 1.1em 0 .5em; }
 .b--texto h1:first-child, .b--texto h2:first-child, .b--texto h3:first-child { margin-top: 0; }
 
-/* Filete corto bajo cada H2, como en la maqueta. Marca el inicio de sección
-   sin añadir ningún elemento al HTML. */
+/* El h1 del contenido es el titular principal de la página: aire abajo. */
+.b--encabezado h1.tit { margin-bottom: .2em; }
+
+/* Filete corto bajo cada H2. Marca el inicio de sección sin añadir ningún
+   elemento al HTML. */
 .b--encabezado h2.tit::after {
   content: "";
   display: block;
@@ -225,6 +288,18 @@ a { color: var(--verde-osc); }
 /* Si el titular va centrado (o a la derecha), el filete lo acompaña. */
 .b--encabezado[style*="center"] h2.tit::after { margin-inline: auto; }
 .b--encabezado[style*="right"]  h2.tit::after { margin-inline: auto 0; }
+
+/* Un "encabezado" que en el original era un <p> (los rótulos de los
+   banners) se pinta como subtítulo, sin tocar su etiqueta. */
+.b--encabezado p.tit {
+  font-family: var(--titular);
+  font-size: clamp(18px, 16px + .45vw, 22px);
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: -.02em;
+  color: var(--ink);
+  text-wrap: balance;
+}
 
 .tit a { color: inherit; text-decoration: none; }
 .tit a:hover { color: var(--verde); }
@@ -247,34 +322,25 @@ a { color: var(--verde-osc); }
 }
 .boton:hover {
   background: var(--verde-osc);
+  color: #fff;
   transform: translateY(-1px);
   box-shadow: 0 6px 16px -8px rgba(14,122,60,.7);
 }
 .b--boton.al-center { text-align: center; }
 .b--boton.al-right  { text-align: right; }
+/* un botón suelto en su propia sección (“Todos los modelos…”) va centrado */
+.bloque--raiz > .bloque-in > .fila > .col > .b--boton:only-child { text-align: center; }
 
-/* Separador, hueco, ancla */
-.filete { border: 0; border-top: 1px solid var(--linea); margin: 0; }
-.con-velo .filete, .con-foto .filete { border-top-color: rgba(255,255,255,.28); }
-.es-separador { padding-block: 4px; }
-.hueco { height: 24px; }
-.ancla { position: relative; top: -80px; }
+/* Ancla */
+.ancla { position: relative; top: -90px; }
 
-/* Fotos
-   Van al ancho completo de su caja, alineadas con el menu, el heroe y el
-   resto del contenido. Es lo mismo que hace hoy casascontenedores.es.
-
-   El coste: la foto principal de la portada mide 820 px de verdad y la caja
-   1.136, asi que se agranda un 38 % y pierde algo de nitidez. Se acepta a
-   proposito, porque una foto centrada a 820 px dentro de una caja de 1.136
-   deja un margen distinto al de todo lo demas y la pagina se ve descuadrada.
-   Si algun dia aparece el original en grande, se sustituye el fichero y esto
-   deja de ser un apaño: la regla ya es la correcta. */
+/* Fotos: al ancho de su caja, con esquina y una sombra muy contenida. */
 .b--imagen img {
-  border-radius: var(--radio);
+  border-radius: var(--radio-l);
   width: 100%;
   max-width: 100%;
   margin-inline: auto;
+  box-shadow: var(--sombra);
 }
 .foto { margin: 0; }
 .pie-foto {
@@ -290,19 +356,21 @@ a { color: var(--verde-osc); }
   width: 100%;
   aspect-ratio: 16 / 9;
   border: 0;
-  border-radius: var(--radio);
+  border-radius: var(--radio-l);
   display: block;
 }
-.mapa iframe { aspect-ratio: 4 / 3; }
+.mapa iframe { aspect-ratio: 21 / 9; max-height: 440px; }
 
 /* Galería */
 .galeria {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 14px;
 }
-.galeria figure { margin: 0; }
-.galeria img { border-radius: var(--radio); aspect-ratio: 4 / 3; object-fit: cover; width: 100%; }
+.galeria figure { margin: 0; overflow: hidden; border-radius: var(--radio-l); box-shadow: var(--sombra); }
+.galeria img { aspect-ratio: 4 / 3; object-fit: cover; width: 100%; height: 100%; transition: transform .5s ease; }
+.galeria figure:hover img { transform: scale(1.03); }
+@media (max-width: 640px) { .galeria { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; } }
 
 /* Tablas */
 .b--texto table {
@@ -330,39 +398,11 @@ a { color: var(--verde-osc); }
 .b--texto td { padding: 13px 16px; border-bottom: 1px solid var(--linea-2); }
 .b--texto tr:last-child td { border-bottom: 0; }
 
-/* Acordeón de preguntas (viene escrito a mano en el contenido) */
-.b--texto details { border-bottom: 1px solid var(--linea); }
-.b--texto summary {
-  list-style: none;
-  cursor: pointer;
-  padding: 18px 42px 18px 0;
-  position: relative;
-  font-family: var(--titular);
-  font-weight: 600;
-  font-size: 17px;
-  color: var(--ink);
-  letter-spacing: -.014em;
-}
-.b--texto summary::-webkit-details-marker { display: none; }
-.b--texto summary::after {
-  content: "";
-  position: absolute;
-  right: 10px;
-  top: 50%;
-  width: 10px;
-  height: 10px;
-  border-right: 2px solid var(--suave);
-  border-bottom: 2px solid var(--suave);
-  transform: translateY(-70%) rotate(45deg);
-  transition: transform .2s ease;
-}
-.b--texto details[open] summary::after { transform: translateY(-30%) rotate(-135deg); }
-
 /* Texto corrido: las cuatro páginas legales, que no tienen árbol */
 .texto-corrido {
   max-width: 76ch;
   margin-inline: auto;
-  padding: clamp(36px, 5vw, 64px) var(--margen);
+  padding: 0 var(--margen);
 }
 .texto-corrido h2 { margin: 1.6em 0 .5em; }
 .texto-corrido h3 { margin: 1.3em 0 .4em; }
@@ -370,5 +410,506 @@ a { color: var(--verde-osc); }
 
 /* Un bloque con fondo propio es una tarjeta: se le da aire y esquina, salvo
    que el original ya le pusiera su propio relleno. */
-.b.con-fondo { padding: 20px 22px; border-radius: var(--radio); }
-.b.con-fondo[style*="padding"] { border-radius: var(--radio); }
+.b.con-fondo { padding: 20px 22px; border-radius: var(--radio-l); }
+.b.con-fondo[style*="padding"] { border-radius: var(--radio-l); }
+
+/* =========================================================================
+   COMPONENTES RECONOCIDOS (render.js)
+   ========================================================================= */
+
+/* ---- rejilla de modelos: tarjeta con foto arriba y título debajo -------- */
+.modelos {
+  display: grid;
+  gap: clamp(14px, 2vw, 24px);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+@media (min-width: 761px) {
+  .modelos { grid-template-columns: repeat(var(--n, 3), minmax(0, 1fr)); }
+  /* cinco o más caben mejor a cuatro */
+  .modelos[style*="--n:5"], .modelos[style*="--n:6"], .modelos[style*="--n:7"], .modelos[style*="--n:8"] {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+.modelo { margin: 0; min-width: 0; }
+.modelo__enlace {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: var(--papel);
+  border: 1px solid var(--linea);
+  border-radius: var(--radio-l);
+  overflow: hidden;
+  text-decoration: none;
+  color: var(--ink);
+  box-shadow: var(--sombra);
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+a.modelo__enlace:hover {
+  transform: translateY(-4px);
+  border-color: #c5ced3;
+  box-shadow: var(--sombra-2);
+}
+.modelo__foto { margin: 0; background: var(--papel-2); overflow: hidden; }
+.modelo__foto img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 0;
+  box-shadow: none;
+  transition: transform .5s ease;
+}
+a.modelo__enlace:hover .modelo__foto img { transform: scale(1.04); }
+/* producto sobre fondo blanco (render.js lo sabe por src/data/imagenes.json):
+   entero, con aire, sin recortar las esquinas del contenedor */
+.modelo--producto .modelo__foto { background: #fff; }
+.modelo--producto .modelo__foto img { object-fit: contain; padding: 10px 12px; }
+.modelo__cuerpo {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex: 1;
+  padding: 14px 16px 18px;
+}
+/* el titulo conserva la etiqueta del original (h3, a veces h2): la clase
+   manda sobre los tamanos de encabezado suelto */
+.modelo__titulo {
+  font-family: var(--titular);
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -.012em;
+  color: var(--ink);
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+/* flecha discreta que se ilumina al pasar */
+a.modelo__enlace .modelo__titulo::after {
+  content: "→";
+  flex: none;
+  font-weight: 500;
+  color: var(--tenue);
+  transition: color .18s ease, transform .18s ease;
+}
+a.modelo__enlace:hover .modelo__titulo::after { color: var(--verde); transform: translateX(3px); }
+.modelo__texto {
+  font-size: .92rem;
+  line-height: 1.55;
+  color: var(--suave);
+}
+.modelo__texto p { margin: 0; }
+@media (max-width: 480px) {
+  .modelo__cuerpo { padding: 10px 12px 14px; }
+  .modelo__titulo { font-size: .95rem; }
+}
+
+/* ---- fila de rótulos (30 m2 / 90 m2 / 120 m2): chips ------------------- */
+.etiquetas { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+.etiqueta {
+  margin: 0;
+  font-family: var(--titular);
+  font-size: .95rem;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -.005em;
+  color: var(--texto);
+  background: var(--papel-2);
+  border: 1px solid var(--linea);
+  border-radius: 999px;
+  padding: 9px 18px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+.etiqueta::before {
+  content: "";
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--verde);
+  flex: none;
+}
+.etiqueta a { color: inherit; text-decoration: none; }
+.etiqueta:has(a) { transition: border-color .15s ease, background .15s ease, color .15s ease; }
+.etiqueta:has(a):hover { border-color: var(--verde); background: var(--verde-claro); color: var(--verde-osc); }
+
+/* ---- directorio de localidades: nube de pastillas ---------------------- */
+/* la franja azul del original (#588FB7) se sustituye por gris claro: es un
+   indice, no un reclamo */
+.bloque--zonas.con-color { background-color: var(--fondo); }
+.bloque--zonas.con-fondo { padding: clamp(28px, 4vw, 44px) 0; }
+.zonas {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+}
+.zonas li { margin: 0; }
+.zonas a {
+  display: inline-block;
+  padding: 7px 14px;
+  border-radius: 999px;
+  background: var(--papel);
+  border: 1px solid var(--linea);
+  color: var(--texto);
+  font-size: .9rem;
+  text-decoration: none;
+  transition: border-color .15s ease, background .15s ease, color .15s ease;
+}
+.zonas a:hover { border-color: var(--verde); background: var(--verde-claro); color: var(--verde-osc); }
+/* la franja de titulo que va justo antes del directorio (un h3 blanco sobre
+   gris oscuro) se queda compacta */
+.bloque--raiz.con-fondo:has(+ .bloque--zonas) { padding: clamp(24px, 3vw, 36px) 0; }
+.bloque--raiz.con-fondo:has(+ .bloque--zonas) .tit { text-align: center; }
+.bloque--raiz.con-fondo:has(+ .bloque--zonas) h2.tit::after { margin-inline: auto; }
+
+/* ---- ventajas: parejas título + texto en tarjetas ---------------------- */
+.bloque--ventajas .fila { align-items: stretch; }
+.bloque--ventajas .col:not(.col--ventajas) { justify-content: flex-end; min-height: 320px; }
+.bloque--ventajas .col:not(.col--ventajas).con-foto { border-radius: var(--radio-l); padding: clamp(26px, 4vw, 44px); background-position: center top; }
+/* con sitio, las dos columnas al 50 % y las ventajas a dos columnas: la
+   fila es la mitad de alta y la foto no se estira tanto */
+@media (min-width: 1000px) {
+  .bloque--ventajas .fila[style*="--n:2"] > .col { flex-basis: calc(50% - var(--hueco)); }
+  .bloque--ventajas .col--ventajas .ventajas { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+.bloque--ventajas .col:not(.col--ventajas).con-foto::after {
+  content: "";
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(9,13,16,.35), rgba(9,13,16,.7));
+  border-radius: inherit;
+  pointer-events: none;
+}
+.bloque--ventajas .col:not(.col--ventajas).con-foto > * { position: relative; z-index: 1; }
+.col--ventajas.con-fondo { padding: clamp(18px, 2.4vw, 26px); }
+.ventajas { display: grid; gap: 12px; grid-template-columns: 1fr; }
+.ventaja {
+  background: var(--papel);
+  border: 1px solid var(--linea);
+  border-radius: var(--radio-l);
+  padding: 16px 18px 18px;
+  box-shadow: var(--sombra);
+  position: relative;
+}
+.ventaja::before {
+  content: "";
+  display: block;
+  width: 32px; height: 3px;
+  background: var(--corten);
+  border-radius: 2px;
+  margin-bottom: 10px;
+}
+.ventaja__titulo {
+  font-family: var(--titular);
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: .01em;
+  color: var(--ink);
+  margin: 0 0 6px;
+}
+.ventaja__texto { font-size: .94rem; line-height: 1.6; color: var(--suave); }
+.ventaja__texto p { margin: 0; }
+.ventaja__texto p + p { margin-top: .6em; }
+/* en una fila sin columna de foto al lado, las ventajas se reparten */
+.bloque--ventajas .fila[style*="--n:1"] .ventajas { grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); }
+
+/* ---- foto con botón encima ------------------------------------------- */
+.col--foto {
+  border-radius: var(--radio-l);
+  overflow: hidden;
+  min-height: 300px;
+  aspect-ratio: 4 / 3;
+  justify-content: flex-end;
+  align-items: center;
+  box-shadow: var(--sombra);
+}
+.col--foto::after {
+  content: "";
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(9,13,16,0) 55%, rgba(9,13,16,.45) 100%);
+  pointer-events: none;
+}
+.col--foto__accion { position: relative; z-index: 1; padding: 0 0 22px; }
+
+/* ---- banda: foto a un lado, texto al otro ----------------------------- */
+.bloque--banda .fila { align-items: stretch; }
+.bloque--banda:not(.con-fondo) > .bloque-in > .fila {
+  background: var(--fondo);
+  border: 1px solid var(--linea);
+  border-radius: var(--radio-l);
+  overflow: hidden;
+  --gap: 0px;
+  --hueco: 0px;
+}
+/* si la foto es un producto sobre blanco (la portada del catalogo, un
+   contenedor recortado; lo dice src/data/imagenes.json) va entera, sin
+   recortar, sobre fondo blanco */
+.bloque--banda-producto.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child img,
+.bloque--banda-producto.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child img {
+  object-fit: contain; padding: 18px; background: #fff;
+}
+.bloque--banda-producto.bloque--banda-con-boton.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child img,
+.bloque--banda-producto.bloque--banda-con-boton.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child img {
+  padding: 8px; border: 1px solid var(--linea);
+}
+.bloque--banda:not(.con-fondo) > .bloque-in > .fila > .col { padding: clamp(24px, 3.5vw, 44px); }
+.bloque--banda .col { justify-content: center; }
+.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child,
+.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child { padding: 0; }
+.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child .b--imagen,
+.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child .b--imagen { height: 100%; }
+.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child .b--imagen a,
+.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child .b--imagen a { display: block; height: 100%; }
+.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child img,
+.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child img {
+  width: 100%; height: 100%; min-height: 260px;
+  object-fit: cover; border-radius: 0; box-shadow: none;
+}
+/* con fondo propio (foto y velo del original) la banda es una franja oscura:
+   la foto lleva esquina y sombra y el texto respira */
+.bloque--banda.con-fondo > .bloque-in > .fila > .col:first-child img,
+.bloque--banda.con-fondo > .bloque-in > .fila > .col:last-child img { border-radius: var(--radio-l); }
+/* texto sobre foto dentro de una banda oscura (la tarjeta "Diseña tu casa
+   en 3D"): el velo del original era flojo y el titular cruzaba ventanas */
+.bloque--banda .col.con-foto.con-velo:has(.b--encabezado, .b--texto)::before {
+  background: linear-gradient(180deg, rgba(9,13,16,.45), rgba(9,13,16,.72));
+  opacity: 1;
+}
+/* foto con un boton debajo ("Haz clic aqui"): la foto no se estira, va
+   centrada con su boton, como una ficha */
+.bloque--banda-con-boton.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child,
+.bloque--banda-con-boton.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child {
+  padding: clamp(18px, 2.5vw, 28px); gap: 12px; justify-content: center; align-items: stretch;
+  flex: 0 1 38%;
+}
+.bloque--banda-con-boton.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child .b--imagen,
+.bloque--banda-con-boton.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child .b--imagen { height: auto; }
+.bloque--banda-con-boton.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child img,
+.bloque--banda-con-boton.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child img {
+  min-height: 0; aspect-ratio: 16 / 10; border-radius: var(--radio); box-shadow: var(--sombra);
+}
+.bloque--banda-con-boton .col .b--boton { text-align: center; }
+.bloque--banda-con-boton .col .b--boton .boton { width: 100%; }
+.bloque--banda-con-boton.bloque--banda-foto-der > .bloque-in > .fila > .col:first-child,
+.bloque--banda-con-boton.bloque--banda-foto-izq > .bloque-in > .fila > .col:last-child { flex: 1 1 0; }
+@media (max-width: 860px) {
+  .bloque--banda-foto-der > .bloque-in > .fila > .col:last-child { order: -1; }
+  .bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child img,
+  .bloque--banda-foto-der > .bloque-in > .fila > .col:last-child img { min-height: 0; aspect-ratio: 16 / 10; }
+}
+
+/* ---- contacto: la caja del formulario ---------------------------------- */
+.bloque--contacto .fila { align-items: flex-start; }
+.col--formulario {
+  background: var(--papel);
+  border: 1px solid var(--linea);
+  border-top: 4px solid var(--verde);
+  border-radius: var(--radio-l);
+  padding: clamp(20px, 2.6vw, 30px);
+  box-shadow: var(--sombra-2);
+  gap: 10px;
+}
+.col--formulario .b--encabezado .tit {
+  font-family: var(--titular);
+  font-size: clamp(22px, 18px + .8vw, 28px);
+  font-weight: 700;
+  letter-spacing: -.024em;
+  color: var(--ink) !important;   /* el verde claro del original no se lee sobre blanco */
+}
+.col--formulario .b--texto { font-size: 15px; line-height: 1.6; color: var(--suave); }
+.col--formulario .b--texto[style*="color"] { color: var(--suave) !important; }
+.col--formulario .formulario { margin-top: 6px; }
+/* los botones LLAMAR / WHATSAPP que van debajo del formulario: en fila y
+   perfilados, para que no compitan con el boton de enviar */
+.col--formulario .bloque--dentro .fila { --gap: 10px; flex-direction: row; }
+.col--formulario .bloque--dentro .col { flex: 1 1 0; width: auto; }
+.col--formulario .bloque--dentro .boton {
+  width: 100%;
+  background: var(--papel);
+  color: var(--verde-osc);
+  border: 1.5px solid var(--verde);
+  padding: 11px 14px;
+}
+.col--formulario .bloque--dentro .boton:hover { background: var(--verde-claro); box-shadow: none; }
+
+/* ---- ampliación SEO: el contenido nuevo al final de cada página --------- */
+/* Texto corrido en una columna de lectura (no a 1180 px, que da lineas de
+   150 caracteres), separado del contenido original por un filete. */
+.bloque--ampliacion {
+  border-top: 1px solid var(--linea);
+  padding-top: clamp(28px, 4vw, 44px);
+}
+.bloque--ampliacion .col, .bloque--libre .col { max-width: 820px; margin-inline: auto; gap: 14px; }
+.bloque--libre .b--encabezado h2.tit { margin-top: 22px; }
+.bloque--libre .b--encabezado:first-child h2.tit { margin-top: 0; }
+.bloque--libre .b--encabezado h3.tit { margin-top: 8px; }
+.bloque--ampliacion .b--encabezado h2.tit { margin-top: 26px; }
+.bloque--ampliacion .b--encabezado:first-child h2.tit { margin-top: 0; }
+.bloque--ampliacion .b--encabezado h3.tit { margin-top: 10px; color: var(--ink); }
+.bloque--ampliacion .b--texto { color: var(--texto); }
+.bloque--ampliacion .b--texto ul, .bloque--ampliacion .b--texto ol { margin: .4em 0 .2em; }
+.bloque--ampliacion .b--texto table { margin: .6em 0; }
+.bloque--ampliacion .b--faq { margin-top: 4px; }
+
+/* ---- preguntas frecuentes escritas a mano (render.js las pasa a details) */
+.faq-container { display: grid; gap: 10px; margin: 6px 0; }
+details.faq-item {
+  border: 1px solid var(--linea);
+  border-radius: var(--radio-l);
+  background: var(--papel);
+  box-shadow: var(--sombra);
+  transition: border-color .15s, box-shadow .15s;
+}
+details.faq-item:hover { border-color: #c5ced3; }
+details.faq-item[open] { border-color: var(--verde); box-shadow: var(--sombra-2); }
+details.faq-item summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 16px 20px;
+}
+details.faq-item summary::-webkit-details-marker { display: none; }
+.b details.faq-item .faq-question {
+  margin: 0;
+  font-family: var(--titular);
+  font-size: 1.08rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--ink);
+}
+details.faq-item[open] .faq-question { color: var(--verde-osc); }
+details.faq-item summary::after {
+  content: "+";
+  flex: none;
+  width: 30px; height: 30px;
+  border-radius: 50%;
+  display: grid; place-items: center;
+  background: var(--verde-claro);
+  color: var(--verde-osc);
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1;
+  transition: transform .2s, background .15s, color .15s;
+}
+details.faq-item[open] summary::after { transform: rotate(45deg); background: var(--verde); color: #fff; }
+details.faq-item .faq-answer { padding: 0 20px 18px; font-size: .98rem; line-height: 1.65; color: var(--suave); }
+
+/* ---- tarjetas escritas a mano (.grid-container > .card) ---------------- */
+.b--texto .grid-container {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  margin: 6px 0;
+}
+.b--texto .card {
+  background: var(--papel);
+  border: 1px solid var(--linea);
+  border-radius: var(--radio-l);
+  padding: 22px 22px 24px;
+  box-shadow: var(--sombra);
+  transition: transform .18s ease, box-shadow .18s ease;
+}
+.b--texto .card:hover { transform: translateY(-3px); box-shadow: var(--sombra-2); }
+/* Los iconos de Font Awesome del original (<i class="fas fa-bolt">) no se
+   cargan (serian 70 KB por seis dibujos): cada clase fa-* lleva aqui su
+   propio icono SVG de linea, pintado con una mascara en el verde de marca.
+   Una clase que no este en la lista se queda con la marca de acento. */
+.b--texto .card > i {
+  display: block; width: 36px; height: 4px;
+  background: var(--corten); border-radius: 2px; margin-bottom: 14px;
+}
+.b--texto .card > i[class*="fa-"] {
+  width: 44px; height: 44px; border-radius: 12px;
+  background: var(--verde-claro); position: relative;
+}
+.b--texto .card > i[class*="fa-"]::before {
+  content: ""; position: absolute; inset: 10px;
+  background: var(--verde);
+  -webkit-mask: var(--icono) center / contain no-repeat;
+  mask: var(--icono) center / contain no-repeat;
+}
+.b--texto .card > i.fa-bolt { --icono: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M13 2 3 14h9l-1 8 10-12h-9l1-8z'/%3E%3C/svg%3E"); }
+.b--texto .card > i.fa-hourglass-half { --icono: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 2h12M6 22h12M7 2v3c0 3 5 5 5 7s-5 4-5 7v3M17 2v3c0 3-5 5-5 7s5 4 5 7v3'/%3E%3C/svg%3E"); }
+.b--texto .card > i.fa-leaf { --icono: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M20 4c-9 0-15 5-15 13 0 1 0 2 1 3 6 0 14-4 14-16z'/%3E%3Cpath d='M5 20c3-6 7-9 12-12'/%3E%3C/svg%3E"); }
+.b--texto .card > i.fa-cubes { --icono: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 2 2 7l10 5 10-5-10-5z'/%3E%3Cpath d='M2 17l10 5 10-5'/%3E%3Cpath d='M2 12l10 5 10-5'/%3E%3C/svg%3E"); }
+.b--texto .card > i.fa-th-large { --icono: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect x='3' y='3' width='7' height='7' rx='1'/%3E%3Crect x='14' y='3' width='7' height='7' rx='1'/%3E%3Crect x='14' y='14' width='7' height='7' rx='1'/%3E%3Crect x='3' y='14' width='7' height='7' rx='1'/%3E%3C/svg%3E"); }
+.b--texto .card > i.fa-pencil-ruler { --icono: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 20h9'/%3E%3Cpath d='M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z'/%3E%3C/svg%3E"); }
+.b--texto .card > i.fa-home { --icono: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 10 12 3l9 7v10a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1z'/%3E%3C/svg%3E"); }
+.b--texto .card > i.fa-euro-sign, .b--texto .card > i.fa-coins { --icono: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M18 6a7 7 0 1 0 0 12'/%3E%3Cpath d='M4 10h10M4 14h10'/%3E%3C/svg%3E"); }
+.b--texto .card > i.fa-check, .b--texto .card > i.fa-check-circle { --icono: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='9'/%3E%3Cpath d='m8 12 3 3 5-6'/%3E%3C/svg%3E"); }
+.b--texto .card h3 { font-size: 1.1rem; margin: 0 0 8px; }
+.b--texto .card p { font-size: .95rem; line-height: 1.6; color: var(--suave); }
+
+/* =========================================================================
+   FRANJAS OSCURAS (foto de fondo + velo, del original)
+   El texto que va encima lo escribe el arbol en blanco; aqui solo se centra
+   la lectura y se contiene el ancho.
+   ========================================================================= */
+.bloque--raiz.con-foto.con-velo .b--texto { max-width: 68ch; }
+.bloque--raiz.con-foto.con-velo .b--encabezado[style*="center"] + .b--texto,
+.bloque--raiz.con-foto.con-velo .b--texto[style*="center"] { margin-inline: auto; }
+
+/* =========================================================================
+   AJUSTES DE ENCUADRE (revisión visual de capturas, escritorio y móvil)
+   ========================================================================= */
+
+/* Un h2 que va solo en su sección (el separador que le seguía ya no se
+   pinta) y su texto o rejilla en la siguiente: sin los 60 px de ritmo en
+   medio, que lo dejaban huérfano. */
+.bloque--raiz:not(.con-fondo):has(> .bloque-in > .fila > .col:only-child > .b--encabezado:only-child) + .bloque--raiz:not(.con-fondo) { margin-top: 18px; }
+
+/* Una rejilla de dos tarjetas que sigue a una de cuatro (Contenedores /
+   Casas prefabricadas, tras oficinas / locales / sanitarios / pérgolas)
+   conserva el tamaño de tarjeta de la de cuatro, centrada; si no, salen al
+   doble de tamaño y se llevan el protagonismo. */
+.modelos { --gm: clamp(14px, 2vw, 24px); gap: var(--gm); }
+@media (min-width: 761px) {
+  .bloque--modelos:has(.modelos[style*="--n:4"]) ~ .bloque--modelos .modelos[style*="--n:2"] {
+    grid-template-columns: repeat(2, calc((100% - 3 * var(--gm)) / 4));
+    justify-content: center;
+  }
+  /* dos tarjetas solas (40 pies / 20 pies, o "Otros servicios"): fotos 16:9 enteras */
+  .modelos[style*="--n:2"] .modelo__foto img { aspect-ratio: 16 / 9; }
+}
+
+@media (max-width: 860px) {
+  /* Las fichas foto + "Haz clic aquí" se apilan de verdad: las reglas de
+     escritorio (0,6,0) ganaban al .col { flex-basis: 100% } del móvil. */
+  .bloque--banda-con-boton.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child,
+  .bloque--banda-con-boton.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child,
+  .bloque--banda-con-boton.bloque--banda-foto-der > .bloque-in > .fila > .col:first-child,
+  .bloque--banda-con-boton.bloque--banda-foto-izq > .bloque-in > .fila > .col:last-child { flex: 0 0 100%; }
+  .bloque--banda-con-boton.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child img,
+  .bloque--banda-con-boton.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child img { aspect-ratio: 16 / 10; }
+  /* la portada del catálogo (cuadrada) en una caja más cuadrada, sin tanto blanco */
+  .bloque--banda-producto.bloque--banda-foto-der > .bloque-in > .fila > .col:last-child img,
+  .bloque--banda-producto.bloque--banda-foto-izq > .bloque-in > .fila > .col:first-child img { aspect-ratio: 4 / 3; padding: 12px; }
+  /* apiladas, las columnas necesitan más aire vertical que el hueco
+     horizontal de escritorio: si no, el título de la segunda parece el pie
+     de la foto de la primera */
+  .bloque--raiz:not(.bloque--banda):not(.bloque--modelos) > .bloque-in > .fila:not(.fila--no):not(.fila--narrow) { row-gap: clamp(28px, 7vw, 40px); }
+  .fila--apilada { row-gap: 18px; }
+}
+
+@media (max-width: 640px) {
+  /* los rótulos de metros cuadrados: dos por línea */
+  .etiquetas { gap: 8px; }
+  .etiqueta { font-size: .84rem; padding: 6px 12px; gap: 6px; }
+  /* el directorio de 100 localidades: compacto y con scroll propio, no
+     cuatro pantallas de pastillas */
+  .zonas {
+    gap: 6px; max-height: 320px; overflow-y: auto; padding: 8px;
+    border: 1px solid var(--linea); border-radius: var(--radio-l); background: var(--papel);
+    justify-content: flex-start;
+  }
+  .zonas a { font-size: .82rem; padding: 5px 10px; }
+}

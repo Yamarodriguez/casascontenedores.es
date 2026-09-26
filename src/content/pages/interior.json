@@ -2458,5 +2458,44 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 8155,
- "huecoTitulo": true
+ "huecoTitulo": true,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Cómo se construye el interior de una casa contenedor",
+    "html": "<p>El interior se levanta por capas, de dentro hacia fuera: acabado, trasdosado, una cámara para las instalaciones, aislamiento y, al fondo, la chapa de acero original. En el suelo se monta un suelo técnico sobre el metálico de fábrica y en el techo un falso techo que oculta conductos; ambos restan altura, igual que el aislamiento resta ancho a los 2,35 m interiores de origen. Por eso muchos proyectos parten de un contenedor <a href=\"/contenedor-high-cube/\">High Cube</a>, con paredes más altas de fábrica que compensan esa pérdida.</p><p>La chapa no lleva rotura de puente térmico de serie: sin un aislamiento continuo y bien resuelto aparecen puntos fríos y condensación, sobre todo en esquinas y cantoneras. Hace falta también ventilar la cámara de aire, usar carpinterías con rotura de puente térmico y tratar la acústica, porque el acero sin capas intermedias transmite la lluvia y el ruido mucho más que un muro tradicional.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Sacar partido a 2,35 m de ancho: distribución, acabados e instalaciones",
+    "html": "<p>Con 2,35 m de ancho útil de fábrica (tabla completa en <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>), la distribución funciona mejor en línea que en cuadrícula:</p><ul><li>Zonas encadenadas a lo largo del módulo, sin pasillos centrales.</li><li>Cocina lineal pegada a una pared, nunca en isla.</li><li>Baño compacto, con plato de ducha, inodoro y lavabo ajustados.</li><li>Puertas correderas en lugar de abatibles, para no perder ancho de barrido.</li><li>Muebles a medida y almacenamiento en altura, bajo el falso techo.</li><li>Dos módulos en paralelo si el salón necesita más ancho.</li></ul><p>Los ventanales grandes se reservan para los testeros (los extremos cortos), donde no comprometen la rigidez de las paredes largas. La cámara técnica aloja el cuadro eléctrico, la producción de agua caliente, la climatización y, si se instala, la ventilación mecánica controlada; dejar previsto el paso para una futura instalación fotovoltaica evita abrir de nuevo el cerramiento más adelante.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre el interior",
+   "items": [
+    {
+     "pregunta": "¿Se nota por dentro que es un contenedor?",
+     "respuesta": "Depende del acabado, reflejado en los <a href=\"/planos/\">planos</a> de distribución. Con trasdosado, suelo técnico y falso techo, el interior se ve como el de cualquier vivienda; si se deja algún tramo de chapa vista a propósito, sí se reconoce el origen del módulo. Es una decisión de diseño, no una limitación técnica."
+    },
+    {
+     "pregunta": "¿Hace calor en verano y frío en invierno?",
+     "respuesta": "El acero conduce el calor y el frío más que un muro tradicional, así que sin aislamiento continuo ni ventilación sí se nota. Con aislamiento bien resuelto por el exterior, protección solar en los huecos y carpinterías con rotura de puente térmico, el comportamiento se acerca al de una vivienda convencional."
+    },
+    {
+     "pregunta": "¿Cuánto ancho útil queda tras aislar?",
+     "respuesta": "El contenedor mide 2,35 m de ancho interior de fábrica, pero esa cifra es anterior a aislar. El aislamiento y el trasdosado restan algunos centímetros por cada pared, así que el ancho final queda por debajo: cuánto exactamente depende del espesor y del sistema elegido."
+    },
+    {
+     "pregunta": "¿Se puede dejar la chapa vista por dentro?",
+     "respuesta": "Sí, es una opción estética habitual en estudios tipo loft, solo en las zonas que el proyecto lo permita. La chapa necesita algún tratamiento de protección y, si queda vista, hay que resolver aparte el aislamiento y la condensación por las demás caras para que no se acumule humedad."
+    },
+    {
+     "pregunta": "¿Cuál es la altura libre tras poner suelo y techo?",
+     "respuesta": "Depende del tipo de contenedor y de cuánto ocupen el suelo técnico y el falso techo: un contenedor estándar deja menos margen que uno High Cube, con paredes más altas de fábrica. Por eso el interior con instalaciones vistas suele partir de un High Cube."
+    }
+   ]
+  }
+ }
 }

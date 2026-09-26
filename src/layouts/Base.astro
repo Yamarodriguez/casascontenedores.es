@@ -3,16 +3,17 @@ import site from '../data/site.json';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Cierre from '../components/Cierre.astro';
+import Hero from '../components/Hero.astro';
 import Migas from '../components/Migas.astro';
 import WhatsApp from '../components/WhatsApp.astro';
 import { aWebp, existe } from '../utils/imagenes.js';
-// El aspecto de la web. diseno.css pinta el contenido (lo que escribe
-// render.js) y rediseno.css la cabecera, la franja de cierre y el pie.
-// Las 26 hojas de Elementor ya NO se cargan: eran las que hacian que la web
-// siguiera viendose igual que la vieja.
+import { fotoHero } from '../utils/hero.js';
+// El aspecto de la web. global.css pinta el chrome (cabecera, heroe, cierre,
+// pie) y diseno.css el contenido (lo que escribe render.js). Las 26 hojas de
+// Elementor ya NO se cargan: eran las que hacian que la web siguiera
+// viendose igual que la vieja.
 import '../styles/global.css';
 import '../styles/diseno.css';
-import '../styles/rediseno.css';
 
 const {
   ruta = '/',
@@ -23,26 +24,14 @@ const {
   hero = {},
   faq = [],
   noindex = false,
-  bandaTitulo = true,
-  huecoTitulo = false,
   menu = '',
-  postId = 0,
   localidad = '',
 } = Astro.props;
 
-// Hojas de estilo originales del sitio. Van en TRES tandas y en este orden,
-// que es exactamente el de la web en vivo:
-//   comunes.css        tema + Elementor + kit + widgets basicos (01..17)
-//   post-ID.css        lo que Elementor escribio para ESTA pagina
-//   comunes-final.css  widgets de Elementor + fuentes (18..26)
-// La hoja de la pagina va EN MEDIO: si se pusiera al final, reglas de
-// 18-widgets.css dejarian de ganar donde deben. Las prepara scripts/css.mjs.
-const hojaPagina = postId && existe(`/css/post-${postId}.css`) ? `/css/post-${postId}.css` : '';
-const hayComunes = existe('/css/comunes.css');
-const hayComunesFinal = existe('/css/comunes-final.css');
-
 const canonical = site.dominio + ruta;
+// la foto de cabecera del original sigue siendo la imagen social (og:image)
 const heroSrc = hero?.src && existe(hero.src) ? aWebp(hero.src) : '';
+const fotoHeroe = fotoHero(ruta);
 
 const jsonld = [
   {
@@ -108,8 +97,11 @@ if (faq.length) {
     {heroSrc && <meta property="og:image" content={site.dominio + heroSrc} />}
     <meta name="twitter:card" content="summary_large_image" />
 
-    <link rel="preload" href="/fonts/roboto-variable.woff2" as="font" type="font/woff2" crossorigin />
-    {heroSrc && <link rel="preload" as="image" href={heroSrc} imagesrcset={hero.srcset} imagesizes={hero.sizes} />}
+    {/* las dos letras que pintan lo primero que se ve (titular del heroe y
+        texto); las demas variantes llegan con la hoja de fuentes */}
+    <link rel="preload" href="/fonts/texto/archivo-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/texto/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+    {fotoHeroe && <link rel="preload" as="image" href={fotoHeroe} fetchpriority="high" />}
 
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
@@ -153,16 +145,8 @@ if (faq.length) {
     <div id="wrap">
       <Header ruta={ruta} menu={menu} />
 
-      {bandaTitulo && (
-        <div class="banda-titulo">
-          <div class="contenedor">
-            <h1 class="titulo">{h1 || titulo}</h1>
-            <Migas ruta={ruta} titulo={titulo} />
-          </div>
-        </div>
-      )}
-
-
+      <Hero titulo={h1 || titulo} ruta={ruta} localidad={localidad} />
+      <Migas ruta={ruta} titulo={h1 || titulo} />
 
       <main id="main">
         <div class="entrada">

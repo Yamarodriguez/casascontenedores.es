@@ -2436,5 +2436,40 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 7330,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Cómo se organiza un hotel con contenedores",
+    "html": "<p>Este tipo de alojamiento se plantea casi siempre por habitación: un contenedor de 20 pies da para una cama con baño integrado, y un 40 pies permite una doble o una suite con zona de estar, dentro del ancho interior de 2,35 m que deja la estructura. Las unidades se apilan y se comunican mediante pasarelas o corredores exteriores, mientras que la recepción, el restaurante y las zonas comunes se resuelven en módulos independientes unidos entre sí; en nuestras <a href=\"/casa-contenedor-40-pies/\">fichas de contenedor de 40 pies</a> puedes ver ejemplos de esa distribución por piezas.</p><p>Como cada habitación es una pieza cerrada, el conjunto se amplía por fases, sumando plantas o alas nuevas sin tocar lo ya construido. El mismo planteamiento sirve tanto para una instalación permanente como para un alojamiento temporal de obra, feria o evento.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Licencia turística, instalaciones y fachada: qué exige la normativa",
+    "html": "<p>Además del proyecto visado y la licencia de obra habituales, este tipo de alojamiento necesita la clasificación y la licencia turística que fija cada comunidad autónoma, y debe resolver varios puntos propios de un uso colectivo que una vivienda no tiene:</p><ul><li>Accesibilidad en las habitaciones conforme al DB-SUA y compartimentación en sectores de incendio y vías de evacuación según el DB-SI, exigencias más estrictas que en una vivienda unifamiliar.</li><li>Aislamiento acústico entre habitaciones conforme al DB-HR, clave para evitar quejas entre huéspedes que comparten una sola pared de acero.</li><li>Climatización individual por habitación o centralizada por planta, y producción de ACS dimensionada para un uso colectivo y no doméstico.</li><li>Mantenimiento periódico del acero y de los sellados entre módulos, más exigente que en una vivienda por el tránsito continuo de huéspedes.</li><li>Revestimientos en madera, vegetación y color de fachada para que el conjunto se lea como un establecimiento y no como contenedores apilados sin más; en <a href=\"/permisos/\">permisos y licencias</a> tienes el proceso completo y en <a href=\"/planos/\">planos</a>, ejemplos de distribución por plantas.</li></ul>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre hoteles con contenedores",
+   "items": [
+    {
+     "pregunta": "¿Se oye la habitación de al lado?",
+     "respuesta": "El contenedor no aísla igual que un tabique de obra por sí solo, así que el proyecto añade trasdosado y aislamiento acústico específico entre habitaciones para cumplir el DB-HR del Código Técnico. Es un punto que conviene revisar con el arquitecto antes de firmar el proyecto, no algo que resuelve el material por su cuenta."
+    },
+    {
+     "pregunta": "¿Cuántas alturas se pueden apilar?",
+     "respuesta": "Un contenedor marítimo está calculado para soportar carga sobre sus cuatro cantoneras, así que se pueden apilar varias plantas siempre que un cálculo estructural lo confirme para cada proyecto: depende del refuerzo, de si se han abierto huecos en las paredes y de la normativa sísmica y de incendio de tu ubicación. Lo define el ingeniero, no una cifra genérica."
+    },
+    {
+     "pregunta": "¿Sirve para alojamiento temporal de obra o de eventos?",
+     "respuesta": "Sí. Al ser modular, este tipo de construcción admite tanto una instalación permanente como un uso temporal para personal de obra, ferias o eventos, y puedes combinarla con el <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a> en lugar de comprarlos si la necesidad tiene fecha de fin. La licencia y los requisitos cambian según sea uso temporal o permanente."
+    },
+    {
+     "pregunta": "¿Qué licencia turística hace falta para abrir?",
+     "respuesta": "Cada comunidad autónoma clasifica y regula los establecimientos turísticos con su propia normativa, así que la tramitación es la misma que la de cualquier alojamiento: primero el proyecto visado y la licencia de obra municipal, y después la clasificación y el registro turístico autonómico antes de abrir al público."
+    }
+   ]
+  }
+ }
 }

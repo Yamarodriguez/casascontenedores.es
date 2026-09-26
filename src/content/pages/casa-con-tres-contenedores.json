@@ -2482,5 +2482,45 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 509,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Casas con tres contenedores: qué formas y superficies puedes elegir",
+    "html": "<p>Los módulos no tienen por qué ir siempre en fila. Estas son las combinaciones más habituales:</p><ul><li><strong>En paralelo</strong>, tres unidades de 40 pies alineadas: el montaje más sencillo, con una superficie conjunta próxima a los 84 m² interiores.</li><li><strong>En U</strong>, dejando un patio cerrado entre los módulos.</li><li><strong>Dos en planta baja y uno apilado encima</strong>, con una terraza sobre la parte que queda libre.</li><li><strong>En T</strong>, separando la zona de día del ala de dormitorios.</li></ul><p>También se pueden combinar tamaños: un contenedor de 20 pies (unos 13,9 m² interiores) junto a dos de 40 pies, para sumar una estancia sin llegar a la superficie completa de las tres piezas de 40.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Cómo se reparten tres dormitorios y dos baños entre los módulos?",
+    "html": "<p>La zona de día suele ocupar el módulo central, con los dos dormitorios en los laterales y acceso directo a un baño desde cada uno. El ancho interior útil de 2,35 m condiciona ya en el proyecto los pasillos y los huecos de paso entre unidades. Puedes ver más ejemplos en los <a href=\"/planos/\">planos de casas con contenedores</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cimentación, envolvente y climatización para tres módulos",
+    "html": "<p>La cimentación —zapatas bajo cada esquina o una losa continua— debe nivelar y anclar los tres módulos entre sí, no solo sujetar cada uno por separado. En las uniones y en los huecos que se abren entre ellos, el aislamiento SATE tiene que prolongarse sin cortes: ahí, en la chapa que queda al descubierto, es donde aparece el puente térmico si el aislante deja de ser continuo. Cuando la distribución en U o en T deja un patio cerrado, la ventilación cruzada entre caras opuestas ayuda a renovar el aire; la aerotermia y la fotovoltaica se valoran proyecto a proyecto.</p><p>El proyecto necesita visado y licencia de obra mayor, conforme a la Ley 38/1999 de Ordenación de la Edificación y al Código Técnico de la Edificación, y termina con la cédula de habitabilidad o la licencia de primera ocupación y el certificado energético. Si el conjunto se inscribe como inmueble, cabe la hipoteca de autopromotor; consulta <a href=\"/permisos/\">permisos</a> y <a href=\"/precios/\">precios</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas con tres contenedores",
+   "items": [
+    {
+     "pregunta": "¿Conviene distribuir los módulos en línea, en U o en T?",
+     "respuesta": "Depende del terreno y de cuánto patio quieras: en línea es el montaje más simple, en T separa la zona de día del ala de dormitorios, y en U con patio central ganas un espacio protegido entre módulos, aunque necesitas más anchura de parcela."
+    },
+    {
+     "pregunta": "¿Se puede hacer una casa de dos plantas con tres módulos?",
+     "respuesta": "Sí: el tercer módulo se coloca sobre uno de los otros dos, que pasa a soportar su peso además del propio, así que la estructura y la cimentación deben preverlo desde el cálculo inicial. El módulo que queda en planta baja sin nada encima gana una terraza en su cubierta."
+    },
+    {
+     "pregunta": "¿Cómo llegan los módulos a la parcela y qué acceso necesita la grúa?",
+     "respuesta": "Cada módulo viaja en un trayecto de transporte independiente, así que el conjunto supone al menos tres trayectos hasta la parcela. Antes de cerrar el proyecto conviene comprobar que el camino de acceso y el punto donde maniobra la grúa tienen espacio suficiente para izar y colocar cada pieza."
+    },
+    {
+     "pregunta": "¿Se puede ampliar la vivienda añadiendo un cuarto módulo más adelante?",
+     "respuesta": "Sí: si dejas previsto el punto de conexión y la cimentación con margen, puedes añadir una unidad más cuando lo necesites, sin reforzar de nuevo lo ya construido. Conviene calcularlo desde el proyecto inicial; mira la <a href=\"/casa-con-cuatro-contenedores/\">casa de cuatro contenedores</a>."
+    }
+   ]
+  }
+ }
 }

@@ -1871,5 +1871,44 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 830,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Qué datos necesitamos para preparar tu presupuesto",
+    "html": "<p>Cuanta más información nos das sobre tu parcela y tu proyecto, más se ajusta el primer número a la realidad. Antes de preparar tu presupuesto nos sirve conocer:</p><ul><li>Municipio y clase de suelo de la parcela (urbano, urbanizable o rústico), porque de ahí depende qué licencia pide el ayuntamiento.</li><li><strong>Referencia catastral o nota simple</strong>, para revisar la edificabilidad y las condiciones reales del terreno.</li><li>Metros cuadrados y dormitorios que buscas, y si la vivienda se reparte en una planta o en varias.</li><li>Uso de la construcción: vivienda habitual, segunda residencia, estudio u oficina.</li><li>Nivel de acabados que prefieres, de algo funcional a calidades más altas.</li><li>Estado de las acometidas de agua, electricidad y saneamiento en la parcela.</li><li><strong>Acceso de camión y grúa</strong> hasta el punto de descarga, para valorar el transporte.</li></ul>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Del presupuesto orientativo al cerrado: cómo es el proceso",
+    "html": "<p>El presupuesto no se cierra en un único paso: avanza según se concreta el proyecto.</p><ol><li>Consulta inicial, donde nos cuentas qué buscas y compartes los datos anteriores.</li><li>Propuesta orientativa sobre el modelo que mejor encaja con tu parcela y tus metros.</li><li>Estudio de la parcela y consulta urbanística, para confirmar qué admite el planeamiento del municipio.</li><li>Anteproyecto con las calidades elegidas.</li><li>Presupuesto cerrado, desglosado por partidas.</li><li>Contrato con el precio, los plazos y las garantías ya fijados.</li></ol><p>Qué incluye cada partida y qué queda fuera lo detallamos en <a href=\"/precios/\">precios de las casas contenedores</a>. Para comparar presupuestos de distintos fabricantes conviene mirar más allá del número final: que el alcance y la memoria de calidades sean equivalentes, que el desglose por partidas sea claro, qué garantías cubre cada uno y quién se encarga de tramitar la <a href=\"/permisos/\">licencia</a> con el ayuntamiento.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre el presupuesto",
+   "items": [
+    {
+     "pregunta": "¿El asesoramiento y el presupuesto orientativo tienen coste?",
+     "respuesta": "No. La primera consulta y la propuesta orientativa son gratuitas y sin compromiso, tal como se indica en esta misma página. Solo cuando avanzas hacia el anteproyecto y el presupuesto cerrado por partidas se concreta el alcance real del proyecto y las condiciones que recoge el contrato."
+    },
+    {
+     "pregunta": "¿Puedo pedir presupuesto sin tener terreno todavía?",
+     "respuesta": "Sí. Puedes pedir una propuesta orientativa sobre el modelo que te interesa sin tener todavía parcela; sirve para hacerte una idea del tipo de casa contenedor y del reparto de espacios. Cuando ya tengas el terreno, se revisa con su clase de suelo para ajustar el presupuesto cerrado."
+    },
+    {
+     "pregunta": "¿Cuánto tiempo es válido un presupuesto?",
+     "respuesta": "La validez la indica el propio documento del presupuesto, ya que depende de la evolución de materiales y de las condiciones de cada proyecto. Antes de firmar conviene comprobar que sigue vigente; si ha pasado tiempo desde que lo recibiste, te lo actualizamos antes de cerrar el precio definitivo."
+    },
+    {
+     "pregunta": "¿Qué diferencia hay entre presupuesto orientativo y presupuesto cerrado?",
+     "respuesta": "El orientativo se calcula sobre el modelo y los metros que buscas, antes de estudiar la parcela. El cerrado llega después del anteproyecto, va desglosado por partidas y es el que se traslada al contrato, con el precio, los plazos y las garantías ya fijados."
+    },
+    {
+     "pregunta": "¿Presupuestáis también contenedores marítimos sueltos, sin convertir en vivienda?",
+     "respuesta": "Sí. Si lo que necesitas es un contenedor marítimo sin transformar, para almacenaje, obra o cualquier otro uso, puedes pedir presupuesto en <a href=\"/comprar-contenedores-maritimos/\">comprar contenedores marítimos</a>, una gestión aparte del presupuesto de una casa contenedor llave en mano, con su propio catálogo y condiciones de entrega."
+    }
+   ]
+  }
+ }
 }

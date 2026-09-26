@@ -1,0 +1,38 @@
+{
+ "15": {
+  "url": "/casa-contenedor-15-m2/",
+  "imagen": "/wp-content/uploads/2025/07/casa-contenedor-20-pies.png",
+  "alt": "Casa contenedor de 15 m2 hecha con un contenedor de 20 pies"
+ },
+ "30": {
+  "url": "/casa-contenedor-30-m2/",
+  "imagen": "/wp-content/uploads/2025/07/casa-contenedor-40-pies.png",
+  "alt": "Casa contenedor de 30 m2 hecha con un contenedor de 40 pies"
+ },
+ "45": {
+  "url": "/casa-contenedor-45-m2/",
+  "imagen": "/wp-content/uploads/2021/06/casa-de-dos-contenedores.png",
+  "alt": "Casa contenedor de 45 m2 con dos contenedores"
+ },
+ "60": {
+  "url": "/casa-contenedor-60-m2/",
+  "imagen": "/wp-content/uploads/2022/02/CASA-RENDER-FACHADA.jpeg",
+  "alt": "Casa contenedor de 60 m2, fachada"
+ },
+ "75": {
+  "url": "/casa-contenedor-75-m2/",
+  "imagen": "/wp-content/uploads/2021/06/casa-de-tres-contenedores.png",
+  "alt": "Casa contenedor de 75 m2 con tres contenedores"
+ },
+ "90": {
+  "url": "/casa-contenedor-90-m2/",
+  "imagen": "/wp-content/uploads/2022/02/casa-hechas-con-contenedores.jpg",
+  "alt": "Casa contenedor de 90 m² con tres módulos, fachada"
+ },
+ "120": {
+  "url": "/casa-contenedor-120-m2/",
+  "imagen": "/wp-content/uploads/2021/06/casa-de-cuatro-contenedores.jpg",
+  "alt": "Casa contenedor de 120 m2 con cuatro contenedores"
+ },
+ "_nota": "Modelos de casa contenedor por superficie. Los rotulos '30 m2', '90 m2'... que el original dejaba sueltos (sin pagina ni foto) enlazan a estas paginas y se pintan como tarjetas con su foto. La clave es la superficie que aparece en el rotulo."
+}

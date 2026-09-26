@@ -1,12 +1,25 @@
 ---
 import site from '../data/site.json';
+import { existe, aWebp } from '../utils/imagenes.js';
+
 const anio = new Date().getFullYear();
+const LOGO = '/wp-content/uploads/2021/08/casas-contenedores-.jpg';
+const hayLogo = existe(LOGO);
+const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto || '')}`;
 ---
 
-<footer>
+<footer class="pie">
   <div id="pie-widgets">
     <div class="contenedor">
-      <div class="columnas">
+      <div class="pie__rejilla">
+        <div class="pie__marca">
+          {hayLogo && <img class="pie__logo" src={aWebp(LOGO)} alt={site.nombre} width="810" height="450" loading="lazy" />}
+          <p class="pie__lema">{site.descripcion}</p>
+          <ul class="pie__contacto">
+            <li><a href={`mailto:${site.email}`}>{site.email}</a></li>
+            <li><a href={wa} rel="nofollow noopener" target="_blank">Escríbenos por WhatsApp</a></li>
+          </ul>
+        </div>
         {site.pie.columnas.map((c) => (
           <div class="columna">
             <p class="titulo-widget">{c.titulo}</p>
@@ -22,7 +35,7 @@ const anio = new Date().getFullYear();
   <div id="pie-barra">
     <div class="contenedor">
       <div class="interior">
-        <div>© {anio} {site.pie.copyright} · {site.email}</div>
+        <div>© {anio} {site.pie.copyright}</div>
         <ul>
           {site.pie.menu.map((e) => <li><a href={e.url}>{e.rotulo}</a></li>)}
         </ul>

@@ -1869,5 +1869,44 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3695,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Medidas del contenedor de 40 pies según la norma ISO 668",
+    "html": "<p>La norma ISO 668 fija las medidas de los contenedores marítimos estándar. Conocer el ancho interior real y la diferencia entre la versión estándar y la High Cube ayuda a calcular cuánto espacio útil vas a tener antes de decidir el modelo.</p><table><thead><tr><th>Medida</th><th>Estándar</th><th>High Cube</th></tr></thead><tbody><tr><td>Largo exterior</td><td>12,19 m</td><td>12,19 m</td></tr><tr><td>Ancho exterior</td><td>2,44 m</td><td>2,44 m</td></tr><tr><td>Alto exterior</td><td>2,59 m</td><td>2,90 m</td></tr><tr><td>Superficie interior aproximada</td><td>28,3 m²</td><td>28,3 m²</td></tr><tr><td>Ancho interior útil</td><td>2,35 m</td><td>2,35 m</td></tr></tbody></table><p>La versión High Cube gana altura exterior hasta los 2,90 m, lo que deja un techo interior cercano a los 2,69 m; ese margen se nota al levantar tabiques, falso techo o instalaciones vistas.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Transporte, colocación y usos de esta unidad",
+    "html": "<p>El traslado se hace en plataforma o portacontenedores; para colocarlo con precisión en el punto exacto de la parcela suele hacer falta una autogrúa, y si eliges la versión High Cube, su mayor altura puede obligar a usar una góndola según la ruta y los pasos con gálibo limitado. Antes de la descarga conviene dejar apoyos firmes y nivelados en las esquinas, porque son las cantoneras las que concentran el peso de la estructura; revisar de vez en cuando la pintura y las juntas ayuda a frenar la corrosión.</p><p>Por su longitud, un contenedor de 40 pies es la base habitual para levantar una <a href=\"/casa-contenedor-40-pies/\">casa de un solo módulo</a>, una <a href=\"/oficinas-contenedores/\">oficina</a> diáfana o un <a href=\"/local-containers/\">local o nave pequeña</a>; su ancho interior útil de 2,35 m permite repartir estancias sin perder demasiado espacio en tabiques.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre el contenedor de 40 pies",
+   "items": [
+    {
+     "pregunta": "¿Es el 40 pies el doble de largo que el 20 pies?",
+     "respuesta": "En longitud sí: 12,19 m frente a los 6,06 m del contenedor de 20 pies, y la superficie interior crece hasta unos 28,3 m² frente a los 13,9 m². El peso bruto máximo no se duplica en la misma proporción: cada unidad lo indica en su propia placa CSC, así que conviene comprobarlo antes de calcular cargas."
+    },
+    {
+     "pregunta": "¿Hace falta grúa para colocar este contenedor?",
+     "respuesta": "Sí: por su tamaño y peso la maniobra habitual se hace con autogrúa, y si es la versión High Cube puede hacer falta un vehículo con góndola por su mayor altura exterior. Antes de la entrega conviene comprobar el acceso hasta la parcela; puedes ampliar este punto en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>."
+    },
+    {
+     "pregunta": "¿Cabe esta unidad en una parcela urbana?",
+     "respuesta": "Depende del suelo y del planeamiento municipal, no solo del tamaño: antes de instalarlo conviene comprobar la calificación urbanística de la parcela y la licencia o declaración responsable que corresponda. Sus 12,19 x 2,44 m exteriores exigen además una superficie despejada con acceso para la grúa de descarga."
+    },
+    {
+     "pregunta": "¿Se puede dividir en dos estancias independientes?",
+     "respuesta": "Sí, aunque cortar huecos o tabiques en la chapa reduce la rigidez de la estructura original, así que cualquier apertura debe compensarse con el refuerzo que marque el proyecto, no a criterio libre. Lo habitual es repartir el espacio en dos estancias comunicadas, aprovechando en cada una el ancho interior útil de 2,35 m."
+    },
+    {
+     "pregunta": "¿Se transporta ya cargado con mercancía dentro?",
+     "respuesta": "Puede hacerse, pero el peso y la sujeción de lo que lleve dentro condicionan la maniobra de carga y descarga con grúa, así que conviene acordarlo con el transportista. Si va a convertirse en vivienda u oficina, lo habitual es moverlo vacío y equiparlo ya colocado y nivelado sobre sus apoyos."
+    }
+   ]
+  }
+ }
 }

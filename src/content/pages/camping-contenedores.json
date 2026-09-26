@@ -2436,5 +2436,45 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 7313,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Qué se puede construir con contenedores en un camping",
+    "html": "<p>Además de los bungalows, un camping puede resolver casi toda su infraestructura con contenedores marítimos, combinando varios usos en la misma parcela:</p><ul><li><strong>Bungalows y glamping:</strong> módulos habitables independientes, agrupados o en fila, con la misma estructura que una vivienda contenedor pero pensados para uso temporal.</li><li><strong>Recepción y control de acceso:</strong> un módulo de 20 o 40 pies como oficina de entrada, con mostrador y zona de espera.</li><li><strong>Bloques sanitarios:</strong> <a href=\"/modulos-sanitarios/\">módulos sanitarios</a> prefabricados con duchas, inodoros y lavabos, repartidos por zonas del recinto.</li><li><strong>Bar o restaurante:</strong> un <a href=\"/bar-contenedor/\">bar contenedor</a> abierto en temporada, junto a la zona de ocio.</li><li><strong>Lavandería y almacén:</strong> un módulo de servicio para lavadoras, secadoras y material de mantenimiento.</li><li><strong>Piscina:</strong> una <a href=\"/piscina-contenedor/\">piscina contenedor</a> como complemento del área de baño, sin obra de hormigón.</li></ul>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Módulo alojativo tipo: dormitorio, baño y porche",
+    "html": "<p>El módulo alojativo tipo suele partir de un contenedor de 20 pies (aprox. 13,9 m² interiores) con dormitorio, baño y un porche cubierto en el frente, pensado para dos personas. Para un bungalow familiar con dos dormitorios se recurre a un contenedor de 40 pies (aprox. 28,3 m² interiores) o a la unión de dos módulos. Al tratarse de un uso estacional, el aislamiento y la climatización se dimensionan para la temporada de apertura del camping, no para todo el año como en una vivienda permanente.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Normativa de campings en España y ampliar por fases",
+    "html": "<p>Cada comunidad autónoma tiene su propio decreto de campings, que fija categorías, ratios de parcela y servicios mínimos, así que conviene consultarlo antes de definir el número de bungalows. Los alojamientos fijos, los que no se retiran fuera de temporada, se tramitan como cualquier <a href=\"/permisos/\">edificación con licencia de obra</a>, deben cumplir el Código Técnico de la Edificación y necesitan además la licencia turística propia del establecimiento.</p><p>Una ventaja de trabajar con contenedores es poder montar el camping por fases: se instala primero el lote de bungalows que cubre la ocupación real, se amplía en temporadas siguientes y, si hace falta, los módulos se trasladan a otra parcela del recinto. Las instalaciones de agua, saneamiento y electricidad se centralizan por parcela para facilitar cada ampliación.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre campings con contenedores",
+   "items": [
+    {
+     "pregunta": "¿Un bungalow contenedor cuenta como bungalow o como edificación fija?",
+     "respuesta": "Depende de cómo quede instalado: si el módulo se ancla al terreno y se conecta de forma permanente a los servicios, se trata como una edificación sujeta al Código Técnico de la Edificación y a licencia de obra. Si es desmontable y se retira o traslada fuera de temporada, puede encajar como alojamiento de camping bajo el decreto turístico de tu comunidad autónoma."
+    },
+    {
+     "pregunta": "¿Se pueden retirar los bungalows contenedor fuera de temporada?",
+     "respuesta": "Sí, es una de las ventajas frente a la obra tradicional: al no requerir cimentación profunda, un módulo contenedor se puede desconectar de las acometidas y trasladar a un almacén o a otra parcela cuando el camping cierra temporada. Esa reversibilidad es también la que permite tramitarlo como instalación temporal según el decreto de tu comunidad autónoma."
+    },
+    {
+     "pregunta": "¿Necesitan cimentación los bungalows de contenedor en un camping?",
+     "respuesta": "No necesitan una cimentación profunda como una vivienda convencional: suele bastar con apoyos puntuales o una losa ligera que reparta la carga sobre las cantoneras del contenedor, según el estudio geotécnico del terreno. Esa base ligera es la que facilita retirar o recolocar el módulo entre temporadas sin dejar una estructura permanente en la parcela."
+    },
+    {
+     "pregunta": "¿Cómo se conectan el agua y la luz a cada parcela de bungalows?",
+     "respuesta": "Cada módulo se conecta a las acometidas generales del camping mediante tomas centralizadas por parcela o por zona, igual que el resto de instalaciones del recinto. Al ser conexiones exteriores y accesibles, se pueden desconectar con facilidad cuando el bungalow se traslada o se retira fuera de temporada, sin obras adicionales en la red."
+    }
+   ]
+  }
+ }
 }

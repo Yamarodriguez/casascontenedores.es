@@ -2563,5 +2563,55 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 8935,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Construir una casa contenedor en Sabadell: normativa y licencias",
+    "html": "<p>Sabadell tramita las licencias sobre el <strong>Pla General Municipal d'Ordenació de 1993</strong> (PGMOS-93), que amplió el suelo no urbanizable protegido, con sectores como Sant Pau de Riu-sec, Can Llong o Can Gambús. La vivienda nueva necesita además la cédula de habitabilidad que regula el Decret 141/2012 de la Generalitat, un trámite autonómico distinto de la primera ocupación municipal.</p><p>El municipio es denso en barrios y polígonos, y una parte notable del término está protegida: el <strong>Rodal</strong> y el Parc Agrari de Sabadell no admiten vivienda nueva. El caso habitual es un solar urbano en barrio consolidado o un patio de nave para un módulo de oficina.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Se puede construir una casa contenedor en el Parc Agrari de Sabadell?",
+    "html": "<p>No. El Parc Agrari de Sabadell y el Rodal son suelo no urbanizable protegido por el planeamiento municipal. Para vivienda hay que buscar suelo urbano consolidado dentro de la trama de barrios; consulta la <a href=\"/permisos/\">guía de permisos para casas contenedor</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "El clima de Sabadell y el aislamiento de la casa contenedor",
+    "html": "<p>Sabadell comparte la <strong>zona climática C2</strong> del CTE DB-HE con Barcelona capital, pero su posición en el interior del Vallès trae inviernos más fríos que la costa. El proyecto necesita aislamiento continuo repartido entre estaciones y control solar en las fachadas más expuestas.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Hace más frío en Sabadell que en Barcelona capital?",
+    "html": "<p>Sí, algo más: la posición de Sabadell en el <strong>interior del Vallès</strong>, lejos del efecto suavizador del mar, deja inviernos más marcados que en Barcelona capital. El aislamiento continuo por el exterior ayuda a compensarlo sin sobredimensionar la calefacción.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo llega el contenedor a tu parcela en Sabadell",
+    "html": "<p>El <strong>Port de Barcelona</strong> es el nodo de referencia, con las terminales BEST y APM Terminals, y llega por la C-58, la B-30/AP-7 o la C-16. En las terrazas erosionadas por el Ripoll conviene revisar el visor de inundabilidad de la Agència Catalana de l'Aigua; en la meseta urbana, sobre arcillas y gravas, la cimentación es más sencilla. Revisa medidas en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> y compara con <a href=\"/rubi/\">casas contenedores en Rubí</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Sabadell",
+   "items": [
+    {
+     "pregunta": "¿Qué diferencia hay entre la licencia municipal y la cédula de habitabilidad en Sabadell?",
+     "respuesta": "La licencia urbanística y la de primera ocupación las tramita el Ajuntament de Sabadell sobre el PGMOS-93. La cédula de habitabilidad, en cambio, la expide la Generalitat de Catalunya según el Decret 141/2012, y hace falta para dar de alta los suministros y para escriturar la vivienda."
+    },
+    {
+     "pregunta": "¿Qué uso se le puede dar a un contenedor en el Eix Macià o el centro de Sabadell?",
+     "respuesta": "En el centro y el Eix Macià predomina el suelo urbano de servicios y comercio, así que el contenedor encaja mejor como módulo de oficina, showroom o ampliación puntual que como vivienda nueva en parcela pequeña. Para vivienda, el caso más viable sigue siendo un solar urbano en un barrio consolidado."
+    },
+    {
+     "pregunta": "¿Hay Zona de Baixes Emissions en Sabadell que afecte al transporte del contenedor?",
+     "respuesta": "Sí. La Zona de Baixes Emissions de Sabadell se ha activado por fases, inicialmente sin sanción, con registro de vehículos y autorizaciones para residentes y actividades. Conviene comprobar la fase vigente con el transportista antes de fijar la fecha de entrega del contenedor en tu parcela."
+    },
+    {
+     "pregunta": "¿También vendéis contenedores marítimos en Sabadell?",
+     "respuesta": "Sí. La ficha de contenedores marítimos en Sabadell reúne medidas, tipos y transporte hasta polígonos como Sant Pau de Riu-sec o hasta tu parcela urbana, con salida desde las terminales del Port de Barcelona y acceso por la C-58, la B-30 o la C-16."
+    }
+   ]
+  }
+ }
 }

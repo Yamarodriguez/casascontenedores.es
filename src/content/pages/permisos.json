@@ -2880,5 +2880,55 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 638,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Qué permisos y normas necesita una casa contenedor en España",
+    "html": "<p>No hay una ley específica para contenedores: se aplican las mismas normas que a cualquier construcción permanente.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "LOE y Código Técnico: qué exige cada uno",
+    "html": "<p>La <strong>LOE</strong> (Ley 38/1999, de Ordenación de la Edificación) fija los agentes de la obra y sus garantías legales según el tipo de daño. El <strong>CTE</strong> se aplica documento a documento: DB-SE obliga a reforzar la estructura donde se cortan huecos, porque el contenedor pierde rigidez; DB-HE resuelve el puente térmico del acero; DB-HS, DB-SI y DB-HR regulan ventilación, incendio y ruido.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Planeamiento, suelo e instalaciones",
+    "html": "<p>El PGOU, POM, POUM o PXOM de tu municipio y la ley del suelo autonómica marcan la edificabilidad, la ocupación y los retranqueos de tu parcela. La instalación eléctrica se ajusta al <strong>REBT</strong> y la climatización al <strong>RITE</strong>; al terminar hace falta la cédula de habitabilidad autonómica o la licencia municipal de primera ocupación.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Tabla resumen: qué permiso, cuándo aplica y quién lo tramita",
+    "html": "<p>Los trámites cambian según el uso del contenedor y quién lo tramita.</p><table><thead><tr><th>Trámite</th><th>Vivienda fija</th><th>Almacén, trastero o caseta</th><th>Local u oficina</th></tr></thead><tbody><tr><td>Consulta urbanística previa</td><td>Sí</td><td>Recomendable</td><td>Sí</td></tr><tr><td>Proyecto visado</td><td>Sí</td><td>No suele exigirse</td><td>Sí</td></tr><tr><td>Licencia u otro título habilitante</td><td>Licencia de obra mayor</td><td>Declaración responsable u obra menor</td><td>Licencia de obra y de actividad</td></tr><tr><td>Certificado final de obra</td><td>Sí</td><td>No</td><td>Sí</td></tr><tr><td>Primera ocupación o cédula</td><td>Sí</td><td>No aplica</td><td>No aplica</td></tr></tbody></table><p>Aunque no lo anclen al suelo, un contenedor con uso continuado sigue sujeto a un título habilitante, según marque la ordenanza de tu Ayuntamiento. Más detalle en <a href=\"/casa-container-paso-a-paso/\">la construcción paso a paso</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Suelo rústico, qué pasa sin licencia y qué recibes al terminar",
+    "html": "<p>El tipo de suelo condiciona qué puedes construir; pide la consulta urbanística para conocer clasificación, edificabilidad y retranqueos.</p><ul><li><strong>Urbano o urbanizable</strong>: admite vivienda si el planeamiento lo permite, con los parámetros del PGOU o equivalente.</li><li><strong>Rústico</strong>: el común puede admitir usos vinculados a explotación agraria; el protegido no suele permitir vivienda, salvo excepciones tasadas.</li><li><strong>Sin licencia</strong>: cabe expediente de restauración de la legalidad y demolición -en protegido, incluso vía penal, artículo 319 del Código Penal-; la legalización a posteriori solo procede si encaja en el planeamiento vigente.</li><li><strong>Al terminar</strong>: certificado final, libro del edificio, certificado energético, cédula o primera ocupación, obra nueva inscrita en el Registro y el Catastro, boletines de instalaciones y garantías de la LOE, con seguro decenal si se destina a la venta.</li></ul><p>El reparto de cada fase, con su presupuesto, está en <a href=\"/presupuesto-casas-contenedores/\">el presupuesto de tu casa contenedor</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre permisos de casas contenedores",
+   "items": [
+    {
+     "pregunta": "¿Necesito un arquitecto para una casa contenedor?",
+     "respuesta": "Sí. La LOE exige un proyecto firmado por un arquitecto y su dirección de obra para cualquier vivienda, sea cual sea el material de partida. El arquitecto adapta el diseño a la normativa urbanística de tu municipio y calcula los refuerzos donde se abren huecos."
+    },
+    {
+     "pregunta": "¿Puedo colocar un contenedor sin permisos si no está anclado?",
+     "respuesta": "No necesariamente. Mientras no tenga cimentación puede considerarse un bien mueble, pero en cuanto se instala con acometidas o permanece de forma continuada, pasa a estar sujeto a declaración responsable o licencia según la ordenanza de tu Ayuntamiento. Consúltalo antes de instalarlo."
+    },
+    {
+     "pregunta": "¿Es lo mismo la cédula de habitabilidad que la licencia de primera ocupación?",
+     "respuesta": "No. Ambas certifican que la vivienda reúne condiciones para habitarse, pero las emite una autoridad distinta según la comunidad autónoma: algunas piden cédula de habitabilidad y el resto exige licencia municipal de primera ocupación. Confírmalo con tu Ayuntamiento o comunidad."
+    },
+    {
+     "pregunta": "¿Cuánto tarda en resolverse la licencia de obra?",
+     "respuesta": "No hay un plazo único: depende del Ayuntamiento, de si el proyecto necesita informes sectoriales -Costas, Patrimonio, Carreteras- y del volumen de solicitudes en trámite. Pide una estimación en la consulta urbanística previa y revisa <a href=\"/tiempos-de-construccion-de-casas-con-contenedores/\">los tiempos de construcción de casas contenedores</a>."
+    }
+   ]
+  }
+ }
 }

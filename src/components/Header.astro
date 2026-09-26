@@ -1,15 +1,17 @@
 ---
 /**
- * Cabecera. Reproduce la del sitio vivo: barra superior con el correo,
- * fila del logo y barra de menú gris.
+ * Cabecera: barra superior fina (correo y WhatsApp) y una sola fila pegajosa
+ * con el logo, el menú y el botón de presupuesto. Las tres barras apiladas
+ * del tema antiguo (correo / logo / menú) se han fundido en una.
  *
  * El menú se toma tal cual estaba en WordPress (src/data/menus.json), con su
  * orden y sus submenús. Cada sección enseña el suyo: las páginas de
  * contenedores marítimos llevan el menú de contenedores, el resto el
- * principal, igual que hoy.
+ * principal, igual que en la web en vivo.
  */
 import site from '../data/site.json';
 import menus from '../data/menus.json';
+import modelosM2 from '../data/modelos-m2.json';
 import { existe, aWebp } from '../utils/imagenes.js';
 
 const { ruta = '/', menu: nombreMenu = '' } = Astro.props;
@@ -18,90 +20,142 @@ const { ruta = '/', menu: nombreMenu = '' } = Astro.props;
 // scripts/arbol.py lo trae al JSON. Cuando no dice nada, el del tema.
 const menu = menus[nombreMenu] || menus[site.menuPorDefecto] || [];
 
+/* Los dos desplegables largos se pintan como paneles a todo lo ancho:
+   - "Modelos": agrupado (por contenedores, por superficie, interior y diseño,
+     otros usos). Los modelos por superficie (15…120 m²) no estaban en el
+     menu de WordPress: salen de src/data/modelos-m2.json.
+   - "Provincias": solo el nombre del lugar (sin "Casas Contenedores" /
+     "Contenedores Marítimos" delante), en orden alfabetico y en columnas. */
+const GRUPOS_MODELOS = [
+  { titulo: 'Por número de contenedores', urls: ['/casa-con-un-contenedor/', '/casa-con-dos-contenedores/', '/casa-con-tres-contenedores/', '/casa-con-cuatro-contenedores/', '/casa-contenedor-20-pies/', '/casa-contenedor-40-pies/'] },
+  { titulo: 'Por superficie', urls: [] },
+  { titulo: 'Interior y diseño', urls: ['/por-dentro/', '/interior/', '/renders/'] },
+  { titulo: 'Otros usos', urls: [] },
+];
+const superficies = Object.entries(modelosM2)
+  .filter(([m2]) => /^\d+$/.test(m2))
+  .sort((a, b) => Number(a[0]) - Number(b[0]))
+  .map(([m2, m]) => ({ rotulo: `Casa contenedor de ${m2} m²`, url: m.url }));
+
+const esProvincias = (e) => e.url === '#' || /^provincias$/i.test(e.rotulo);
+const esModelos = (e) => e.url === '/modelos/';
+const nombreLugar = (rotulo) => {
+  const n = rotulo.replace(/^(casas?\s+contenedores|contenedor(?:es)?\s+mar[ií]timos?)\s+/i, '').trim();
+  return n.charAt(0).toUpperCase() + n.slice(1);
+};
+const agrupar = (e) => {
+  if (esModelos(e)) {
+    const usados = new Set();
+    const grupos = GRUPOS_MODELOS.map((g) => ({ titulo: g.titulo, hijos: g.urls.map((u) => e.hijos.find((h) => h.url === u)).filter(Boolean) }));
+    grupos.forEach((g) => g.hijos.forEach((h) => usados.add(h.url)));
+    grupos[1].hijos = superficies;
+    grupos[3].hijos = e.hijos.filter((h) => !usados.has(h.url));
+    return grupos.filter((g) => g.hijos.length);
+  }
+  if (esProvincias(e)) {
+    const hijos = e.hijos.map((h) => ({ rotulo: nombreLugar(h.rotulo), url: h.url }))
+      .sort((a, b) => a.rotulo.localeCompare(b.rotulo, 'es'));
+    const titulo = nombreMenu === 'contenedores-maritimos' ? 'Contenedores marítimos en tu provincia' : 'Casas contenedores en tu provincia';
+    return [{ titulo, hijos }];
+  }
+  return null;
+};
+
 const LOGO = '/wp-content/uploads/2021/08/casas-contenedores-.jpg';
 const hayLogo = existe(LOGO);
 
+const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto || '')}`;
+
 const activo = (url) => url === ruta;
+const esActivoConHijos = (e) => activo(e.url) || (e.hijos || []).some((h) => activo(h.url));
 ---
 
-<a class="salto-contenido" href="#content-wrap">Saltar al contenido</a>
+<a class="salto-contenido" href="#main">Saltar al contenido</a>
 
 <div id="barra-superior">
-  <div class="contenedor">
-    <div class="contenido">{site.email}</div>
+  <div class="contenedor barra__fila">
+    <span class="barra__lema">Casas con contenedores marítimos · Proyecto, fabricación y montaje en toda España</span>
+    <a class="barra__correo" href={`mailto:${site.email}`}>{site.email}</a>
+    <a class="barra__wa" href={wa} rel="nofollow noopener" target="_blank">WhatsApp</a>
   </div>
 </div>
 
-<header id="cabecera">
-  <div class="contenedor">
-    <div class="cabecera-logo">
-      <a href="/" rel="home" aria-label={site.nombre}>
-        {hayLogo
-          ? <img src={aWebp(LOGO)} alt={site.nombre} width="810" height="450" />
-          : <span class="marca">Casas Contenedores</span>}
-      </a>
-      {/* Llamada a la accion en la cabecera. Es un enlace nuevo, no toca
-          ningun texto ni encabezado del contenido. */}
-      <div class="cabecera-acciones">
-        <a class="cabecera-correo" href={`mailto:${site.email}`}>{site.email}</a>
-        <a class="cabecera-boton" href={`https://wa.me/${site.whatsapp}`} rel="nofollow">Pedir presupuesto</a>
-      </div>
-      <button class="boton-menu" type="button" aria-expanded="false" aria-controls="menu-movil" data-menu>
-        Menú
-      </button>
-    </div>
+<header class="cabecera" id="cabecera" data-abierto="0">
+  <div class="contenedor contenedor--ancho cabecera__fila">
+    <a class="cabecera__marca" href="/" rel="home" aria-label={site.nombre}>
+      {hayLogo
+        ? <img class="cabecera__logo" src={aWebp(LOGO)} alt={site.nombre} width="810" height="450" />
+        : <span class="cabecera__nombre">Casas Contenedores</span>}
+    </a>
+
+    <button class="menu__boton" type="button" aria-expanded="false" aria-controls="menu-principal" data-menu>
+      <span class="menu__boton-lineas" aria-hidden="true"></span>
+      <span class="menu__boton-texto">Menú</span>
+    </button>
+
+    <nav class="menu" id="menu-principal" aria-label="Menú principal">
+      <ul>
+        {menu.map((e) => {
+          const grupos = e.hijos && agrupar(e);
+          return (
+          <li class:list={[e.hijos && 'menu__con-hijos', grupos && 'menu__con-panel']} data-abierto="0">
+            <a href={e.url} aria-current={activo(e.url) ? 'page' : undefined} class:list={[esActivoConHijos(e) && 'menu__activo']}>
+              {e.rotulo}
+            </a>
+            {e.hijos && (
+              <>
+                <button class="menu__desplegar" type="button" aria-label={`Abrir ${e.rotulo}`} aria-expanded="false" data-desplegar>▾</button>
+                {grupos ? (
+                  <div class:list={['menu__sub', 'menu__panel', esProvincias(e) && 'menu__panel--lugares']}>
+                    {grupos.map((g) => (
+                      <div class="menu__grupo">
+                        <p class="menu__grupo-titulo">{g.titulo}</p>
+                        <ul>
+                          {g.hijos.map((h) => (
+                            <li><a href={h.url} aria-current={activo(h.url) ? 'page' : undefined}>{h.rotulo}</a></li>
+                          ))}
+                        </ul>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <ul class:list={['menu__sub', e.hijos.length > 8 && 'menu__sub--dos']}>
+                    {e.hijos.map((h) => (
+                      <li><a href={h.url} aria-current={activo(h.url) ? 'page' : undefined}>{h.rotulo}</a></li>
+                    ))}
+                  </ul>
+                )}
+              </>
+            )}
+          </li>
+          );
+        })}
+      </ul>
+    </nav>
+
+    <a class="cabecera__cta" href={wa} rel="nofollow noopener" target="_blank">Pedir presupuesto</a>
   </div>
 </header>
 
-<nav class="barra-navegacion" aria-label="Menú principal">
-  <div class="contenedor">
-    <ul id="menu-principal">
-      {menu.map((e) => (
-        <li>
-          <a href={e.url} aria-current={activo(e.url) ? 'page' : undefined}>
-            {e.rotulo}{e.hijos && <span class="flecha">▾</span>}
-          </a>
-          {e.hijos && (
-            <ul class={e.hijos.length > 24 ? 'submenu columnas' : 'submenu'}>
-              {e.hijos.map((h) => (
-                <li><a href={h.url}>{h.rotulo}</a></li>
-              ))}
-            </ul>
-          )}
-        </li>
-      ))}
-    </ul>
-  </div>
-</nav>
-
-<div id="menu-movil">
-  <ul>
-    {menu.map((e) => (
-      e.hijos
-        ? <li>
-            <details>
-              <summary>{e.rotulo}</summary>
-              <ul>
-                <li><a href={e.url}>Ver {e.rotulo}</a></li>
-                {e.hijos.map((h) => <li><a href={h.url}>{h.rotulo}</a></li>)}
-              </ul>
-            </details>
-          </li>
-        : <li><a href={e.url}>{e.rotulo}</a></li>
-    ))}
-  </ul>
-</div>
-
 <script is:inline>
   (function () {
+    var cabecera = document.getElementById('cabecera');
     var boton = document.querySelector('[data-menu]');
-    var caja = document.getElementById('menu-movil');
-    if (!boton || !caja) return;
+    if (!cabecera || !boton) return;
     boton.addEventListener('click', function () {
-      var abierto = caja.getAttribute('data-abierto') === '1';
-      caja.setAttribute('data-abierto', abierto ? '0' : '1');
+      var abierto = cabecera.getAttribute('data-abierto') === '1';
+      cabecera.setAttribute('data-abierto', abierto ? '0' : '1');
       boton.setAttribute('aria-expanded', abierto ? 'false' : 'true');
-      boton.textContent = abierto ? 'Menú' : 'Cerrar';
+      document.body.classList.toggle('menu-abierto', !abierto);
+    });
+    // en movil los submenus se pliegan y se abren con la flecha
+    document.querySelectorAll('[data-desplegar]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var li = b.closest('li');
+        var abierto = li.getAttribute('data-abierto') === '1';
+        li.setAttribute('data-abierto', abierto ? '0' : '1');
+        b.setAttribute('aria-expanded', abierto ? 'false' : 'true');
+      });
     });
   })();
 </script>

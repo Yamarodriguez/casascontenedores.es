@@ -2,43 +2,26 @@
 /**
  * Hero.astro — la franja de entrada de cada página, como en la maqueta.
  *
- * Es CONTENIDO NUEVO que va ENCIMA de todo lo original: no mueve, no cambia y
- * no borra nada de lo que ya había. El H1 de la página sigue donde estaba,
- * justo debajo.
+ * Va ENCIMA de todo lo original: no mueve, no cambia y no borra nada de lo
+ * que ya había. Su titular es el <h1> de la página (el campo `titulo` del
+ * JSON, el mismo que da nombre a la pestaña); los encabezados del contenido
+ * conservan su nivel original, igual que en la web en vivo, que no tenía h1.
  *
- * Por qué el titular va en un <p> y no en un <h1> o un <h2>:
- * porque es un título que nos inventamos nosotros para la presentación. La
- * regla del proyecto es clara — los títulos inventados van en <p> con clase,
- * nunca en un encabezado — para que la jerarquía h1 > h2 > h3 de la página
- * siga siendo exactamente la de la web en vivo.
- *
- * Y no lleva ni una cifra. Ni precios ni plazos: eso entra cuando el
- * propietario pase los números reales.
+ * El antetítulo, la entradilla y las fichas son texto de presentación y no
+ * llevan ni una cifra. Ni precios ni plazos: eso entra cuando el propietario
+ * pase los números reales.
  */
 import site from '../data/site.json';
-import { aWebp, existe } from '../utils/imagenes.js';
+import { fotoHero, esMaritimos } from '../utils/hero.js';
 
-const { titulo = '', hero = {}, ruta = '', localidad = '' } = Astro.props;
+/* El titular del heroe es el <h1> de la pagina: su titulo propio ("Casas
+ * Contenedores Madrid", "Casa con un Contenedor"…), asi cambia en cada
+ * pestaña. Los encabezados del contenido se quedan en su nivel original. */
+const { titulo = '', ruta = '', localidad = '' } = Astro.props;
 
-/* La foto del héroe es una FOTO LIMPIA elegida a mano, no la de la página.
- *
- * Por qué: la imagen principal de casi todas las páginas es el banner que ya
- * traía el texto incrustado ("PROYECTOS, DISEÑOS Y CONSTRUCCIONES CON
- * CONTENEDORES"). Puesta de fondo, ese texto se cruzaba con el titular del
- * héroe y se leía fatal; y además el mismo banner vuelve a salir justo debajo,
- * dentro del contenido, que no se toca. Con una foto sin texto el héroe se lee
- * y el banner original sigue en su sitio.
- *
- * Si la página trae una foto propia y no es la del banner, se usa la suya.
- */
-const FOTO_POR_DEFECTO = '/wp-content/uploads/2022/02/RENDER-3A-1-2048x1152.jpg';
-const BANNER = /casas-contenedores\.(webp|jpg|png)$/i;
-
-const propia = hero?.src && !BANNER.test(hero.src) && existe(hero.src) ? hero.src : '';
-const elegida = propia || (existe(FOTO_POR_DEFECTO) ? FOTO_POR_DEFECTO : '');
-const foto = elegida ? aWebp(elegida) : '';
-
-const maritimos = /^\/contenedor(es)?-maritimo/.test(ruta);
+// La foto es siempre una limpia elegida a mano (ver src/utils/hero.js).
+const foto = fotoHero(ruta);
+const maritimos = esMaritimos(ruta);
 
 const antetitulo = maritimos
   ? (localidad ? `Contenedores marítimos · ${localidad}` : 'Venta y alquiler · Toda España')
@@ -57,10 +40,18 @@ const fichas = maritimos
 ---
 
 <section class="hero" aria-label="Presentación">
-  {foto && <img class="hero-foto" src={foto} alt={hero.alt || titulo} fetchpriority="high" decoding="async" />}
+  {foto && (
+    <img
+      class="hero-foto"
+      src={foto}
+      alt={maritimos ? 'Contenedor marítimo' : 'Casa construida con contenedores marítimos'}
+      fetchpriority="high"
+      decoding="async"
+    />
+  )}
   <div class="hero-in">
     <p class="antetitulo">{antetitulo}</p>
-    <p class="hero-titulo">{titulo}</p>
+    <h1 class="hero-titulo">{titulo}</h1>
     <p class="hero-sub">{entradilla}</p>
     <div class="hero-botones">
       <a class="hero-boton" href={wa} rel="nofollow">Pedir presupuesto</a>

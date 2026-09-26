@@ -2722,5 +2722,49 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 7256,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Licencias para abrir un bar en un contenedor en España",
+    "html": "<p>Abrir un bar en un contenedor no es solo cuestión de fijarlo al suelo: además de la obra, el ayuntamiento exige una licencia de actividad o, en muchos casos, una declaración responsable que habilite el uso hostelero. El proyecto técnico suele fijar estos puntos:</p><ul><li><strong>Aforo</strong>: lo fija el proyecto según la superficie y las salidas, no es una cifra a elegir a mano.</li><li><strong>Salida de humos</strong>: si hay cocina, exige un conducto de extracción propio hasta cubierta.</li><li><strong>Ordenanza de ruidos y horarios</strong>: cada municipio marca sus propios límites de música y su hora de cierre.</li><li><strong>Registro sanitario</strong>: obligatorio en cuanto se manipulan o sirven alimentos.</li><li><strong>Aseos y accesibilidad</strong>: conforme al DB-SUA del Código Técnico, con aseo adaptado según el aforo.</li></ul>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Chiringuitos y bares en playa o espacio público",
+    "html": "<p>Un bar contenedor en la playa o en una plaza pública no se tramita con una licencia municipal cualquiera: depende de una concesión de Costas o de una autorización municipal de ocupación de vía pública, casi siempre ligada a una temporada y con obligación de desmontaje al terminarla. El resto de trámites de construcción se explica en <a href=\"/permisos/\">permisos para casas y locales de contenedores</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Distribución e instalaciones que no cubre la guía anterior",
+    "html": "<p>En un contenedor de 20 pies (unos 13,9 m² interiores) la distribución habitual es una barra con ventana abatible hacia la calle o la terraza. El de 40 pies (cerca de 28,3 m² interiores) da para barra, almacén y aseo en la misma unidad. Con más superficie, dos contenedores en L con una terraza cubierta por una <a href=\"/pergolas/\">pérgola</a> separan la barra de las mesas sin perder el volumen metálico a la vista. Conviene prever potencia para el frío de barra, la extracción de humos, el agua caliente sanitaria y un aislamiento acústico reforzado si hay música.</p><p>El proceso avanza mejor si se solapan fases: mientras se redacta el proyecto y se tramitan las licencias en paralelo, el contenedor se prepara en taller antes del transporte y la conexión final en el terreno. Ya abierto, el mantenimiento habitual (pintura, sellados, revisión de instalaciones) alarga la vida del local. El detalle de costes, suelo, ventanas y puertas se explica en <a href=\"/casa-container-paso-a-paso/\">casa container paso a paso</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre bares contenedor",
+   "items": [
+    {
+     "pregunta": "¿Puedo poner un bar contenedor en un festival o en la playa?",
+     "respuesta": "Sí, es uno de los usos más habituales del formato, pero como instalación temporal: en la playa necesitas la concesión o autorización de la demarcación de Costas, y en un festival o espacio público, el permiso del organizador o del ayuntamiento. Ambos casos suelen exigir un montaje ligado a una temporada concreta y el desmontaje al finalizar."
+    },
+    {
+     "pregunta": "¿Necesita cocina con salida de humos?",
+     "respuesta": "Solo si vas a cocinar dentro del propio contenedor. Un bar que sirve bebidas y algo de picoteo frío puede resolverse con la ventilación general, mientras que una cocina con plancha, freidora o parrilla necesita un conducto de extracción de humos propio hasta cubierta, independiente del resto de la instalación."
+    },
+    {
+     "pregunta": "¿Cuántos clientes caben con una terraza de 40 pies?",
+     "respuesta": "No hay una cifra única: el aforo lo calcula el proyecto técnico a partir de la superficie útil, la disposición del mobiliario y el número de salidas de emergencia, siguiendo el DB-SUA del Código Técnico. Un contenedor de 40 pies aporta unos 28,3 m² interiores, a los que se suma la terraza exterior."
+    },
+    {
+     "pregunta": "¿Se puede mover de temporada?",
+     "respuesta": "Sí, esa es una de las ventajas del formato modular: el contenedor se desconecta de las acometidas y se traslada con transporte especial a otra ubicación, o se guarda hasta la siguiente temporada. Si el emplazamiento original era temporal (playa, ferial), el desmontaje suele ser una condición del propio permiso."
+    },
+    {
+     "pregunta": "¿Qué diferencia hay con un restaurante contenedor?",
+     "respuesta": "La diferencia está sobre todo en la cocina y el servicio: un <a href=\"/restaurantes-contenedores-2/\">restaurante contenedor</a> necesita más superficie de cocina, extracción de humos dimensionada para elaboración completa y espacio para mesas con servicio, mientras que un bar contenedor suele centrarse en la barra y un picoteo más sencillo."
+    }
+   ]
+  }
+ }
 }

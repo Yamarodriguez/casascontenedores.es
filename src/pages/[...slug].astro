@@ -8,9 +8,13 @@
  */
 import Base from '../layouts/Base.astro';
 import Formulario from '../components/Formulario.astro';
-import { pintar, asegurarH1 } from '../utils/render.js';
+import { pintar, seccionAmpliacion, rebajarH1 } from '../utils/render.js';
 import { localidadDe } from '../utils/localidades.js';
-import { sanearImagenes } from '../utils/imagenes.js';
+import { sanearImagenes, existe } from '../utils/imagenes.js';
+// medidas y fondo de cada foto (scripts/analizar-imagenes.mjs): un producto
+// sobre fondo blanco se enseña entero, una foto de verdad se recorta
+import fotos from '../data/imagenes.json';
+import modelosM2Todos from '../data/modelos-m2.json';
 
 export async function getStaticPaths() {
   const modulos = import.meta.glob('../content/pages/*.json', { eager: true });
@@ -23,18 +27,21 @@ export async function getStaticPaths() {
 
 const { pagina } = Astro.props;
 
-// 1. un solo H1 por página
+// los rotulos "30 m2 / 90 m2" solo enlazan (y se pintan como tarjeta) si la
+// pagina de ese modelo existe de verdad
+const rutasExistentes = new Set(
+  Object.values(import.meta.glob('../content/pages/*.json', { eager: true })).map((m) => (m.default || m).ruta),
+);
+const modelosM2 = Object.fromEntries(
+  Object.entries(modelosM2Todos).filter(([k, v]) => /^\d+$/.test(k) && rutasExistentes.has(v.url)),
+);
+
+// 1. un solo H1 por página: el del héroe, con el título propio de la página
+//    ("Casas Contenedores Madrid", "Casa con un Contenedor"…). Los
+//    encabezados del contenido se quedan en su nivel original (h2, h3).
 const bloques = structuredClone(pagina.bloques || []);
-// las páginas sin árbol de Elementor (las legales) no tienen dónde poner el
-// H1 dentro del contenido: lo pone la banda de título del tema
-const conBanda = pagina.bandaTitulo || bloques.length === 0;
-const h1 = asegurarH1(bloques, conBanda, pagina.h1 || pagina.titulo);
-// Las 7 paginas que en la web en vivo llevan la franja gris del tema no la
-// enseñan aqui (su texto estaba en blanco sobre gris: no se leia), pero si
-// conservan su HUECO. La primera seccion de esas paginas sube con un margen
-// superior negativo que cuenta con la franja; sin el hueco, la foto principal
-// tapa la barra del menu.
-const conHueco = !conBanda && Boolean(pagina.huecoTitulo);
+const h1 = pagina.titulo;
+rebajarH1(bloques);
 
 // Localidad de la pagina, para que la franja de cierre pueda nombrarla
 // ("¿Quieres una casa contenedor en Lugo?"). Sale de la tabla que construye
@@ -44,14 +51,21 @@ const conHueco = !conBanda && Boolean(pagina.huecoTitulo);
 // general.
 const localidad = localidadDe(pagina.ruta);
 
-// 2. se pinta el árbol; las imágenes pasan por el saneador (webp / marcador).
+// 2. la ampliación SEO (campo "ampliacion" del JSON: h2/h3 y FAQ nuevos) va
+//    al FINAL del árbol; el contenido original no se toca.
+const ampliacion = seccionAmpliacion(pagina.ampliacion);
+if (ampliacion) bloques.push(ampliacion.seccion);
+const faq = [...(pagina.faq || []), ...(ampliacion?.faq || [])];
+
+// 3. se pinta el árbol; las imágenes pasan por el saneador (webp / marcador).
 //    Las 4 páginas sin árbol de Elementor (las legales) van como texto corrido.
 const hayArbol = bloques.length > 0;
+//    La foto de cabecera del original ya la representa el heroe: no se repite.
 const { html } = hayArbol
-  ? pintar(bloques, { imagenes: (trozo) => sanearImagenes(trozo).html })
+  ? pintar(bloques, { imagenes: (trozo) => sanearImagenes(trozo).html, omitir: pagina.hero?.src || '', existe, fotos, modelosM2 })
   : { html: `<div class="texto-corrido">${sanearImagenes(pagina.cuerpo).html}</div>` };
 
-// 3. el marcador del formulario se parte para insertar el componente
+// 4. el marcador del formulario se parte para insertar el componente
 const trozos = html.split(/<!--FORMULARIO:[^>]*?-->/);
 ---
 
@@ -61,13 +75,11 @@ const trozos = html.split(/<!--FORMULARIO:[^>]*?-->/);
   tituloSeo={pagina.tituloSeo}
   descripcion={pagina.descripcion}
   h1={h1}
-  bandaTitulo={conBanda}
-  huecoTitulo={conHueco}
+  hero={pagina.hero}
   localidad={localidad}
   menu={pagina.menu}
-  faq={pagina.faq}
+  faq={faq}
   noindex={pagina.noindex}
-  postId={pagina.postId}
 >
   {trozos.map((trozo, i) => (
     <>

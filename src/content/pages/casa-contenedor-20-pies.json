@@ -2633,5 +2633,54 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 8538,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Medidas reales de un contenedor de 20 pies para vivienda",
+    "html": "<table><thead><tr><th></th><th>Exterior</th><th>Interior aproximado</th></tr></thead><tbody><tr><td>Contenedor de 20 pies</td><td>6,06 × 2,44 × 2,59 m</td><td>≈ 5,90 × 2,35 × 2,39 m (≈ 13,9 m² en planta)</td></tr><tr><td>Versión High Cube</td><td>2,90 m de alto exterior</td><td>≈ 2,69 m libres bajo techo</td></tr></tbody></table><p>Son las medidas de fábrica de un contenedor marítimo ISO 668 sin transformar; el hueco útil real se reduce un poco donde entran el aislamiento y los tabiques. Compara tamaños en <a href=\"/contenedores-20-pies/\">contenedores de 20 pies</a> y en la tabla de <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Para qué sirve una casa de 20 pies y cómo funcionan las versiones expandibles",
+    "html": "<p>Un solo contenedor de 20 pies casi nunca se plantea como vivienda principal completa: su punto fuerte es cubrir usos concretos, como un estudio de invitados, una oficina de jardín, un módulo de camping o glamping, o una primera pieza a la que luego se adosa otra.</p><p>Las versiones expandibles parten de un módulo central que despliega una o dos alas laterales ya en la parcela: se transporta como un único bulto y gana superficie sin sumar otro contenedor entero, aunque el punto de pliegue necesita refuerzos porque ahí se pierde parte de la rigidez de las paredes onduladas de fábrica.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "20 pies o 40 pies: cuál elegir",
+    "html": "<p>El 20 pies gana cuando el acceso es estrecho o la grúa tiene poco espacio para maniobrar, porque pesa y ocupa menos que un 40 pies; también conviene en parcelas pequeñas, donde dos módulos en L aprovechan mejor una forma irregular que uno de 40 pies en línea. A cambio, tiene más superficie de pared (más puentes térmicos y más junta) por cada metro cuadrado útil. Compáralo en <a href=\"/casa-contenedor-40-pies/\">casa contenedor de 40 pies</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Aislamiento, transporte y licencias en un módulo pequeño",
+    "html": "<p>El aislamiento se resuelve casi siempre por el exterior, con rotura de puente térmico en los perfiles y ventilación de la cámara: por dentro, el ancho útil ya es limitado (2,35 m) y forrar hacia adentro resta todavía más superficie habitable.</p><p>Para el transporte, el tamaño y el peso del módulo permiten normalmente un camión rígido con pluma o una grúa de menor tonelaje que la que exige un 40 pies.</p><p>La licencia no depende del tamaño del contenedor sino del uso: un módulo como caseta temporal de obra no tramita igual que una vivienda fija anclada a cimentación. Revisa qué exige tu ayuntamiento en <a href=\"/permisos/\">permisos</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedor de 20 pies",
+   "items": [
+    {
+     "pregunta": "¿Cuántos m² reales tiene una casa contenedor de 20 pies?",
+     "respuesta": "Por dentro, un contenedor de 20 pies mide aproximadamente 5,90 × 2,35 m, unos 13,9 m² en planta. Esa cifra es la del módulo de fábrica sin transformar: al montar tabiques, baño y aislamiento, la superficie útil final se reduce un poco respecto a esos 13,9 m²."
+    },
+    {
+     "pregunta": "¿Cabe un baño y una cocina en un solo contenedor de 20 pies?",
+     "respuesta": "Sí, con un diseño ajustado: en 13,9 m² suele plantearse un baño compacto, una cocina en línea o en L y una zona de estar y dormitorio que comparten espacio. Es la solución habitual para un estudio o una oficina de jardín; para habitaciones separadas conviene combinar varios módulos."
+    },
+    {
+     "pregunta": "¿Se pueden apilar contenedores de 20 pies para hacer una casa de dos plantas?",
+     "respuesta": "Sí: los contenedores están preparados de fábrica para apilarse porque la carga se transmite por las esquinas, en las cantoneras. Lo que cambia en una casa de dos plantas es el cálculo estructural y los refuerzos donde se abren huecos grandes de puertas o ventanas."
+    },
+    {
+     "pregunta": "¿Necesita cimentación una casa hecha con un contenedor de 20 pies?",
+     "respuesta": "Sí. Aunque llega como una pieza cerrada y rígida, como vivienda fija necesita un apoyo continuo y nivelado bajo sus cuatro esquinas, definido en el proyecto según el terreno. Un contenedor apoyado sin cimentación se considera instalación temporal, no vivienda, y no tramita como tal."
+    },
+    {
+     "pregunta": "¿Se pueden unir dos contenedores de 20 pies en un mismo módulo?",
+     "respuesta": "Sí: dos contenedores de 20 pies unidos por un lateral equivalen aproximadamente a uno de 40 pies en superficie, pero permiten formas en L o con un módulo desplazado que un contenedor largo no ofrece. La unión exige reforzar la zona de corte para compensar la rigidez de las paredes originales."
+    }
+   ]
+  }
+ }
 }

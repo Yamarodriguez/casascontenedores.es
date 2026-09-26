@@ -2545,5 +2545,54 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 511,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Cuánto espacio tiene de verdad una casa con un contenedor",
+    "html": "<p>Un contenedor de 20 pies mide 6,06 × 2,44 × 2,59 m y deja unos 13,9 m² interiores; uno de 40 pies, con 12,19 × 2,44 × 2,59 m, ronda los 28,3 m², con el mismo ancho útil de 2,35 m en los dos casos. La versión High Cube suma altura, hasta 2,90 m por fuera y unos 2,69 m de techo interior. Por eso casi todos los proyectos de un solo módulo parten de un <a href=\"/casa-contenedor-40-pies/\">40 pies High Cube</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Qué distribuciones caben en un módulo de 40 pies",
+    "html": "<p>Con 28,3 m² y 2,35 m de ancho, un 40 pies admite un estudio abierto, una vivienda de un dormitorio con baño y cocina-salón separados, o una oficina o casa de invitados independiente. Conviene agrupar el baño y la cocina en el mismo extremo, así las instalaciones no cruzan todo el largo del módulo.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Si piensas ampliar más adelante",
+    "html": "<p>Cuando la idea es empezar con un solo módulo y sumar más con el tiempo, conviene preverlo ya en el proyecto: dónde irán los huecos de paso, una cimentación pensada también para el siguiente contenedor y unas instalaciones con capacidad de sobra. Abrir un hueco no calculado le resta rigidez a la estructura. Así se resuelve en <a href=\"/casa-con-dos-contenedores/\">la casa con dos contenedores</a> y en <a href=\"/casa-con-tres-contenedores/\">la de tres</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Aislamiento, cimentación, transporte y licencias en un solo módulo",
+    "html": "<p>El acero conduce el calor y el frío mucho más que un muro convencional, y aislar solo por dentro reduce aún más los 2,35 m de ancho útil. Por eso lo habitual es aislar por el exterior, cuidar la orientación de los huecos, resolver la ventilación cruzada y añadir un porche que dé sombra a la fachada más expuesta.</p><p>La estructura se apoya en sus cuatro esquinas o cantoneras, así que la cimentación se resuelve sobre esos puntos según el estudio geotécnico previo, y el transporte cabe en un único viaje de camión con una grúa de tamaño moderado. La licencia necesaria es la misma que la de cualquier otra vivienda, con proyecto visado: si se instala como vivienda auxiliar en una parcela ya edificada, también hace falta licencia, aunque el terreno sea tuyo. El trámite completo está en <a href=\"/permisos/\">permisos para casas de contenedores</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas con un contenedor",
+   "items": [
+    {
+     "pregunta": "¿Se puede vivir todo el año en un solo contenedor?",
+     "respuesta": "Sí, si lleva aislamiento térmico continuo por el exterior y buena ventilación: el acero por sí solo no aísla, ni de calor ni de frío. Con ese tratamiento, un módulo único cumple las mismas exigencias del CTE que cualquier vivienda convencional y se puede habitar todo el año."
+    },
+    {
+     "pregunta": "¿Cuántas personas caben en una vivienda de un módulo?",
+     "respuesta": "Un contenedor de 40 pies da para un estudio o una vivienda de un dormitorio con baño y cocina-salón, pensada para una o dos personas. Si hacen falta más dormitorios, lo habitual es sumar un segundo o un tercer contenedor."
+    },
+    {
+     "pregunta": "¿Qué tamaño conviene más, 20 o 40 pies?",
+     "respuesta": "El de 20 pies ronda los 13,9 m² interiores y el de 40 los 28,3 m², con el mismo ancho útil de 2,35 m en los dos casos. La mayoría de proyectos elige el 40 pies porque separa cocina, salón y dormitorio en vez de amontonarlo todo."
+    },
+    {
+     "pregunta": "¿Es mejor un contenedor nuevo o uno usado?",
+     "respuesta": "Los dos sirven si la estructura está sana: sin corrosión pasante, sin golpes que deformen el marco y con la placa CSC en regla. Uno nuevo llega con menos desgaste previo; uno usado necesita revisar antes esquinas, soldaduras y suelo."
+    },
+    {
+     "pregunta": "¿Se puede trasladar la vivienda a otra parcela más adelante?",
+     "respuesta": "Es una ventaja frente a la obra tradicional: al no quedar unida al terreno como un edificio de fábrica, la estructura se puede desmontar de sus apoyos y trasladar con la misma grúa y el mismo transporte que se usaron para llevarla la primera vez."
+    }
+   ]
+  }
+ }
 }

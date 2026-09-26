@@ -2186,5 +2186,40 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 2302,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Qué encontrarás en el catálogo de casas contenedores",
+    "html": "<p>El catálogo agrupa los modelos de esta página en un único documento, pensado para comparar antes de pedir presupuesto.</p>\n<ul>\n<li>Índice por número de contenedores (uno a cuatro) y por tamaño, en 20 o 40 pies.</li>\n<li>Usos distintos a la vivienda: oficinas, locales, módulos sanitarios, pérgolas y piscina de contenedor.</li>\n<li>Distribuciones orientativas que se adaptan a cada parcela y orientación.</li>\n</ul>\n<p>Se recibe al rellenar el formulario de esta página. Los precios que figuran en las fichas son orientativos, no un presupuesto cerrado; para uno ajustado a tu terreno usa el <a href=\"/presupuesto-casas-contenedores/\">formulario de presupuesto</a>. Si lo que necesitas es un contenedor marítimo sin transformar, mira el <a href=\"/contenedores-maritimos-catalogo/\">catálogo de contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo usar el catálogo para pedir un presupuesto útil",
+    "html": "<p>Para que el presupuesto sea útil y no solo orientativo, elige primero el modelo del catálogo que más se parezca a lo que buscas y anota qué cambiarías: número de dormitorios, orientación de las ventanas o acabados. Junto a esos cambios, indica el municipio, el tipo de suelo de la parcela, las acometidas disponibles (agua, luz, saneamiento) y el acceso para el transporte. Con esos datos, envía la consulta desde <a href=\"/presupuesto-casas-contenedores/\">presupuesto de casas contenedores</a>.</p>\n<p>Ningún modelo del catálogo se ejecuta igual en todas las parcelas: la cimentación se define según el estudio geotécnico del terreno, los huecos se ajustan a la orientación real, las instalaciones dependen de las acometidas que tenga la parcela y la normativa municipal (consulta los <a href=\"/permisos/\">permisos</a> que aplican) puede condicionar alturas o retranqueos. Los acabados sí se eligen con libertad.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre el catálogo",
+   "items": [
+    {
+     "pregunta": "¿El catálogo es gratuito?",
+     "respuesta": "Sí. Se recibe al rellenar el formulario de esta página, sin coste ni compromiso de compra. Lo usamos para mostrarte modelos y distribuciones orientativas antes de darte un presupuesto ajustado a tu parcela; para ese presupuesto real necesitamos los datos de tu terreno."
+    },
+    {
+     "pregunta": "¿Los precios del catálogo incluyen transporte, cimentación y montaje?",
+     "respuesta": "No lo confirmamos aquí porque varía según cada proyecto: el transporte depende de la distancia y el acceso, la cimentación del estudio geotécnico y el montaje de la complejidad del modelo. La cifra cerrada, con qué incluye y qué no, te la damos en el presupuesto tras valorar tu parcela."
+    },
+    {
+     "pregunta": "¿Puedo mezclar dos modelos?",
+     "respuesta": "Sí, es habitual partir de un modelo del catálogo y combinarlo con elementos de otro: por ejemplo, la distribución de una ficha con la fachada o el número de huecos de otra. Cuéntanoslo al pedir presupuesto y lo revisamos junto a la orientación y la normativa de tu municipio."
+    },
+    {
+     "pregunta": "¿Tenéis catálogo de oficinas, locales o contenedores marítimos?",
+     "respuesta": "Sí. Además de las viviendas, el catálogo incluye oficinas, locales comerciales, módulos sanitarios y pérgolas de contenedor, cada uno con su propia ficha. Si lo que buscas es el contenedor marítimo sin transformar, con sus medidas y variantes, consulta el catálogo de contenedores marítimos y compara antes de decidir."
+    }
+   ]
+  }
+ }
 }

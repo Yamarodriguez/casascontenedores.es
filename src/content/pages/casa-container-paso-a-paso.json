@@ -2801,5 +2801,49 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 785,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Resumen de fases: quién hace qué y qué aportas tú",
+    "html": "<p>Antes de firmar, esta es la secuencia real y quién hace qué:</p><table><thead><tr><th>Fase</th><th>Aportas tú</th><th>Se encarga el equipo</th></tr></thead><tbody><tr><td>Consulta previa</td><td>Nota simple o referencia catastral</td><td>Viabilidad urbanística</td></tr><tr><td>Anteproyecto</td><td>Programa de necesidades</td><td>Bocetos y anteproyecto</td></tr><tr><td>Proyecto básico y licencia</td><td>Documentación del terreno</td><td>Proyecto visado y trámite de licencia</td></tr><tr><td>Contrato de ejecución</td><td>Firma y calidades</td><td>Planificación de la obra</td></tr><tr><td>Fabricación en taller</td><td>—</td><td>Corte, refuerzo e instalaciones</td></tr><tr><td>Cimentación y acometidas</td><td>Acceso al terreno</td><td>Cimentación y acometidas</td></tr><tr><td>Transporte y grúa</td><td>Despejar accesos</td><td>Transporte e izado</td></tr><tr><td>Montaje en parcela</td><td>—</td><td>Ensamblaje y anclaje</td></tr><tr><td>Final de obra</td><td>—</td><td>Certificado y boletines</td></tr><tr><td>Primera ocupación</td><td>Trámite municipal o autonómico</td><td>Documentación técnica</td></tr></tbody></table><p>El detalle de cada trámite está en <a href=\"/permisos/\">permisos de casas contenedores</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo se preparan los contenedores en taller",
+    "html": "<p>Antes de llegar a tu parcela, cada contenedor pasa por un proceso de taller: limpieza y decapado de la pintura original, corte de los huecos de puertas y ventanas con refuerzo de perfiles en los bordes, e imprimación anticorrosiva. El suelo original, un contrachapado con tratamientos químicos, se trata o se sustituye antes de forrarlo.</p><p>Después se coloca el aislamiento, se deja una cámara técnica para las instalaciones, se monta el trasdosado interior, las carpinterías y el cableado o la fontanería, y se aplican los acabados. Trabajar en taller, bajo cubierta y con maquinaria fija, da más control sobre cada partida y evita los parones que provoca el clima en una obra a la intemperie.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cimentación, anclaje, grúa y entrega",
+    "html": "<p>El apoyo depende del estudio geotécnico: cantoneras, losa continua o pilotes. Los módulos se nivelan y se fijan con twist-lock o placas soldadas, con anclaje al viento y ventilación bajo la estructura.</p><p>Antes de la grúa, revisa en la parcela:</p><ul><li>Anchura de acceso y radio de giro</li><li>Pendiente del terreno</li><li>Tendidos cercanos al recorrido</li><li>Espacio para los estabilizadores</li><li>Ocupación de vía pública</li><li>Meteorología prevista para el izado</li></ul><p>Amplía estos requisitos en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>. En la entrega, revisa estanqueidad, instalaciones, certificado final, boletines, certificado energético, manual de mantenimiento y las garantías de la LOE.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre la construcción paso a paso",
+   "items": [
+    {
+     "pregunta": "¿Puedo construir yo mismo mi casa contenedor?",
+     "respuesta": "Puedes encargarte de tareas puntuales, pero la estructura, las instalaciones y el anclaje debe ejecutarlos personal cualificado bajo la dirección de un arquitecto: forman parte del proyecto visado. Hacerlo por tu cuenta pone en riesgo la garantía LOE y el certificado final de obra."
+    },
+    {
+     "pregunta": "¿Se fabrica entera en taller y luego se lleva?",
+     "respuesta": "La mayor parte del trabajo, huecos, aislamiento, instalaciones y acabados, se hace en taller, donde hay más control sobre cada partida. En la parcela solo quedan la cimentación, el anclaje, las acometidas y las uniones entre módulos, además de los últimos remates según el terreno."
+    },
+    {
+     "pregunta": "¿Qué pasa si mi terreno tiene pendiente?",
+     "respuesta": "Un terreno con pendiente exige más trabajo de cimentación y puede necesitar pilotes o muros de contención, según lo que diga el estudio geotécnico. También condiciona el acceso de la grúa y del camión, así que conviene revisarlo antes de cerrar el proyecto."
+    },
+    {
+     "pregunta": "¿Cuánto pesa un contenedor vacío?",
+     "respuesta": "Cada contenedor lleva su tara grabada en la placa CSC de la unidad, junto al peso máximo bruto autorizado. Varía según el fabricante y el estado del contenedor, así que conviene comprobarlo en la placa de tu unidad. Más datos en <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>."
+    },
+    {
+     "pregunta": "¿Se puede trasladar la casa más adelante?",
+     "respuesta": "Una vivienda temporal, sin cimentación fija, se puede desanclar y trasladar con el mismo transporte y grúa que la llevó a la parcela. Una construcción permanente, con cimentación y licencia, no está pensada para moverse: implicaría una nueva licencia y un nuevo proyecto en el destino."
+    }
+   ]
+  }
+ }
 }

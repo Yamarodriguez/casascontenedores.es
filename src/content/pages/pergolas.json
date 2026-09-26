@@ -2773,5 +2773,40 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 3567,
- "huecoTitulo": true
+ "huecoTitulo": true,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Pérgolas y porches para casas contenedor",
+    "html": "<p>Antes de elegir el modelo conviene tener claro para qué sirve realmente una pérgola junto a una construcción con contenedores marítimos:</p><ul><li><strong>Protege la chapa del sol directo</strong>: la sombra reduce el calentamiento de la superficie metálica y amplía el uso del exterior en las horas de más calor.</li><li><strong>Une módulos separados</strong>: cuando el proyecto combina dos o más contenedores con un hueco entre ellos, esta cubierta une ese paso y lo convierte en porche o zona de estar.</li><li><strong>Usos habituales</strong>: terraza de un <a href=\"/bar-contenedor/\">bar contenedor</a>, zona de mesas al aire libre, aparcamiento cubierto, pasillo entre módulos o cubierta sobre una <a href=\"/piscina-contenedor/\">piscina contenedor</a>.</li><li><strong>Materiales</strong>: madera, aluminio, estructura metálica a juego con el contenedor, modelo bioclimático con lamas orientables o toldo textil.</li><li><strong>Montaje</strong>: adosada a la fachada del contenedor o exenta, sobre sus propios pies derechos, según el espacio y el uso que le vayas a dar.</li></ul>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Anclaje, licencias y mantenimiento",
+    "html": "<p>La estructura se fija a las <strong>cantoneras del contenedor</strong> o a una cimentación independiente, como zapatas o una losa ligera, calculada para resistir el empuje del viento; nunca conviene apoyarla solo sobre la chapa lateral. La cubierta necesita además una pendiente mínima y bajantes que evacúen el agua de lluvia sin verterla sobre el contenedor.</p><p>En la mayoría de municipios, instalar un elemento abierto de este tipo se tramita como <strong>obra menor</strong>, con una declaración responsable y sin necesidad de proyecto visado. La situación cambia si más adelante decides cerrarla con paredes o cristaleras: en ese caso puede computar como superficie edificada y pedir <a href=\"/permisos/\">el mismo trámite que una ampliación de vivienda</a>. Si el contenedor está en una parcela sujeta a régimen de comunidad de propietarios, conviene contar también con su aprobación antes de instalarla.</p><p>El mantenimiento depende del material: la madera necesita tratamiento periódico frente a la humedad, el aluminio y la estructura metálica apenas requieren cuidados salvo revisar la pintura o el galvanizado en zonas costeras, y los toldos textiles se sustituyen cuando pierden tensión o color.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre pérgolas",
+   "items": [
+    {
+     "pregunta": "¿Necesito licencia para una pérgola?",
+     "respuesta": "Sí, aunque en la mayoría de municipios basta con una declaración responsable u obra menor cuando queda abierta y no se apoya en muros de carga. El trámite exacto depende del ayuntamiento y de si tu parcela tiene alguna protección especial, así que conviene consultarlo antes de comprar los materiales. Puedes ampliar en la página de <a href=\"/permisos/\">permisos</a>."
+    },
+    {
+     "pregunta": "¿Se puede anclar directamente al contenedor?",
+     "respuesta": "Se puede fijar a las cantoneras, los puntos reforzados de las esquinas pensados para soportar cargas, pero no conviene atornillarla sobre la chapa lateral: perdería rigidez y facilitaría la entrada de agua. En las de mayor tamaño o exentas suele ser mejor una cimentación propia junto al contenedor, calculada aparte."
+    },
+    {
+     "pregunta": "¿Qué material aguanta mejor junto al mar?",
+     "respuesta": "El aluminio y el acero galvanizado o pintado con protección anticorrosiva resisten mejor el ambiente salino que el acero sin tratar, que se oxida con más facilidad cerca de la costa. La madera también funciona si le das un mantenimiento periódico. La elección final depende del estilo que busques y del cuidado que quieras dedicarle."
+    },
+    {
+     "pregunta": "¿Se puede cerrar y convertir en estancia?",
+     "respuesta": "Sí, pero entonces deja de ser una pérgola y pasa a tratarse como una ampliación de la vivienda: debe cumplir el Código Técnico de la Edificación y tramitar el permiso correspondiente en tu ayuntamiento, igual que cualquier otra superficie habitable nueva. Antes de cerrarla, conviene revisar qué encaje tiene en tu parcela."
+    }
+   ]
+  }
+ }
 }
