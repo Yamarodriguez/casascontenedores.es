@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Zamora?",
-    "html": "<p>Sí. Colocarlo de forma permanente exige al menos declaración responsable o <strong>licencia de obra menor</strong> del Ayuntamiento de Zamora, sobre el documento refundido del Plan General de 2011 y conforme a la Ley 5/1999 de Urbanismo de Castilla y León. En suelo rústico común, una vivienda o un módulo permanente necesita además autorización de uso excepcional, y en el casco antiguo se suma el Plan Especial del Casco Histórico. Revisa los <a href=\"/permisos/\">permisos para construir con contenedores</a> antes de comprar.</p>"
+    "html": "<p>Sí. Colocarlo de forma permanente exige al menos declaración responsable o <strong>licencia de obra menor</strong> del Ayuntamiento de Zamora, conforme a la Ley 5/1999 de Urbanismo de Castilla y León y a su Reglamento, aprobado por el Decreto 22/2004; el propio Ayuntamiento tramita además modificaciones que devuelven a rústico parte del suelo urbanizable de la periferia.</p><p>En suelo rústico común, una vivienda o un módulo permanente necesita además autorización de uso excepcional, y en el casco antiguo se suma el <strong>Plan Especial del Casco Histórico</strong>. Revisa los <a href=\"/permisos/\">permisos para construir con contenedores</a> antes de comprar.</p>"
    },
    {
     "nivel": "h3",
@@ -30,7 +30,7 @@
    {
     "nivel": "h2",
     "titulo": "Contenedores marítimos en Zamora: cómo trabajamos y desde dónde llegan",
-    "html": "<p>No tenemos depósito propio en Zamora: trabajamos como zona de servicio, con transporte y descarga incluidos en el presupuesto puesto en destino. Zamora no tiene puerto marítimo: el nodo de referencia para los <strong>contenedores marítimos en Zamora</strong> es la Plataforma Logística Intermodal de Salamanca, en el Corredor Atlántico y la red europea TEN-T; el contenedor llega por carretera por la A-66, la A-62 hacia Salamanca y Valladolid, o la A-11 hacia Portugal.</p>"
+    "html": "<p>Zamora no tiene puerto marítimo ni depósito propio de contenedores en la ciudad: trabajamos la zona como servicio, calculando transporte y descarga dentro del presupuesto puesto en destino. El nodo de referencia para los <strong>contenedores marítimos en Zamora</strong> es la Plataforma Logística Intermodal de Salamanca, dentro del Corredor Atlántico y de la red europea TEN-T; desde allí, el contenedor llega por carretera a través de la Ruta de la Plata y del eje del Duero hacia Salamanca, Valladolid o Portugal.</p>"
    },
    {
     "nivel": "h3",
@@ -40,12 +40,12 @@
    {
     "nivel": "h2",
     "titulo": "Usos habituales de los contenedores en Zamora y su comarca",
-    "html": "<p>La economía de Zamora reparte el uso del contenedor marítimo:</p><ul><li>Agricultura de secano en la zona oriental: almacén agrícola o caseta de riego.</li><li>Ganadería extensiva en la zona occidental: módulo para explotaciones ganaderas.</li><li>Alfoz con caminos de concentración parcelaria: almacén de aperos.</li></ul><p>La <strong>zona climática D2</strong> de la capital, que en municipios de mayor altitud sube a E1, trae inviernos fríos con heladas frecuentes y veranos secos: el aislamiento térmico y evitar el puente térmico en el acero son la exigencia principal.</p>"
+    "html": "<p>El secano oriental y la ganadería extensiva del oeste marcan la demanda de contenedores en la provincia:</p><ul><li>Agricultura de secano en la zona oriental: almacén agrícola o caseta de riego.</li><li>Ganadería extensiva en la zona occidental: módulo para explotaciones ganaderas.</li><li>Alfoz con caminos de concentración parcelaria: almacén de aperos.</li></ul><p>La <strong>zona climática D2</strong> de la capital, que en municipios de mayor altitud sube a E1, trae inviernos fríos con heladas frecuentes y veranos secos: el aislamiento térmico y evitar el puente térmico en el acero son la exigencia principal.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Qué contenedor conviene para un almacén agrícola en el secano de Zamora?",
-    "html": "<p>Para un almacén de aperos suele bastar un contenedor de 20 pies, con unos 13,9 m² interiores; si necesitas guardar maquinaria, el <strong>contenedor de 40 pies</strong>, con unos 28,3 m² interiores, aprovecha mejor la parcela.</p>"
+    "html": "<p>Un contenedor de 20 pies, con unos 13,9 m² interiores, resuelve el almacén de aperos de una explotación agrícola; si hay que guardar maquinaria de mayor tamaño, el <strong>contenedor de 40 pies</strong>, con unos 28,3 m² interiores, aprovecha mejor la parcela.</p>"
    },
    {
     "nivel": "h2",
@@ -58,19 +58,19 @@
    "items": [
     {
      "pregunta": "¿Entregáis contenedores marítimos en toda la provincia de Zamora?",
-     "respuesta": "Sí. Cubrimos la capital, el alfoz y el resto de la provincia, además de Salamanca, Valladolid y León. El transporte y la descarga se calculan desde el depósito más cercano y van incluidos en el <strong>presupuesto puesto en destino</strong>."
+     "respuesta": "Sí, atendemos toda la provincia, capital y alfoz, además de Salamanca, Valladolid y León. No contamos con depósito propio en la zona, así que el transporte se organiza desde el origen que resulte más práctico y su coste queda incluido en el <strong>presupuesto puesto en destino</strong>."
     },
     {
      "pregunta": "¿Desde dónde llega el contenedor marítimo hasta Zamora si no hay puerto cerca?",
-     "respuesta": "Desde la Plataforma Logística Intermodal de Salamanca, dentro del Corredor Atlántico, y por carretera hasta tu parcela: la A-66, la A-62 y la A-11 conectan Zamora con Salamanca, Valladolid y Portugal, y el transporte va incluido en el presupuesto puesto en destino."
+     "respuesta": "Desde la Plataforma Logística Intermodal de Salamanca, dentro del Corredor Atlántico, y por carretera hasta tu parcela a través de la Ruta de la Plata y del eje del Duero; el transporte y la descarga quedan siempre reflejados en el presupuesto final."
     },
     {
      "pregunta": "¿Aguanta un contenedor marítimo el frío y las heladas de Zamora?",
-     "respuesta": "El acero resiste bien el frío, pero las heladas frecuentes del invierno zamorano exigen un buen aislamiento térmico y apoyos nivelados que no se muevan con el hielo, sobre todo en los municipios de mayor altitud de la provincia y en la zona occidental."
+     "respuesta": "El acero resiste bien el frío, pero las heladas frecuentes del invierno zamorano exigen un buen aislamiento térmico y apoyos nivelados que no se muevan con el hielo, sobre todo en los municipios de mayor altitud y en la zona occidental de la provincia."
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Zamora?",
-     "respuesta": "Sí, además de vender y alquilar contenedores marítimos, diseñamos y construimos <a href=\"/zamora/\">casas hechas con contenedores en Zamora</a> y en su alfoz, acompañando todo el proceso desde el estudio de la parcela y la normativa municipal hasta la entrega llave en mano."
+     "respuesta": "Sí. En Zamora y su alfoz combinamos la venta y el alquiler de contenedores marítimos con el diseño de <strong>casas contenedor</strong> completas, acompañando el estudio de la parcela y la normativa municipal hasta la entrega llave en mano. Descúbrelo en <a href=\"/zamora/\">casas hechas con contenedores en Zamora</a>."
     }
    ]
   }

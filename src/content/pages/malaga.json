@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "Construir una casa contenedor en Málaga: licencia y suelo según la LISTA",
-    "html": "<p>En Málaga, cualquier vivienda nueva —también la levantada con contenedores marítimos— necesita <strong>licencia de obra mayor</strong> del Ayuntamiento y un proyecto conforme a la Ley 7/2021, de impulso para la sostenibilidad del territorio de Andalucía (LISTA). El planeamiento vigente sigue siendo el PGOU de 2011, mientras la Gerencia Municipal de Urbanismo prepara el nuevo Plan General adaptado a la LISTA. El suelo urbano consolidado de Churriana, Puerto de la Torre o la zona este es el escenario más realista para una vivienda contenedor; los polígonos del Guadalhorce admiten además oficinas y módulos de hostelería. Consulta la calificación de tu parcela en <a href=\"/permisos/\">permisos y licencias para casas contenedores</a>.</p>"
+    "html": "<p>En Málaga, cualquier construcción residencial nueva —también la que se levanta con contenedores marítimos— necesita <strong>licencia de obra mayor</strong> del Ayuntamiento y un proyecto que cumpla la Ley 7/2021, de impulso para la sostenibilidad del territorio de Andalucía (LISTA). El planeamiento vigente sigue siendo el PGOU de 2011, mientras la Gerencia Municipal de Urbanismo redacta el nuevo Plan General adaptado a la LISTA. El suelo urbano consolidado de Churriana, Puerto de la Torre o la zona este resulta el escenario más realista para una parcela unifamiliar; los polígonos del Guadalhorce admiten además oficinas y módulos de hostelería. Antes de comprar, consulta qué licencia necesitas en <a href=\"/permisos/\">permisos y licencias antes de construir</a>.</p>"
    },
    {
     "nivel": "h3",
@@ -29,33 +29,33 @@
    },
    {
     "nivel": "h3",
-    "titulo": "¿Puedo poner una casa contenedor en los Montes de Málaga?",
-    "html": "<p>No como vivienda aislada: los Montes de Málaga son Parque Natural y suelo rústico protegido por la LISTA, con usos muy limitados. El litoral suma además la servidumbre de la Ley de Costas y el riesgo de inundación de los arroyos torrenciales, así que conviene pedir la calificación urbanística antes de comprar parcela.</p>"
+    "titulo": "¿Se puede construir en los Montes de Málaga?",
+    "html": "<p>No como construcción residencial aislada: los Montes de Málaga son Parque Natural y suelo rústico protegido por la LISTA, con usos muy limitados. El litoral suma además la servidumbre de la <strong>Ley de Costas</strong> y el riesgo de inundación de los arroyos torrenciales, así que conviene pedir la calificación urbanística antes de comprar parcela.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Clima mediterráneo y aislamiento de la casa contenedor en Málaga",
-    "html": "<p>Málaga capital está en zona climática A3 del Código Técnico de la Edificación (CTE DB-HE). El salitre de la costa pide un <strong>tratamiento anticorrosivo</strong> reforzado en cantoneras y en cualquier hueco abierto en la chapa; el terral cálido de verano pide ventilación cruzada, y las lluvias torrenciales de otoño exigen resolver bien la cubierta en las parcelas de ladera de los Montes.</p>"
+    "titulo": "Clima mediterráneo de Málaga: qué exige a la estructura del contenedor",
+    "html": "<p>Málaga capital está en zona climática A3 del Código Técnico de la Edificación (CTE DB-HE). El salitre de la costa acelera la corrosión en las cantoneras, los puntos de carga estructural del contenedor, así que conviene un <strong>tratamiento anticorrosivo</strong> reforzado antes de cortar cualquier hueco en la chapa; el terral cálido de verano pide ventilación cruzada, y las lluvias torrenciales de otoño exigen resolver bien la cubierta en las parcelas de ladera de los Montes.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Cómo llega el contenedor a tu parcela en Málaga",
-    "html": "<p>El contenedor suele entrar por el Puerto de Málaga, con muelle polivalente de contenedores y vehículos, o desde la Bahía de Algeciras, el nodo de contenedores de referencia del sur peninsular; el acceso se resuelve por la A-7, la A-45 o la ronda MA-20. El centro histórico está sujeto a Zona de Bajas Emisiones, así que conviene comprobar el perímetro vigente antes de programar la góndola. Trabajamos en toda la provincia, con <a href=\"/marbella/\">Marbella</a> y <a href=\"/andalucia/\">Andalucía</a> como zona cercana; consulta también <a href=\"/contenedores-maritimos-malaga/\">contenedores marítimos en Málaga</a>.</p>"
+    "html": "<p>El contenedor suele entrar por el Puerto de Málaga, con muelle polivalente de contenedores y vehículos, o desde la Bahía de Algeciras, el nodo de contenedores de referencia del sur peninsular; el acceso se resuelve por la A-7, la A-45 o la ronda MA-20. El centro histórico está sujeto a <strong>Zona de Bajas Emisiones</strong>, así que conviene comprobar el perímetro vigente antes de programar la góndola. Trabajamos en toda la provincia, con <a href=\"/marbella/\">Marbella</a> y <a href=\"/andalucia/\">Andalucía</a> como zona cercana; consulta también <a href=\"/contenedores-maritimos-malaga/\">contenedores marítimos en Málaga</a>.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre casas contenedores en Málaga",
    "items": [
     {
-     "pregunta": "¿Es legal vivir en una casa contenedor en Málaga?",
-     "respuesta": "Sí, siempre que la construcción tenga <strong>licencia de obra mayor</strong> del Ayuntamiento de Málaga y un proyecto de arquitecto que cumpla la LISTA y el Código Técnico de la Edificación, igual que una vivienda tradicional. Al terminar la obra, la ocupación se acredita con una declaración responsable municipal, no con una cédula de habitabilidad autonómica."
+     "pregunta": "¿Qué usos auxiliares con contenedores son más habituales en Málaga?",
+     "respuesta": "Además de vivienda, en Málaga son frecuentes los chiringuitos y módulos de hostelería en la costa, las oficinas modulares para empresas del Parque Tecnológico de Andalucía en Campanillas, el alojamiento turístico modular y las casetas de obra o almacenes en polígonos como el del Guadalhorce. Cada uso tiene su propia <strong>licencia de actividad</strong>, distinta de la licencia de obra de la vivienda."
     },
     {
-     "pregunta": "¿Qué suelo admite una vivienda contenedor en Málaga?",
+     "pregunta": "¿Qué suelo permite este tipo de construcción en Málaga?",
      "respuesta": "El suelo urbano consolidado de barrios como Churriana, Puerto de la Torre o Campanillas es la opción más directa para una parcela unifamiliar. El suelo rústico de los Montes de Málaga y la vega del Guadalhorce está protegido por la LISTA y admite usos muy limitados, así que conviene consultar la calificación urbanística antes de comprar."
     },
     {
-     "pregunta": "¿Aguanta el salitre de la costa una casa contenedor en Málaga?",
+     "pregunta": "¿Aguanta el salitre de la costa malagueña la estructura del contenedor?",
      "respuesta": "Sí, con el tratamiento adecuado. En primera línea de costa, el salitre y la humedad marina aceleran la corrosión de la chapa, así que conviene un <strong>galvanizado reforzado</strong> y una pintura anticorrosiva en cantoneras y huecos, revisando su estado con el mantenimiento periódico de la vivienda."
     },
     {
@@ -63,8 +63,8 @@
      "respuesta": "Habitualmente desde el Puerto de Málaga, que cuenta con muelle polivalente de contenedores y vehículos, o desde la Bahía de Algeciras, el nodo de contenedores de referencia del sur peninsular. Desde ambos, el transporte hasta tu parcela se resuelve por carretera, por la A-7, la A-45 o la ronda MA-20."
     },
     {
-     "pregunta": "¿Vendéis contenedores marítimos en Málaga?",
-     "respuesta": "Sí, trabajamos en toda la provincia con contenedores marítimos para vivienda, almacén u oficina, entregados en tu parcela o en zona industrial, desde nuevos hasta usados en distintos grados. Consulta la ficha de <a href=\"/contenedores-maritimos-malaga/\">contenedores marítimos en Málaga</a> para ver tipos, medidas y condiciones de entrega."
+     "pregunta": "¿También trabajáis con contenedores marítimos en Málaga capital y provincia?",
+     "respuesta": "Sí. Además de tu proyecto de vivienda llave en mano, suministramos contenedores marítimos nuevos y usados para almacén, oficina o punto de venta en toda la provincia. Consulta la ficha de <a href=\"/contenedores-maritimos-malaga/\">contenedores marítimos en Málaga</a> para ver tipos, medidas y grados de segunda mano disponibles."
     }
    ]
   }

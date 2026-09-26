@@ -2527,5 +2527,61 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 8330,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Casas contenedores Zamora: licencia y suelo según la Ley 5/1999"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Hace falta licencia de obra mayor para una casa contenedor en Zamora?",
+    "html": "<p>Sí: el Ayuntamiento de Zamora exige <strong>licencia de obra mayor</strong> con proyecto de arquitecto visado, según la Ley 5/1999 de Urbanismo de Castilla y León y su Reglamento (Decreto 22/2004). La región suprimió la cédula de habitabilidad autonómica (Decreto 147/2000), así que la vivienda se acredita al terminar con la licencia municipal de primera ocupación, no con una cédula.</p><p>El suelo se reparte en urbano, urbanizable y rústico: predomina el urbano en la ciudad y el rústico en el alfoz, mientras el urbanizable se reduce con las últimas modificaciones del planeamiento. Lo habitual es una parcela urbana en un barrio periférico o en un pueblo del alfoz; en rústico común, una vivienda aislada solo cabe con <strong>autorización de uso excepcional</strong>, así que conviene consultar antes de comprar.</p><p>El casco antiguo es <strong>Conjunto Histórico-Artístico</strong> desde 1973, con su propio Plan Especial, y junto al Duero y al Valderaduey hay tramos inundables que también condicionan el proyecto. La página de <a href=\"/permisos/\">permisos para casas contenedores</a> repasa toda la tramitación.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "El clima de Zamora y el aislamiento de tu casa contenedor"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Aguanta una casa contenedor los inviernos de Zamora?",
+    "html": "<p>Sí, si el aislamiento está bien resuelto: Zamora capital es zona climática D2 (Anejo B del DB-HE), con inviernos fríos y heladas frecuentes y veranos secos; solo los municipios de mayor altitud suben a E1. En una estructura de acero la prioridad es la <strong>rotura de puente térmico</strong>, porque el metal transmite el frío mucho más rápido que un muro de fábrica, y sin ese corte la condensación aparece antes junto a las cantoneras.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo llega el contenedor marítimo hasta tu parcela en Zamora"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puede entrar un camión con contenedor en el casco histórico de Zamora?",
+    "html": "<p>Con dificultad: el trazado medieval del Conjunto Histórico tiene calles estrechas donde un camión articulado o una góndola para un <strong>contenedor High Cube</strong> no siempre caben, así que conviene resolver antes el acceso y la descarga con la grúa.</p><p>Zamora no tiene puerto marítimo: el nodo de referencia es la <strong>plataforma logística intermodal</strong> de Salamanca (Zaldesa), en el Corredor Atlántico; desde allí el transporte llega por la A-66, la A-62 o la A-11/N-122. Revisa las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a>, el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> y los <a href=\"/contenedores-maritimos-zamora/\">contenedores marítimos en Zamora</a>.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Zamora",
+   "items": [
+    {
+     "pregunta": "¿Puedo instalar una casa contenedor en suelo rústico de Castilla y León?",
+     "respuesta": "Solo con una autorización de uso excepcional, ya que la Ley 5/1999 de Urbanismo de Castilla y León protege el suelo rústico frente a la vivienda unifamiliar aislada. El Ayuntamiento de Zamora valora cada caso según el planeamiento vigente, así que conviene pedir la consulta urbanística antes de comprar la parcela o el contenedor."
+    },
+    {
+     "pregunta": "¿Qué diferencia hay entre cédula de habitabilidad y licencia de primera ocupación en Zamora?",
+     "respuesta": "Castilla y León suprimió la cédula de habitabilidad autonómica con el Decreto 147/2000, así que en Zamora no se pide. Su función la cumple la licencia municipal de primera ocupación o utilización, que otorga el Ayuntamiento cuando la obra termina conforme al proyecto y a la licencia de obra concedida."
+    },
+    {
+     "pregunta": "¿Desde qué puerto o depósito llega el contenedor marítimo hasta Zamora?",
+     "respuesta": "Zamora no tiene puerto marítimo propio: el nodo de referencia es la Plataforma Logística Intermodal de Salamanca (Zaldesa), dentro del Corredor Atlántico. Desde allí el transporte llega por carretera, normalmente por la A-66, la A-62 o la A-11, según el punto de origen y el acceso de tu parcela."
+    },
+    {
+     "pregunta": "¿Hay zonas de Zamora con protección especial para construir?",
+     "respuesta": "Sí. El casco antiguo es Conjunto Histórico-Artístico desde 1973 y tiene su propio Plan Especial, con control adicional de la Junta de Castilla y León. Junto al Duero y al Valderaduey también hay tramos con riesgo de inundación, algo que el proyecto debe tener en cuenta desde el principio."
+    },
+    {
+     "pregunta": "¿Vendéis o hacéis casas contenedor también en Salamanca y Valladolid?",
+     "respuesta": "Sí: además de Zamora capital trabajamos en toda la provincia y en provincias vecinas como Salamanca y Valladolid, donde también entregamos contenedores marítimos para vivienda. La zona de servicio cubre la capital, el alfoz y los municipios cercanos del entorno rural."
+    }
+   ]
+  }
+ }
 }

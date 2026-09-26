@@ -30,7 +30,7 @@
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Barcelona?",
-    "html": "<p>Sí, instalar un contenedor es al menos una actuación sujeta a comunicació prèvia o <strong>llicència d'obra menor</strong> del Ayuntamiento de Barcelona, con más exigencias cuanto más permanente sea el uso. El Text refós de la Llei d'urbanisme de Catalunya (Decret Legislatiu 1/2010) es la norma de referencia, y el planeamiento vigente sigue siendo el Pla General Metropolità de 1976, aunque el nuevo Pla Director Urbanístic Metropolità está en tramitación para sustituirlo.</p><p>En Ciutat Vella y en cascos antiguos como Gràcia, Sarrià o Sants, con calles estrechas y catálogos de protección patrimonial, y en el frente litoral protegido por la Ley de Costas, colocar cualquier módulo tiene más restricciones.</p><p>Consulta los <a href=\"/permisos/\">permisos para instalar un contenedor marítimo</a> antes de comprar la parcela.</p>"
+    "html": "<p>Sí, instalar un contenedor es al menos una actuación sujeta a comunicació prèvia o <strong>llicència d'obra menor</strong> del Ayuntamiento de Barcelona, con más exigencias cuanto más permanente sea el uso. El Text refós de la Llei d'urbanisme de Catalunya (Decret Legislatiu 1/2010) es la norma de referencia, y Barcelona conserva el Pla General Metropolità como marco vigente, aunque el nuevo Pla Director Urbanístic Metropolità está en tramitación para sustituirlo.</p><p>En Ciutat Vella y en cascos antiguos como Gràcia, Sarrià o Sants, con calles estrechas y catálogos de protección patrimonial, y en el frente litoral protegido por la Ley de Costas, colocar cualquier módulo tiene más restricciones.</p><p>Consulta los <a href=\"/permisos/\">permisos para instalar un contenedor marítimo</a> antes de comprar la parcela.</p>"
    },
    {
     "nivel": "h3",
@@ -40,7 +40,7 @@
    {
     "nivel": "h2",
     "titulo": "De dónde llegan los contenedores a Barcelona",
-    "html": "<p>El <strong>Port de Barcelona</strong> cuenta con terminales de contenedores propias, como Hutchison Ports BEST y APM Terminals Barcelona, así que buena parte de la carga que llega a la ciudad sale directamente de ahí. El transporte hasta tu parcela circula por las Rondes (B-10 Litoral), la A-2, la AP-7 y la C-32, con la descarga y el presupuesto puesto en destino ya incluidos.</p><p>El interior de las Rondes B-10 y B-20 es Zona de Bajas Emisiones, así que el vehículo de transporte necesita el distintivo ambiental correspondiente en días laborables.</p>"
+    "html": "<p>El <strong>Port de Barcelona</strong> cuenta con terminales de contenedores propias, como Hutchison Ports BEST y APM Terminals Barcelona, así que buena parte de la carga que llega a la ciudad sale directamente de ahí. El transporte hasta tu parcela circula por las rondas litorales y las autopistas de acceso a la ciudad, con la descarga y el presupuesto puesto en destino ya incluidos.</p><p>El interior de las rondas de circunvalación es Zona de Bajas Emisiones, así que el vehículo de transporte necesita el distintivo ambiental correspondiente en días laborables.</p>"
    },
    {
     "nivel": "h2",
@@ -53,7 +53,7 @@
    "items": [
     {
      "pregunta": "¿Tenéis depósito propio en Barcelona?",
-     "respuesta": "No; funcionamos como <strong>zona de servicio</strong>, sin sede ni almacén fijo en la ciudad. El contenedor sale del punto de almacenaje más cercano al puerto y llega hasta tu parcela con el transporte y la descarga ya incluidos en el presupuesto."
+     "respuesta": "Barcelona tampoco cuenta con almacén propio: la ciudad funciona como <strong>zona de servicio</strong> y la unidad procede del depósito más próximo al puerto. El transporte, la descarga y el presupuesto puesto en destino ya están incluidos en la oferta, sin que el plazo dependa de un stock guardado en la capital."
     },
     {
      "pregunta": "¿Aguanta un contenedor marítimo la humedad de Barcelona?",
@@ -61,7 +61,7 @@
     },
     {
      "pregunta": "¿Puedo alquilar un contenedor marítimo en lugar de comprarlo en Barcelona?",
-     "respuesta": "Sí, ofrecemos alquiler además de venta. Las condiciones de duración, fianza y devolución se ajustan al uso, desde un módulo puntual para un evento o una feria hasta una instalación permanente en un polígono de la Zona Franca o el 22@."
+     "respuesta": "Sí, el alquiler es una opción frente a la compra en Barcelona. El contrato adapta duración, fianza y devolución al uso real: no pesa igual un módulo puntual para un evento o una feria que una instalación permanente en la Zona Franca o el 22@."
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Barcelona?",

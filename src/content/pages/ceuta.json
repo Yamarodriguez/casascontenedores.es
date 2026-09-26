@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "Construir una casa contenedor en Ceuta: licencias y suelo disponible",
-    "html": "<p>Ceuta no tiene ley del suelo propia: rige la legislación estatal (Real Decreto Legislativo 7/2015) y el Plan General de Ordenación Urbana de 1992, con la revisión parcial del Ministerio en la Orden TMA/840/2023. Toda construcción nueva necesita <strong>licencia de obra mayor</strong>, y el suelo urbano es tan escaso que lo habitual no es una parcela nueva, sino ampliar una vivienda o un local ya construido, o levantar un módulo auxiliar comercial o portuario.</p>"
+    "html": "<p>Ceuta no tiene ley del suelo propia: rige la legislación estatal (Real Decreto Legislativo 7/2015) y su Plan General de Ordenación Urbana histórico, con la revisión parcial del Ministerio aprobada mediante la Orden TMA/840/2023. Toda construcción nueva necesita <strong>licencia de obra mayor</strong>, y el suelo urbano es tan escaso que lo habitual no es una parcela nueva, sino ampliar una vivienda o un local ya construido, o levantar un módulo auxiliar comercial o portuario.</p>"
    },
    {
     "nivel": "h3",
@@ -35,7 +35,7 @@
    {
     "nivel": "h3",
     "titulo": "¿Resiste el salitre del Estrecho una vivienda de acero en Ceuta?",
-    "html": "<p>El punto débil está en los cortes y soldaduras de la chapa, donde el salitre y la humedad atacan antes que en el resto de la superficie. En Ceuta conviene sumar una capa de <strong>pintura epoxi anticorrosiva</strong> y revisar las juntas con más frecuencia que en el interior, porque el viento de levante y poniente arrastra humedad marina todo el año.</p>"
+    "html": "<p>Sí, siempre que se trate la chapa antes de instalarla: el doble viento del Estrecho, de levante y de poniente, mantiene el aire cargado de humedad marina todo el año, algo más agresivo para el acero que una brisa costera puntual. La solución pasa por una <strong>imprimación anticorrosiva</strong> previa al montaje, con un repaso periódico en los puntos donde se hayan abierto huecos nuevos para ventanas o puertas.</p>"
    },
    {
     "nivel": "h2",
@@ -53,7 +53,7 @@
    "items": [
     {
      "pregunta": "¿Qué licencia pide el Ayuntamiento de Ceuta para construir con contenedores?",
-     "respuesta": "Licencia de obra mayor, con proyecto de arquitecto según la LOE y el Código Técnico de la Edificación, sobre el Plan General de Ordenación Urbana de 1992 y su revisión aprobada en parte por la Orden TMA/840/2023. Antes de comprar parcela conviene pedir la consulta urbanística al Ayuntamiento, para confirmar qué admite cada solar."
+     "respuesta": "Licencia de obra mayor, con proyecto de arquitecto según la LOE y el Código Técnico de la Edificación, sobre el Plan General de Ordenación Urbana vigente y su revisión aprobada en parte por la Orden TMA/840/2023. Antes de comprar parcela conviene pedir la consulta urbanística al Ayuntamiento, para confirmar qué admite cada solar."
     },
     {
      "pregunta": "¿Hay protecciones especiales en Ceuta que limiten la construcción?",

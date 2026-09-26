@@ -20,38 +20,43 @@
    {
     "nivel": "h2",
     "titulo": "Casas contenedores en Álava: licencia y proyecto de arquitecto",
-    "html": "<p>En Álava, como en el resto de España, levantar una casa contenedor exige tramitar una <strong>licencia de obra mayor</strong> en el ayuntamiento, con un proyecto firmado por un arquitecto que cumpla la Ley de Ordenación de la Edificación y el Código Técnico de la Edificación, sobre el planeamiento vigente del municipio. Antes de comprar parcela o contenedores, pide la calificación urbanística exacta del terreno; resuelve tus dudas en <a href=\"/permisos/\">permisos y licencias para casas contenedores</a>.</p>"
+    "html": "<p>En Álava, como en el resto de España, levantar una vivienda con contenedores marítimos exige tramitar una <strong>licencia de obra mayor</strong> en el ayuntamiento del municipio alavés donde esté la parcela, con un proyecto firmado por un arquitecto que cumpla la Ley de Ordenación de la Edificación y el Código Técnico de la Edificación, sobre el planeamiento urbanístico vigente. Antes de comprar parcela o módulos, pide la calificación urbanística exacta del terreno; resuelve tus dudas en <a href=\"/permisos/\">permisos y licencias de construcción</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Necesito licencia de obra mayor para una casa contenedor en Álava?",
-    "html": "<p>Sí: cualquier vivienda nueva, también la construida con contenedores marítimos, necesita licencia de obra mayor y un proyecto de arquitecto visado. El trámite se resuelve en el ayuntamiento del municipio alavés donde esté la parcela, y su duración depende del planeamiento local vigente.</p>"
+    "titulo": "¿Necesito licencia de obra mayor para construir con contenedores en Álava?",
+    "html": "<p>Sí: cualquier vivienda nueva, también la que se construye con contenedores marítimos, necesita licencia de obra mayor y un proyecto de arquitecto visado. El trámite se resuelve en el ayuntamiento del municipio alavés donde esté la parcela, y su alcance depende del planeamiento urbanístico local vigente.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "El clima del interior vasco y el aislamiento de la casa contenedor",
-    "html": "<p>El interior de Álava tiene un clima más continental que el litoral cantábrico, con inviernos fríos y veranos suaves. Una casa contenedor bien proyectada resuelve esto con <strong>aislamiento continuo por el exterior</strong>, que evita el puente térmico de las cantoneras metálicas, cubierta ventilada frente a la lluvia y ventilación cruzada en los días más templados.</p>"
+    "titulo": "El clima del interior vasco y el aislamiento de la vivienda modular",
+    "html": "<p>El interior de Álava tiene un clima más continental que el litoral cantábrico, con inviernos fríos y veranos suaves. Un proyecto bien resuelto combina aislamiento por el exterior de las cantoneras metálicas, para evitar el puente térmico, con cubierta ventilada frente a la lluvia y ventilación cruzada en los días más templados.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Por qué necesita aislamiento continuo un contenedor marítimo reconvertido en vivienda?",
+    "html": "<p>Porque el acero conduce el calor mucho más deprisa que un muro tradicional: sin una capa continua de aislamiento por el exterior, las cantoneras metálicas generan <strong>puente térmico</strong> y puntos fríos en invierno.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Transporte del contenedor hasta tu parcela en Álava",
-    "html": "<p>Álava no tiene salida al mar, así que el contenedor llega por carretera desde el puerto de origen. La zona industrial de Júndiz, en Vitoria-Gasteiz, es un nodo logístico habitual de la provincia y facilita la descarga con grúa en parcelas de polígono; en cascos históricos y caminos rurales conviene comprobar antes el espacio de maniobra. Trabajamos en toda la provincia y en las vecinas <a href=\"/vizcaya/\">Vizcaya</a> y <a href=\"/gipuzkoa/\">Gipuzkoa</a>; consulta también la ficha de <a href=\"/contenedores-maritimos-alava/\">contenedores marítimos en Álava</a>.</p>"
+    "html": "<p>Álava no tiene salida al mar, así que el contenedor llega por carretera desde el puerto de origen hasta la provincia. La zona industrial de Júndiz, en Vitoria-Gasteiz, es un nodo logístico habitual para la descarga con grúa en parcelas de polígono; en cascos históricos y caminos rurales conviene comprobar antes el espacio de maniobra del camión. Trabajamos en toda la provincia y en las vecinas <a href=\"/vizcaya/\">Vizcaya</a> y <a href=\"/gipuzkoa/\">Gipuzkoa</a>; consulta también la ficha de <a href=\"/contenedores-maritimos-alava/\">contenedores marítimos en Álava</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Cuánto mide un contenedor marítimo de 40 pies para una casa?",
-    "html": "<p>Un contenedor de 40 pies mide 12,19 x 2,44 x 2,59 m por fuera, con un interior útil de unos 2,35 m de ancho; el High Cube añade altura exterior hasta 2,90 m. Estas <strong>medidas ISO 668</strong> son las mismas en toda España y determinan cuánto camión y espacio de maniobra necesita tu parcela.</p>"
+    "titulo": "¿Cuánto mide un contenedor marítimo de 40 pies para una vivienda?",
+    "html": "<p>Un contenedor de 40 pies mide 12,19 x 2,44 x 2,59 m por fuera, con un interior útil de unos 2,35 m de ancho; la versión High Cube añade altura exterior hasta 2,90 m. Estas <strong>medidas ISO 668</strong> son las mismas en toda España y determinan cuánto camión y espacio de maniobra necesita tu parcela.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre casas contenedores en Álava",
    "items": [
     {
-     "pregunta": "¿Es legal vivir en una casa contenedor en Álava?",
-     "respuesta": "Sí, siempre que la construcción tenga <strong>licencia de obra mayor</strong> del ayuntamiento correspondiente y un proyecto de arquitecto que cumpla el Código Técnico de la Edificación, igual que una vivienda tradicional. Lo que hace ilegal una casa contenedor no es el material, sino levantarla sin licencia o en un suelo donde el planeamiento municipal no admite vivienda."
+     "pregunta": "¿Es legal construir y vivir en una vivienda de contenedores en Álava?",
+     "respuesta": "Sí, siempre que la construcción cuente con <strong>licencia de obra mayor</strong> del ayuntamiento correspondiente y un proyecto de arquitecto que cumpla el Código Técnico de la Edificación, igual que cualquier vivienda tradicional. Lo que hace ilegal una construcción con contenedores no es el material, sino levantarla sin licencia o en un suelo donde el planeamiento no admite vivienda."
     },
     {
-     "pregunta": "¿Puedo poner una casa contenedor en suelo rústico en Álava?",
+     "pregunta": "¿Puedo poner una vivienda modular en suelo rústico en Álava?",
      "respuesta": "Depende del planeamiento de cada municipio alavés: algunos suelos rústicos admiten vivienda familiar aislada bajo condiciones estrictas y otros están protegidos y no permiten construir. Antes de comprar parcela o contenedores, pide al ayuntamiento la calificación urbanística exacta del terreno; es el paso que evita sorpresas al solicitar la licencia."
     },
     {
@@ -59,12 +64,12 @@
      "respuesta": "Cada comunidad autónoma regula de forma distinta cómo se certifica que una vivienda es habitable: en algunas se usa la <strong>cédula de habitabilidad</strong> y en otras la licencia municipal de primera ocupación. Consulta con el ayuntamiento del municipio alavés donde vayas a construir qué documento exige tras el certificado final de obra."
     },
     {
-     "pregunta": "¿Aguanta el clima de Álava una casa contenedor?",
-     "respuesta": "Sí, con el proyecto adecuado. El interior vasco tiene inviernos más fríos que la costa, así que la casa contenedor necesita aislamiento continuo por el exterior, cubierta ventilada y una carpintería con buen aislamiento térmico para mantener el confort sin depender de un espesor concreto de material."
+     "pregunta": "¿Aguanta el clima de Álava una construcción con contenedores marítimos?",
+     "respuesta": "Sí, con el proyecto adecuado. El interior vasco tiene inviernos más fríos que la costa, así que necesita aislamiento por el exterior, cubierta ventilada y una carpintería con buen comportamiento térmico para mantener el confort sin depender de un espesor concreto de material."
     },
     {
      "pregunta": "¿Vendéis contenedores marítimos en Álava?",
-     "respuesta": "Sí, trabajamos en toda la provincia con contenedores marítimos para vivienda, almacén u oficina, entregados en tu parcela o en la zona industrial de Júndiz. Consulta la ficha de <a href=\"/contenedores-maritimos-alava/\">contenedores marítimos en Álava</a> para ver tipos, usos y condiciones de entrega en la provincia."
+     "respuesta": "Sí, trabajamos en toda la provincia con <strong>contenedores marítimos</strong> para vivienda, almacén u oficina, entregados en tu parcela o en la zona industrial de Júndiz. Consulta la ficha de <a href=\"/contenedores-maritimos-alava/\">contenedores marítimos en Álava</a> para ver tipos, usos y condiciones de entrega en la provincia."
     }
    ]
   }

@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "Suelo urbano y licencia para una casa contenedor en Alcalá de Henares",
-    "html": "<p>La <strong>Ley 9/2001 del Suelo</strong> de la Comunidad de Madrid solo reconoce tres clases de suelo: urbano, urbanizable y no urbanizable de protección, y esta última siempre está sometida a un régimen que impide su transformación. El caso habitual en Alcalá de Henares es una parcela urbana en barrio o urbanización, o un módulo de oficina y almacén en los polígonos del corredor del Henares.</p><p>La cédula de habitabilidad fue suprimida en Madrid por el Decreto 111/2018: la vivienda se acredita con la licencia municipal de primera ocupación. El centro histórico, Patrimonio Mundial UNESCO, añade además la protección del Conjunto Histórico. Resuelve tus dudas en <a href=\"/permisos/\">permisos y licencias para casas contenedores</a>.</p>"
+    "html": "<p>La <strong>Ley 9/2001 del Suelo</strong> de la Comunidad de Madrid solo reconoce tres clases de suelo: urbano, urbanizable y no urbanizable de protección, y esta última siempre está sometida a un régimen que impide su transformación. El caso habitual en Alcalá de Henares es una parcela urbana en barrio o urbanización, o un módulo de oficina y almacén en los polígonos del corredor del Henares.</p><p>La cédula de habitabilidad fue suprimida en Madrid por el Decreto 111/2018: la vivienda se acredita con la licencia municipal de primera ocupación. El centro histórico, Patrimonio Mundial UNESCO, añade además la protección del Conjunto Histórico. Resuelve tus dudas en <a href=\"/permisos/\">permisos y licencias de construcción</a>.</p>"
    },
    {
     "nivel": "h3",
@@ -29,26 +29,26 @@
    },
    {
     "nivel": "h2",
-    "titulo": "Clima del corredor del Henares y aislamiento de la casa contenedor",
-    "html": "<p>El Código Técnico sitúa a Alcalá de Henares en <strong>zona climática D3</strong>, la misma que Madrid capital: inviernos fríos y veranos calurosos, con la humedad y las nieblas de fondo de valle que añade la vega del Henares. La casa contenedor necesita aislamiento continuo por el exterior frente al puente térmico de las cantoneras y una cubierta ventilada que module el calor del verano.</p>"
+    "titulo": "Clima del corredor del Henares y aislamiento de la vivienda",
+    "html": "<p>El Código Técnico sitúa a Alcalá de Henares en <strong>zona climática D3</strong>, la misma que Madrid capital: inviernos fríos y veranos calurosos, con la humedad y las nieblas de fondo de valle que añade la vega del Henares. La construcción necesita aislamiento continuo por el exterior frente al puente térmico de las cantoneras y una cubierta ventilada que module el calor del verano.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Transporte hasta Alcalá de Henares: Puerto Seco de Coslada y accesos",
-    "html": "<p>El contenedor llega habitualmente a través del <strong>Puerto Seco de Coslada</strong>, plataforma logística ferroviaria conectada con los puertos de Algeciras, Valencia, Bilbao y Barcelona, en el mismo corredor del Henares; el acceso se completa por la A-2, la R-2 y la M-50. El casco histórico, protegido por la UNESCO, tiene un acceso de grúa muy limitado; los polígonos del corredor cuentan con buen acceso desde la autovía.</p><p>Damos servicio en todo el corredor, con fichas en <a href=\"/coslada/\">Coslada</a> y <a href=\"/torrejon-de-ardoz/\">Torrejón de Ardoz</a>.</p>"
+    "titulo": "Cómo llega el contenedor a tu parcela en Alcalá de Henares",
+    "html": "<p>El contenedor suele llegar a través del <strong>Puerto Seco de Coslada</strong>, la plataforma logística ferroviaria del corredor del Henares que conecta por tren con los puertos de Algeciras, Valencia, Bilbao y Barcelona; desde ahí, el tramo final hasta tu parcela se hace en camión con grúa. El centro histórico, protegido por la UNESCO, tiene un acceso de grúa muy limitado; los polígonos del corredor, en cambio, cuentan con accesos amplios.</p><p>Damos servicio en todo el corredor, con fichas en <a href=\"/coslada/\">Coslada</a> y <a href=\"/torrejon-de-ardoz/\">Torrejón de Ardoz</a>.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Por dónde llega el contenedor marítimo a Alcalá de Henares?",
-    "html": "<p>A través del Puerto Seco de Coslada, la plataforma ferroviaria del corredor del Henares conectada con Algeciras, Valencia, Bilbao y Barcelona. Desde ahí, el trayecto hasta tu parcela se completa en camión por la A-2 o la R-2, con grúa para la descarga final.</p>"
+    "html": "<p>A través del Puerto Seco de Coslada, la plataforma ferroviaria del corredor del Henares conectada por tren con Algeciras, Valencia, Bilbao y Barcelona. Desde esa terminal, el trayecto hasta tu parcela se completa por carretera, con grúa para la descarga final.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre casas contenedores en Alcalá de Henares",
    "items": [
     {
-     "pregunta": "¿Qué documento acredita que mi casa contenedor es habitable en Alcalá de Henares?",
-     "respuesta": "En la Comunidad de Madrid no existe cédula de habitabilidad desde el Decreto 111/2018: la conformidad de tu casa contenedor se acredita con la <strong>licencia de primera ocupación</strong> que expide el ayuntamiento tras el certificado final de obra del arquitecto, el mismo trámite que para una vivienda tradicional."
+     "pregunta": "¿Qué documento acredita que mi vivienda contenedor es habitable en Alcalá de Henares?",
+     "respuesta": "En la Comunidad de Madrid no existe cédula de habitabilidad desde el Decreto 111/2018: la conformidad se acredita con la <strong>licencia de primera ocupación</strong> que expide el ayuntamiento tras el certificado final de obra del arquitecto, el mismo trámite que para una vivienda tradicional."
     },
     {
      "pregunta": "¿Hay protecciones patrimoniales que afecten a una parcela en Alcalá de Henares?",
@@ -56,11 +56,11 @@
     },
     {
      "pregunta": "¿Puedo instalar un módulo de oficina o almacén con contenedores en el corredor del Henares?",
-     "respuesta": "Sí, los polígonos industriales y logísticos del corredor del Henares son un emplazamiento habitual para oficinas de obra, almacenes y casetas con contenedores marítimos, con buen acceso desde la A-2. La licencia depende de la actividad concreta y de la ordenanza municipal de Alcalá de Henares."
+     "respuesta": "Sí, los polígonos industriales y logísticos del corredor del Henares son un emplazamiento habitual para oficinas de obra, almacenes y casetas con contenedores marítimos, con buen acceso desde la autovía del corredor. La licencia depende de la actividad concreta y de la ordenanza municipal de Alcalá de Henares."
     },
     {
      "pregunta": "¿Puede inundarse una parcela cerca del río Henares?",
-     "respuesta": "Puede, si está en la <strong>vega aluvial</strong>: el río Henares tiene sotos y una vega con riesgo de inundación en algunos tramos, además de una zona ZEPA de estepas cerealistas al norte del municipio. Conviene comprobar la cartografía de riesgo antes de elegir parcela para tu casa contenedor."
+     "respuesta": "Puede, si está en la <strong>vega aluvial</strong>: el río Henares tiene sotos y una vega con riesgo de inundación en algunos tramos, además de una zona ZEPA de estepas cerealistas al norte del municipio. Conviene comprobar la cartografía de riesgo antes de elegir parcela."
     },
     {
      "pregunta": "¿Vendéis contenedores marítimos en Alcalá de Henares?",

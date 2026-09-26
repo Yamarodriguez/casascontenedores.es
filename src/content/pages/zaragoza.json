@@ -2516,5 +2516,57 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1147,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Casas contenedores Zaragoza: licencia y suelo según el TRLUA"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué licencia pide el Ayuntamiento de Zaragoza para una casa contenedor?",
+    "html": "<p>Necesitas <strong>licencia de obra mayor</strong> con proyecto de arquitecto visado, según el Decreto Legislativo 1/2014 (TRLUA) de Aragón, modificado por la Ley 2/2023, y el PGOUZ, con texto refundido de 2007. Aragón suprimió la cédula de habitabilidad (Decreto 60/2009 y Ley 2/2014): el Ayuntamiento la sustituye por una declaración responsable de primera ocupación.</p><p>El TRLUA distingue suelo urbano, urbanizable y no urbanizable. Predomina el urbano en la capital y en barrios rurales como Casetas o Montañana, y el <strong>no urbanizable genérico</strong> en la huerta y la estepa; una vivienda aislada allí queda sujeta a las condiciones del PGOUZ, así que conviene consultar antes.</p><p>El Ebro conserva tramos protegidos, como la <strong>Reserva Natural Dirigida</strong> de los Sotos y Galachos, y zonas inundables del Ebro, el Gállego y el Huerva; el Casco Histórico suma su propio plan de protección. La página de <a href=\"/permisos/\">permisos para casas contenedores</a> repasa la tramitación.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo llega el contenedor marítimo hasta tu parcela en Zaragoza"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puede entrar un camión con contenedor en el Casco Histórico de Zaragoza?",
+    "html": "<p>Con restricciones: el Casco Histórico tiene una <strong>Zona de Bajas Emisiones</strong> en vigor, con acceso limitado a vehículos con distintivo C, ECO o Cero salvo autorización puntual, además de calles estrechas y un régimen propio de carga y descarga.</p><p>Zaragoza cuenta con nodo propio: la <strong>Terminal Marítima de Zaragoza</strong>, integrada en Mercazaragoza, recibe trenes hacia Barcelona, Bilbao y Algeciras o Valencia, junto a la Plataforma PLAZA; en la huerta, los caminos rurales y las acequias condicionan el paso de la góndola. Revisa las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a>, el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> y los <a href=\"/contenedores-maritimos-zaragoza/\">contenedores marítimos en Zaragoza</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "El cierzo y el aislamiento de tu casa contenedor en Zaragoza"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Por qué el cierzo condiciona el anclaje de una casa contenedor en Zaragoza?",
+    "html": "<p>Porque es un viento seco y racheado del noroeste que el valle del Ebro encauza con fuerza, sobre todo en invierno y primavera, y conviene revisar los anclajes y la estanqueidad de puertas y ventanas.</p><p>Zaragoza capital es zona climática D3 (Anejo B del DB-HE); la franja más baja de la provincia baja a C3 y las zonas altas suben a E1. Bajo las gravas y arcillas del Ebro hay un sustrato de yesos y limos salinos, así que el <strong>estudio geotécnico</strong> debe valorar la resistencia del hormigón a los sulfatos antes de la cimentación.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Zaragoza",
+   "items": [
+    {
+     "pregunta": "¿Se puede construir una casa contenedor en la huerta de Zaragoza?",
+     "respuesta": "Solo si el planeamiento del PGOUZ lo permite: buena parte de la huerta y la estepa del término son suelo no urbanizable, con condiciones más estrictas que en el suelo urbano. Conviene consultar antes con el Ayuntamiento de Zaragoza, sobre todo si la parcela está cerca de una acequia o de un camino rural sin asfaltar."
+    },
+    {
+     "pregunta": "¿Qué diferencia hay entre cédula de habitabilidad y declaración responsable en Zaragoza?",
+     "respuesta": "Aragón suprimió la cédula de habitabilidad con el Decreto 60/2009 y la Ley 2/2014, así que en Zaragoza no se pide. Al terminar la obra, el propietario presenta una declaración responsable de primera ocupación ante el Ayuntamiento, que cumple la misma función de acreditar que la vivienda es habitable."
+    },
+    {
+     "pregunta": "¿Desde qué nodo logístico llegan los contenedores marítimos a Zaragoza?",
+     "respuesta": "Zaragoza tiene nodo propio: la Terminal Marítima de Zaragoza, integrada en Mercazaragoza, recibe trenes regulares desde los puertos de Barcelona, Bilbao y Algeciras o Valencia. A eso se suma la Plataforma Logística PLAZA, con accesos directos por autovía hacia toda la provincia."
+    },
+    {
+     "pregunta": "¿Se puede legalizar una casa contenedor ya instalada en Zaragoza?",
+     "respuesta": "Depende de si cumple el planeamiento del PGOUZ y el TRLUA vigentes en el momento de instalarla; el Ayuntamiento valora cada expediente por separado. Si el suelo o la construcción no encajan, la legalización puede no ser posible, así que conviene comprobarlo antes de instalar el contenedor, no después."
+    }
+   ]
+  }
+ }
 }

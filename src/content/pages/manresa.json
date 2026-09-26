@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "El clima de media montaña de Manresa y el aislamiento de la casa contenedor",
-    "html": "<p>Manresa está en zona climática C2 del CTE, con Barcelona como referencia, aunque el casco urbano queda justo al límite de la corrección por altitud del Documento Básico de Ahorro de Energía, y las cotas altas del término suben a D2. El clima real es de media montaña: inviernos fríos con heladas y nieblas por inversión térmica. Una casa contenedor bien proyectada resuelve esto con <strong>aislamiento continuo por el exterior</strong>, que evita el puente térmico de las cantoneras metálicas.</p>"
+    "html": "<p>Manresa está en zona climática C2 del CTE, con Barcelona como referencia, aunque el casco urbano queda justo al límite de la corrección por altitud del Documento Básico de Ahorro de Energía, y las cotas altas del término suben a D2. El clima real es de media montaña: inviernos fríos con heladas y nieblas por inversión térmica. Una construcción bien proyectada resuelve esto con <strong>aislamiento continuo por el exterior</strong>, que evita el puente térmico de las cantoneras metálicas.</p>"
    },
    {
     "nivel": "h3",
@@ -29,7 +29,7 @@
    },
    {
     "nivel": "h2",
-    "titulo": "Casas contenedores en Manresa: qué dice el POUM y qué suelo admite vivienda",
+    "titulo": "Suelo y POUM en Manresa: qué admite una vivienda de este tipo",
     "html": "<p>El planeamiento vigente es el Pla d'Ordenació Urbanística Municipal (POUM) de Manresa, aprobado por la Comissió Territorial d'Urbanisme, que además desclasificó suelo urbanizable a no urbanizable. El escenario más habitual es una parcela residencial o de polígono industrial; el suelo no urbanizable del Pla de Bages y las riberas del Cardener y el Llobregat son mucho más restrictivas. Al terminar, la <strong>cèdula d'habitabilitat</strong> de primera ocupación la expide la Agència de l'Habitatge de Catalunya. Consulta el régimen de tu parcela en <a href=\"/permisos/\">permisos y licencias</a>.</p>"
    },
    {
@@ -47,11 +47,11 @@
    "titulo": "Preguntas frecuentes sobre casas contenedores en Manresa",
    "items": [
     {
-     "pregunta": "¿Es legal vivir en una casa contenedor en Manresa?",
-     "respuesta": "Sí, con proyecto de arquitecto conforme al Decreto Legislativo 1/2010, texto refundido de la Ley de urbanismo de Cataluña, y licencia municipal de obra mayor sobre el POUM vigente. Al terminar, la <strong>cèdula d'habitabilitat</strong> de primera ocupación, expedida por la Agència de l'Habitatge de Catalunya, acredita que la vivienda cumple las condiciones mínimas para ser habitada."
+     "pregunta": "¿Para qué usos se instalan más contenedores en Manresa?",
+     "respuesta": "Manresa es capital de comarca de comercio, servicios y sanidad, con un polo universitario del Bages; los usos más habituales para un módulo en contenedor son <strong>oficinas y locales modulares</strong>, vestuarios y almacén en polígono, o aulas y módulos sanitarios. La vivienda unifamiliar sigue siendo el uso que más trámites exige, por delante de estos usos auxiliares."
     },
     {
-     "pregunta": "¿Qué suelo admite una casa contenedor en Manresa?",
+     "pregunta": "¿Qué suelo permite construir en Manresa?",
      "respuesta": "El suelo urbano de los barrios residenciales y los <strong>polígonos industriales</strong> de Manresa es el escenario más habitual, con parcela ya urbanizada y acceso resuelto. El suelo no urbanizable del Pla de Bages y las riberas del Cardener y el Llobregat, reforzado por el POUM, tiene un régimen mucho más restrictivo para vivienda aislada."
     },
     {
@@ -59,8 +59,8 @@
      "respuesta": "Sí, el Ajuntament de Manresa tiene aprobada una ordenanza de <strong>Zona de Bajas Emisiones</strong> concentrada en el Centre Històric, con una segunda fase prevista en el sector del Passeig y una exención transitoria para residentes. Comprueba el calendario vigente antes de programar la entrada de un camión o una grúa al casco."
     },
     {
-     "pregunta": "¿Vendéis contenedores marítimos en Manresa?",
-     "respuesta": "Sí, trabajamos en Manresa y en toda la comarca del Bages con contenedores marítimos para vivienda, almacén u oficina. Al no existir una ficha específica de la ciudad, consulta <a href=\"/contenedores-maritimos-barcelona/\">contenedores marítimos en Barcelona</a>, la más próxima, para ver tipos, usos y condiciones de entrega."
+     "pregunta": "¿Puedo comprar o alquilar un contenedor marítimo para uso puntual en Manresa?",
+     "respuesta": "Sí: al no existir ficha propia de la ciudad, gestionamos la compra o el <strong>alquiler de contenedores marítimos</strong> desde la ficha de <a href=\"/contenedores-maritimos-barcelona/\">contenedores marítimos en Barcelona</a>, la más próxima, con entrega en Manresa y en el resto de la comarca del Bages para obra, almacén o vestuario temporal."
     }
    ]
   }

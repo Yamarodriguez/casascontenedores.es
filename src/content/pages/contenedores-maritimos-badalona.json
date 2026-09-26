@@ -30,7 +30,7 @@
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Badalona?",
-    "html": "<p>Sí, instalar un contenedor es al menos una actuación sujeta a comunicació prèvia o <strong>llicència d'obra menor</strong> del Ayuntamiento de Badalona, con más exigencias cuanto más permanente sea el uso. El Text refós de la Llei d'urbanisme de Catalunya (Decret Legislatiu 1/2010) es la norma de referencia, y el planeamiento vigente sigue siendo el Pla General Metropolità de 1976.</p><p>En el frente de playa, protegido por la Ley de Costas, en Dalt de la Vila y junto a rieras como la de Canyet, colocar cualquier módulo tiene más restricciones por el riesgo de inundabilidad. Consulta los <a href=\"/permisos/\">permisos para instalar un contenedor marítimo</a> antes de comprar.</p>"
+    "html": "<p>Sí, instalar un contenedor es al menos una actuación sujeta a comunicació prèvia o <strong>llicència d'obra menor</strong> del Ayuntamiento de Badalona, con más exigencias cuanto más permanente sea el uso. El Text refós de la Llei d'urbanisme de Catalunya (Decret Legislatiu 1/2010) es la norma de referencia, y el municipio sigue ordenado por el Pla General Metropolità, con modificaciones puntuales propias de Badalona.</p><p>En el frente de playa, protegido por la Ley de Costas, en Dalt de la Vila y junto a rieras como la de Canyet, colocar cualquier módulo tiene más restricciones por el riesgo de inundabilidad. Consulta los <a href=\"/permisos/\">permisos para instalar un contenedor marítimo</a> antes de comprar.</p>"
    },
    {
     "nivel": "h3",
@@ -40,7 +40,7 @@
    {
     "nivel": "h2",
     "titulo": "De dónde llegan los contenedores a Badalona",
-    "html": "<p>Aunque Badalona tiene su propio puerto, este es solo deportivo y pesquero, así que los contenedores que llegan a la ciudad proceden del <strong>Port de Barcelona</strong>, al otro lado del área metropolitana. El transporte llega por la B-20 (Ronda de Dalt), la C-31 y la N-II hasta tu parcela, con la descarga y el presupuesto puesto en destino incluidos.</p><p>El trayecto que entra en Barcelona para recoger la carga en el puerto atraviesa la ZBE Rondes de Barcelona, así que el vehículo necesita el distintivo ambiental correspondiente en días laborables.</p>"
+    "html": "<p>Aunque Badalona tiene su propio puerto, este es solo deportivo y pesquero, así que los contenedores que llegan a la ciudad proceden del <strong>Port de Barcelona</strong>, al otro lado del área metropolitana. El transporte llega por la ronda de circunvalación y las carreteras de la costa hasta tu parcela, con la descarga y el presupuesto puesto en destino incluidos.</p><p>El trayecto que entra en Barcelona para recoger la carga en el puerto atraviesa la ZBE Rondes de Barcelona, así que el vehículo necesita el distintivo ambiental correspondiente en días laborables.</p>"
    },
    {
     "nivel": "h2",
@@ -53,7 +53,7 @@
    "items": [
     {
      "pregunta": "¿Tenéis depósito propio en Badalona?",
-     "respuesta": "No; funcionamos como <strong>zona de servicio</strong>, sin sede ni almacén fijo en la ciudad. El contenedor sale del punto de almacenaje más cercano al área metropolitana y llega a tu parcela con el transporte y la descarga ya incluidos en el presupuesto."
+     "respuesta": "No, Badalona no tiene almacén propio: trabajamos en modo <strong>zona de servicio</strong> y coordinamos el envío desde el depósito más cercano al área metropolitana. El transporte y la descarga hasta tu parcela, con el presupuesto puesto en destino, quedan incluidos sin depender de existencias locales."
     },
     {
      "pregunta": "¿Aguanta un contenedor marítimo la humedad y el salitre del litoral de Badalona?",
@@ -61,7 +61,7 @@
     },
     {
      "pregunta": "¿Puedo alquilar un contenedor marítimo en lugar de comprarlo en Badalona?",
-     "respuesta": "Sí, ofrecemos alquiler además de venta. Las condiciones de duración, fianza y devolución se ajustan al uso que le des, desde un módulo puntual de obra en un polígono como Montigalà hasta un trastero permanente en un barrio de ladera."
+     "respuesta": "Sí, el alquiler es una alternativa a la compra en Badalona. Duración, fianza y devolución se pactan según el destino: no es igual un módulo puntual de obra en un polígono como Montigalà que un trastero permanente en un barrio de ladera."
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Badalona?",

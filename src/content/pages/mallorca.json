@@ -19,7 +19,7 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Cómo llega el contenedor a tu parcela en Mallorca: el tramo marítimo",
+    "titulo": "Cómo llegan las casas contenedores a tu parcela en Mallorca: el tramo marítimo",
     "html": "<p>A diferencia de la España peninsular, todo contenedor con destino a Mallorca cruza primero en barco: los puertos de Palma y Alcúdia, gestionados por la Autoritat Portuària de Balears, reciben líneas regulares de carga y ro-ro desde Barcelona y Valencia. Desde ahí, la distribución interior llega por carretera a cada municipio de la isla. El <strong>transporte insular</strong> exige reservar bodega y coordinar la llegada con el ferry de carga; consulta <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> antes de fijar la fecha.</p>"
    },
    {
@@ -29,7 +29,7 @@
    },
    {
     "nivel": "h2",
-    "titulo": "Normativa urbanística para una casa contenedor en Mallorca: LUIB y PTIM",
+    "titulo": "Normativa urbanística en Mallorca: LUIB y PTIM",
     "html": "<p>La isla se rige por la Ley 12/2017, de urbanismo de las Illes Balears (LUIB), y por el Pla Territorial Insular de Mallorca (PTIM) del Consell, que reserva los nuevos desarrollos a las Àrees de Transició de Creixement (AT-C). El suelo predominante es <strong>sòl rústic</strong>, con condiciones de uso estrictas; el suelo urbano se concentra en Palma, la bahía de Alcúdia y las urbanizaciones de costa. Consulta el planeamiento de tu parcela en <a href=\"/permisos/\">permisos y licencias</a> antes de comprar.</p>"
    },
    {
@@ -39,7 +39,7 @@
    },
    {
     "nivel": "h2",
-    "titulo": "El clima húmedo de Mallorca y el aislamiento de la casa contenedor",
+    "titulo": "El clima húmedo de Mallorca y el tratamiento del contenedor",
     "html": "<p>Casi toda la isla está en zona climática B3 del CTE, salvo las cotas altas de la Serra de Tramuntana, en C3. La humedad ambiental es muy alta todo el año y se suma el salitre de la costa, así que conviene un <strong>tratamiento anticorrosivo</strong> reforzado; en la Serra hay además viento y alguna nevada ocasional, y su condición de Patrimonio Mundial UNESCO no admite este tipo de construcción. Trabajamos en toda la isla; consulta <a href=\"/contenedores-maritimos-baleares/\">contenedores marítimos en Baleares</a>.</p>"
    }
   ],
@@ -47,15 +47,11 @@
    "titulo": "Preguntas frecuentes sobre casas contenedores en Mallorca",
    "items": [
     {
-     "pregunta": "¿Es legal vivir en una casa contenedor en Mallorca?",
-     "respuesta": "Sí, siempre que el proyecto cumpla la Ley 12/2017 de urbanismo de las Illes Balears y se tramite con <strong>licencia municipal de obra mayor</strong> y, al terminar, con la licencia municipal de primera ocupación. La isla se rige además por el PTIM del Consell, que limita los desarrollos residenciales a las Àrees de Transició de Creixement."
+     "pregunta": "¿Dónde consulto si mi parcela permite construir en Mallorca?",
+     "respuesta": "La Oficina d'Informació Territorial del Consell de Mallorca resuelve consultas sobre el <strong>PTIM</strong> y confirma si una finca está en Àrea de Transició de Creixement o en sòl rústic con usos limitados. Antes de comprar una parcela, pide esa consulta y la llicència municipal d'obres del ayuntamiento correspondiente: son dos trámites distintos y los dos son necesarios."
     },
     {
-     "pregunta": "¿Puedo construir en suelo rústico de Mallorca?",
-     "respuesta": "Depende del emplazamiento: el suelo rústico es predominante en la isla, pero el PTIM del Consell solo admite vivienda o módulo auxiliar bajo condiciones estrictas, distintas para cada área. Antes de comprar una finca rústica, pide la consulta urbanística que confirme qué usos permite realmente esa parcela."
-    },
-    {
-     "pregunta": "¿Aguanta la humedad de Mallorca una casa contenedor?",
+     "pregunta": "¿Aguanta la humedad de Mallorca una construcción de este tipo?",
      "respuesta": "Sí, con el proyecto adecuado. La humedad ambiental es muy alta en toda la isla y se suma el salitre en la costa, así que conviene reforzar el <strong>tratamiento anticorrosivo</strong> de la estructura y resolver bien la ventilación para evitar condensaciones, sobre todo en plantas bajas cercanas al mar."
     },
     {
@@ -63,8 +59,8 @@
      "respuesta": "Sí: el centro de Palma tiene una Zona de Bajas Emisiones activa por fases, delimitada por las avenidas, la plaça d'Espanya, el passeig de Mallorca y el paseo marítimo, con sanciones ya en vigor. Comprueba el perímetro y la etiqueta exigida antes de programar la entrada de la góndola al centro."
     },
     {
-     "pregunta": "¿Vendéis contenedores marítimos en Mallorca?",
-     "respuesta": "Sí, trabajamos en toda la isla con contenedores marítimos que llegan por los puertos de Palma y Alcúdia, para vivienda, almacén, oficina o módulo de hostelería. Consulta la ficha de <a href=\"/contenedores-maritimos-baleares/\">contenedores marítimos en Baleares</a> para ver tipos, usos y condiciones de entrega insular."
+     "pregunta": "¿Cómo se entrega un contenedor marítimo comprado o alquilado en Mallorca?",
+     "respuesta": "La entrega sigue el mismo tramo marítimo que el material de obra: el contenedor cruza por los puertos de Palma o Alcúdia y de ahí se traslada por carretera hasta tu parcela o local, en toda la isla. Revisa tipos, medidas y condiciones de <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a> o de compra antes de fijar la fecha de entrega."
     }
    ]
   }

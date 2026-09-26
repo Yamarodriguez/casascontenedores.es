@@ -612,7 +612,7 @@ export function rebajarH1(bloques) {
  * Devuelve la seccion (para añadirla a `bloques`) y la lista de preguntas
  * (para el JSON-LD FAQPage de Base.astro), o null si no hay nada.
  */
-export function seccionAmpliacion(ampliacion) {
+export function seccionAmpliacion(ampliacion, { sinFaq = false } = {}) {
   if (!ampliacion) return null;
   const elementos = [];
   for (const s of ampliacion.secciones || []) {
@@ -621,7 +621,9 @@ export function seccionAmpliacion(ampliacion) {
     if (s.html) elementos.push({ t: 'texto', html: s.html });
   }
   const faq = (ampliacion.faq?.items || []).filter((i) => i && i.pregunta && i.respuesta);
-  if (faq.length) {
+  // Con `sinFaq` las preguntas no se pintan aqui: van dentro del acordeon que
+  // la pagina ya tiene, para que no salgan dos h2 de "Preguntas frecuentes".
+  if (faq.length && !sinFaq) {
     elementos.push({ t: 'encabezado', etiqueta: 'h2', texto: ampliacion.faq.titulo || 'Preguntas frecuentes' });
     elementos.push({ t: 'faq', items: faq });
   }

@@ -50,7 +50,7 @@
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Fuenlabrada",
-    "html": "<p>Además de Fuenlabrada, entregamos contenedores marítimos en Getafe y Leganés, en Móstoles y Parla, y en <a href=\"/madrid/\">Madrid</a> capital y el resto de la comunidad.</p>"
+    "html": "<p>El reparto habitual desde Fuenlabrada cubre primero los municipios más próximos, Getafe, Leganés, Móstoles y Parla, y se extiende después a <a href=\"/madrid/\">Madrid</a> capital y al resto de la comunidad, siempre partiendo del Puerto Seco de Coslada.</p>"
    }
   ],
   "faq": {
@@ -58,7 +58,7 @@
    "items": [
     {
      "pregunta": "¿Entregáis contenedores marítimos en todo el sur de Madrid?",
-     "respuesta": "Sí, además de Fuenlabrada cubrimos Getafe, Leganés, Móstoles, Parla y el resto de la Comunidad de Madrid. El transporte y la descarga con grúa van incluidos en el presupuesto puesto en destino, que ajustamos según el acceso real de tu nave o parcela."
+     "respuesta": "Sí: además de Fuenlabrada, cubrimos Getafe, Leganés, Móstoles, Parla y el resto del sur de Madrid, hasta la propia capital. Al salir del Puerto Seco de Coslada y no de un depósito local, el presupuesto se calcula puesto en destino, con la descarga y la maniobra de grúa ya valoradas según el acceso de tu nave o polígono."
     },
     {
      "pregunta": "¿Tenéis depósito propio en Fuenlabrada?",
@@ -70,7 +70,7 @@
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Fuenlabrada?",
-     "respuesta": "Sí, además de vender y alquilar contenedores marítimos, construimos <a href=\"/fuenlabrada/\">casas hechas con contenedores en Fuenlabrada</a> y en el resto del sur de Madrid, acompañando el proyecto desde la consulta urbanística hasta la entrega llave en mano, con proyecto visado y primera ocupación."
+     "respuesta": "Sí, es un servicio distinto pero relacionado: para <a href=\"/fuenlabrada/\">casas contenedor en Fuenlabrada</a> el punto de partida es la Ley 9/2001 del Suelo de Madrid y la licencia o declaración responsable que corresponda, ya que aquí no existe cédula de habitabilidad autonómica y el visto bueno final es siempre municipal."
     }
    ]
   }

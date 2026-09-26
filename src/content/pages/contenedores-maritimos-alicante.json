@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "Contenedores marítimos en Alicante: cómo trabajamos y desde dónde llegan",
-    "html": "<p>No mantenemos depósito propio en Alicante: cada <strong>contenedor marítimo en Alicante</strong> se prepara en el almacén disponible más próximo y viaja hasta tu parcela con el transporte y la descarga ya cerrados en el mismo presupuesto, puesto en destino. El origen habitual es el Puerto de Alicante, con terminal de contenedores y conexión ferroviaria, con acceso por la A-7, la A-31 o la A-70. El casco antiguo y el barrio de Santa Cruz, en la ladera del Benacantil, tienen calles demasiado estrechas para una góndola.</p>"
+    "html": "<p>El Puerto de Alicante, con terminal de contenedores y conexión ferroviaria, es el origen más habitual de cada <strong>contenedor marítimo en Alicante</strong>, con acceso por la A-7, la A-31 o la A-70. No guardamos stock propio en la ciudad: la unidad se prepara en el almacén disponible más próximo y llega a tu parcela con el transporte y la descarga ya calculados en el presupuesto. El casco antiguo y el barrio de Santa Cruz, en la ladera del Benacantil, tienen calles demasiado estrechas para una góndola.</p>"
    },
    {
     "nivel": "h3",
@@ -30,7 +30,7 @@
    {
     "nivel": "h2",
     "titulo": "Usos habituales de los contenedores en Alicante y sus partidas rurales",
-    "html": "<p>La actividad económica de Alicante marca los usos más frecuentes del contenedor marítimo en la ciudad y su entorno:</p><ul><li>Puerto y polígonos cercanos: <a href=\"/contenedores-de-almacenamiento/\"><strong>contenedor de almacenamiento</strong></a> u oficina modular.</li><li>Turismo de playa y chiringuitos del litoral: módulos sujetos a la Ley de Costas, a confirmar caso por caso.</li><li>Partidas rurales del interior: caseta de aperos para segundas residencias.</li></ul><p>La zona B4 del CTE trae veranos calurosos y, en otoño, lluvias torrenciales de <strong>gota fría</strong> que obligan a elevar la base sobre las cotas de avenida.</p>"
+    "html": "<p>La actividad económica de Alicante y su entorno marca los usos más frecuentes del contenedor marítimo en la zona:</p><ul><li>Partidas rurales del interior: caseta de aperos para segundas residencias.</li><li>Puerto y polígonos cercanos: <a href=\"/contenedores-de-almacenamiento/\"><strong>contenedor de almacenamiento</strong></a> u oficina modular.</li><li>Turismo de playa y chiringuitos del litoral: módulos sujetos a la Ley de Costas, a confirmar caso por caso.</li></ul><p>La zona B4 del CTE trae veranos calurosos y, en otoño, lluvias torrenciales de <strong>gota fría</strong> que obligan a elevar la base sobre las cotas de avenida.</p>"
    },
    {
     "nivel": "h3",
@@ -65,8 +65,8 @@
      "respuesta": "Depende: todo el litoral de Alicante está sujeto a la Ley de Costas, así que un chiringuito o un módulo en primera línea de playa necesita autorización específica además de la licencia municipal. Consulta tu caso concreto antes de instalar nada en la parcela."
     },
     {
-     "pregunta": "¿Dónde tenéis almacenado el contenedor que llega a Alicante?",
-     "respuesta": "No hay un almacén propio en la ciudad; aunque el Puerto de Alicante es un origen habitual, funcionamos como zona de servicio sin sede ni stock fijo. Cada unidad sale del punto de almacenaje disponible en ese momento y llega con transporte y descarga incluidos en el presupuesto."
+     "pregunta": "¿Existe un depósito de la empresa en la ciudad de Alicante?",
+     "respuesta": "No lo hay: aunque el Puerto de Alicante sea un origen habitual, no mantenemos almacén fijo en la ciudad. Cada unidad sale del punto de almacenaje disponible en ese momento y el presupuesto, cerrado puesto en destino, ya cubre el transporte y la descarga."
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Alicante?",

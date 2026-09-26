@@ -50,7 +50,7 @@
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Dos Hermanas",
-    "html": "<p>Además de Dos Hermanas, entregamos <strong>contenedores marítimos en Sevilla</strong> capital y su área metropolitana, en <a href=\"/alcala-de-guadaira/\">Alcalá de Guadaíra</a>, en Utrera y en el resto de Andalucía.</p>"
+    "html": "<ul><li><strong>Contenedores marítimos en Sevilla</strong> capital y su área metropolitana.</li><li><a href=\"/alcala-de-guadaira/\">Alcalá de Guadaíra</a> y el eje de la A-392.</li><li>Utrera y el resto de la campiña del Bajo Guadalquivir.</li><li>Resto de Andalucía, siempre con presupuesto puesto en destino.</li></ul>"
    }
   ],
   "faq": {
@@ -58,7 +58,7 @@
    "items": [
     {
      "pregunta": "¿Entregáis contenedores marítimos en toda el área metropolitana de Sevilla?",
-     "respuesta": "Sí, además de Dos Hermanas cubrimos Sevilla capital, Alcalá de Guadaíra, Utrera y el resto del Bajo Guadalquivir. El transporte y la descarga con grúa van incluidos en el presupuesto puesto en destino, que ajustamos según el acceso real de tu parcela, nave o polígono."
+     "respuesta": "Sí: nuestra zona de servicio cubre Sevilla capital y toda su área metropolitana, además de Alcalá de Guadaíra, Utrera y el resto del Bajo Guadalquivir. No tenemos depósito en Dos Hermanas, así que el presupuesto se calcula puesto en destino, con la grúa y la maniobra de descarga ya valoradas para tu polígono, nave o parcela."
     },
     {
      "pregunta": "¿Puedo instalar un contenedor en la campiña o cerca del Guadalquivir?",
@@ -70,7 +70,7 @@
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Dos Hermanas?",
-     "respuesta": "Sí, además de vender y alquilar contenedores marítimos, construimos <a href=\"/dos-hermanas/\">casas hechas con contenedores en Dos Hermanas</a> y en el resto del área metropolitana de Sevilla, acompañando el proyecto desde la consulta urbanística hasta la entrega llave en mano, con proyecto visado y primera ocupación."
+     "respuesta": "Además de contenedores, en Dos Hermanas levantamos <a href=\"/dos-hermanas/\">casas contenedor</a> pensadas para el suelo urbano consolidado del municipio o para una ampliación en Montequinto: el arquitecto redacta el proyecto visado conforme a la LISTA y tramita contigo la declaración responsable de primera ocupación."
     }
    ]
   }
