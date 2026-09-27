@@ -2518,5 +2518,64 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1444,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Casas contenedores en Vitoria-Gasteiz: heladas, nieblas y aislamiento",
+    "html": "<p>Vitoria-Gasteiz está en <strong>zona climática D1</strong> del Código Técnico, igual que el resto de la Llanada a una altitud parecida; las zonas más altas del municipio suben a E1. El fenómeno más determinante no es el frío puntual, sino las heladas prolongadas, la niebla de valle y una lluvia repartida durante todo el año, así que el aislamiento continuo por el exterior y la rotura de puente térmico en las cantoneras pesan más que en climas más templados.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Cómo afectan las nevadas ocasionales a una vivienda de contenedores?",
+    "html": "<p>Las nevadas en Vitoria-Gasteiz son ocasionales, pero la combinación con heladas prolongadas y niebla de valle exige vigilar la cubierta y sus desagües; una <strong>cubierta ventilada</strong> bien resuelta y el aislamiento continuo evitan filtraciones y puentes fríos en los encuentros entre módulos.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Suelo de concejo y licencia municipal en Vitoria-Gasteiz",
+    "html": "<p>La Ley 2/2006 de Suelo y Urbanismo del País Vasco distingue el suelo urbano residencial, muy presente en los concejos con parcelas unifamiliares, del suelo industrial-logístico de Júndiz y del no urbanizable agrícola de la Llanada. Al terminar la obra no hay cédula: el Ayuntamiento tramita la <strong>licencia municipal de primera utilización</strong>. El nuevo Plan General, aprobado definitivamente por el Pleno y publicado en el BOTHA, rige el planeamiento vigente; resuelve el trámite en <a href=\"/permisos/\">permisos y licencias</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Se puede construir junto a los humedales de Salburua?",
+    "html": "<p>No: Salburua es un sitio Ramsar integrado en el Anillo Verde, con protección estricta que impide levantar vivienda nueva en su entorno. Los Montes de Vitoria, al sur, tienen una limitación similar por su valor paisajístico y forestal.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Transporte del contenedor: del puerto a tu parcela en Vitoria-Gasteiz",
+    "html": "<p>El contenedor llega por carretera desde el puerto de origen, con acceso por la A-1 y la N-622; el polígono de Júndiz y la plataforma de Arasur, en Rivabellosa, son nodos de proximidad habituales para la descarga. El Casco Medieval, peatonal y en pendiente, no es accesible para el camión con grúa, y parte del Ensanche tiene además <strong>control de acceso</strong> para los vehículos sin distintivo ambiental.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puede entrar el transporte del contenedor en el Casco Medieval?",
+    "html": "<p>No: el Casco Medieval es peatonal y está en pendiente, así que el camión con grúa no puede acceder; conviene prever un punto de descarga cercano en una calle del Ensanche o fuera del ámbito con restricción de acceso.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Vitoria-Gasteiz",
+   "items": [
+    {
+     "pregunta": "¿Qué licencia pide el Ayuntamiento de Vitoria-Gasteiz para esta construcción?",
+     "respuesta": "Pide licencia municipal de obra con un proyecto de arquitecto que cumpla la Ley de Ordenación de la Edificación y el Código Técnico, sobre el planeamiento vigente del nuevo Plan General. Al terminar, en lugar de cédula, se tramita la <strong>licencia municipal de primera utilización</strong> que prevé la Ley 2/2006 de Suelo y Urbanismo del País Vasco."
+    },
+    {
+     "pregunta": "¿Puedo instalar una vivienda de contenedores en suelo rústico de la Llanada?",
+     "respuesta": "Depende de la calificación exacta: la Llanada Alavesa tiene suelo no urbanizable de uso agrícola donde la vivienda nueva está muy restringida, frente a los concejos con suelo urbano residencial donde el trámite es el habitual. Pide la calificación urbanística de la parcela antes de comprar terreno o contenedores."
+    },
+    {
+     "pregunta": "¿Hay riesgo de inundación en Vitoria-Gasteiz para esta construcción?",
+     "respuesta": "El río Zadorra y sus afluentes rodean la ciudad por el norte, con zonas de flujo preferente en parte de la periferia: conviene comprobar la clasificación exacta de la parcela antes de construir. En el resto del suelo urbano y de los concejos esta limitación no aplica."
+    },
+    {
+     "pregunta": "¿Vendéis también contenedores marítimos en Vitoria-Gasteiz?",
+     "respuesta": "Sí, trabajamos con <strong>contenedores marítimos</strong> para almacén, oficina o módulo industrial en Vitoria-Gasteiz y en el resto de Álava, con presupuesto puesto en destino. Consulta la ficha de <a href=\"/contenedores-maritimos-alava/\">contenedores marítimos en Álava</a> para ver tipos, medidas y condiciones de entrega en la provincia."
+    },
+    {
+     "pregunta": "¿Aguanta el clima de Vitoria-Gasteiz una vivienda con contenedores marítimos?",
+     "respuesta": "Sí, con un proyecto adecuado: la clave está en el aislamiento continuo por el exterior y en evitar el puente térmico en las cantoneras, ya que la capital alavesa está en zona climática D1, con heladas prolongadas y niebla de valle buena parte del invierno."
+    }
+   ]
+  }
+ }
 }

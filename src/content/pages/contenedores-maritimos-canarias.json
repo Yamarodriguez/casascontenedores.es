@@ -20,37 +20,37 @@
    {
     "nivel": "h2",
     "titulo": "Contenedores marítimos en Canarias: cómo trabajamos y desde dónde llegan",
-    "html": "<p>En el archipiélago no hay un depósito nuestro en cada isla: el servicio se organiza desde el Puerto de Las Palmas (Puerto de la Luz), primer puerto de contenedores de Canarias, y desde el de Santa Cruz de Tenerife, con el transporte y la descarga incluidos en el presupuesto puesto en destino. A ese trayecto se suma siempre un tramo marítimo desde la península para los <strong>contenedores marítimos en Canarias</strong> y, si el destino no es la isla capitalina, un segundo tramo interinsular.</p>"
+    "html": "<p>En el archipiélago no existe un almacén nuestro en cada isla: cada <strong>contenedor marítimo en Canarias</strong> sale del Puerto de Las Palmas (Puerto de la Luz), primer puerto de contenedores de las islas, o del de Santa Cruz de Tenerife, según el destino. A ese trayecto se suma un tramo marítimo desde la península y, si la isla de entrega no es la capitalina, un segundo tramo interinsular; el transporte por carretera y la descarga con grúa quedan resueltos dentro del presupuesto puesto en destino.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Cómo llega un contenedor marítimo hasta una finca de medianías en Canarias?",
-    "html": "<p>Tras el tramo marítimo, el transporte sigue por carretera, pero las vías de medianías y cumbre tienen curvas cerradas y pendiente que limitan una góndola larga, así que conviene comprobar el <strong>acceso de la parcela</strong> antes de fijar la entrega. Consulta el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> antes de reservar fecha.</p>"
-   },
-   {
-    "nivel": "h2",
-    "titulo": "Usos habituales de los contenedores en Canarias y su comarca",
-    "html": "<p>La economía de las islas reparte el uso del contenedor marítimo: complejos turísticos de costa (módulo o local de temporada), plataneras y <strong>agricultura de exportación</strong> de medianías (caseta agrícola), puertos y reparación naval (taller modular) y fincas y asentamientos rurales (trastero). Los alisios, la calima y el salitre exigen buena ventilación y <strong>protección anticorrosiva</strong>, mientras la humedad de las medianías del norte pide vigilar la condensación.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Aguanta un contenedor marítimo el salitre y la calima de la costa canaria?",
-    "html": "<p>Sí, si se mantiene la pintura anticorrosiva al día: el salitre y la calima aceleran el desgaste del acero, así que conviene revisar la protección con más frecuencia que en el interior, sobre todo cerca de la costa.</p>"
+    "html": "<p>Tras el tramo marítimo, el trayecto sigue por carretera, pero las vías de medianías y cumbre tienen curvas cerradas y pendiente que limitan una góndola larga, así que conviene comprobar antes el acceso real de la parcela. El <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> detalla el resto de condiciones habituales.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Canarias?",
-    "html": "<p>Sí. Colocar un contenedor está sujeto a licencia de obra menor o <strong>declaración responsable</strong> según la ordenanza municipal y la Ley 4/2017 del Suelo de Canarias. En suelo rústico protegido por la Red Canaria de Espacios Naturales o la Red Natura 2000 las restricciones son mayores. Consulta tu caso en <a href=\"/permisos/\">permisos para construir con contenedores</a> antes de comprar.</p>"
+    "html": "<p>Cada municipio canario aplica su propia ordenanza sobre licencia de obra menor y declaración responsable, siempre dentro del marco de la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias. Donde el suelo rústico entra en la <strong>Red Canaria de Espacios Naturales</strong> o en la Red Natura 2000, que cubren buena parte de las islas, el trámite se vuelve más restrictivo. Antes de comprar parcela, consulta <a href=\"/permisos/\">permisos para construir con contenedores</a>.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Necesito declaración responsable si el contenedor no está anclado?",
-    "html": "<p>Tampoco aquí exime el hecho de no anclarlo: la Ley 4/2017 de Canarias somete a licencia o declaración responsable el uso continuado del suelo, esté o no fijado el contenedor, y esa exigencia se refuerza cuando la parcela pertenece a un asentamiento rural o queda dentro de la <strong>Red Canaria de Espacios Naturales Protegidos</strong>.</p>"
+    "html": "<p>Sí, tampoco aquí exime no anclarlo: la Ley 4/2017 somete a licencia o <strong>declaración responsable</strong> el uso continuado del suelo con independencia de si el contenedor está fijado, y la exigencia se refuerza cuando la parcela pertenece a un asentamiento rural o queda dentro de un espacio protegido.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Usos habituales de los contenedores en Canarias y su comarca",
+    "html": "<p>Los complejos turísticos de costa piden sobre todo módulo o local de temporada; las plataneras y la <strong>agricultura de exportación</strong> de medianías recurren a la caseta agrícola; los puertos y la reparación naval usan el taller modular, y las fincas de asentamiento rural lo emplean como trastero. Los alisios, la calima y el salitre exigen ventilación constante, mientras la humedad de las medianías del norte obliga a vigilar la condensación.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Aguanta un contenedor marítimo el salitre y la calima de la costa canaria?",
+    "html": "<p>Sí, si se mantiene al día la pintura anticorrosiva: el salitre y la calima desgastan el acero más deprisa que en el interior peninsular, así que conviene revisar la protección con más frecuencia, sobre todo cerca de la costa.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Canarias",
-    "html": "<p>Además de las capitales, entregamos contenedores marítimos en el resto del archipiélago:</p><ul><li>Las Palmas de Gran Canaria y Telde</li><li>Tenerife y San Cristóbal de La Laguna</li><li>Resto de islas del archipiélago</li></ul>"
+    "html": "<p>Además de las dos capitales, llegamos también a:</p><ul><li>Las Palmas de Gran Canaria y Telde</li><li>Tenerife y San Cristóbal de La Laguna</li><li>Resto de islas del archipiélago</li></ul>"
    }
   ],
   "faq": {
@@ -58,19 +58,19 @@
    "items": [
     {
      "pregunta": "¿Entregáis contenedores marítimos en todas las islas Canarias?",
-     "respuesta": "Sí. Cubrimos Gran Canaria y Tenerife, con Las Palmas y Santa Cruz como referencia, y llegamos también al resto del archipiélago. El transporte incluye siempre el tramo marítimo y, si aplica, el interinsular, con el presupuesto puesto en destino."
+     "respuesta": "Sí, trabajamos en Gran Canaria y Tenerife, con Las Palmas y Santa Cruz como puertos de referencia, y también en el resto del archipiélago. El envío incluye el tramo marítimo y, si hace falta, el interinsular, con el precio ya cerrado puesto en destino."
     },
     {
      "pregunta": "¿Cómo afecta la condición insular al transporte de un contenedor marítimo?",
-     "respuesta": "Todo envío a Canarias incluye un tramo marítimo desde la península, y si el destino no es la isla capitalina, un segundo tramo interinsular. Conviene reservar con margen y confirmar el acceso de la parcela con antelación."
+     "respuesta": "Todo envío a Canarias suma un tramo marítimo desde la península y, si la isla no es la capitalina, un segundo tramo entre islas. Conviene reservar con margen suficiente y confirmar de antemano el acceso real de la parcela."
     },
     {
      "pregunta": "¿Necesito licencia para colocar un contenedor en suelo rústico de Canarias?",
-     "respuesta": "Sí, y con más exigencia que en suelo urbano: el suelo rústico canario tiene categorías de protección agraria, paisajística o natural, y la Ley 4/2017 solo admite ciertos usos según cada una. Consulta siempre con el Ayuntamiento."
+     "respuesta": "Sí, y con más condiciones que en suelo urbano: el rústico canario se divide en categorías de protección agraria, paisajística o natural, y la Ley 4/2017 solo permite ciertos usos en cada una. Consúltalo siempre con el ayuntamiento correspondiente."
     },
     {
      "pregunta": "¿Puedo encargar una casa contenedor en Canarias en lugar de comprar solo el contenedor?",
-     "respuesta": "Sí, y con el envío gestionado: se diseñan y montan <a href=\"/canarias/\">casas contenedor en Canarias</a> adaptadas al suelo rústico o al asentamiento rural de cada isla; consulta antes el <a href=\"/casa-container-paso-a-paso/\">proceso paso a paso</a> si es tu primera vivienda modular."
+     "respuesta": "Sí, con el envío ya incluido en el proyecto: diseñamos y montamos <strong>casas contenedor en Canarias</strong> adaptadas al suelo rústico o al asentamiento rural de cada isla; revisa antes el <a href=\"/casa-container-paso-a-paso/\">proceso paso a paso</a> si es tu primera vivienda modular."
     }
    ]
   }

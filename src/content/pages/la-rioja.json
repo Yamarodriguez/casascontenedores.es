@@ -20,56 +20,51 @@
    {
     "nivel": "h2",
     "titulo": "Licencias para una casa contenedor en La Rioja: LOTUR y Plan General Municipal",
-    "html": "<p>En La Rioja, levantar una casa contenedor exige una <strong>licencia de obra mayor</strong> del ayuntamiento, con proyecto de arquitecto conforme a la Ley de Ordenación de la Edificación y el Código Técnico de la Edificación. No hay un plan único: la Ley 5/2006, de Ordenación del Territorio y Urbanismo de La Rioja (LOTUR), remite a cada municipio su propio Plan General Municipal. El suelo no urbanizable de viñedo o huerta admite como mucho una caseta agrícola; para vivienda conviene suelo urbano en los pueblos del valle. Consulta <a href=\"/permisos/\">permisos y licencias para casas contenedores</a>.</p>"
+    "html": "<p>En La Rioja, levantar esta vivienda exige una <strong>licencia de obra mayor</strong> del ayuntamiento, con proyecto de arquitecto conforme a la Ley de Ordenación de la Edificación y el Código Técnico de la Edificación. No hay un plan único: la Ley 5/2006, de Ordenación del Territorio y Urbanismo de La Rioja (LOTUR), remite a cada municipio su propio Plan General Municipal. El suelo no urbanizable de viñedo o huerta admite como mucho una caseta agrícola; para vivienda conviene suelo urbano en los pueblos del valle. Consulta <a href=\"/permisos/\">permisos y licencias para casas contenedores</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Hace falta cédula de habitabilidad para una casa contenedor en La Rioja?",
-    "html": "<p>Depende del municipio: el Decreto 28/2013 regula la <strong>cédula de habitabilidad autónoma</strong>, pero su disposición adicional décima la sustituye por la licencia municipal de primera ocupación, renovada con la ITE, donde ya está implantada. Confirma en tu ayuntamiento qué documento exige tras el certificado final de obra.</p>"
+    "titulo": "¿Hace falta cédula de habitabilidad en La Rioja?",
+    "html": "<p>Depende del municipio: el Decreto 28/2013 regula la <strong>cédula de habitabilidad autonómica</strong>, pero su disposición adicional décima la sustituye por la licencia municipal de primera ocupación, renovada con la inspección técnica del edificio, donde ya está implantada. Confirma en tu ayuntamiento qué documento exige tras el certificado final de obra.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Cierzo y clima del valle del Ebro: el aislamiento de tu casa contenedor en La Rioja",
+    "titulo": "Cómo llega el contenedor a tu parcela en La Rioja",
+    "html": "<p>Sin salida al mar, los contenedores llegan por carretera desde el Puerto de Bilbao, con terminales de contenedores y salida histórica del valle del Ebro, por la AP-68; también hay conexión por la A-12, la N-232 y el aeropuerto de Agoncillo. El suelo industrial de El Sequero y los polígonos de Logroño facilitan la descarga con grúa. Revisa las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> y, si necesitas unidades sueltas, consulta <a href=\"/contenedores-maritimos-la-rioja/\">contenedores marítimos en La Rioja</a>. Trabajamos en toda la comunidad y en la vecina <a href=\"/burgos/\">Burgos</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cierzo y clima del valle del Ebro: el aislamiento de tu vivienda en La Rioja",
     "html": "<p>Logroño está en zona climática D2 del CTE; las cotas bajas del valle bajan a C2 y la sierra del sur sube a E1. El cierzo es el viento dominante del valle del Ebro. Una <strong>casa contenedor de 40 pies</strong> resuelve el frío y el viento con aislamiento continuo por el exterior, que corta el puente térmico de las cantoneras, y cubierta ventilada.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Qué zona climática del CTE tiene La Rioja?",
     "html": "<p>La Rioja combina tres zonas del Anejo B del DB-HE: D2 en Logroño, C2 en las cotas bajas y E1 en la sierra de Cebollera y Urbión. El proyecto debe ajustar el aislamiento a la zona real de la parcela, no a una media provincial.</p>"
-   },
-   {
-    "nivel": "h2",
-    "titulo": "Cómo llega el contenedor a tu parcela en La Rioja",
-    "html": "<p>Sin salida al mar, los contenedores llegan por carretera desde el Puerto de Bilbao, con terminales de contenedores, por la AP-68; también hay conexión por la A-12, la N-232 y el aeropuerto de Agoncillo. El suelo industrial de El Sequero y los polígonos de Logroño facilitan la descarga con grúa. Trabajamos en toda la comunidad y en las vecinas <a href=\"/burgos/\">Burgos</a> y <a href=\"/navarra/\">Navarra</a>.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Cuánto mide un contenedor de 20 y de 40 pies para una casa en La Rioja?",
-    "html": "<p>Un contenedor de 20 pies mide 6,06 x 2,44 x 2,59 m por fuera, con unos 13,9 m² interiores; el de 40 pies llega a 12,19 m de largo, con cerca de 28,3 m² interiores. Estas <strong>medidas ISO 668</strong> son iguales en toda España.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre casas contenedores en La Rioja",
    "items": [
     {
-     "pregunta": "¿Puedo instalar una casa contenedor en suelo no urbanizable de La Rioja?",
-     "respuesta": "Depende de la categoría: la LOTUR distingue <strong>suelo no urbanizable</strong> genérico y especial, y el uso típico en la Rioja Alta y la Rioja Baja es una caseta o almacén agrícola en parcelas de viñedo o huerta, no vivienda permanente. Confirma en tu Plan General Municipal si esa parcela admite uso residencial."
+     "pregunta": "¿Qué documento acredita que una vivienda de contenedores es habitable en La Rioja?",
+     "respuesta": "Depende del municipio: el Decreto 28/2013 regula la <strong>cédula de habitabilidad autonómica</strong>, pero su disposición adicional décima la sustituye por la licencia municipal de primera ocupación, renovada después con la inspección técnica del edificio, allí donde ya está implantada. Confirma en tu ayuntamiento qué documento pide tras el certificado final de obra."
     },
     {
-     "pregunta": "¿Qué protege el patrimonio y el paisaje riojano frente a una casa contenedor?",
-     "respuesta": "El Parque Natural de la Sierra de Cebollera, la Reserva de la Biosfera de los valles del Leza, Jubera, Cidacos y Alhama, los Sotos del Ebro en Alfaro y los monasterios de San Millán de la Cogolla, Patrimonio Mundial, limitan o condicionan la construcción. Consulta siempre el planeamiento municipal antes de elegir parcela."
+     "pregunta": "¿Qué espacios protegidos pueden limitar una construcción con contenedores en La Rioja?",
+     "respuesta": "El Parque Natural de la Sierra de Cebollera, la Reserva de la Biosfera de los valles del Leza, Jubera, Cidacos y Alhama, los Sotos del Ebro en Alfaro y el entorno de los monasterios de San Millán de la Cogolla, Patrimonio Mundial, condicionan o limitan la construcción. Consulta siempre el planeamiento municipal antes de elegir parcela."
     },
     {
-     "pregunta": "¿Aguanta el cierzo una casa contenedor en La Rioja?",
-     "respuesta": "Sí, con el proyecto adecuado. El cierzo es el viento dominante del valle del Ebro, así que la carpintería exterior y los cerramientos deben ir bien sellados, con aislamiento continuo por el exterior y una orientación que reduzca la exposición directa a las rachas más fuertes."
+     "pregunta": "¿Hay demanda de contenedores marítimos para las bodegas riojanas?",
+     "respuesta": "Sí: el sector vitivinícola de la DOCa Rioja, la agroindustria de transformados y el calzado de Arnedo piden con frecuencia <strong>contenedores marítimos</strong> para almacén de aperos, cosecha o maquinaria, con entrega por carretera desde el Puerto de Bilbao hasta cualquier punto de la Rioja Alta o Baja."
     },
     {
-     "pregunta": "¿Desde qué puerto llega el contenedor marítimo a La Rioja?",
-     "respuesta": "Desde el Puerto de Bilbao, que cuenta con terminales de contenedores y ha sido históricamente la salida marítima del valle del Ebro, por la AP-68. Desde ahí el transporte continúa por carretera hasta tu parcela en cualquier municipio riojano."
+     "pregunta": "¿Aguanta el cierzo la carpintería de una vivienda de contenedores en La Rioja?",
+     "respuesta": "Sí, con el proyecto adecuado: el cierzo es el viento dominante del valle del Ebro, así que la carpintería exterior y los cerramientos deben ir bien sellados, con aislamiento continuo por el exterior y una orientación que reduzca la exposición directa a las rachas más fuertes."
     },
     {
-     "pregunta": "¿También vendéis contenedores marítimos en La Rioja?",
-     "respuesta": "Además de la vivienda, muchas bodegas y explotaciones agrícolas riojanas piden contenedores marítimos como almacén de aperos, cosecha o maquinaria, con entrega por carretera desde el Puerto de Bilbao hasta cualquier punto de la Rioja Alta o Baja. Consulta <a href=\"/contenedores-maritimos-la-rioja/\">contenedores marítimos en La Rioja</a> para conocer tipos y usos disponibles."
+     "pregunta": "¿Circula bien un contenedor de 40 pies por las carreteras de montaña de La Rioja en invierno?",
+     "respuesta": "Con precaución: las carreteras de sierra hacia la Demanda o Urbión reciben nieve en invierno, así que conviene planificar el transporte y el montaje evitando los días de peor climatología, sobre todo si la parcela está en zonas altas del sur de la comunidad."
     }
    ]
   }

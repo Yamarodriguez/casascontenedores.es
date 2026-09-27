@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "Contenedores marítimos en Toledo: cómo trabajamos y desde dónde llegan",
-    "html": "<p>En Toledo trabajamos como zona de servicio, sin depósito propio en la ciudad: transporte y descarga quedan dentro del presupuesto puesto en destino. La provincia no tiene puerto marítimo; el nodo de referencia para los <strong>contenedores marítimos en Toledo</strong> es el Puerto Seco de Coslada, en Madrid, conectado por ferrocarril con los grandes puertos españoles, desde donde el contenedor llega por carretera hasta tu parcela.</p>"
+    "html": "<p>La provincia de Toledo no tiene puerto marítimo, así que el punto de partida real de los <strong>contenedores marítimos en Toledo</strong> es el Puerto Seco de Coslada, terminal conectada por ferrocarril con Valencia, Algeciras, Barcelona y Bilbao. No mantenemos instalaciones propias en la ciudad: localizamos la unidad disponible para cada pedido y resolvemos el tramo final por carretera hasta tu parcela, con la descarga incluida en el presupuesto puesto en destino.</p>"
    },
    {
     "nivel": "h3",
@@ -30,7 +30,7 @@
    {
     "nivel": "h2",
     "titulo": "Usos habituales de los contenedores en Toledo y su comarca",
-    "html": "<p>Toledo combina turismo, artesanía tradicional e industria, y cada actividad le da un uso distinto al contenedor:</p><ul><li>Servicios y turismo del Casco Histórico: módulo de información o venta temporal.</li><li>Artesanía del damasquinado y la espadería: taller o almacén de materiales.</li><li>Industria del polígono de Santa María de Benquerencia: almacén auxiliar.</li><li>Agricultura de los municipios de La Sagra: caseta de aperos.</li></ul><p>La <strong>zona climática C4</strong> de la capital sube a D3 en las cotas altas: veranos muy calurosos y heladas invernales piden ventilación reforzada en verano y apoyos protegidos del hielo en invierno.</p>"
+    "html": "<p>Toledo combina turismo, artesanía tradicional e industria, y cada actividad le da un uso distinto al contenedor:</p><ul><li>Servicios y turismo del Casco Histórico: módulo de información o venta temporal.</li><li>Artesanía del damasquinado y la espadería: taller o almacén de materiales.</li><li>Industria del polígono de Santa María de Benquerencia: almacén auxiliar.</li><li>Agricultura de los municipios de La Sagra: caseta de aperos.</li></ul><p>La zona climática C4 de la capital sube a D3 en las cotas altas de la provincia: veranos muy calurosos con fuerte insolación y heladas invernales piden ventilación reforzada y apoyos protegidos del hielo.</p>"
    },
    {
     "nivel": "h3",
@@ -40,7 +40,7 @@
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Toledo?",
-    "html": "<p>Sí. Colocarlo de forma permanente exige declaración responsable o <strong>licencia de obra menor</strong> del Ayuntamiento de Toledo, conforme al Decreto Legislativo 1/2023, texto refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de Castilla-La Mancha.</p><p>El planeamiento vigente sigue aplicándose tras la anulación judicial de su última revisión, mientras el Ayuntamiento redacta uno nuevo. En la Vega del Tajo, suelo rústico protegido, se suma comprobar la inundabilidad. Revisa los <a href=\"/permisos/\">permisos para construir con contenedores</a> antes de decidir.</p>"
+    "html": "<p>Sí. Colocarlo de forma permanente exige declaración responsable o <strong>licencia de obra menor</strong> del Ayuntamiento de Toledo, conforme al Decreto Legislativo 1/2023, texto refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de Castilla-La Mancha.</p><p>El planeamiento general en vigor sigue aplicándose mientras el Ayuntamiento redacta su sustituto. En la Vega del Tajo, suelo rústico protegido, se suma comprobar la inundabilidad. Revisa los <a href=\"/permisos/\">permisos para construir con contenedores</a> antes de decidir.</p>"
    },
    {
     "nivel": "h3",
@@ -58,19 +58,19 @@
    "items": [
     {
      "pregunta": "¿Entregáis contenedores marítimos en toda la provincia de Toledo?",
-     "respuesta": "Sí, trabajamos en toda la provincia: la capital, los municipios de La Sagra, Talavera de la Reina y también Ciudad Real. Al no tener depósito propio en la zona, calculamos el transporte desde el origen más práctico para cada pedido, y ese coste queda siempre reflejado en el <strong>presupuesto puesto en destino</strong>, sin sorpresas al final."
+     "respuesta": "Trabajamos toda la provincia, desde la capital hasta los municipios de La Sagra, y también Talavera de la Reina y Ciudad Real. El transporte se calcula pedido a pedido según el origen disponible en cada momento, así que el coste final aparece siempre en el <strong>presupuesto puesto en destino</strong>: ninguna sorpresa cuando el camión llega a tu parcela."
     },
     {
      "pregunta": "¿Aguanta un contenedor marítimo el calor y las heladas de Toledo?",
-     "respuesta": "El acero resiste bien ambos extremos, pero conviene cuidar la ventilación y aclarar el color de la cubierta frente a la fuerte insolación del verano, y proteger apoyos y juntas de las heladas del invierno para que no se agarroten con el hielo."
+     "respuesta": "El acero resiste bien ambos extremos del clima toledano, pero conviene aclarar el color de la cubierta y reforzar la ventilación frente a la fuerte insolación del verano, y proteger apoyos y juntas de las heladas invernales para que no se agarroten con el hielo. Una revisión de pintura periódica alarga su vida útil."
     },
     {
      "pregunta": "¿Necesito licencia para colocar un contenedor cerca del Casco Histórico de Toledo?",
-     "respuesta": "Sí, y con más exigencia que en el polígono: el entorno declarado Patrimonio de la Humanidad protege los conos visuales y el trazado urbano, así que conviene pedir la licencia de obra menor en el Ayuntamiento de Toledo antes de elegir dónde colocarlo."
+     "respuesta": "Sí, y con más exigencia que en el polígono: el entorno declarado Patrimonio de la Humanidad protege los conos visuales y el trazado histórico, así que el Ayuntamiento de Toledo suele pedir licencia de obra menor incluso para instalaciones temporales. Consulta el planeamiento vigente antes de reservar tu contenedor."
     },
     {
-     "pregunta": "¿También hacéis casas contenedor en Toledo?",
-     "respuesta": "Sí. Además de vender y alquilar contenedores marítimos, en Toledo diseñamos y construimos <strong>casas contenedor de 40 pies</strong> y otras combinaciones, con estudio previo de la parcela y de la normativa municipal, hasta la entrega llave en mano. Puedes verlo en <a href=\"/toledo/\">casas hechas con contenedores en Toledo</a>, nuestra página dedicada a este municipio."
+     "pregunta": "¿También vendéis casas hechas con contenedores en Toledo?",
+     "respuesta": "Sí. Junto a la venta y el alquiler de contenedores marítimos, proyectamos y montamos <strong>casas hechas con contenedores</strong> en Toledo y su comarca, siempre partiendo del estudio de la parcela y de la normativa del Ayuntamiento. Puedes ver los modelos disponibles en <a href=\"/toledo/\">casas contenedor en Toledo</a>."
     }
    ]
   }

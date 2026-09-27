@@ -2684,7 +2684,7 @@
    {
     "nivel": "h2",
     "titulo": "Construir una casa contenedor en Rubí: normativa y licencias",
-    "html": "<p>En Cataluña, la <strong>cédula de habitabilidad de primera ocupación</strong> la expide la Generalitat, junto a la comunicación de primera ocupación ante el Ajuntament al terminar la obra. El planeamiento vigente es el Pla General de 1981 (texto refundido de 2005) y la licencia sigue el Decret Legislatiu 1/2010.</p><p>El suelo urbano residencial del casco convive con polígonos industriales como <strong>La Llana, Can Jardí o La Bastida</strong>, donde el uso habitual es la oficina o el almacén. La riera de Rubí, canalizada tras la riada de 1962, deja zonas inundables que conviene comprobar antes de comprar.</p>"
+    "html": "<p>En Cataluña, la <strong>cédula de habitabilidad de primera ocupación</strong> la expide la Generalitat, junto a la comunicación de primera ocupación ante el Ajuntament al terminar la obra. El planeamiento vigente es el Pla General d'Ordenació de Rubí (PGO), con su texto refundido de normas urbanísticas ya aprobado, y la licencia sigue el Decret Legislatiu 1/2010.</p><p>El suelo urbano residencial del casco convive con polígonos industriales como <strong>La Llana, Can Jardí o La Bastida</strong>, donde el uso habitual es la oficina o el almacén. La riera de Rubí, canalizada tras una riada histórica, deja zonas inundables que conviene comprobar antes de comprar.</p>"
    },
    {
     "nivel": "h3",
@@ -2694,12 +2694,12 @@
    {
     "nivel": "h2",
     "titulo": "El clima de Rubí y el aislamiento de la casa contenedor",
-    "html": "<p>Rubí comparte la <strong>zona climática C2</strong> del CTE DB-HE con Barcelona capital, en un clima mediterráneo templado con vientos dominantes del sur y del oeste. El aislamiento continuo por el exterior y la protección solar evitan el puente térmico del acero y reducen la ganancia de calor.</p>"
+    "html": "<p>El viento dominante del sur y del oeste marca el clima mediterráneo templado de Rubí, dentro de la <strong>zona climática C2</strong> del CTE DB-HE. Frente a ese viento, el aislamiento continuo por el exterior y la protección solar evitan el puente térmico del acero y limitan la ganancia de calor en las fachadas más expuestas.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Necesita una casa contenedor más aislamiento en Rubí que en Barcelona capital?",
-    "html": "<p>No especialmente: comparte la zona climática C2 con Barcelona capital y la misma exigencia del CTE DB-HE. Lo que sí cambia es el <strong>viento dominante del sur y del oeste</strong>, a tener en cuenta al orientar ventanas y sombreamientos.</p>"
+    "html": "<p>No especialmente: Rubí está en la misma zona climática C2 del CTE DB-HE que Barcelona capital, con la misma exigencia normativa de aislamiento. Lo que sí cambia es el <strong>viento dominante del sur y del oeste</strong>, a tener en cuenta al orientar ventanas y sombreamientos.</p>"
    },
    {
     "nivel": "h2",
@@ -2717,7 +2717,7 @@
    "items": [
     {
      "pregunta": "¿Qué papel juega el Ajuntament de Rubí en la licencia de la casa contenedor?",
-     "respuesta": "El Ajuntament tramita la licencia urbanística sobre el planeamiento vigente (Pla General de 1981 con texto refundido de 2005) y, al final de la obra, recibe la comunicación de primera ocupación. La cédula de habitabilidad, en cambio, la expide la Generalitat de Catalunya, no el Ayuntamiento."
+     "respuesta": "El Ajuntament tramita la licencia urbanística sobre el planeamiento vigente (el Pla General d'Ordenació de Rubí, PGO, con su texto refundido de normas urbanísticas) y, al final de la obra, recibe la comunicación de primera ocupación. La cédula de habitabilidad, en cambio, la expide la Generalitat de Catalunya, no el Ayuntamiento."
     },
     {
      "pregunta": "¿Hay patrimonio protegido en Rubí que afecte a la construcción?",
@@ -2725,7 +2725,7 @@
     },
     {
      "pregunta": "¿Hay Zona de Bajas Emisiones en Rubí que afecte al transporte del contenedor?",
-     "respuesta": "Sí. La ordenanza de la ZBE se aprobó de forma definitiva en octubre de 2025 y funciona desde diciembre de 2025 en gran parte del centro urbano, en días laborables y horario diurno; los polígonos industriales quedan fuera del perímetro. Conviene planificar con el transportista la hora de entrada del camión."
+     "respuesta": "Sí. La ordenanza de la ZBE de Rubí ya está aprobada de forma definitiva y en marcha en gran parte del centro urbano, en días laborables y horario diurno; los polígonos industriales quedan fuera del perímetro. Conviene planificar con el transportista la hora de entrada del camión."
     }
    ]
   }

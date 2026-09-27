@@ -30,21 +30,21 @@
    {
     "nivel": "h2",
     "titulo": "Cómo llega el contenedor a tu parcela en Leganés",
-    "html": "<p>El Puerto Seco de Madrid conecta por ferrocarril con Valencia -el principal-, Algeciras, Barcelona y Bilbao; desde ahí el contenedor llega por la M-40, la M-45, la M-50 y la A-42. Los polígonos de Prado Overa, Nuestra Señora de Butarque y Leganés Tecnológico tienen acceso directo, lo que facilita la descarga de <strong>contenedores marítimos en Leganés</strong>. Trabajamos también en <a href=\"/fuenlabrada/\">Fuenlabrada</a> y el resto de <a href=\"/madrid/\">la Comunidad de Madrid</a>.</p>"
+    "html": "<p>El Puerto Seco de Madrid conecta por ferrocarril con Valencia -el principal-, Algeciras, Barcelona y Bilbao; desde ahí el contenedor llega por la M-40, la M-45, la M-50 y la A-42. Los polígonos de Prado Overa, Nuestra Señora de Butarque y Leganés Tecnológico tienen acceso directo, lo que facilita la descarga de <strong>contenedores marítimos</strong> en Leganés. Trabajamos también en <a href=\"/fuenlabrada/\">Fuenlabrada</a> y el resto de <a href=\"/madrid/\">la Comunidad de Madrid</a>.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Cuánto mide un contenedor de 20 pies para un almacén en Leganés?",
-    "html": "<p>Un <strong>contenedor de 20 pies</strong> mide 6,06 x 2,44 x 2,59 m por fuera, con unos 13,9 m² interiores; suele bastar para un almacén o un módulo de obra. Si necesitas más superficie, el de 40 pies llega a unos 28,3 m² interiores.</p>"
+    "html": "<p>Un contenedor de 20 pies mide 6,06 x 2,44 x 2,59 m por fuera, con unos 13,9 m² interiores; suele bastar para un almacén o un módulo de obra. Si necesitas más superficie, el de 40 pies llega a unos 28,3 m² interiores.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Licencia y suelo para una casa contenedor en Leganés",
-    "html": "<p>Leganés no exige cédula de habitabilidad: desde la Ley 1/2020, la primera ocupación de una vivienda nueva se tramita por <strong>declaración responsable</strong>, con control municipal a posteriori y el Libro del Edificio. El PGOU de 1999 sigue vigente; el caso más habitual es vivienda unifamiliar en barrios periféricos u oficina en polígono. Consulta <a href=\"/permisos/\">permisos y licencias para casas contenedores</a>.</p>"
+    "titulo": "Licencia y suelo para construir con contenedores en Leganés",
+    "html": "<p>Leganés no exige cédula de habitabilidad: desde la Ley 1/2020, la primera ocupación de una vivienda nueva se tramita por <strong>declaración responsable</strong>, con control municipal a posteriori y el Libro del Edificio. El Plan General de Ordenación Urbana vigente se mantiene mientras el ayuntamiento redacta uno nuevo; el caso más habitual es vivienda unifamiliar en barrios periféricos u oficina en polígono. Consulta <a href=\"/permisos/\">permisos y licencias para casas contenedores</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Necesito el Libro del Edificio para una casa contenedor en Leganés?",
+    "titulo": "¿Necesito el Libro del Edificio para una vivienda de contenedores en Leganés?",
     "html": "<p>Sí: la declaración responsable de primera ocupación pide también el <strong>Libro del Edificio</strong>, el documento donde constan las características técnicas y de mantenimiento de la vivienda, sea de obra tradicional o de contenedores.</p>"
    }
   ],
@@ -53,15 +53,15 @@
    "items": [
     {
      "pregunta": "¿Qué es la declaración responsable de primera ocupación en Leganés?",
-     "respuesta": "Es el trámite que sustituye a la licencia de primera ocupación en la Comunidad de Madrid desde la Ley 1/2020: el propietario declara que la vivienda cumple la normativa y el ayuntamiento comprueba el proyecto después, exigiendo también el Libro del Edificio. Se aplica igual a una casa contenedor que a una vivienda tradicional."
+     "respuesta": "Es el trámite que sustituye a la licencia de primera ocupación en la Comunidad de Madrid desde la Ley 1/2020: el propietario declara que la vivienda cumple la normativa y el ayuntamiento comprueba el proyecto después, exigiendo también el <strong>Libro del Edificio</strong>. Se aplica igual a una vivienda de contenedores que a una construcción tradicional."
     },
     {
      "pregunta": "¿Puedo poner un módulo de contenedor en un polígono de Leganés?",
      "respuesta": "Sí, es uno de los usos más habituales del municipio: oficina, almacén o local en contenedor en polígonos como Prado Overa, Nuestra Señora de Butarque o Leganés Tecnológico, siempre con la licencia o declaración responsable que corresponda según la actividad."
     },
     {
-     "pregunta": "¿Hay patrimonio protegido que limite construir una casa contenedor en Leganés?",
-     "respuesta": "Leganés no tiene litoral ni espacios naturales protegidos, pero sí patrimonio local como la Iglesia de San Salvador o el Cuartel de Sabatini, y zonas verdes como el Parque de Polvoranca; estas áreas no son parcelas edificables, así que no condicionan directamente una casa contenedor en suelo urbano ordinario."
+     "pregunta": "¿Hay patrimonio protegido que limite construir con contenedores en Leganés?",
+     "respuesta": "Leganés no tiene litoral ni espacios naturales protegidos, pero sí patrimonio local como la Iglesia de San Salvador o el Cuartel de Sabatini, y zonas verdes como el Parque de Polvoranca; estas áreas no son parcelas edificables, así que no condicionan directamente una vivienda de contenedores en suelo urbano ordinario."
     },
     {
      "pregunta": "¿Desde qué nodo logístico llega el contenedor a Leganés?",

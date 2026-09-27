@@ -19,18 +19,8 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Alarcón?",
-    "html": "<p>Colocar un contenedor en Alarcón, aunque sea sin ruedas, es al menos una instalación: se necesita declaración responsable o licencia de obra menor según sea un uso temporal o permanente. En el suelo rústico de secano, la mayor parte del término, la ley del suelo de Castilla-La Mancha exige además <strong>calificación urbanística</strong> antes de instalar nada.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Puedo instalar un contenedor en el conjunto histórico de Alarcón sin autorización?",
-    "html": "<p>No sin autorización previa: el casco de Alarcón es Conjunto Histórico-Artístico, declarado <strong>Bien de Interés Cultural</strong>, así que cualquier obra visible, incluido un contenedor, necesita el visto bueno de la Consejería de Cultura antes de la licencia municipal. Consulta el proceso completo en <a href=\"/permisos/\">permisos</a>.</p>"
-   },
-   {
-    "nivel": "h2",
-    "titulo": "Usos habituales de los contenedores marítimos en Alarcón y La Manchuela",
-    "html": "<p>La economía de Alarcón gira en torno al turismo del castillo-parador, el embalse y las hoces del Júcar, y a la agricultura de secano de La Manchuela:</p><ul><li>Almacén para aperos y cosecha de cereal, legumbre o viñedo en las fincas del entorno.</li><li>Módulo turístico o punto de información junto al embalse, fuera del casco histórico.</li><li>Trastero u obra auxiliar para la rehabilitación de viviendas dentro del conjunto histórico.</li></ul>"
+    "titulo": "Contenedores marítimos en Alarcón: usos en el conjunto histórico y en La Manchuela",
+    "html": "<p>La economía de Alarcón gira en torno al turismo del castillo-parador, el embalse y las hoces del Júcar, y a la agricultura de secano de La Manchuela:</p><ul><li>Almacén para aperos y cosecha de cereal, legumbre o viñedo en las fincas del entorno.</li><li>Módulo turístico o punto de información junto al embalse, fuera del conjunto histórico.</li><li>Trastero u obra auxiliar para la rehabilitación de viviendas dentro del casco declarado Bien de Interés Cultural.</li></ul>"
    },
    {
     "nivel": "h3",
@@ -39,18 +29,28 @@
    },
    {
     "nivel": "h2",
-    "titulo": "Contenedores marítimos en Alarcón: cómo llegan y qué preparar en el acceso",
-    "html": "<p>Alarcón no tiene puerto ni terminal propia: la autovía A-3 pasa junto al término, con Motilla del Palancar como núcleo de servicios más cercano, así que el contenedor llega por carretera desde el <strong>puerto de València</strong>. El meandro del Júcar deja un promontorio con una única entrada al casco, de calles medievales estrechas que no admiten el camión con grúa.</p>"
+    "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Alarcón?",
+    "html": "<p>Colocar un contenedor en Alarcón, aunque sea sin ruedas, es al menos una instalación: hace falta declaración responsable o <strong>licencia de obra menor</strong> según sea un uso temporal o permanente. En el suelo rústico de secano, la mayor parte del término, el TRLOTAU de Castilla-La Mancha exige además calificación urbanística antes de instalar nada.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Cómo llega un contenedor marítimo hasta Alarcón?",
-    "html": "<p>Por carretera desde el puerto de València, por la A-3 hasta Motilla del Palancar y de ahí a Alarcón. Si la parcela está dentro del casco, la entrega se hace en la zona más próxima con acceso, porque las calles del promontorio no admiten el <strong>camión con grúa</strong>; en el llano del secano el acceso suele ser directo. Revisa las <a href=\"/medidas-contenedores-maritimos/\">medidas</a> y el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> antes de la entrega.</p>"
+    "titulo": "¿Puedo instalar un contenedor en el casco histórico de Alarcón sin autorización?",
+    "html": "<p>No sin autorización previa: el casco de Alarcón es conjunto histórico-artístico, así que cualquier obra visible, incluido un contenedor, necesita antes el visto bueno de la Consejería de Cultura, además de la <strong>licencia municipal</strong>. Consulta el proceso completo en <a href=\"/permisos/\">permisos</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo llega el contenedor a Alarcón y qué preparar en el acceso",
+    "html": "<p>El transporte de cualquier <strong>contenedor marítimo en Alarcón</strong> llega por carretera desde el puerto de Valencia, ya que el municipio no tiene puerto ni terminal propia: la autovía A-3 pasa junto al término, con Motilla del Palancar como núcleo de servicios más cercano. El meandro del Júcar deja un promontorio con una única entrada al casco, de calles medievales estrechas que no admiten vehículos pesados.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Cómo llega un contenedor hasta el casco histórico de Alarcón?",
+    "html": "<p>Por carretera desde el puerto de Valencia, por la A-3 hasta Motilla del Palancar y de ahí a Alarcón. Si la parcela está dentro del casco, la entrega se hace en el punto más próximo con acceso, porque sus calles no admiten vehículos pesados; en el llano del secano el acceso suele ser directo. Revisa las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> antes de la entrega.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Alarcón",
-    "html": "<p>Desde Alarcón se atiende también el resto de La Manchuela y la provincia de Cuenca, con municipios como Motilla del Palancar, hasta enlazar con <a href=\"/cuenca/\">contenedores marítimos en Cuenca</a> o con Albacete.</p>"
+    "html": "<p>Desde Alarcón se atiende también el resto de La Manchuela y la provincia de Cuenca, con municipios como Motilla del Palancar y Albacete, además de fincas de secano que piden habitualmente un <strong>contenedor de almacenamiento</strong> agrícola para cereal o viñedo.</p>"
    }
   ],
   "faq": {
@@ -58,19 +58,19 @@
    "items": [
     {
      "pregunta": "¿Qué tipo de licencia pide el Ayuntamiento de Alarcón para un contenedor?",
-     "respuesta": "Declaración responsable o licencia de obra menor, según sea un uso temporal o permanente, conforme a la ordenanza municipal y al TRLOTAU de Castilla-La Mancha. En suelo rústico hace falta además la calificación urbanística previa, que tramita la Comisión Provincial de Urbanismo de Cuenca."
+     "respuesta": "Declaración responsable o licencia de obra menor, según sea un uso temporal o permanente, conforme al TRLOTAU de Castilla-La Mancha. En suelo rústico hace falta además la calificación urbanística previa, que tramita la Comisión Provincial de Urbanismo de Cuenca."
     },
     {
-     "pregunta": "¿Puedo poner un contenedor en suelo rústico junto al embalse de Alarcón?",
-     "respuesta": "Sí, pidiendo antes la calificación urbanística que exige el TRLOTAU; es el trámite habitual para instalar un módulo de almacenamiento o turístico fuera del casco histórico, en las fincas de secano de La Manchuela que rodean el embalse, antes de pedir la licencia de obra menor."
+     "pregunta": "¿Afecta la protección de las Hoces de Alarcón a instalar un contenedor?",
+     "respuesta": "Puede afectar si la parcela está dentro de la ZEC Hoces de Alarcón, con su propio plan de gestión de Red Natura 2000; conviene consultarlo en el Ayuntamiento antes de pedir la calificación urbanística, sobre todo en fincas cercanas al cauce del Júcar o al embalse."
     },
     {
-     "pregunta": "¿Entregáis contenedores marítimos en toda la provincia de Cuenca?",
-     "respuesta": "Sí, entregamos en Alarcón y en el resto de la comarca de La Manchuela, con Motilla del Palancar como referencia de acceso desde la A-3; consulta también la ficha de <a href=\"/cuenca/\">contenedores marítimos en Cuenca</a> para el resto de la provincia."
+     "pregunta": "¿Entregáis en toda la provincia de Cuenca?",
+     "respuesta": "Sí, entregamos en Alarcón y en el resto de la comarca de La Manchuela, con Motilla del Palancar como referencia de acceso desde la A-3; consulta también la ficha de <a href=\"/cuenca/\">contenedores en Cuenca</a> para el resto de la provincia."
     },
     {
-     "pregunta": "¿Tenéis depósito de contenedores en Alarcón?",
-     "respuesta": "No; Alarcón es zona de servicio, no sede: el contenedor sale del puerto de València y llega por carretera hasta tu parcela, con presupuesto puesto en destino y sin coste de depósito local que puedan cobrarte de más, igual que en el resto de la comarca."
+     "pregunta": "¿Tenéis depósito propio en Alarcón?",
+     "respuesta": "No; Alarcón es zona de servicio, no sede: la unidad sale del puerto de Valencia y llega por carretera hasta tu parcela, con presupuesto puesto en destino y sin coste de depósito local añadido."
     }
    ]
   }

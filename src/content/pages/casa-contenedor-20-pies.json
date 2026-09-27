@@ -38,8 +38,8 @@
        "color": "#585858",
        "tipo": {
         "familia": "Abel",
-        "tamano": 55.0,
-        "tamanoMovil": 43.0,
+        "tamano": 55,
+        "tamanoMovil": 43,
         "peso": "600"
        }
       },
@@ -51,7 +51,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -60,13 +60,13 @@
        "html": "<p>En el panorama arquitectónico contemporáneo, las <strong>casa contenedor 20 pies</strong> han emergido como una solución audaz y eficiente para la vivienda moderna. Estas estructuras, basadas en la adaptación de contenedores de carga, encarnan la síntesis perfecta entre diseño vanguardista y sostenibilidad.</p>\n<p><strong>Optimización del Espacio y Versatilidad: </strong>La esencia de la <a href=\"/\">casa container</a> 20 pies radica en su capacidad para transformar contenedores de carga en espacios habitables excepcionalmente funcionales. Desde casas individuales hasta ambientes de trabajo, estas unidades de contenedor vivienda 20 pies demuestran cómo el ingenio arquitectónico puede maximizar eficazmente áreas aparentemente limitadas.</p>\n<p><strong>Sostenibilidad en la Reutilización: </strong>La reutilización de contenedores de carga subraya el compromiso de las casas contenedor de 20 pies con la sostenibilidad. Al convertir contenedores 20 pies en viviendas modernas y confortables, se reduce la demanda de nuevos materiales y se minimiza la huella ambiental, fomentando un enfoque eco-consciente en la construcción.</p>\n<p><strong>Innovación Constante: </strong>A pesar de los desafíos asociados, como la necesidad de una óptima aislación térmica y acústica, las casas contenedor de 20 pies continúan evolucionando. La constante investigación y desarrollo en técnicas constructivas prometen un futuro emocionante, donde la contenedor vivienda 20 pies se convertirá en una piedra angular de soluciones habitacionales modernas.</p>\n<p><b>Conclusión</b><strong>: Un Horizonte Habitacional Transformado: </strong>En conclusión, las casas contenedor de 20 pies marcan una pauta en la arquitectura contemporánea. Al aprovechar la estructura de contenedores 20 pies, estas viviendas ejemplifican cómo la innovación arquitectónica puede dar lugar a hogares cómodos, sostenibles y adaptados a las necesidades cambiantes de una sociedad en constante evolución.</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
-        "tamanoMovil": 20.0,
+        "tamano": 20,
+        "tamanoMovil": 20,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -77,7 +77,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "0px 0px 0px 0px",
    "columnas": [
     {
@@ -91,7 +91,7 @@
        "ancho": "100%"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -102,7 +102,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "0px 0px 0px 0px",
    "columnas": [
     {
@@ -116,7 +116,7 @@
        "ancho": "100%"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -135,7 +135,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -160,8 +160,8 @@
        "color": "#585858",
        "tipo": {
         "familia": "Abel",
-        "tamano": 44.0,
-        "tamanoMovil": 43.0,
+        "tamano": 44,
+        "tamanoMovil": 43,
         "peso": "600"
        }
       },
@@ -172,15 +172,15 @@
        "html": "<p>Te invitamos a descubrir una maravilla arquitectónica única: una casa diseñada a partir de dos contenedores de 20 pies, distribuidos en dos plantas y con la asombrosa capacidad de expandirse. Sumérgete en esta experiencia para explorar la unión perfecta entre diseño avanzado y funcionalidad adaptable en esta casa de vanguardia.</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
-        "tamanoMovil": 20.0,
+        "tamano": 20,
+        "tamanoMovil": 20,
         "peso": "400"
        }
       },
       {
        "t": "espaciador",
        "id": "eacc586",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "video",
@@ -188,7 +188,7 @@
        "url": "https://www.youtube.com/watch?v=KOjD-cbdvp8&ab_channel=SLAURS"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -207,7 +207,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -232,8 +232,8 @@
        "color": "#585858",
        "tipo": {
         "familia": "Abel",
-        "tamano": 44.0,
-        "tamanoMovil": 43.0,
+        "tamano": 44,
+        "tamanoMovil": 43,
         "peso": "600"
        }
       },
@@ -244,18 +244,18 @@
        "html": "<p>Este video te invita a explorar una casa sin igual: dos contenedores de 20 pies separados pero unidos en el centro, desplegándose para formar un espacio habitable expandible. Descubre cómo la arquitectura y la funcionalidad convergen en una planta única y adaptable. Bienvenidos a una nueva dimensión en la vivienda moderna.</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
-        "tamanoMovil": 20.0,
+        "tamano": 20,
+        "tamanoMovil": 20,
         "peso": "400"
        }
       },
       {
        "t": "espaciador",
        "id": "3afd40f",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -274,7 +274,7 @@
        "url": "https://www.youtube.com/watch?v=zCZSIG2vWEY"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -293,7 +293,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -318,8 +318,8 @@
        "color": "#585858",
        "tipo": {
         "familia": "Abel",
-        "tamano": 44.0,
-        "tamanoMovil": 43.0,
+        "tamano": 44,
+        "tamanoMovil": 43,
         "peso": "600"
        }
       },
@@ -330,15 +330,15 @@
        "html": "<p> Un contenedor de 20 pies se convierte en un espacio habitable expandible y versátil, representando un nuevo enfoque en la forma en que vivimos. Acompáñanos en esta travesía mientras descubrimos cómo la arquitectura y la innovación se unen en un hogar que evoluciona contigo.</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
-        "tamanoMovil": 20.0,
+        "tamano": 20,
+        "tamanoMovil": 20,
         "peso": "400"
        }
       },
       {
        "t": "espaciador",
        "id": "ecb3abf",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "video",
@@ -346,7 +346,7 @@
        "url": "https://www.youtube.com/watch?v=_2PZn-_YDSI&ab_channel=SLAURS"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -365,7 +365,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -387,7 +387,7 @@
        "color": "#383A3B",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "600"
        }
       },
@@ -397,7 +397,7 @@
        "url": "https://www.youtube.com/watch?v=ShkX1nXYD8Y"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     },
     {
@@ -411,7 +411,7 @@
        "color": "#383A3B",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "600"
        }
       },
@@ -421,7 +421,7 @@
        "url": "https://www.youtube.com/watch?v=1zgpOgpYMGI&t=15s"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     }
    ]
@@ -440,7 +440,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -461,7 +461,7 @@
        "color": "#383A3B",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "600"
        }
       },
@@ -471,7 +471,7 @@
        "url": "https://www.youtube.com/watch?v=BO11thZ5BSY&ab_channel=SLAURS"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     },
     {
@@ -485,7 +485,7 @@
        "color": "#383A3B",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "600"
        }
       },
@@ -495,7 +495,7 @@
        "url": "https://www.youtube.com/watch?v=Hao_cn9ML6c"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     }
    ]
@@ -511,10 +511,10 @@
       {
        "t": "espaciador",
        "id": "21c9ea6",
-       "alto": 32.0
+       "alto": 32
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -537,7 +537,7 @@
       {
        "t": "espaciador",
        "id": "be60fa0",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -551,8 +551,8 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Abel",
-        "tamano": 51.0,
-        "tamanoMovil": 42.0,
+        "tamano": 51,
+        "tamanoMovil": 42,
         "peso": "800"
        }
       },
@@ -568,8 +568,8 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Abel",
-        "tamano": 34.0,
-        "tamanoMovil": 34.0,
+        "tamano": 34,
+        "tamanoMovil": 34,
         "peso": "500"
        },
        "url": "https://prefabricadascasas.es/"
@@ -584,7 +584,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -630,10 +630,10 @@
       {
        "t": "espaciador",
        "id": "070ee21",
-       "alto": 32.0
+       "alto": 32
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -649,10 +649,10 @@
       {
        "t": "espaciador",
        "id": "341fb6c",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -671,8 +671,8 @@
       {
        "t": "espaciador",
        "id": "ae369f2",
-       "alto": 14.0,
-       "altoMovil": 16.0
+       "alto": 14,
+       "altoMovil": 16
       },
       {
        "t": "encabezado",
@@ -685,8 +685,8 @@
        "color": "#202020",
        "tipo": {
         "familia": "Roboto Slab",
-        "tamano": 43.0,
-        "tamanoMovil": 36.0,
+        "tamano": 43,
+        "tamanoMovil": 36,
         "peso": "400",
         "interlineado": 1.1,
         "interlineadoUnidad": "em",
@@ -696,7 +696,7 @@
       {
        "t": "espaciador",
        "id": "895e1b5",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "texto",
@@ -709,7 +709,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "400"
        }
       },
@@ -726,16 +726,16 @@
        "grosorBorde": "3px 3px 3px 3px",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 28.0,
-        "tamanoMovil": 23.0,
+        "tamano": 28,
+        "tamanoMovil": 23,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "5b00380",
-       "alto": 10.0,
-       "altoMovil": 16.0
+       "alto": 10,
+       "altoMovil": 16
       }
      ],
      "ancho": 56.49,
@@ -747,8 +747,8 @@
       {
        "t": "espaciador",
        "id": "76e0d58",
-       "alto": 10.0,
-       "altoMovil": 16.0
+       "alto": 10,
+       "altoMovil": 16
       },
       {
        "t": "imagen",
@@ -779,7 +779,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -804,8 +804,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
-        "tamanoMovil": 34.0,
+        "tamano": 42,
+        "tamanoMovil": 34,
         "peso": "600"
        }
       },
@@ -817,10 +817,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "62%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     },
     {
@@ -837,12 +837,12 @@
        "color": "#0A0A0A",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "400"
        }
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     }
    ]
@@ -866,13 +866,13 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "700"
        },
        "url": "/casa-contenedor-40-pies/"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -888,10 +888,10 @@
       {
        "t": "espaciador",
        "id": "45b114c",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -915,7 +915,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-un-contenedor/"
@@ -931,7 +931,7 @@
      ],
      "ancho": 24.775,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -948,7 +948,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-dos-contenedores/"
@@ -964,7 +964,7 @@
      ],
      "ancho": 25.18,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -981,7 +981,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-tres-contenedores/"
@@ -995,9 +995,9 @@
        "url": "/casa-con-tres-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1014,7 +1014,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-cuatro-contenedores/"
@@ -1028,9 +1028,9 @@
        "url": "/casa-con-cuatro-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1048,10 +1048,10 @@
       {
        "t": "espaciador",
        "id": "09be432",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1075,7 +1075,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -1089,9 +1089,9 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1108,7 +1108,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -1122,9 +1122,9 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1141,7 +1141,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/modulos-sanitarios/"
@@ -1155,9 +1155,9 @@
        "url": "/modulos-sanitarios/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1174,7 +1174,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -1188,9 +1188,9 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1208,10 +1208,10 @@
       {
        "t": "espaciador",
        "id": "01ae1e5",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1235,7 +1235,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/contenedores-maritimos/"
@@ -1249,9 +1249,9 @@
        "url": "/contenedores-maritimos/"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1269,10 +1269,10 @@
       {
        "t": "espaciador",
        "id": "8b3a64f",
-       "alto": 31.0
+       "alto": 31
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1295,12 +1295,12 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "700"
        }
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33
     },
     {
@@ -1316,12 +1316,12 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "700"
        }
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33
     },
     {
@@ -1337,12 +1337,12 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "700"
        }
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33
     }
    ]
@@ -1366,13 +1366,13 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "700"
        },
        "url": "/piscina-contenedor/"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1402,12 +1402,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1423,10 +1423,10 @@
       {
        "t": "espaciador",
        "id": "78b3514",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1451,12 +1451,12 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 28.0,
+        "tamano": 28,
         "peso": "700"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1475,7 +1475,7 @@
        "html": "<ul class=\"texto-negro-mediana\"><li>Contenedores marítimos transformados en <b>equipamientos sociales para ayuntamientos y organismos públicos</b></li><li>Contenedor transformado para el tratamiento y depuración de aguas</li><li>Contenedor convertido en taller</li><li>Contenedor marítimo transformado en un comercio</li><li>Contenedor solar autónomo</li><li>Módulo prefabricado vestuario</li><li>Contenedores para bares o restaurantes, en Centros comerciales, parques, playas o piscinas.</li><li>Contenedor almacén ligero</li></ul>"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     },
     {
@@ -1487,7 +1487,7 @@
        "html": "<ul class=\"texto-negro-mediana\"><li>Contenedor de 6 m transformado en una oficina</li><li>Módulo prefabricado forrado de madera</li><li>Contenedor marítimo para punto de venta o información</li><li>Módulos prefabricados para servicios diversos en playa</li><li>Contenedor transformado en laboratorio móvil</li><li>Contenedor transformado de altura 2,90m (hc) a uno con puertas laterales (openside)</li><li>Contenedor transformado de carga seca (dry) con y sin aislamiento térmico</li><li>Conjunto modular para oficina de campaña</li><li>Casas modulares prefabricadas, etc</li></ul>"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     }
    ]
@@ -1497,7 +1497,7 @@
    "id": "7b288ac",
    "disposicion": "full_width",
    "hueco": "custom",
-   "huecoPx": 49.0,
+   "huecoPx": 49,
    "margenMovil": "0px 0px 0px 0px",
    "fondo": {
     "imagen": "/wp-content/uploads/2021/06/casas-con-contenedores-precios.png",
@@ -1526,8 +1526,8 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
-        "tamanoMovil": 39.0,
+        "tamano": 42,
+        "tamanoMovil": 39,
         "peso": "400"
        }
       },
@@ -1538,7 +1538,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1549,7 +1549,7 @@
        "color": "#FEFEFE",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "400"
        }
       },
@@ -1563,12 +1563,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1587,7 +1587,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1619,7 +1619,7 @@
            "color": "#6D6D6D",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 33.0,
+            "tamano": 33,
             "peso": "400"
            }
           },
@@ -1630,7 +1630,7 @@
            "color": "#02E215",
            "grosor": 3.2,
            "ancho": "26%",
-           "hueco": 5.0
+           "hueco": 5
           },
           {
            "t": "texto",
@@ -1642,7 +1642,7 @@
            "color": "#676767",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 15.0,
+            "tamano": 15,
             "peso": "400"
            }
           }
@@ -1656,7 +1656,7 @@
           {
            "t": "espaciador",
            "id": "3a37f17",
-           "alto": 325.0
+           "alto": 325
           },
           {
            "t": "boton",
@@ -1668,14 +1668,14 @@
            "fondoHover": "#4F4444",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 19.0,
+            "tamano": 19,
             "peso": "500"
            }
           },
           {
            "t": "espaciador",
            "id": "83e259f",
-           "alto": 164.0
+           "alto": 164
           }
          ],
          "ancho": 44.634,
@@ -1730,7 +1730,7 @@
            "color": "#6D6D6D",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 33.0,
+            "tamano": 33,
             "peso": "400"
            }
           },
@@ -1741,7 +1741,7 @@
            "color": "#02E215",
            "grosor": 3.2,
            "ancho": "26%",
-           "hueco": 5.0
+           "hueco": 5
           },
           {
            "t": "texto",
@@ -1753,7 +1753,7 @@
            "color": "#676767",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 15.0,
+            "tamano": 15,
             "peso": "400"
            }
           }
@@ -1767,7 +1767,7 @@
           {
            "t": "espaciador",
            "id": "b65f511",
-           "alto": 310.0
+           "alto": 310
           },
           {
            "t": "boton",
@@ -1779,14 +1779,14 @@
            "fondoHover": "#4F4444",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 19.0,
+            "tamano": 19,
             "peso": "500"
            }
           },
           {
            "t": "espaciador",
            "id": "b823278",
-           "alto": 164.0
+           "alto": 164
           }
          ],
          "ancho": 44.634,
@@ -1820,7 +1820,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1837,7 +1837,7 @@
       {
        "t": "espaciador",
        "id": "a758e2a",
-       "alto": 233.0
+       "alto": 233
       },
       {
        "t": "encabezado",
@@ -1849,14 +1849,14 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 62.0,
+        "tamano": 62,
         "peso": "600"
        }
       },
       {
        "t": "espaciador",
        "id": "9b31301",
-       "alto": 53.0
+       "alto": 53
       },
       {
        "t": "texto",
@@ -1867,7 +1867,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 17.0,
+        "tamano": 17,
         "peso": "400",
         "interlineado": 1.6,
         "interlineadoUnidad": "em"
@@ -1876,7 +1876,7 @@
       {
        "t": "espaciador",
        "id": "a88fb12",
-       "alto": 99.0
+       "alto": 99
       }
      ],
      "ancho": 62.719,
@@ -1908,7 +1908,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -1928,7 +1928,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -1948,7 +1948,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -1968,7 +1968,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -1988,7 +1988,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -2027,7 +2027,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2043,7 +2043,7 @@
       {
        "t": "espaciador",
        "id": "514f6fe",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -2056,7 +2056,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2067,7 +2067,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -2079,7 +2079,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -2107,7 +2107,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -2131,7 +2131,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2147,7 +2147,7 @@
       {
        "t": "espaciador",
        "id": "56b0560",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -2160,7 +2160,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2171,7 +2171,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -2183,7 +2183,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -2211,7 +2211,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -2235,7 +2235,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2251,7 +2251,7 @@
       {
        "t": "espaciador",
        "id": "2d56733",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -2264,7 +2264,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2275,7 +2275,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -2287,7 +2287,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -2315,7 +2315,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -2339,7 +2339,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2355,7 +2355,7 @@
       {
        "t": "espaciador",
        "id": "f5597f0",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -2368,7 +2368,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2379,7 +2379,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -2391,7 +2391,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -2419,7 +2419,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -2443,7 +2443,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2468,7 +2468,7 @@
       {
        "t": "espaciador",
        "id": "6ea851e",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -2481,8 +2481,8 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
-        "tamanoMovil": 38.0,
+        "tamano": 43,
+        "tamanoMovil": 38,
         "peso": "400"
        }
       },
@@ -2497,7 +2497,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -2511,17 +2511,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "ec4a902",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2537,10 +2537,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2564,7 +2564,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2575,10 +2575,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2603,7 +2603,7 @@
        "color": "#31728E",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "600"
        },
        "url": "/casas-prefabricadas/"
@@ -2623,9 +2623,9 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   }
@@ -2638,47 +2638,62 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Medidas reales de un contenedor de 20 pies para vivienda",
-    "html": "<table><thead><tr><th></th><th>Exterior</th><th>Interior aproximado</th></tr></thead><tbody><tr><td>Contenedor de 20 pies</td><td>6,06 × 2,44 × 2,59 m</td><td>≈ 5,90 × 2,35 × 2,39 m (≈ 13,9 m² en planta)</td></tr><tr><td>Versión High Cube</td><td>2,90 m de alto exterior</td><td>≈ 2,69 m libres bajo techo</td></tr></tbody></table><p>Son las medidas de fábrica de un contenedor marítimo ISO 668 sin transformar; el hueco útil real se reduce un poco donde entran el aislamiento y los tabiques. Compara tamaños en <a href=\"/contenedores-20-pies/\">contenedores de 20 pies</a> y en la tabla de <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+    "titulo": "Medidas reales de la casa contenedor 20 pies",
+    "html": "<p>Antes de diseñar la distribución conviene partir de las medidas reales del contenedor, reguladas por la <strong>norma ISO 668</strong>.</p>\n<table>\n<thead><tr><th>Medida</th><th>Contenedor de 20 pies</th></tr></thead>\n<tbody>\n<tr><td>Exterior (largo x ancho x alto)</td><td>6,06 x 2,44 x 2,59 m</td></tr>\n<tr><td>Superficie interior aproximada</td><td>≈ 13,9 m²</td></tr>\n<tr><td>Ancho útil interior</td><td>2,35 m</td></tr>\n<tr><td>Alto exterior en versión High Cube</td><td>2,90 m (≈ 2,69 m de altura libre interior)</td></tr>\n</tbody>\n</table>\n<p>El <strong>ancho útil interior</strong> de 2,35 m es el dato que de verdad condiciona la distribución de baño, cocina y zona de descanso, no el ancho exterior. Compara este tamaño con el resto de la gama en las <a href=\"/contenedores-20-pies/\">fichas de contenedor de 20 pies</a> o revisa todas las medidas en <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué es la norma ISO 668 que regula las medidas del contenedor?",
+    "html": "<p>La norma ISO 668 es el estándar internacional que fija las medidas exteriores, la resistencia estructural y los <strong>puntos de anclaje</strong> de los contenedores marítimos, de modo que cualquier grúa, camión o buque preparado para contenedores estándar pueda manipularlos sin adaptaciones. Gracias a esta norma, un contenedor de 20 pies tiene siempre las mismas medidas exteriores en cualquier fabricante o país, lo que facilita el transporte y la fijación de la estructura una vez colocada en la parcela.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Para qué sirve una casa de 20 pies y cómo funcionan las versiones expandibles",
-    "html": "<p>Un solo contenedor de 20 pies casi nunca se plantea como vivienda principal completa: su punto fuerte es cubrir usos concretos, como un estudio de invitados, una oficina de jardín, un módulo de camping o glamping, o una primera pieza a la que luego se adosa otra.</p><p>Las versiones expandibles parten de un módulo central que despliega una o dos alas laterales ya en la parcela: se transporta como un único bulto y gana superficie sin sumar otro contenedor entero, aunque el punto de pliegue necesita refuerzos porque ahí se pierde parte de la rigidez de las paredes onduladas de fábrica.</p>"
+    "titulo": "Para qué sirve una casa de 20 pies y cómo funcionan las expandibles",
+    "html": "<p>Un solo <strong>contenedor de 20 pies</strong> rara vez se plantea como vivienda principal por su ancho útil limitado: funciona mejor como estudio independiente, alojamiento para invitados, oficina de jardín, módulo de camping o ampliación de una casa ya construida.</p>\n<p>En la versión expandible, el módulo viaja cerrado como un único bulto y, ya en la parcela, se despliegan una o dos alas laterales que ganan superficie habitable. Al cortar el cerramiento original para abrir ese hueco se pierde parte de la rigidez que aportaban las paredes, así que se refuerzan las cantoneras y el resto de la estructura que queda expuesta.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué licencia se necesita para instalar una casa contenedor de 20 pies?",
+    "html": "<p>Necesitas <strong>licencia de obra mayor</strong> cuando la instalación es fija y se destina a vivienda habitable, con un proyecto técnico visado que cumpla el Código Técnico de la Edificación (CTE) y la Ley de Ordenación de la Edificación (LOE); para usos temporales, auxiliares o desmontables, el ayuntamiento puede exigir solo licencia de obra menor o una declaración responsable. En ambos casos, la vivienda solo se considera habitable de forma legal una vez obtenida la cédula de habitabilidad o la licencia de primera ocupación, según la comunidad autónoma.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "20 pies o 40 pies: cuál elegir",
-    "html": "<p>El 20 pies gana cuando el acceso es estrecho o la grúa tiene poco espacio para maniobrar, porque pesa y ocupa menos que un 40 pies; también conviene en parcelas pequeñas, donde dos módulos en L aprovechan mejor una forma irregular que uno de 40 pies en línea. A cambio, tiene más superficie de pared (más puentes térmicos y más junta) por cada metro cuadrado útil. Compáralo en <a href=\"/casa-contenedor-40-pies/\">casa contenedor de 40 pies</a>.</p>"
+    "html": "<p>El contenedor de 20 pies se maniobra con más facilidad en parcelas pequeñas o con accesos estrechos, y su menor superficie reparte más pared por metro cuadrado construido, lo que suma huecos de luz natural. El de 40 pies gana en cambio en superficie corrida para una sola estancia sin particiones. Compáralos en la ficha de la <a href=\"/casa-contenedor-40-pies/\"><strong>casa contenedor de 40 pies</strong></a>.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Aislamiento, transporte y licencias en un módulo pequeño",
-    "html": "<p>El aislamiento se resuelve casi siempre por el exterior, con rotura de puente térmico en los perfiles y ventilación de la cámara: por dentro, el ancho útil ya es limitado (2,35 m) y forrar hacia adentro resta todavía más superficie habitable.</p><p>Para el transporte, el tamaño y el peso del módulo permiten normalmente un camión rígido con pluma o una grúa de menor tonelaje que la que exige un 40 pies.</p><p>La licencia no depende del tamaño del contenedor sino del uso: un módulo como caseta temporal de obra no tramita igual que una vivienda fija anclada a cimentación. Revisa qué exige tu ayuntamiento en <a href=\"/permisos/\">permisos</a>.</p>"
+    "html": "<p>En un módulo de este tamaño el aislamiento funciona mejor por el exterior: no resta ancho útil al interior y reduce el <strong>puente térmico</strong> que genera la propia chapa de acero en las uniones. En puertas y ventanas conviene pedir carpintería con rotura de puente térmico (RPT) y prever ventilación cruzada, porque un volumen pequeño y muy estanco acumula humedad con facilidad.</p>\n<p>El transporte de un único contenedor de 20 pies suele resolverse con un camión rígido con pluma o con una grúa de menor tamaño que la que exige un 40 pies, lo que facilita el acceso a calles estrechas. Antes de encargarlo conviene aclarar con el ayuntamiento si el uso será temporal o vivienda fija, porque los <a href=\"/permisos/\">permisos</a> exigibles cambian de un caso a otro.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué transporte especial necesita un contenedor de 20 pies hasta la parcela?",
+    "html": "<p>Un contenedor de 20 pies no suele necesitar transporte especial: su tamaño permite moverlo con un camión rígido con pluma o una grúa convencional, sin los permisos de carga ancha que a veces exige un 40 pies en accesos estrechos. Aun así, conviene comprobar con antelación el gálibo de calles y puertas de la parcela y prever los <strong>puntos de anclaje</strong> de las esquineras para la descarga y la fijación final, ya que de ahí cuelga toda la maniobra de izado.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre casas contenedor de 20 pies",
    "items": [
     {
-     "pregunta": "¿Cuántos m² reales tiene una casa contenedor de 20 pies?",
-     "respuesta": "Por dentro, un contenedor de 20 pies mide aproximadamente 5,90 × 2,35 m, unos 13,9 m² en planta. Esa cifra es la del módulo de fábrica sin transformar: al montar tabiques, baño y aislamiento, la superficie útil final se reduce un poco respecto a esos 13,9 m²."
+     "pregunta": "¿Cuántos metros cuadrados reales tiene una casa contenedor de 20 pies?",
+     "respuesta": "La superficie interior ronda los 13,9 m², pero el ancho útil real es de 2,35 m, no los 2,44 m exteriores: ese margen lo ocupan el aislamiento y el acabado interior. Es la cifra que hay que usar al planificar la distribución de baño, cocina y zona de descanso."
     },
     {
-     "pregunta": "¿Cabe un baño y una cocina en un solo contenedor de 20 pies?",
-     "respuesta": "Sí, con un diseño ajustado: en 13,9 m² suele plantearse un baño compacto, una cocina en línea o en L y una zona de estar y dormitorio que comparten espacio. Es la solución habitual para un estudio o una oficina de jardín; para habitaciones separadas conviene combinar varios módulos."
+     "pregunta": "¿Cabe un baño y una cocina en un contenedor de 20 pies?",
+     "respuesta": "Sí, aunque el margen es ajustado. Con 2,35 m de ancho útil, lo habitual es colocar el baño en un extremo y la cocina en línea junto a una pared larga, dejando el resto como zona de estar. En la versión expandible ese reparto se hace más cómodo al ganar superficie con las alas desplegadas."
     },
     {
-     "pregunta": "¿Se pueden apilar contenedores de 20 pies para hacer una casa de dos plantas?",
-     "respuesta": "Sí: los contenedores están preparados de fábrica para apilarse porque la carga se transmite por las esquinas, en las cantoneras. Lo que cambia en una casa de dos plantas es el cálculo estructural y los refuerzos donde se abren huecos grandes de puertas o ventanas."
+     "pregunta": "¿Se pueden apilar dos contenedores de 20 pies para hacer una casa de dos plantas?",
+     "respuesta": "Sí, es una de las combinaciones más habituales: dos contenedores de 20 pies, uno sobre otro, dan una vivienda de dos plantas con una huella de unos 13,9 m² por planta. El peso se apoya y se refuerza en las cantoneras, los puntos diseñados de fábrica para soportar carga vertical."
     },
     {
      "pregunta": "¿Necesita cimentación una casa hecha con un contenedor de 20 pies?",
-     "respuesta": "Sí. Aunque llega como una pieza cerrada y rígida, como vivienda fija necesita un apoyo continuo y nivelado bajo sus cuatro esquinas, definido en el proyecto según el terreno. Un contenedor apoyado sin cimentación se considera instalación temporal, no vivienda, y no tramita como tal."
+     "respuesta": "Sí. Aunque sea un módulo ligero, necesita apoyos o una cimentación que reparta su peso y lo nivele, igual que cualquier construcción fija. El tipo concreto, zapatas puntuales, losa o dados de hormigón, depende del terreno y lo define el proyecto técnico según cada parcela."
     },
     {
-     "pregunta": "¿Se pueden unir dos contenedores de 20 pies en un mismo módulo?",
-     "respuesta": "Sí: dos contenedores de 20 pies unidos por un lateral equivalen aproximadamente a uno de 40 pies en superficie, pero permiten formas en L o con un módulo desplazado que un contenedor largo no ofrece. La unión exige reforzar la zona de corte para compensar la rigidez de las paredes originales."
+     "pregunta": "¿Se pueden unir dos contenedores de 20 pies para ganar espacio?",
+     "respuesta": "Sí, es otra alternativa a la versión expandible: se colocan uno junto a otro, con o sin separación entre ellos, y se comunican abriendo un hueco en las paredes laterales. Cada apertura exige reforzar la estructura, porque se retira parte del acero que aportaba rigidez al conjunto."
     }
    ]
   }

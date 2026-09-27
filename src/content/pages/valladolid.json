@@ -2518,5 +2518,64 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1268,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Casas contenedores en Valladolid: licencia y suelo del alfoz",
+    "html": "<p>La Ley de Urbanismo de Castilla y León (Ley 5/1999) distingue suelo urbano, urbanizable y rústico; el caso más frecuente es una parcela urbana en la capital o en un municipio del alfoz, y una nave o módulo en polígono si el uso es industrial. La revisión del Plan General, aprobada mediante Orden FYM/468/2020, rige el <strong>planeamiento urbanístico vigente</strong>; consulta la ficha de la parcela en <a href=\"/permisos/\">permisos y licencias</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Hace falta cédula de habitabilidad en Castilla y León?",
+    "html": "<p>No: Castilla y León suprimió la cédula de habitabilidad por decreto, así que el documento que acredita que la vivienda es habitable es la <strong>licencia de primera ocupación</strong> que tramita el Ayuntamiento de Valladolid al terminar la obra, junto con el certificado final del arquitecto.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Transporte del contenedor hasta tu parcela en Valladolid",
+    "html": "<p>Valladolid no tiene puerto propio: el contenedor llega por carretera desde puertos del Cantábrico, con acceso directo por la A-62 y la A-11. La ciudad es además un nodo del Corredor Atlántico europeo, con ferrocarril convencional y de alta velocidad, aunque el tramo final hasta tu parcela siempre se hace con camión y grúa. En el centro histórico peatonalizado, con calles estrechas, conviene revisar antes el acceso.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puede entrar el camión grúa en el centro histórico de Valladolid?",
+    "html": "<p>En las calles peatonalizadas del centro, estrechas y con edificios catalogados, el camión con grúa necesita un punto de descarga cercano y autorización municipal previa; en el alfoz y en los polígonos industriales el acceso es más directo.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Heladas, nieblas y aislamiento de la vivienda modular en Valladolid",
+    "html": "<p>La capital está en <strong>zona climática D2</strong> del Código Técnico, con heladas frecuentes, nieblas persistentes por inversión térmica en invierno y fuerte oscilación térmica diaria en verano; en las cotas altas de la provincia la zona sube a E1. Un proyecto bien resuelto refuerza el aislamiento continuo por el exterior y evita el puente térmico en las cantoneras.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Por qué es tan importante evitar el puente térmico en un clima con heladas?",
+    "html": "<p>Porque el acero transmite el frío mucho más rápido que un muro de fábrica: sin un <strong>aislamiento continuo</strong> por el exterior, las heladas y la niebla invernal generan puntos fríos y condensación en las cantoneras y en los encuentros entre módulos.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Valladolid",
+   "items": [
+    {
+     "pregunta": "¿Hay riesgo de inundación en Valladolid para esta construcción?",
+     "respuesta": "El Pisuerga y el Esgueva, ya canalizado, tienen antecedentes de inundación en algunos tramos: antes de construir conviene comprobar la zona de la parcela en el Sistema Nacional de Cartografía de Zonas Inundables. Fuera de esas franjas, el resto del suelo urbano y del alfoz no tiene esta limitación adicional."
+    },
+    {
+     "pregunta": "¿Necesito licencia de obra mayor para esta construcción en Valladolid?",
+     "respuesta": "Sí, como cualquier vivienda nueva: <strong>licencia de obra mayor</strong> del Ayuntamiento de Valladolid, con un proyecto de arquitecto conforme a la Ley de Ordenación de la Edificación y el Código Técnico, sobre el planeamiento vigente. Al terminar la obra se tramita la licencia de primera ocupación, ya que en Castilla y León no existe cédula de habitabilidad."
+    },
+    {
+     "pregunta": "¿Puedo instalar una vivienda de contenedores en suelo rústico de Castilla y León?",
+     "respuesta": "Depende de la clasificación exacta: la Ley de Urbanismo de Castilla y León admite en algunos suelos rústicos usos vinculados a la explotación agraria, pero no una vivienda libre sin más. Pide la calificación urbanística de la parcela en el ayuntamiento correspondiente antes de comprar terreno o contenedores."
+    },
+    {
+     "pregunta": "¿Vendéis también contenedores marítimos en Valladolid, no solo casas?",
+     "respuesta": "Sí, trabajamos con <strong>contenedores marítimos</strong> para almacén, oficina o módulo en toda la provincia y en el alfoz, con presupuesto puesto en destino. Consulta la ficha de <a href=\"/contenedores-maritimos-valladolid/\">contenedores marítimos en Valladolid</a> para ver tipos, medidas y condiciones de entrega, también en <a href=\"/zamora/\">Zamora</a>."
+    },
+    {
+     "pregunta": "¿Aguanta el clima de Valladolid una vivienda con contenedores marítimos?",
+     "respuesta": "Sí, con el proyecto adecuado: la clave está en el aislamiento continuo por el exterior y en evitar el puente térmico en las cantoneras, ya que la capital está en zona climática D2, con heladas e inversión térmica frecuentes en invierno."
+    }
+   ]
+  }
+ }
 }

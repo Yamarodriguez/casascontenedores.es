@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "Casas contenedores en Las Palmas: cómo llega el contenedor a tu parcela",
-    "html": "<p>Las Palmas de Gran Canaria se apoya en el Puerto de La Luz y de Las Palmas, puerto de contenedores y hub de transbordo entre África, América y Europa. Desde la Península, el contenedor cubre un tramo marítimo obligatorio; a Lanzarote o Fuerteventura se suma un tramo interinsular. La circunvalación GC-1, GC-2 y GC-3 conecta el puerto con el municipio. Consulta <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> y <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a>.</p>"
+    "html": "<p>Las Palmas de Gran Canaria se apoya en el Puerto de La Luz y de Las Palmas, puerto de contenedores y hub de transbordo entre África, América y Europa. Desde la Península, el contenedor cubre un <strong>tramo marítimo</strong> obligatorio; a Lanzarote o Fuerteventura se suma un tramo interinsular. La circunvalación GC-1, GC-2 y GC-3 conecta el puerto con el municipio. Consulta <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> y <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a>.</p>"
    },
    {
     "nivel": "h3",
@@ -29,47 +29,47 @@
    },
    {
     "nivel": "h2",
-    "titulo": "Licencia de obra y cédula de habitabilidad para tu casa contenedor en Las Palmas",
-    "html": "<p>En Las Palmas, construir una casa contenedor exige <strong>licencia de obra mayor</strong> conforme al Plan General de 2012 (BOC de 4 de diciembre de 2012). La Ley 4/2017 distingue suelo urbano, urbanizable, rústico y asentamientos rurales; el caso típico es parcela urbana en la ciudad alta o en ladera de barranco.</p><p>Al terminar la obra hace falta la <strong>cédula de habitabilidad</strong> del Decreto 117/2006, que expide el ayuntamiento con apoyo del Instituto Canario de la Vivienda, además de la licencia de primera ocupación; resúlvelo en <a href=\"/permisos/\">permisos y licencias para casas contenedores</a>.</p>"
+    "titulo": "Licencia de obra y cédula de habitabilidad en Las Palmas",
+    "html": "<p>En Las Palmas, construir una vivienda de contenedores exige <strong>licencia de obra mayor</strong> conforme al Plan General de Ordenación vigente, con modificaciones puntuales en tramitación. La Ley 4/2017 distingue suelo urbano, urbanizable, rústico y asentamientos rurales; el caso típico es parcela urbana en la ciudad alta o en ladera de barranco.</p><p>Al terminar la obra hace falta la <strong>cédula de habitabilidad</strong> del Decreto 117/2006, que expide el ayuntamiento con apoyo del Instituto Canario de la Vivienda, además de la licencia de primera ocupación; resuélvelo en <a href=\"/permisos/\">permisos y licencias para casas contenedores</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Se puede construir una casa contenedor en Vegueta o Triana?",
-    "html": "<p>Vegueta y Triana son Conjunto Histórico y su trama está protegida: cualquier obra allí pasa por un control adicional sobre fachadas y volumetría. Fuera del casco histórico, el Plan General de 2012 regula caso por caso cada parcela.</p>"
+    "titulo": "¿Se puede construir en Vegueta o Triana?",
+    "html": "<p>Vegueta y Triana son Conjunto Histórico y su trama está protegida: cualquier obra allí pasa por un control adicional sobre fachadas y volumetría. Fuera del casco histórico, el Plan General de Ordenación vigente regula caso por caso cada parcela.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "El clima de Gran Canaria y el aislamiento de la casa contenedor",
+    "titulo": "El clima de Gran Canaria y el aislamiento de la vivienda",
     "html": "<p>La capital y la franja baja están en zona climática α3 del CTE; las cotas medias y altas suben a A2, B2 o C2. Los alisios del noreste y la nubosidad baja, conocida como panza de burro, dejan un clima húmedo pero suave, así que el aislamiento se centra en ventilación cruzada y protección solar más que en el frío.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Corroe el ambiente salino de Canarias un contenedor marítimo?",
-    "html": "<p>Sí, el acero puede sufrir corrosión acelerada por el salitre de la costa. Una casa contenedor para Canarias necesita un <strong>tratamiento anticorrosión reforzado</strong> en cortes y soldaduras, con revisiones periódicas en las zonas más expuestas al aire marino.</p>"
+    "html": "<p>Sí, el acero puede sufrir corrosión acelerada por el salitre de la costa. Una <strong>casa contenedor de 40 pies</strong> para Canarias necesita un tratamiento anticorrosión reforzado en cortes y soldaduras, con revisiones periódicas en las zonas más expuestas al aire marino.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre casas contenedores en Las Palmas",
    "items": [
     {
-     "pregunta": "¿Puedo instalar una casa contenedor en suelo rústico de Gran Canaria?",
+     "pregunta": "¿Puedo instalar una vivienda de contenedores en suelo rústico de Gran Canaria?",
      "respuesta": "Depende de la categoría: la Ley 4/2017 distingue suelo rústico de protección ambiental, económica, de infraestructuras y común, además de los asentamientos rurales del interior del municipio, donde es más habitual encontrar vivienda unifamiliar. Consulta con el ayuntamiento la categoría exacta de tu parcela antes de comprar contenedores."
     },
     {
-     "pregunta": "¿Afecta la Ley de Costas a una casa contenedor en Las Palmas?",
+     "pregunta": "¿Afecta la Ley de Costas a una parcela en Las Palmas?",
      "respuesta": "Sí, la <strong>Ley de Costas</strong> (Ley 22/1988) protege todo el litoral de Gran Canaria con una servidumbre que limita la construcción cerca del mar. Si tu parcela está próxima a la costa o a espacios como La Isleta, pide antes un informe urbanístico que confirme si el uso residencial es posible."
     },
     {
      "pregunta": "¿Se inunda una parcela por los barrancos de Las Palmas?",
-     "respuesta": "Los barrancos que cruzan el municipio, como el Guiniguada, pueden suponer riesgo en episodios de lluvia intensa. Antes de elegir parcela para tu casa contenedor conviene revisar su situación respecto al cauce y seguir las indicaciones del planeamiento municipal sobre estas zonas."
+     "respuesta": "Los barrancos que cruzan el municipio, como el Guiniguada, pueden suponer riesgo en episodios de lluvia intensa. Antes de elegir parcela para tu vivienda conviene revisar su situación respecto al cauce y seguir las indicaciones del planeamiento municipal sobre estas zonas."
     },
     {
-     "pregunta": "¿Aguanta el salitre y la humedad de Canarias una casa contenedor?",
-     "respuesta": "Sí, si el proyecto lo prevé: la casa contenedor necesita un tratamiento anticorrosión reforzado frente al ambiente salino de la costa grancanaria y ventilación cruzada para compensar la humedad de los alisios y la nubosidad baja habitual del norte de la isla."
+     "pregunta": "¿Aguanta el salitre y la humedad de Canarias esta vivienda?",
+     "respuesta": "Sí, si el proyecto lo prevé: la vivienda necesita un tratamiento anticorrosión reforzado frente al ambiente salino de la costa grancanaria y ventilación cruzada para compensar la humedad de los alisios y la nubosidad baja habitual del norte de la isla."
     },
     {
      "pregunta": "¿También vendéis contenedores marítimos en Las Palmas?",
-     "respuesta": "El Puerto de La Luz y de Las Palmas no solo recibe contenedores para tu proyecto de vivienda: al ser hub de transbordo interinsular, también distribuimos unidades para almacén, obra o negocio hacia Lanzarote y Fuerteventura desde Gran Canaria. Consulta <a href=\"/contenedores-maritimos-las-palmas/\">contenedores marítimos en Las Palmas</a> para ver la ficha completa con tipos y condiciones."
+     "respuesta": "El Puerto de La Luz y de Las Palmas no solo recibe contenedores para tu proyecto de vivienda: al ser hub de transbordo interinsular, también distribuimos unidades para almacén, obra o negocio hacia Lanzarote y Fuerteventura desde Gran Canaria. Consulta <a href=\"/contenedores-maritimos-las-palmas/\">contenedores marítimos en Las Palmas</a> para ver tipos y condiciones disponibles."
     }
    ]
   }

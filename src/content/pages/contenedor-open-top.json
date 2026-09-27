@@ -25,7 +25,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px -3px 0px",
    "columnas": [
     {
@@ -42,10 +42,10 @@
       {
        "t": "espaciador",
        "id": "2cfcca2",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -61,7 +61,7 @@
       {
        "t": "espaciador",
        "id": "268bab2",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -75,7 +75,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -86,12 +86,12 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "espaciador",
        "id": "fb0647b",
-       "alto": 56.0
+       "alto": 56
       },
       {
        "t": "texto",
@@ -103,7 +103,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -117,7 +117,7 @@
       {
        "t": "espaciador",
        "id": "b91bc87",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -130,7 +130,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -155,7 +155,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -182,7 +182,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         },
         {
@@ -197,7 +197,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         }
        ]
@@ -222,8 +222,8 @@
       {
        "t": "espaciador",
        "id": "3fe8f7f",
-       "alto": 44.0,
-       "altoMovil": 16.0
+       "alto": 44,
+       "altoMovil": 16
       },
       {
        "t": "encabezado",
@@ -235,15 +235,15 @@
        "color": "#5C5C68",
        "tipo": {
         "familia": "Satisfy",
-        "tamano": 52.0,
-        "tamanoMovil": 52.0,
+        "tamano": 52,
+        "tamanoMovil": 52,
         "peso": "600"
        }
       },
       {
        "t": "espaciador",
        "id": "06d646f",
-       "alto": 26.0
+       "alto": 26
       },
       {
        "t": "texto",
@@ -256,7 +256,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "400"
        }
       },
@@ -270,7 +270,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -311,7 +311,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -329,7 +329,7 @@
       {
        "t": "espaciador",
        "id": "d1f30a4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -340,7 +340,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-20-pies/"
@@ -356,12 +356,12 @@
       {
        "t": "espaciador",
        "id": "26344cc",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -372,7 +372,7 @@
       {
        "t": "espaciador",
        "id": "b0341e4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -383,7 +383,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-40-pies/"
@@ -397,9 +397,9 @@
        "url": "/contenedores-40-pies/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -410,7 +410,7 @@
       {
        "t": "espaciador",
        "id": "3c118ee",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -421,7 +421,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-flat-rack/"
@@ -435,7 +435,7 @@
        "url": "/contenedor-flat-rack/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -447,7 +447,7 @@
       {
        "t": "espaciador",
        "id": "513a343",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -458,7 +458,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-high-cube/"
@@ -472,7 +472,7 @@
        "url": "/contenedor-high-cube/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -491,10 +491,10 @@
       {
        "t": "espaciador",
        "id": "73f5aa4",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -517,7 +517,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -528,7 +528,7 @@
        "alt": "Contenedores-maritimos-almacenaje"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -546,7 +546,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -557,7 +557,7 @@
        "alt": "Contenedores-maritimos-ventilados"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -575,7 +575,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -586,7 +586,7 @@
        "alt": ""
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -604,7 +604,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -615,7 +615,7 @@
        "alt": "Contenedores-maritimos-open-side"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -633,7 +633,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -644,7 +644,7 @@
        "alt": "Contenedores-maritimos-dry-van"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -663,10 +663,10 @@
       {
        "t": "espaciador",
        "id": "67faa2f",
-       "alto": 53.0
+       "alto": 53
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -689,7 +689,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/"
@@ -702,7 +702,7 @@
        "url": "/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -720,7 +720,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -733,7 +733,7 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -751,7 +751,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/modulos-sanitarios/"
@@ -765,7 +765,7 @@
        "url": "/modulos-sanitarios/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -783,7 +783,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -797,7 +797,7 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -815,7 +815,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -829,7 +829,7 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -848,7 +848,7 @@
       {
        "t": "espaciador",
        "id": "d98d6a8",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "boton",
@@ -860,12 +860,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -884,7 +884,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -900,7 +900,7 @@
       {
        "t": "espaciador",
        "id": "09777f9",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -913,7 +913,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -924,7 +924,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -936,7 +936,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -964,14 +964,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -989,7 +989,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1005,7 +1005,7 @@
       {
        "t": "espaciador",
        "id": "5269422",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1018,7 +1018,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1029,7 +1029,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1041,7 +1041,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1069,14 +1069,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1094,7 +1094,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1110,7 +1110,7 @@
       {
        "t": "espaciador",
        "id": "78f3001",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1123,7 +1123,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1134,7 +1134,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1146,7 +1146,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1174,14 +1174,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1199,7 +1199,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1215,7 +1215,7 @@
       {
        "t": "espaciador",
        "id": "63a0414",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1228,7 +1228,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1239,7 +1239,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1251,7 +1251,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1279,14 +1279,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1304,7 +1304,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1328,7 +1328,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1339,7 +1339,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1351,12 +1351,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1378,12 +1378,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1400,7 +1400,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1411,7 +1411,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1423,12 +1423,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1450,12 +1450,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     }
    ]
@@ -1474,7 +1474,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1501,7 +1501,7 @@
       {
        "t": "espaciador",
        "id": "00fcbd2",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -1514,7 +1514,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -1528,7 +1528,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -1542,17 +1542,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "168b716",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1568,10 +1568,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1595,7 +1595,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1606,10 +1606,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1634,7 +1634,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 31.0,
+        "tamano": 31,
         "peso": "500"
        },
        "url": "/casas-prefabricadas/"
@@ -1654,14 +1654,14 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 25.0,
+        "tamano": 25,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   }
@@ -1669,5 +1669,59 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3697,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Qué es un contenedor open top y para qué se usa",
+    "html": "<p>El <strong>contenedor open top</strong> sustituye el techo rígido por una lona reforzada montada sobre arcos desmontables y un dintel abatible en uno de los extremos. Esta apertura superior permite cargar con grúa piezas que no caben por la puerta trasera, como maquinaria, planchas de vidrio, bobinas o maderas largas, y por eso también funciona como almacén con acceso desde arriba cuando conviene bajar la carga con polea en lugar de maniobrar por los batientes.</p><p>La base mantiene las medidas ISO 668 habituales: un contenedor de 20 pies mide 6,06 × 2,44 × 2,59 m y ronda los 13,9 m² interiores, y un <strong>contenedor de 40 pies</strong> mide 12,19 × 2,44 × 2,59 m con cerca de 28,3 m² interiores. Lo que cambia es que la carga puede sobresalir por encima del plano de la lona (carga «out of gauge»), así que conviene avisarlo antes de contratar el transporte. Puedes comparar estas cifras con las de otros formatos en <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Hace falta licencia de obra para instalar un contenedor open top como almacén fijo?",
+    "html": "<p>Necesitas licencia cuando la instalación deja de ser provisional y pasa a fijarse al terreno con cimentación o conexión a redes; en ese caso, el ayuntamiento suele exigir una <strong>licencia de obra mayor</strong> en lugar de una simple comunicación previa. El Código Técnico de la Edificación (CTE) y la Ley de Ordenación de la Edificación (LOE) determinan qué requisitos técnicos debe cumplir la estructura según el uso que le des, así que conviene consultarlo con el técnico municipal antes de decidir la cimentación.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué normativa regula el transporte de una carga que sobresale del contenedor?",
+    "html": "<p>El transporte de mercancía que asoma por encima de la lona se tramita como <strong>transporte especial</strong>, con la señalización y los itinerarios que marca la normativa de tráfico para este tipo de porte. La empresa transportista debe conocer de antemano el exceso de altura para solicitar el permiso correspondiente y elegir un recorrido compatible con puentes, túneles y líneas eléctricas, algo que no hace falta cuando la carga queda dentro del volumen estándar ISO 668.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puede convertirse un contenedor open top en vivienda con cédula de habitabilidad?",
+    "html": "<p>Un contenedor open top no está pensado para vivienda porque su cerramiento superior es una lona y no un techo estanco y aislado, condición que exige el CTE para conceder la <strong>cédula de habitabilidad</strong>. Si el proyecto busca uso residencial, hace falta partir de un modelo de techo fijo, presentar un proyecto visado y solicitar la licencia de primera ocupación una vez terminada la obra, trámites que no aplican a una unidad destinada solo a almacenaje o transporte.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Qué revisar antes de comprar uno de segunda mano",
+    "html": "<p>Frente a un <strong>modelo de techo fijo</strong>, la lona es el punto más débil frente a la estanqueidad y al paso del tiempo. En una <a href=\"/contenedores-maritimos-segunda-mano/\">unidad de segunda mano</a> conviene revisar que la lona no esté agrietada, que los arcos no estén doblados y que el dintel abra y cierre sin forzar antes de dar por buena la compra. Si necesitas comparar con otro formato de carga superior, el <a href=\"/contenedor-flat-rack/\">contenedor flat rack</a> es otra opción cuando, además de alta, la pieza es ancha.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre el contenedor open top",
+   "items": [
+    {
+     "pregunta": "¿Se puede cambiar la lona por un techo fijo?",
+     "respuesta": "No es un cambio habitual: la estructura lleva arcos desmontables y un dintel abatible pensados para la lona, no para un techo soldado. Si necesitas estanqueidad total y no vas a cargar por arriba, suele ser más práctico partir de un high cube o un dry van y adaptar la puerta según la carga que muevas."
+    },
+    {
+     "pregunta": "¿Es estanco con la lona?",
+     "respuesta": "La lona impermeabiliza frente a la lluvia cuando está bien tensada y sin roturas, pero no iguala la estanqueidad de un techo de chapa soldada. Con el paso del tiempo puede perder flexibilidad o rasgarse en los pliegues, así que conviene revisarla antes de guardar mercancía sensible a la humedad."
+    },
+    {
+     "pregunta": "¿Necesito grúa para cargarlo?",
+     "respuesta": "Para piezas que superan la altura de las puertas o no entran por el hueco trasero, sí: se retira la lona, se abren los arcos o el dintel y una grúa introduce la carga desde arriba. Para mercancía que cabe por las puertas, se carga igual que en un contenedor estándar, sin maquinaria adicional."
+    },
+    {
+     "pregunta": "¿Sirve de almacén?",
+     "respuesta": "Sí, funciona como almacén cuando interesa bajar piezas altas o voluminosas con polea en lugar de maniobrar por las puertas. Para guardar mercancía sensible a la humedad de forma permanente suele preferirse un modelo de techo fijo, con menos partes móviles que revisar y mayor estanqueidad."
+    },
+    {
+     "pregunta": "¿Qué diferencia hay con un flat rack?",
+     "respuesta": "El flat rack prescinde también de los laterales y deja la carga expuesta por los cuatro costados, mientras que este modelo conserva las paredes cerradas y solo abre el techo. Elige flat rack para piezas muy anchas y esta unidad cuando la carga es alta pero cabe dentro del ancho estándar."
+    }
+   ]
+  }
+ }
 }

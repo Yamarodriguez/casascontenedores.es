@@ -2518,5 +2518,60 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1351,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Casas contenedores en Vigo: cómo llega el contenedor desde la ría",
+    "html": "<p>El contenedor para tu vivienda sale de la propia ciudad: la terminal de Guixar, con conexión ferroviaria, y el acceso por la AP-9 y la VG-20 sitúan el transporte dentro del municipio, sin depender de un puerto lejano. El valle está rodeado de montes con laderas de pendiente marcada, así que en las parroquias conviene revisar antes el <strong>espacio de maniobra</strong> del camión con grúa; en Casco Vello, las calles estrechas condicionan además el punto de descarga.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puede entrar el camión con grúa en las parroquias de Vigo?",
+    "html": "<p>En varias parroquias, los caminos son estrechos y con muros de cierre que limitan el radio de giro del camión con grúa; conviene comprobarlo antes de fijar la fecha de entrega. En los polígonos y en la Zona Franca, el acceso suele ser mucho más directo.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Lluvia, salitre y vientos atlánticos: el clima de Vigo y el aislamiento",
+    "html": "<p>Vigo está en <strong>zona climática C1</strong>, aunque en las parroquias más altas del municipio puede subir a D1; el fenómeno local más determinante es la lluvia abundante, la humedad y el salitre de la ría, junto con los vientos atlánticos. En una vivienda con contenedores marítimos esto exige estanqueidad reforzada en cubierta y carpintería, y buena protección del acero frente al salitre.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Por qué hace falta más estanqueidad en una construcción junto a la ría?",
+    "html": "<p>Porque la lluvia abundante y el salitre de la ría exigen sellados más cuidados en cubierta y en los encuentros entre módulos; sin esta <strong>estanqueidad reforzada</strong>, la humedad y la corrosión aparecen antes que en el interior de la provincia.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Suelo de núcleo rural y licencia para construir en Vigo",
+    "html": "<p>La Ley del suelo de Galicia (Ley 2/2016) distingue el suelo urbano del casco y el Ensanche del suelo de núcleo rural, muy extendido en las parroquias, donde suele admitirse la vivienda unifamiliar en asentamientos tradicionales; el suelo rústico de montes, costa y cauces está protegido. Al terminar la obra, Galicia no exige cédula: el Concello tramita una <strong>comunicación previa</strong> de primera ocupación, con el trámite detallado en <a href=\"/permisos/\">permisos y licencias</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Se puede construir cerca de las Illas Cíes o en el Casco Vello?",
+    "html": "<p>No: las Illas Cíes forman parte del Parque Nacional das Illas Atlánticas y tienen protección estricta, y el Casco Vello cuenta con un plan especial que limita las obras nuevas. Fuera de estos ámbitos, el suelo de núcleo rural y los polígonos siguen el trámite habitual.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Vigo",
+   "items": [
+    {
+     "pregunta": "¿Puedo instalar una vivienda de contenedores en una parroquia de Vigo?",
+     "respuesta": "Sí, si la parcela está clasificada como suelo de núcleo rural, la figura gallega que admite vivienda unifamiliar en asentamientos tradicionales; en suelo rústico de protección forestal o de costa la construcción está muy limitada. Antes de comprar parcela o contenedores, pide la calificación urbanística exacta al Concello de Vigo; la normativa autonómica es la misma en toda <a href=\"/galicia/\">Galicia</a>."
+    },
+    {
+     "pregunta": "¿Qué documento acredita que la vivienda es habitable en Galicia?",
+     "respuesta": "Galicia no tiene cédula de habitabilidad autonómica: el documento es la <strong>comunicación previa</strong> de primera ocupación que se presenta ante el Concello al terminar la obra, junto con el certificado final del arquitecto conforme a la Ley de Ordenación de la Edificación."
+    },
+    {
+     "pregunta": "¿Aguanta el clima de Vigo una construcción con contenedores marítimos?",
+     "respuesta": "Sí, con el proyecto adecuado: la clave está en la estanqueidad de cubierta y carpintería frente a la lluvia y la humedad de la ría, y en la protección del acero frente al salitre, más que en un espesor concreto de aislamiento."
+    },
+    {
+     "pregunta": "¿Vendéis también contenedores marítimos en Vigo, no solo casas?",
+     "respuesta": "Sí, trabajamos con <strong>contenedores marítimos</strong> para almacén, oficina o módulo naval en toda la ría, con presupuesto puesto en destino. Consulta la ficha de <a href=\"/contenedores-maritimos-pontevedra/\">contenedores marítimos en Pontevedra</a> para ver tipos y condiciones de entrega en Vigo y en el resto de la provincia."
+    }
+   ]
+  }
+ }
 }

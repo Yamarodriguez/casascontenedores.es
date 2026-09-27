@@ -24,18 +24,18 @@
    },
    {
     "nivel": "h3",
-    "titulo": "¿Se pide cédula de habitabilidad para una casa contenedor en Oviedo?",
+    "titulo": "¿Se pide cédula de habitabilidad en Oviedo?",
     "html": "<p>Ya no: el Decreto 73/2018 suprimió la cédula de primera ocupación en Asturias. En su lugar, necesitas la <strong>licencia municipal de primera ocupación</strong> del Ayuntamiento, sin la cual las suministradoras no contratan agua ni electricidad.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Orbayu y desnivel: el clima y el terreno de Oviedo",
-    "html": "<p>Oviedo se levanta sobre una colina casi circular con desniveles importantes, protegida al norte por el Monte Naranco. El clima oceánico deja lluvia repartida todo el año, humedad alta y el característico orbayu; el CTE sitúa el casco en zona D1, mientras las cotas bajas del concejo bajan a C1 y las altas suben a E1.</p>"
+    "html": "<p>Oviedo se levanta sobre una colina casi circular con desniveles importantes, protegida al norte por el Monte Naranco. El clima oceánico deja lluvia repartida todo el año, humedad alta y el característico orbayu; el CTE sitúa el casco en <strong>zona climática D1</strong>, mientras las cotas bajas del concejo bajan a C1 y las altas suben a E1.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Influye la pendiente del terreno en una casa contenedor en Oviedo?",
-    "html": "<p>Sí: buena parte del concejo tiene un desnivel notable en torno a la colina central, así que la cimentación debe adaptarse a la pendiente real de cada parcela, sobre todo en las parroquias más alejadas del casco.</p>"
+    "titulo": "¿Influye la pendiente del terreno en la cimentación en Oviedo?",
+    "html": "<p>Sí: buena parte del concejo tiene un desnivel notable en torno a la colina central, así que conviene resolver la <strong>cimentación en terreno con pendiente</strong> según la parcela real, sobre todo en las parroquias más alejadas del casco.</p>"
    },
    {
     "nivel": "h2",
@@ -45,7 +45,7 @@
    {
     "nivel": "h3",
     "titulo": "¿Puede entrar un camión grúa en el casco antiguo de Oviedo?",
-    "html": "<p>Con dificultad: buena parte del casco antiguo está peatonalizado y sujeto a la Zona de Bajas Emisiones, así que conviene revisar el acceso con el transportista antes de fijar la entrega de tu casa contenedor.</p>"
+    "html": "<p>Con dificultad: buena parte del casco antiguo está peatonalizado y sujeto a la <strong>Zona de Bajas Emisiones</strong>, así que conviene revisar el acceso con el transportista antes de programar la entrega en tu parcela.</p>"
    }
   ],
   "faq": {
@@ -56,7 +56,7 @@
      "respuesta": "La <strong>licencia de obra mayor</strong> que corresponde a cualquier vivienda nueva, tramitada sobre el PGO y su Catálogo de edificios protegidos, con proyecto de arquitecto conforme a la LOE y el Código Técnico de la Edificación. Consulta antes la normativa particular de tu parcela en oviedo.es."
     },
     {
-     "pregunta": "¿Admite el TROTU una casa contenedor en una parroquia rural de Oviedo?",
+     "pregunta": "¿Admite el TROTU la vivienda unifamiliar en una parroquia rural de Oviedo?",
      "respuesta": "Sí: el TROTU admite la <strong>vivienda unifamiliar</strong> en los núcleos rurales y quintanas del concejo, siempre integrada en la tipología tradicional de la parroquia. Es, de hecho, el caso más habitual fuera del casco urbano compacto, donde predominan el solar y el polígono."
     },
     {
@@ -69,7 +69,7 @@
     },
     {
      "pregunta": "¿Vendéis contenedores marítimos en Oviedo?",
-     "respuesta": "Sí, con origen en el Puerto de Gijón (El Musel) y en el Puerto de Avilés. Encontrarás los mismos tipos y condiciones que empleamos en la casa contenedor en nuestra ficha de <a href=\"/contenedores-maritimos-asturias/\">contenedores marítimos en Asturias</a>, con acceso por la A-66 y la A-8."
+     "respuesta": "Sí, con origen en el Puerto de Gijón (El Musel) y en el Puerto de Avilés. Encontrarás los mismos tipos y condiciones que usamos en tu proyecto de Oviedo en nuestra ficha de <a href=\"/contenedores-maritimos-asturias/\">contenedores marítimos en Asturias</a>, con acceso por la A-66 y la A-8."
     }
    ]
   }

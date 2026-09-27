@@ -5,6 +5,9 @@
  *
  *   node scripts/aplicar-ampliacion.mjs <resultado.json> [--todas] [--seco]
  *
+ * Con --quitar-rechazadas, a las paginas cuya ampliacion no esta aprobada se
+ * les borra la que tuvieran (un borrador sin verificar no se publica).
+ *
  * <resultado.json> es el objeto { ampliaciones: { "/ruta/": { secciones,
  * faq, aprobado, problemas } } } que devuelve el workflow. Por defecto solo
  * se aplican las aprobadas por el verificador; con --todas, todas. Con
@@ -17,8 +20,11 @@ import path from 'node:path';
 const RAIZ = path.resolve('.');
 const PAGINAS = path.join(RAIZ, 'src', 'content', 'pages');
 const [,, fichero, ...flags] = process.argv;
-if (!fichero) { console.error('uso: node scripts/aplicar-ampliacion.mjs <resultado.json> [--todas] [--seco]'); process.exit(1); }
+if (!fichero) { console.error('uso: node scripts/aplicar-ampliacion.mjs <resultado.json> [--todas] [--seco] [--quitar-rechazadas]'); process.exit(1); }
 const todas = flags.includes('--todas'), seco = flags.includes('--seco');
+// con --quitar-rechazadas, a la pagina de una ampliacion no aprobada se le
+// borra la que tuviera en su JSON (un borrador sin verificar no se publica)
+const quitar = flags.includes('--quitar-rechazadas');
 
 const datos = JSON.parse(fs.readFileSync(path.resolve(fichero), 'utf8'));
 const ampliaciones = datos.ampliaciones || datos;
@@ -79,6 +85,23 @@ function equilibrar(html, ruta) {
   return salida;
 }
 
+/* Algun redactor metio los h3-pregunta DENTRO del html de su h2 en vez de
+   como seccion aparte. Se sacan: cada <h2>/<h3>/<h4> incrustado abre una
+   seccion nueva con el contenido que le sigue. */
+function desplegar(secciones) {
+  const salida = [];
+  for (const s of secciones || []) {
+    if (!s || !s.titulo) continue;
+    const trozos = String(s.html || '').split(/(<h[2-4]\b[^>]*>[\s\S]*?<\/h[2-4]>)/i);
+    salida.push({ ...s, html: trozos[0].trim() });
+    for (let i = 1; i < trozos.length; i += 2) {
+      const m = trozos[i].match(/<h([2-4])\b[^>]*>([\s\S]*?)<\/h[2-4]>/i);
+      salida.push({ nivel: m[1] === '2' ? 'h2' : 'h3', titulo: m[2].replace(/<[^>]+>/g, '').trim(), html: (trozos[i + 1] || '').trim() });
+    }
+  }
+  return salida.filter((s) => s.titulo);
+}
+
 const contarPalabras = (a) => [
   ...a.secciones.map((s) => `${s.titulo} ${s.html}`),
   ...((a.faq?.items || []).map((i) => `${i.pregunta} ${i.respuesta}`)),
@@ -89,9 +112,15 @@ const resumen = [];
 for (const [ruta, a] of Object.entries(ampliaciones)) {
   const destino = porRuta.get(ruta);
   if (!destino) { sinPagina++; problemas.push(`${ruta}: no hay pagina`); continue; }
-  if (!todas && !a.aprobado) { saltadas++; resumen.push(`SALTADA ${ruta}: ${(a.problemas || []).slice(0, 2).join(' | ').slice(0, 160)}`); continue; }
+  if (!todas && !a.aprobado) {
+    saltadas++;
+    const borrar = quitar && destino.pagina.ampliacion;
+    resumen.push(`${borrar ? 'QUITADA' : 'SALTADA'} ${ruta}: ${(a.problemas || []).slice(0, 2).join(' | ').slice(0, 160)}`);
+    if (borrar && !seco) { delete destino.pagina.ampliacion; fs.writeFileSync(path.join(PAGINAS, destino.fichero), JSON.stringify(destino.pagina, null, 1)); }
+    continue;
+  }
   const ampliacion = {
-    secciones: (a.secciones || []).filter((s) => s && s.titulo).map((s) => ({ nivel: s.nivel === 'h3' ? 'h3' : 'h2', titulo: String(s.titulo).trim(), html: sanear(s.html, ruta) })),
+    secciones: desplegar(a.secciones).map((s) => ({ nivel: s.nivel === 'h3' ? 'h3' : 'h2', titulo: String(s.titulo).trim(), html: sanear(s.html, ruta) })),
     faq: a.faq && a.faq.items?.length
       ? { titulo: String(a.faq.titulo || 'Preguntas frecuentes').trim(), items: a.faq.items.filter((i) => i && i.pregunta && i.respuesta).map((i) => ({ pregunta: String(i.pregunta).trim(), respuesta: sanear(i.respuesta, ruta) })) }
       : undefined,

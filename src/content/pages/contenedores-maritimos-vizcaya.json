@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "Usos habituales de los contenedores en Bizkaia y su comarca",
-    "html": "<p>La ría de Bilbao concentra industria y puerto, mientras el interior mantiene una economía agraria más tradicional:</p><ul><li>Industria metalúrgica y auxiliar de la ría: oficina y vestuario de obra, o almacén para taller.</li><li>Puerto y logística del entorno de Bilbao: módulo para polígono industrial.</li><li>Servicios avanzados y turismo urbano de la capital: módulo temporal.</li><li>Explotaciones agrarias de los valles del interior: caseta de aperos.</li></ul><p>La <strong>zona climática C1</strong> de Bilbao y el litoral sube a D1 en el interior de altitud media-alta: la lluvia y la humedad constantes hacen que el salitre y la condensación sean el riesgo real para el acero.</p>"
+    "html": "<p>La ría de Bilbao concentra industria y puerto, mientras el interior mantiene una economía agraria más tradicional:</p><ul><li>Industria metalúrgica y auxiliar de la ría: oficina y vestuario de obra, o almacén para taller.</li><li>Puerto y logística del entorno de Bilbao: módulo para polígono industrial.</li><li>Servicios avanzados y turismo urbano de la capital: módulo temporal.</li><li>Explotaciones agrarias de los valles del interior: caseta de aperos.</li></ul><p>La zona climática C1 de Bilbao y el litoral sube a D1 en el interior de altitud media-alta: la lluvia y la humedad constantes hacen del salitre y la condensación el riesgo real para el acero.</p>"
    },
    {
     "nivel": "h3",
@@ -30,7 +30,7 @@
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Bizkaia?",
-    "html": "<p>Sí. Colocarlo de forma permanente exige declaración responsable o <strong>licencia de obra menor</strong> del ayuntamiento correspondiente: cada municipio de Bizkaia tiene su propio Plan General (en la capital, Bilbao ha renovado recientemente el suyo), y todos se rigen por la Ley 2/2006 de Suelo y Urbanismo del País Vasco.</p><p>En municipios litorales como Getxo o Bermeo se suma la <strong>Ley de Costas</strong>, y en la Reserva de la Biosfera de Urdaibai, la Ley 5/1989. Revisa los <a href=\"/permisos/\">permisos para construir con contenedores</a> antes de comprar.</p>"
+    "html": "<p>Sí. Colocarlo de forma permanente exige declaración responsable o <strong>licencia de obra menor</strong> del ayuntamiento correspondiente: cada municipio de Bizkaia aprueba su propio Plan General de Ordenación Urbana, y todos se rigen por la Ley 2/2006 de Suelo y Urbanismo del País Vasco.</p><p>En municipios litorales como Getxo o Bermeo se suma la <strong>Ley de Costas</strong>, y dentro de la Reserva de la Biosfera de Urdaibai rige además la Ley 5/1989. Revisa los <a href=\"/permisos/\">permisos para construir con contenedores</a> antes de comprar.</p>"
    },
    {
     "nivel": "h3",
@@ -40,7 +40,7 @@
    {
     "nivel": "h2",
     "titulo": "Contenedores marítimos en Bizkaia: cómo trabajamos y desde dónde llegan",
-    "html": "<p>No disponemos de depósito propio en Bizkaia: operamos como zona de servicio, con transporte y descarga incluidos en el presupuesto puesto en destino. El puerto de referencia para los <strong>contenedores marítimos en Bizkaia</strong> es el Puerto de Bilbao, con su terminal en el Abra exterior, entre Santurtzi, Zierbena y Getxo, desde donde el contenedor sale por carretera hacia el resto del territorio.</p>"
+    "html": "<p>Bizkaia sí cuenta con puerto propio: el Puerto de Bilbao, con su terminal de contenedores en el Abra exterior, entre Santurtzi, Zierbena y Getxo, es el origen habitual de los <strong>contenedores marítimos en Bizkaia</strong>. Aun así, no guardamos existencias en el territorio: localizamos la unidad disponible para cada pedido y organizamos su salida por carretera, con transporte y descarga puestos en destino, hacia cualquier punto de la costa o del interior.</p>"
    },
    {
     "nivel": "h3",
@@ -57,20 +57,20 @@
    "titulo": "Preguntas frecuentes sobre contenedores marítimos en Bizkaia",
    "items": [
     {
-     "pregunta": "¿Entregáis contenedores marítimos en toda Bizkaia?",
-     "respuesta": "Llegamos a Bilbao, la margen izquierda, la costa y los valles del interior, y también a Gipuzkoa y Álava. Al no tener depósito propio en el territorio, ajustamos el transporte y el acceso, incluidos caminos rurales o de montaña, dentro del mismo presupuesto puesto en destino."
+     "pregunta": "¿Cubrís también Gipuzkoa y Álava desde Bizkaia?",
+     "respuesta": "Cubrimos Bilbao y su área metropolitana, la costa y los valles del interior, además de Gipuzkoa y Álava. No mantenemos depósito fijo en el territorio, así que cada envío se organiza desde el origen disponible en ese momento, incluido el acceso por caminos rurales o de montaña, dentro del <strong>presupuesto puesto en destino</strong>."
     },
     {
      "pregunta": "¿Hay Zona de Bajas Emisiones en Bilbao que afecte a la entrega del contenedor?",
-     "respuesta": "Sí. Bilbao tiene una <strong>Zona de Bajas Emisiones</strong> aprobada por ordenanza municipal en el entorno de Abando e Indautxu, con restricciones según el distintivo ambiental del vehículo, así que conviene comprobarla antes de fijar la ruta y la fecha de entrega del contenedor."
+     "respuesta": "Sí. Bilbao tiene una <strong>Zona de Bajas Emisiones</strong> aprobada por ordenanza municipal en el entorno de Abando e Indautxu, con restricciones según el distintivo ambiental del vehículo. Conviene comprobarla antes de fijar la ruta y la fecha de entrega, sobre todo si el camión con góndola debe cruzar ese distrito."
     },
     {
      "pregunta": "¿Qué contenedor conviene para un almacén de taller en un polígono de Bizkaia?",
-     "respuesta": "Para un almacén pequeño de herramientas o materiales suele bastar un contenedor de 20 pies, con unos 13,9 m² interiores; si necesitas más espacio de trabajo, el contenedor de 40 pies, con unos 28,3 m² interiores, aprovecha mejor el polígono."
+     "respuesta": "Para un almacén pequeño de herramientas o materiales suele bastar un contenedor de 20 pies, con unos 13,9 m² interiores. Si necesitas más espacio de trabajo o guardar maquinaria, el contenedor de 40 pies, con unos 28,3 m² interiores, aprovecha mejor la nave o la parcela del polígono."
     },
     {
-     "pregunta": "¿También hacéis casas contenedor en Bizkaia?",
-     "respuesta": "Sí: en Bizkaia también proyectamos <strong>casas hechas con contenedores</strong>, adaptadas a la normativa de cada ayuntamiento y a la humedad del clima local, con acompañamiento desde el estudio de la parcela hasta la entrega llave en mano. Más información en <a href=\"/vizcaya/\">casas contenedor en Bizkaia</a>."
+     "pregunta": "¿Hacéis también casas contenedor en Bizkaia?",
+     "respuesta": "También construimos <strong>casas hechas con contenedores</strong> en Bizkaia, adaptadas a la normativa de cada ayuntamiento y a la humedad del clima local, acompañando desde el estudio de la parcela hasta la entrega llave en mano. Más información en <a href=\"/vizcaya/\">casas contenedor en Bizkaia</a>."
     }
    ]
   }

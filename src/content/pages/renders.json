@@ -20,12 +20,27 @@
    {
     "nivel": "h2",
     "titulo": "Renders de casas contenedores: para qué sirven y qué no resuelven",
-    "html": "<p>Un render te ayuda a decidir la distribución, la fachada y los materiales antes de fabricar la casa, a comparar alternativas de diseño y a enseñar el proyecto a la familia o al banco. Lo que esa imagen no hace es sustituir los planos acotados ni servir para pedir la licencia de obra: para eso hace falta un proyecto firmado por un arquitecto conforme al Código Técnico de la Edificación y a la Ley de Ordenación de la Edificación (LOE, Ley 38/1999).</p><ul><li>Qué necesitamos para empezar: un croquis con medidas, el número y el tamaño de los contenedores, fotos y orientación del terreno, y referencias de estilo que te gusten.</li><li>Qué incluye el encargo: las vistas y el vídeo según el paquete elegido, más una ronda de corrección de textura, color o mobiliario.</li><li>Si todavía no sabes cuántos contenedores necesitas, consulta la ficha de <a href=\"/casa-con-un-contenedor/\">casa de un contenedor</a> y <a href=\"/modelos/\">el resto de modelos</a> antes de encargar la imagen definitiva.</li></ul>"
+    "html": "<p>Un render te ayuda a decidir la distribución, la fachada y los materiales antes de fabricar la casa, a comparar alternativas de diseño y a enseñar el proyecto a la familia o al banco. Lo que esa imagen no hace es sustituir los planos acotados ni servir para pedir la <strong>licencia de obra</strong>: para eso hace falta un proyecto firmado por un arquitecto conforme al Código Técnico de la Edificación y a la Ley de Ordenación de la Edificación (LOE, Ley 38/1999).</p><ul><li>Qué necesitamos para empezar: un croquis con medidas, el número y el tamaño de los contenedores, fotos y orientación del terreno, y referencias de estilo que te gusten.</li><li>Qué incluye el encargo: las vistas y el vídeo según el paquete elegido, más una ronda de corrección de textura, color o mobiliario.</li><li>Si todavía no sabes cuántos contenedores necesitas, consulta la ficha de <a href=\"/casa-con-un-contenedor/\">casa de un contenedor</a> y <a href=\"/modelos/\">el resto de modelos</a> antes de encargar la imagen definitiva.</li></ul>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Hace falta licencia de obra mayor para construir una casa contenedor?",
+    "html": "<p>Sí, para construir una casa contenedor de uso residencial hace falta <strong>licencia de obra mayor</strong>, igual que para cualquier vivienda convencional. El proyecto que la sustenta debe estar firmado por un arquitecto, cumplir el Código Técnico de la Edificación y la Ley de Ordenación de la Edificación, y recoger cimentación, aislamiento térmico, instalaciones y el sistema de anclaje de los módulos al terreno. Una vez terminada la obra, ese mismo expediente permite solicitar la licencia de primera ocupación antes de habitar la vivienda.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Imagen, plano y anteproyecto: qué pedir primero y cómo revisar el resultado",
-    "html": "<p>La imagen en 3D muestra el aspecto final de la casa; el plano es la geometría acotada con cotas reales; y el anteproyecto reúne planos, memoria y presupuesto orientativo para decidir y para pedir después el proyecto definitivo. Los tres documentos se complementan: uno vende la idea, otro la construye y el tercero la presupuesta.</p><p>Al revisar ese archivo de tu futura casa contenedor, fíjate en el tamaño y la posición de los huecos de ventanas y puertas, en la altura libre interior, en cómo caen las sombras según la orientación real de la parcela, en que el mobiliario esté a escala y en cómo queda el encuentro entre los distintos módulos. Si necesitas la documentación técnica acotada para pedir presupuesto o licencia, la encontrarás en <a href=\"/planos/\">planos de casas contenedores</a>.</p>"
+    "html": "<p>La imagen en 3D muestra el aspecto final de la casa; el plano es la geometría acotada con cotas reales; y el anteproyecto reúne planos, memoria y presupuesto orientativo para decidir y para pedir después el <strong>proyecto definitivo</strong>. Los tres documentos se complementan: uno vende la idea, otro la construye y el tercero la presupuesta.</p><p>Al revisar ese archivo de tu futura casa contenedor, fíjate en el tamaño y la posición de los huecos de ventanas y puertas, en la altura libre interior, en cómo caen las sombras según la orientación real de la parcela, en que el mobiliario esté a escala y en cómo queda el encuentro entre los distintos módulos. Si necesitas la <strong>documentación técnica acotada</strong> para pedir presupuesto o licencia, la encontrarás en <a href=\"/planos/\">planos de casas contenedores</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué es un anteproyecto de casa contenedor y para qué sirve?",
+    "html": "<p>Un anteproyecto es el documento previo que reúne planos generales, memoria descriptiva y un presupuesto orientativo para decidir el diseño antes de encargar el <strong>proyecto visado</strong> que se presenta en el ayuntamiento. No sustituye al proyecto de ejecución, que detalla estructura, instalaciones y cumplimiento normativo, pero sirve de base para redactarlo con menos cambios posteriores.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Cuándo se pide la cédula de habitabilidad de una casa contenedor?",
+    "html": "<p>La <strong>cédula de habitabilidad</strong> se solicita una vez terminada la obra, después de obtener el certificado final firmado por el técnico director y de superar la inspección que acredita que la vivienda cumple las condiciones de habitabilidad, salubridad y seguridad exigidas por la normativa autonómica. Es un trámite distinto de la licencia de obra, aunque ambos forman parte del mismo expediente urbanístico de la vivienda.</p>"
    }
   ],
   "faq": {
@@ -60,7 +75,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-84px 0px 0px 0px",
    "columnas": [
     {
@@ -76,7 +91,7 @@
        "anchoMovil": "100%"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -92,11 +107,11 @@
       {
        "t": "espaciador",
        "id": "2b8bf67",
-       "alto": 10.0,
-       "altoMovil": 10.0
+       "alto": 10,
+       "altoMovil": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -114,8 +129,8 @@
       {
        "t": "espaciador",
        "id": "cadb4c7",
-       "alto": 10.0,
-       "altoMovil": 10.0
+       "alto": 10,
+       "altoMovil": 10
       },
       {
        "t": "encabezado",
@@ -129,8 +144,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 52.0,
-        "tamanoMovil": 34.0,
+        "tamano": 52,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -142,7 +157,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -155,8 +170,8 @@
        "color": "#373535",
        "tipo": {
         "familia": "Abel",
-        "tamano": 36.0,
-        "tamanoMovil": 27.0,
+        "tamano": 36,
+        "tamanoMovil": 27,
         "peso": "600"
        }
       },
@@ -180,8 +195,8 @@
            "color": "#346996",
            "tipo": {
             "familia": "Mukta Malar",
-            "tamano": 33.0,
-            "tamanoMovil": 28.0,
+            "tamano": 33,
+            "tamanoMovil": 28,
             "peso": "600",
             "interlineado": 1.4,
             "interlineadoUnidad": "em"
@@ -198,7 +213,7 @@
            "color": "#131313",
            "tipo": {
             "familia": "Mukta",
-            "tamano": 25.0,
+            "tamano": 25,
             "peso": "400"
            }
           },
@@ -221,7 +236,7 @@
           {
            "t": "espaciador",
            "id": "d99d380",
-           "alto": 77.0
+           "alto": 77
           },
           {
            "t": "imagen",
@@ -234,8 +249,8 @@
           {
            "t": "espaciador",
            "id": "89a2327",
-           "alto": 77.0,
-           "altoMovil": 31.0
+           "alto": 77,
+           "altoMovil": 31
           },
           {
            "t": "boton",
@@ -250,7 +265,7 @@
            "grosorBorde": "4px 4px 4px 4px",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 26.0,
+            "tamano": 26,
             "peso": "400"
            }
           }
@@ -283,13 +298,13 @@
        "color": "#000000",
        "tipo": {
         "familia": "Abel",
-        "tamano": 23.0,
-        "tamanoMovil": 20.0,
+        "tamano": 23,
+        "tamanoMovil": 20,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -308,7 +323,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -324,10 +339,10 @@
       {
        "t": "espaciador",
        "id": "36795cd",
-       "alto": 343.0
+       "alto": 343
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
      "fondo": {
       "imagen": "/wp-content/uploads/2022/01/renders.jpeg",
@@ -344,7 +359,7 @@
    "id": "0f55ec2",
    "disposicion": "boxed",
    "hueco": "custom",
-   "huecoPx": 47.0,
+   "huecoPx": 47,
    "columnas": [
     {
      "id": "def5b4e",
@@ -361,8 +376,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 52.0,
-        "tamanoMovil": 34.0,
+        "tamano": 52,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -373,7 +388,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "galeria",
@@ -422,7 +437,7 @@
        "columnas": 3
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -447,8 +462,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 52.0,
-        "tamanoMovil": 34.0,
+        "tamano": 52,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -460,7 +475,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "13%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -473,12 +488,12 @@
        "color": "#131313",
        "tipo": {
         "familia": "Abel",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -494,10 +509,10 @@
       {
        "t": "espaciador",
        "id": "0cd8592",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -513,7 +528,7 @@
       {
        "t": "espaciador",
        "id": "a611fbb",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -527,8 +542,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 39.0,
-        "tamanoMovil": 34.0,
+        "tamano": 39,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -540,7 +555,7 @@
        "color": "#F2C362",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 35.0,
+        "tamano": 35,
         "peso": "400"
        }
       },
@@ -559,7 +574,7 @@
        "html": "<div class=\"elementor-element elementor-element-8ed96d1 elementor-widget elementor-widget-text-editor\" data-id=\"8ed96d1\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><ul><li>6 Render de buena calidad</li><li>Resolución 4K (3840X2160)</li><li>1 Corrección gratis (textura, color, mobiliario)</li><li>Con postproducción</li></ul></div></div></div><div class=\"elementor-element elementor-element-7509a48 elementor-widget elementor-widget-text-editor\" data-id=\"7509a48\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><p>**Proyectos de hasta 250m², incluye modelo 3D y Diseño de Interiores.</p></div></div></div>"
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33
     },
     {
@@ -568,7 +583,7 @@
       {
        "t": "espaciador",
        "id": "b13ab89",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -582,8 +597,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 39.0,
-        "tamanoMovil": 34.0,
+        "tamano": 39,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -595,7 +610,7 @@
        "color": "#F2C362",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 35.0,
+        "tamano": 35,
         "peso": "400"
        }
       },
@@ -614,7 +629,7 @@
        "html": "<div class=\"elementor-element elementor-element-ca73797 elementor-widget elementor-widget-text-editor\" data-id=\"ca73797\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><ul><li>6 Render de buena calidad</li><li>Resolución 4K (3840X2160)</li><li>1 Corrección gratis (textura, color, mobiliario)</li><li>Con postproducción </li></ul></div></div></div><div class=\"elementor-element elementor-element-c6d8f28 elementor-widget elementor-widget-text-editor\" data-id=\"c6d8f28\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><p>**Proyectos de hasta 250m², incluye modelo 3D y Diseño de Interiores.</p></div></div></div>"
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33
     },
     {
@@ -623,7 +638,7 @@
       {
        "t": "espaciador",
        "id": "59d5ca3",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -637,8 +652,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 39.0,
-        "tamanoMovil": 34.0,
+        "tamano": 39,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -650,7 +665,7 @@
        "color": "#F2C362",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 35.0,
+        "tamano": 35,
         "peso": "400"
        }
       },
@@ -669,7 +684,7 @@
        "html": "<div class=\"elementor-element elementor-element-ca73797 elementor-widget elementor-widget-text-editor\" data-id=\"ca73797\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><ul><li>1 Render de buena calidad</li><li>Resolución 4K (3840X2160)</li><li>1 Corrección gratis (textura, color, mobiliario)</li><li>Con postproducción</li></ul></div></div></div><div class=\"elementor-element elementor-element-c6d8f28 elementor-widget elementor-widget-text-editor\" data-id=\"c6d8f28\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><p>**Proyectos de hasta 250m², incluye modelo 3D y Diseño de Interiores.</p></div></div></div>"
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33
     }
    ]
@@ -686,7 +701,7 @@
       {
        "t": "espaciador",
        "id": "f2f3c2f",
-       "alto": 19.0
+       "alto": 19
       },
       {
        "t": "imagen",
@@ -701,7 +716,7 @@
        "ancla": "uno"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -712,7 +727,7 @@
    "disposicion": "boxed",
    "ancho": 1168,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "0px 0px 0px 0px",
    "fondo": {
     "imagen": "/wp-content/uploads/2022/01/zcxvdsvsdv-2.jpg",
@@ -737,8 +752,8 @@
           {
            "t": "espaciador",
            "id": "1d3a87f",
-           "alto": 114.0,
-           "altoMovil": 26.0
+           "alto": 114,
+           "altoMovil": 26
           },
           {
            "t": "encabezado",
@@ -752,8 +767,8 @@
            "color": "#FFFFFF",
            "tipo": {
             "familia": "Abel",
-            "tamano": 64.0,
-            "tamanoMovil": 56.0,
+            "tamano": 64,
+            "tamanoMovil": 56,
             "peso": "800"
            }
           },
@@ -766,7 +781,7 @@
            "color": "#FFFFFF",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 18.0,
+            "tamano": 18,
             "peso": "600",
             "interlineado": 1.7,
             "interlineadoUnidad": "em"
@@ -791,7 +806,7 @@
           {
            "t": "espaciador",
            "id": "ba8388e",
-           "alto": 44.0
+           "alto": 44
           }
          ],
          "ancho": 59.561,
@@ -811,7 +826,7 @@
        ]
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -828,7 +843,7 @@
        "t": "espaciador",
        "id": "5541bbf",
        "alto": 50,
-       "altoMovil": 10.0
+       "altoMovil": 10
       },
       {
        "t": "encabezado",
@@ -842,19 +857,19 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 52.0,
-        "tamanoMovil": 34.0,
+        "tamano": 52,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
       {
        "t": "espaciador",
        "id": "0067c92",
-       "alto": 10.0,
-       "altoMovil": 10.0
+       "alto": 10,
+       "altoMovil": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -878,7 +893,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/"
@@ -892,9 +907,9 @@
        "url": "/"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -911,7 +926,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "https://prefabricadascasas.es/"
@@ -925,9 +940,9 @@
        "url": "https://prefabricadascasas.es/"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -945,10 +960,10 @@
       {
        "t": "espaciador",
        "id": "70324db",
-       "alto": 26.0
+       "alto": 26
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -972,7 +987,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-un-contenedor/"
@@ -988,7 +1003,7 @@
      ],
      "ancho": 24.775,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1005,7 +1020,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-dos-contenedores/"
@@ -1021,7 +1036,7 @@
      ],
      "ancho": 25.18,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1038,7 +1053,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-tres-contenedores/"
@@ -1052,9 +1067,9 @@
        "url": "/casa-con-tres-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1071,7 +1086,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-cuatro-contenedores/"
@@ -1085,9 +1100,9 @@
        "url": "/casa-con-cuatro-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1105,10 +1120,10 @@
       {
        "t": "espaciador",
        "id": "ee7220a",
-       "alto": 29.0
+       "alto": 29
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1132,7 +1147,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -1146,9 +1161,9 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1165,7 +1180,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -1179,9 +1194,9 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1198,7 +1213,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/modulos-sanitarios/"
@@ -1212,9 +1227,9 @@
        "url": "/modulos-sanitarios/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1231,7 +1246,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -1245,9 +1260,9 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1266,10 +1281,10 @@
       {
        "t": "espaciador",
        "id": "44b8175",
-       "alto": 29.0
+       "alto": 29
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1293,7 +1308,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/contenedores-maritimos/"
@@ -1307,7 +1322,7 @@
        "url": "/contenedores-maritimos/"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
      "fondo": {
       "color": "#E7E7E7"
@@ -1340,12 +1355,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1364,7 +1379,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]

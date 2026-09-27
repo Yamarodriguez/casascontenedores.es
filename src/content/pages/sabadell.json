@@ -2569,7 +2569,7 @@
    {
     "nivel": "h2",
     "titulo": "Construir una casa contenedor en Sabadell: normativa y licencias",
-    "html": "<p>Sabadell tramita las licencias sobre el <strong>Pla General Municipal d'Ordenació de 1993</strong> (PGMOS-93), que amplió el suelo no urbanizable protegido: Sant Pau de Riu-sec, Can Llong y Can Gambús. La vivienda nueva necesita además la cédula de habitabilidad que regula el Decret 141/2012 de la Generalitat, un trámite autonómico distinto de la primera ocupación municipal.</p><p>El municipio es denso en barrios y polígonos, y una parte notable está protegida: el <strong>Rodal</strong> y el Parc Agrari de Sabadell no admiten vivienda nueva. El caso habitual es un solar urbano en barrio consolidado o un patio de nave para un módulo de oficina.</p>"
+    "html": "<p>Sabadell tramita las licencias sobre el <strong>Pla General Municipal d'Ordenació</strong> (PGMOS-93), que amplió el suelo no urbanizable protegido: Sant Pau de Riu-sec, Can Llong y Can Gambús. La vivienda nueva necesita además la cédula de habitabilidad que regula el Decret 141/2012 de la Generalitat, un trámite autonómico distinto de la primera ocupación municipal.</p><p>El municipio es denso en barrios y polígonos, y una parte notable está protegida: el <strong>Rodal</strong> y el Parc Agrari de Sabadell no admiten vivienda nueva. El caso habitual es un solar urbano en barrio consolidado o un patio de nave para un módulo de oficina.</p>"
    },
    {
     "nivel": "h3",
@@ -2579,12 +2579,12 @@
    {
     "nivel": "h2",
     "titulo": "El clima de Sabadell y el aislamiento de la casa contenedor",
-    "html": "<p>Sabadell comparte la <strong>zona climática C2</strong> del CTE DB-HE con Barcelona capital, pero su posición en el interior del Vallès trae inviernos más fríos que la costa. El proyecto necesita aislamiento continuo repartido entre estaciones y control solar en las fachadas más expuestas.</p>"
+    "html": "<p>La posición de Sabadell en el interior del Vallès, lejos del efecto suavizador del mar, deja inviernos más marcados que en la costa, dentro de la misma <strong>zona climática C2</strong> del CTE DB-HE que Barcelona capital. El proyecto necesita aislamiento continuo repartido entre estaciones y control solar en las fachadas más expuestas.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Hace más frío en Sabadell que en Barcelona capital?",
-    "html": "<p>Sí, algo más: la posición de Sabadell en el <strong>interior del Vallès</strong>, lejos del efecto suavizador del mar, deja inviernos más marcados que en Barcelona capital. El aislamiento continuo por el exterior ayuda a compensarlo sin sobredimensionar la calefacción.</p>"
+    "html": "<p>Sí, aunque no por estar en otra zona climática: Sabadell comparte la <strong>zona C2</strong> del CTE DB-HE con Barcelona capital, pero su distancia al mar deja veranos e inviernos más marcados. Ese salto térmico, y no una exigencia normativa distinta, es lo que conviene compensar reforzando el aislamiento continuo por el exterior.</p>"
    },
    {
     "nivel": "h2",

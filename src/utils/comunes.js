@@ -121,36 +121,84 @@ function filasM2(faltan) {
   }));
 }
 
+/* Tarjetas de tipo de casa ("Casa de un contenedor", "Casas con 2
+   Contenedores", "Casa contenedor 40 Pies"...). Una pagina que las tiene
+   tiene rejilla de modelos, lleve o no la cabecera de la portada (en
+   /precios/ se llama "Modelos casas de contenedores precios", en /planos/
+   "Diseños y Modelos de casas de contenedores"...). */
+const TIPO = /^casas?\s+(de|con)\s+(un|1|dos|2|tres|3|cuatro|4)\s+contenedor|^casa\s+contenedor\s+[24]0\s+pies|^(single|[1-4])\s+container\s+house|^container\s+house\s+[24]0\s+pies/i;
+
+/* Paginas de ciudad que no estan en el menu de provincias (de ahi sale la
+   localidad, ver localidades.js) pero son de localidad igual: reciben la
+   rejilla y las preguntas como las demas. */
+const CIUDADES_FUERA_DEL_MENU = new Set([
+  '/contenedores-barakaldo/', '/contenedores-cornella-de-llobregat/', '/contenedores-las-rozas-de-madrid/',
+  '/contenedores-mijas/', '/contenedores-rivas-vaciamadrid/', '/contenedores-san-cugat-del-valles/',
+  '/contenedores-san-fernando/', '/contenedores-san-sebastian-de-los-reyes/',
+]);
+export const esCiudad = (ruta, localidad) => Boolean(localidad) || CIUDADES_FUERA_DEL_MENU.has(ruta);
+const esFilaTipos = (s) => [...elementos([s])].some((e) => e.t === 'encabezado' && TIPO.test(textoDe(e)));
+
+/* Una fila de tarjetas de superficie: todas sus columnas son un solo rotulo
+   de un modelo que existe. Los rotulos de precio de /precios/ ("Casa
+   contendor de 16 m2 precios") no cuentan: 16, 48, 64... no son modelos. */
+function filaM2(s, modelosM2) {
+  if (s?.t !== 'seccion') return null;
+  const vistas = [];
+  for (const c of s.columnas || []) {
+    const els = (c.elementos || []).filter((e) => e.t !== 'espaciador' && e.t !== 'separador');
+    if (els.length !== 1) return null;
+    const m2 = superficieDe(els[0]);
+    if (!m2 || !modelosM2[m2]) return null;
+    vistas.push(m2);
+  }
+  return vistas.length ? vistas : null;
+}
+
 /**
- * Anade a una pagina de localidad los modelos de la portada:
- *  - si ya tiene la rejilla, solo los modelos por superficie que le falten,
- *    justo detras de la fila donde estan los suyos (o de la cabecera);
- *  - si no la tiene, la rejilla entera al final.
+ * Completa la rejilla de modelos con los de la portada:
+ *  - si la pagina ya tiene rejilla (tarjetas de tipo), solo los modelos por
+ *    superficie que le falten: detras de su fila de superficies si la tiene,
+ *    o justo delante de la primera fila de tipos (como en la portada);
+ *  - si no tiene rejilla y `completa` es true (paginas de localidad), la
+ *    rejilla entera al final.
  * Devuelve cuantos modelos ha anadido.
  */
-export function anadirModelos(bloques, modelosM2 = {}) {
+export function anadirModelos(bloques, modelosM2 = {}, { completa = false } = {}) {
   const disponibles = ETIQUETAS_M2.filter(({ m2 }) => modelosM2[m2]);
   if (!disponibles.length) return 0;
 
-  if (!tieneRejilla(bloques)) {
+  const hayRejilla = tieneRejilla(bloques) || bloques.some(esFilaTipos);
+  if (!hayRejilla) {
+    if (!completa) return 0;
     for (const s of REJILLA) bloques.push(clonar(s));
     return disponibles.length;
   }
 
-  const vistas = superficies(bloques);
-  const faltan = disponibles.filter(({ m2 }) => !vistas.has(m2));
+  const vistas = new Set();
+  let trasM2 = -1;
+  bloques.forEach((s, i) => { const f = filaM2(s, modelosM2); if (f) { f.forEach((m) => vistas.add(m)); trasM2 = i; } });
+  let faltan = disponibles.filter(({ m2 }) => !vistas.has(m2));
   if (!faltan.length) return 0;
 
-  // detras de la ultima seccion que ya enseña rotulos de superficie; si no
-  // hay ninguna, detras de la cabecera de la rejilla
-  let corte = -1;
-  for (let i = 0; i < bloques.length; i++) {
-    const els = [...elementos([bloques[i]])];
-    if (els.some((e) => superficieDe(e))) corte = i;
-    else if (corte < 0 && els.some((e) => esEncabezado(e, /^modelos de casas de contenedores/i))) corte = i;
+  // si la pagina ya tiene su fila de superficies, los que faltan copian su
+  // redaccion ("Casas Contenedores 30 m2" -> "Casas Contenedores 15 m2";
+  // "Container house 30 m2" -> "Container house 15 m2" en la version inglesa)
+  if (trasM2 >= 0) {
+    const muestra = [...elementos([bloques[trasM2]])].find((e) => superficieDe(e));
+    faltan = faltan.map(({ m2, elemento }) => ({
+      m2,
+      elemento: { ...clonar(muestra), id: `m2-${m2}`, url: undefined, texto: String(muestra.texto).replace(/\d{2,3}(?=\s*m\s*[²2])/i, m2) },
+    }));
   }
-  if (corte < 0) return 0;
-  bloques.splice(corte + 1, 0, ...filasM2(faltan));
+
+  let corte = trasM2 >= 0 ? trasM2 + 1 : bloques.findIndex(esFilaTipos);
+  if (corte < 0) {
+    const cabecera = bloques.findIndex((s) => [...elementos([s])].some((e) => esEncabezado(e, /^modelos de casas de contenedores/i)));
+    if (cabecera < 0) return 0;
+    corte = cabecera + 1;
+  }
+  bloques.splice(corte, 0, ...filasM2(faltan));
   return faltan.length;
 }
 

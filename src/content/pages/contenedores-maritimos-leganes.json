@@ -20,32 +20,37 @@
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Leganés?",
-    "html": "<p>Sí. Instalar un contenedor de forma permanente es una actuación sujeta a licencia o, en la mayoría de los casos, a <strong>declaración responsable</strong>, después de que la Ley 1/2020 modificara la Ley 9/2001 del Suelo de la Comunidad de Madrid para tramitar así la primera ocupación de las construcciones nuevas. El Ayuntamiento de Leganés sigue tramitando sobre el PGOU vigente mientras redacta uno nuevo, así que conviene revisar la calificación exacta de tu parcela antes de comprar. Consulta <a href=\"/permisos/\">los permisos para construir con contenedores</a> para conocer el procedimiento completo.</p>"
+    "html": "<p>Sí. Instalar un contenedor de forma permanente se tramita hoy, en la mayoría de los casos, por <strong>declaración responsable</strong> y no por licencia clásica, desde que la Ley 1/2020 modificó la Ley 9/2001 del Suelo de Madrid para regular así la primera ocupación. El Ayuntamiento de Leganés sigue aplicando el PGOU de 1999 mientras redacta uno nuevo, así que conviene revisar la calificación de tu parcela antes de comprar. Consulta <a href=\"/permisos/\">los permisos para construir con contenedores</a> para conocer el procedimiento.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Qué diferencia hay entre licencia y declaración responsable para un contenedor en Leganés?",
-    "html": "<p>La declaración responsable te deja empezar la actuación en el momento de presentarla, con el control del Ayuntamiento a posteriori; la licencia exige esperar la resolución municipal antes de instalar nada. La Ley 1/2020 amplió los casos que se tramitan por declaración responsable, pero el técnico municipal puede exigir <strong>licencia de obra menor</strong> si la parcela o el uso lo requieren.</p>"
+    "html": "<p>Con la declaración responsable puedes empezar la actuación en el momento de presentarla, con el control del Ayuntamiento a posteriori; con la licencia hay que esperar la resolución municipal antes de instalar nada. La Ley 1/2020 amplió los casos que se tramitan por la primera vía, pero el técnico municipal puede seguir exigiendo <strong>licencia de obra menor</strong> si la parcela o el uso lo requieren.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Contenedores marítimos en Leganés: cómo trabajamos y desde dónde llegan",
-    "html": "<p>El nodo logístico de referencia para los <strong>contenedores marítimos en Leganés</strong> es el Puerto Seco de Madrid, en Coslada, conectado por ferrocarril con los puertos de Valencia, Algeciras, Barcelona y Bilbao; desde allí, las autovías de la Comunidad de Madrid distribuyen la carga hasta los polígonos del municipio. Leganés no tiene depósito ni nave propios de la empresa: la ciudad se cubre como zona de servicio, así que el contenedor sale del punto de almacenaje más cercano y el presupuesto puesto en destino ya incluye el transporte y la descarga con pluma o grúa hasta tu parcela.</p>"
+    "html": "<p>Para los <strong>contenedores marítimos en Leganés</strong> el nodo logístico habitual es el Puerto Seco de Madrid, en Coslada, conectado por ferrocarril con los puertos de Valencia, Algeciras, Barcelona y Bilbao; desde allí, la red de autovías metropolitanas reparte la carga hasta los polígonos del municipio. Leganés no cuenta con depósito propio, sino que entra en la misma zona de servicio que el resto de la Comunidad de Madrid: cada unidad se envía desde el punto de almacenaje disponible y el presupuesto puesto en destino ya recoge el transporte y la descarga.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Por dónde entra el camión-grúa a los polígonos de Leganés?",
-    "html": "<p>El acceso llega por las <strong>vías rápidas metropolitanas</strong>, que conectan directamente con polígonos como Prado Overa y Nuestra Señora de Butarque, así que la descarga no tiene que cruzar tramos urbanos estrechos. Revisa el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> para preparar el acceso de la grúa.</p>"
+    "html": "<p>El acceso llega por las vías rápidas metropolitanas, que conectan directamente con polígonos como Prado Overa y Nuestra Señora de Butarque sin cruzar tramos urbanos estrechos. Revisa el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> para preparar el acceso de la grúa con antelación.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Usos habituales de los contenedores en Leganés y su comarca",
-    "html": "<p>La industria y los polígonos de Leganés concentran buena parte del uso del contenedor marítimo:</p><ul><li>Prado Overa, Nuestra Señora de Butarque y Leganés Tecnológico: almacén o módulo de obra para empresas de farmacéutica, automoción y logística.</li><li>Entorno de la Universidad Carlos III: caseta u oficina temporal de obra.</li><li>Barrios periféricos con vivienda unifamiliar: trastero o almacén doméstico en parcela ya edificada.</li></ul><p>El acuífero de Madrid y la proximidad de los arroyos Butarque y Culebro hacen recomendable comprobar el nivel freático antes de apoyar el contenedor.</p>"
+    "html": "<p>La industria y los polígonos de Leganés concentran buena parte del uso del contenedor marítimo:</p><ul><li>Prado Overa, Nuestra Señora de Butarque y Leganés Tecnológico: almacén o módulo de obra para empresas de farmacéutica, automoción y logística.</li><li>Entorno de la Universidad Carlos III: caseta u oficina temporal.</li><li>Barrios periféricos con vivienda unifamiliar: trastero o almacén doméstico en parcela ya edificada.</li></ul>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Hay que vigilar el nivel freático antes de apoyar un contenedor en Leganés?",
+    "html": "<p>Conviene comprobarlo si la parcela está cerca del arroyo Butarque o del Culebro: un apoyo mal calculado sobre terreno húmedo puede asentarse de forma desigual con el tiempo. Un estudio geotécnico previo, aunque sea sencillo, evita ese riesgo antes de fijar la <strong>cimentación</strong> del contenedor.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Leganés",
-    "html": "<ul><li><a href=\"/contenedores-maritimos-getafe/\">Getafe</a> y Fuenlabrada</li><li>Alcorcón y Móstoles</li><li>Madrid capital y el resto de la Comunidad de Madrid</li></ul>"
+    "html": "<ul><li>Getafe y Fuenlabrada</li><li>Alcorcón y Móstoles</li><li>Madrid capital y el resto de la Comunidad de Madrid</li></ul>"
    }
   ],
   "faq": {
@@ -53,19 +58,19 @@
    "items": [
     {
      "pregunta": "¿Entregáis contenedores marítimos en toda la zona sur de Madrid?",
-     "respuesta": "Sí. Además de Leganés cubrimos Getafe, Fuenlabrada, Alcorcón, Móstoles y el resto de la Comunidad de Madrid. El transporte y la descarga se calculan desde el Puerto Seco de Coslada o el depósito más cercano y van incluidos en el <strong>presupuesto puesto en destino</strong>."
+     "respuesta": "Sí, la zona sur de la Comunidad de Madrid está dentro de nuestra área habitual de trabajo: Getafe, Fuenlabrada, Alcorcón, Móstoles y la propia Leganés. No mantenemos depósito en ninguno de estos municipios -la unidad sale del punto de almacenaje que corresponda- pero el transporte hasta tu polígono o tu calle queda cerrado en el mismo <strong>presupuesto puesto en destino</strong>."
     },
     {
-     "pregunta": "¿Qué contenedor conviene para un módulo de obra en un polígono de Leganés?",
-     "respuesta": "Para una caseta u oficina de obra suele bastar un contenedor de 20 pies, con unos 13,9 m² interiores; para un almacén con más existencias, el <strong>contenedor de 40 pies</strong>, con unos 28,3 m² interiores, cunde más sin ocupar dos plazas de parcela."
+     "pregunta": "¿Puedo alquilar un contenedor en Leganés en lugar de comprarlo?",
+     "respuesta": "Sí, muchas empresas de los polígonos de Leganés optan por el alquiler para una obra puntual o un uso temporal, ya que evita la inversión inicial de comprar la unidad. Fija de antemano la duración prevista y las condiciones de devolución antes de firmar el contrato."
     },
     {
-     "pregunta": "¿Se necesita licencia para un trastero contenedor en una vivienda de Leganés?",
-     "respuesta": "Sí, aunque sea de uso doméstico: el Ayuntamiento valora el uso permanente del contenedor y no solo su tamaño o su función de trastero, así que conviene comprobar antes si tu caso entra en declaración responsable o si el técnico municipal exige licencia de obra menor."
+     "pregunta": "¿Qué espacio necesito para recibir un contenedor en un polígono de Leganés?",
+     "respuesta": "Hace falta una superficie firme y nivelada, con apoyo en las cuatro cantoneras, y espacio libre suficiente para que el camión maniobre y la grúa despliegue el brazo sin obstáculos. Revisa las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> antes de preparar el acceso."
     },
     {
-     "pregunta": "¿En Leganés hacéis también casas contenedor, no solo venta de contenedores marítimos?",
-     "respuesta": "Sí. En Leganés proyectamos y construimos <a href=\"/leganes/\">casas hechas con contenedores</a> además de vender y alquilar contenedores marítimos: el acompañamiento va desde la consulta urbanística inicial y el proyecto técnico hasta la entrega llave en mano, también en el resto de la zona sur de Madrid."
+     "pregunta": "¿En Leganés también construís casas hechas con contenedores?",
+     "respuesta": "Sí, aunque la venta y el alquiler de contenedores es solo una parte de lo que hacemos en Leganés: con el mismo equipo técnico levantamos también <a href=\"/leganes/\">casas hechas con contenedores</a> en la ciudad y en el resto de la zona sur de Madrid."
     }
    ]
   }

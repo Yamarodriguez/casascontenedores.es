@@ -2665,5 +2665,60 @@
  "menu": "sin-provincias",
  "bandaTitulo": false,
  "postId": 913,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Casas contenedores en Valencia: licencia y suelo disponible",
+    "html": "<p>En València conviven el suelo urbano consolidado del casco y las pedanías con la huerta perimetral, protegida por el Plan de Acción Territorial de la Huerta y no urbanizable en buena parte de su superficie: pide la calificación urbanística exacta antes de comprar parcela. La obra se rige por el TRLOTUP (Decreto Legislativo 1/2021, modificado por el Decreto-ley 7/2024) y, al terminar, el Ayuntamiento tramita una <strong>declaración responsable de primera ocupación</strong> en lugar de cédula.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué ocurre si la parcela está en huerta protegida?",
+    "html": "<p>Si la parcela es <strong>suelo no urbanizable</strong> de huerta, la vivienda nueva queda muy restringida y solo se admiten usos vinculados a la explotación agrícola; conviene comprobarlo antes de firmar nada. Un solar urbano en una pedanía o una nave en un polígono siguen el trámite habitual de cualquier construcción nueva.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Gota fría, salitre y protección del acero en Valencia",
+    "html": "<p>La capital está en <strong>zona climática B3</strong> del Código Técnico, con veranos bochornosos, salitre en la franja litoral y lluvias torrenciales de otoño ligadas a la gota fría, que la llanura del Turia ayuda a evacuar. En una vivienda con contenedores marítimos esto pesa más en la protección anticorrosiva del acero que en el grosor del aislamiento.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Por qué preocupa la corrosión cerca de la costa valenciana?",
+    "html": "<p>Porque la humedad y el salitre aceleran el óxido en cualquier estructura de acero, y el contenedor marítimo no es la excepción: sin <strong>protección anticorrosiva</strong> bien mantenida, las cantoneras y las soldaduras son el punto más expuesto.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo llega el contenedor a tu parcela en Valencia",
+    "html": "<p>El contenedor sale del puerto de contenedores de València (Valenciaport), el primer puerto de este tipo del Mediterráneo español, con salida directa a la V-30, la A-7 y la A-3. La llanura del Turia es plana y con <strong>nivel freático alto</strong> cerca de la Albufera y de la costa, así que conviene un estudio geotécnico antes de decidir la cimentación. Si solo necesitas la unidad, consulta la ficha de <a href=\"/contenedor-maritimo-valencia/\">contenedor marítimo en Valencia</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puede entrar el camión góndola por los caminos de la huerta?",
+    "html": "<p>En muchos caminos de huerta, estrechos y con acequias, el camión con góndola no tiene el mismo margen que en un polígono; conviene comprobarlo antes de fijar la entrega. En Ciutat Vella y en varias pedanías, las calles estrechas exigen coordinar además el paso de la grúa.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Valencia",
+   "items": [
+    {
+     "pregunta": "¿Se puede instalar una vivienda de contenedores junto a la Albufera o en la Devesa del Saler?",
+     "respuesta": "No: la Albufera y la Devesa del Saler forman un espacio natural protegido, con restricciones muy estrictas para cualquier construcción nueva. Si tu parcela está cerca de este entorno o de la huerta protegida, consulta primero la calificación urbanística en el Ayuntamiento; fuera de estas zonas, el suelo urbano de la ciudad y las pedanías admite el trámite habitual de licencia."
+    },
+    {
+     "pregunta": "¿Qué licencia pide el Ayuntamiento de València para esta construcción?",
+     "respuesta": "El Ayuntamiento exige <strong>licencia de obra mayor</strong> con un proyecto de arquitecto que cumpla la Ley de Ordenación de la Edificación y el Código Técnico, además de la tasa de ICIO, con un tipo máximo legal del 4 %. Al terminar la obra no se tramita cédula, sino una declaración responsable de primera ocupación. Resuelve el trámite completo en <a href=\"/permisos/\">permisos y licencias</a>."
+    },
+    {
+     "pregunta": "¿Desde qué puerto llega el contenedor hasta Valencia?",
+     "respuesta": "Desde el puerto de contenedores de la propia ciudad, Valenciaport, el primero de su tipo en el Mediterráneo español; el transporte hasta tu parcela sale del propio municipio, sin depender de un puerto lejano. Si solo necesitas la unidad, consulta la ficha de contenedor marítimo en Valencia para ver tipos y usos disponibles."
+    },
+    {
+     "pregunta": "¿Vendéis también contenedores marítimos en Valencia, no solo casas?",
+     "respuesta": "Sí, además de la construcción de vivienda, trabajamos con <strong>contenedores marítimos</strong> para almacén, oficina o módulo temporal en toda la provincia, con presupuesto puesto en destino, incluida la ficha de contenedor marítimo en Valencia, y en localidades cercanas como <a href=\"/castellon/\">Castellón</a>."
+    }
+   ]
+  }
+ }
 }

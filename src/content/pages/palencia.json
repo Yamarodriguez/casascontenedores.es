@@ -30,7 +30,7 @@
    {
     "nivel": "h2",
     "titulo": "Tierra de Campos y el Carrión: terreno y clima en Palencia",
-    "html": "<p>La llanura de Tierra de Campos, de arcillas y limos, y las terrazas aluviales del Carrión, de gravas y arenas, son los dos terrenos más habituales; los páramos calizos del Cerrato añaden una tercera variante en la comarca. La zona climática es la D1 del anejo B del CTE DB-HE, con inviernos largos de heladas y nieblas, viento de la llanura y veranos secos; la Montaña Palentina sube a E1 con nieve.</p>"
+    "html": "<p>La llanura de Tierra de Campos, de arcillas y limos, y las terrazas aluviales del Carrión, de gravas y arenas, son los dos terrenos más habituales; los páramos calizos del Cerrato añaden una tercera variante en la comarca. La <strong>zona climática D1</strong> del anejo B del CTE DB-HE trae inviernos largos de heladas y nieblas, viento de la llanura y veranos secos; la Montaña Palentina sube a E1 con nieve.</p>"
    },
    {
     "nivel": "h3",
@@ -45,7 +45,7 @@
    {
     "nivel": "h3",
     "titulo": "¿Tienen restricciones los puentes del Canal de Castilla para un contenedor?",
-    "html": "<p>Sí: varios puentes y pasos sobre el Canal de Castilla tienen gálibo y carga limitados, así que conviene revisar la ruta con el transportista antes de la entrega, sobre todo en los pueblos de la comarca.</p>"
+    "html": "<p>Sí: varios puentes y pasos sobre el <strong>Canal de Castilla</strong> tienen gálibo y carga limitados, así que conviene revisar la ruta con el transportista antes de la entrega, sobre todo en los pueblos de la comarca.</p>"
    }
   ],
   "faq": {

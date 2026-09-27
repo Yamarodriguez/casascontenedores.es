@@ -12,17 +12,32 @@
    {
     "nivel": "h2",
     "titulo": "Medidas reales de un contenedor para dibujar el plano",
-    "html": "<p>Antes de dibujar cualquier distribución conviene partir de las medidas reales del contenedor, no de las de una vivienda convencional:</p><table><thead><tr><th>Contenedor</th><th>Exterior (L × An × Al)</th><th>Superficie interior aprox.</th></tr></thead><tbody><tr><td>20 pies</td><td>6,06 × 2,44 × 2,59 m</td><td>≈13,9 m²</td></tr><tr><td>40 pies</td><td>12,19 × 2,44 × 2,59 m</td><td>≈28,3 m²</td></tr><tr><td>40 pies High Cube</td><td>12,19 × 2,44 × 2,90 m</td><td>≈28,3 m²</td></tr></tbody></table><p>El ancho interior útil ronda los 2,35 m, porque el aislamiento y el trasdosado restan espesor a las paredes. Dibuja los ejes del plano sobre las cantoneras, no sobre el borde exterior de la chapa: es el punto por el que se unen y se refuerzan los módulos entre sí. Puedes revisar el resto de medidas en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a>.</p>"
+    "html": "<p>Antes de dibujar cualquier distribución conviene partir de las medidas reales del contenedor, no de las de una vivienda convencional:</p><table><thead><tr><th>Contenedor</th><th>Exterior (L × An × Al)</th><th>Superficie interior aprox.</th></tr></thead><tbody><tr><td>20 pies</td><td>6,06 × 2,44 × 2,59 m</td><td>≈13,9 m²</td></tr><tr><td>40 pies</td><td>12,19 × 2,44 × 2,59 m</td><td>≈28,3 m²</td></tr><tr><td>40 pies High Cube</td><td>12,19 × 2,44 × 2,90 m</td><td>≈28,3 m²</td></tr></tbody></table><p>El <strong>ancho interior útil</strong> ronda los 2,35 m, porque el aislamiento y el trasdosado restan espesor a las paredes. Dibuja los ejes del plano sobre las cantoneras, no sobre el borde exterior de la chapa: es el punto por el que se unen y se refuerzan los módulos entre sí. Puedes revisar el resto de medidas en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué ancho interior útil tiene un contenedor marítimo?",
+    "html": "<p>Un contenedor marítimo estándar, fabricado según la norma ISO 668, ofrece un ancho interior algo menor que el de una vivienda convencional, porque el aislamiento y el trasdosado restan espesor a las cuatro paredes. Ese estrechamiento se nota sobre todo en pasillos y baños, donde conviene evitar tabiques adicionales que reduzcan aún más el espacio útil. También conviene resolver el <strong>puente térmico</strong> en las esquinas y en las uniones entre módulos, ya que ahí el metal transmite frío y calor con más facilidad que el resto del cerramiento.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Ejemplos de distribución con medidas",
-    "html": "<p>Un solo <a href=\"/casa-contenedor-40-pies/\">contenedor de 40 pies</a> (unos 28,3 m² interiores) suele llevar el dormitorio en un testero, un baño compacto en línea con las instalaciones y el salón-cocina en el resto del módulo, sin pasillos que roben ancho útil.</p><p>Al unir dos contenedores de 40 pies en paralelo duplicas la superficie de un único módulo y ganas ancho para el salón o los dormitorios, pero abrir el hueco en la pared común exige calcular un refuerzo, porque el contenedor pierde rigidez al recortar la chapa lateral.</p><p>Con tres módulos puedes optar por una distribución en línea, en U con patio o en L. En una casa de dos plantas, la escalera suele ir en el testero de un módulo inferior y la terraza, sobre el de la planta baja.</p><p>Todas estas estancias se acotan sobre el ancho interior útil de 2,35 m.</p>"
+    "html": "<p>Un solo <a href=\"/casa-contenedor-40-pies/\">contenedor de 40 pies</a> (unos 28,3 m² interiores) suele llevar el dormitorio en un testero, un baño compacto en línea con las instalaciones y el salón-cocina en el resto del módulo, sin pasillos que roben ancho útil.</p><p>Al unir dos contenedores de 40 pies en paralelo duplicas la superficie de un único módulo y ganas ancho para el salón o los dormitorios, pero abrir el hueco en la pared común exige calcular un refuerzo, porque el contenedor pierde rigidez al recortar la chapa lateral.</p><p>Con tres módulos puedes optar por una distribución en línea, en U con patio o en L. En una casa de dos plantas, la escalera suele ir en el testero de un módulo inferior y la terraza, sobre el de la planta baja.</p><p>Todas estas estancias se acotan sobre el <strong>ancho interior útil</strong> de 2,35 m.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Es seguro abrir varios huecos en la pared de un contenedor?",
+    "html": "<p>No siempre, y por eso cada apertura debe calcularse antes de llevarla al plano: el contenedor obtiene gran parte de su resistencia de la chapa exterior corrugada, que funciona como una <strong>estructura autoportante</strong>. Cuando el proyecto contempla varias aberturas seguidas, como ocurre al unir dos módulos por un lateral, el cálculo estructural debe incorporar jácenas o marcos metálicos que sustituyan el material retirado. Ese refuerzo se define en el proyecto de ejecución visado por el arquitecto, no se improvisa durante la obra.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Qué planos exige la licencia y errores habituales al diseñar",
-    "html": "<p>Para la licencia de obra, el proyecto visado por un arquitecto (LOE y CTE) suele incluir, como mínimo:</p><ul><li>Situación y emplazamiento en la parcela</li><li>Distribución acotada de cada planta</li><li>Alzados y secciones</li><li>Cimentación, estructura y refuerzos</li><li>Instalaciones: fontanería, electricidad y climatización</li><li>Carpinterías y detalles constructivos</li><li>Memoria, mediciones y presupuesto</li></ul><p>Un croquis o anteproyecto sirve para pedir presupuesto, pero no sustituye al proyecto básico (licencia) ni al de ejecución (obra). Consulta el trámite que te corresponde en <a href=\"/permisos/\">permisos para casas contenedor</a>.</p><p>Errores habituales: pasillos que consumen el ancho útil de 2,35 m, huecos sin calcular su refuerzo, no reservar el espesor del aislamiento en los tabiques, ignorar la orientación del terreno y no prever el acceso de la grúa. Las alturas mínimas de habitabilidad las fija cada comunidad autónoma, y el <a href=\"/contenedor-high-cube/\">contenedor High Cube</a> ayuda a cumplirlas.</p>"
+    "html": "<p>Para la licencia de obra, el <strong>proyecto visado</strong> por un arquitecto (LOE y CTE) suele incluir, como mínimo:</p><ul><li>Situación y emplazamiento en la parcela</li><li>Distribución acotada de cada planta</li><li>Alzados y secciones</li><li>Cimentación, estructura y refuerzos</li><li>Instalaciones: fontanería, electricidad y climatización</li><li>Carpinterías y detalles constructivos</li><li>Memoria, mediciones y presupuesto</li></ul><p>Un croquis o anteproyecto sirve para pedir presupuesto, pero no sustituye al <strong>proyecto básico</strong> (licencia) ni al de ejecución (obra). Consulta el trámite que te corresponde en <a href=\"/permisos/\">permisos para casas contenedor</a>.</p><p>Errores habituales: pasillos que consumen el ancho útil de 2,35 m, huecos sin calcular su refuerzo, no reservar el espesor del aislamiento en los tabiques, ignorar la orientación del terreno y no prever el acceso de la grúa. Las alturas mínimas de habitabilidad las fija cada comunidad autónoma, y el <a href=\"/contenedor-high-cube/\">contenedor High Cube</a> ayuda a cumplirlas.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Hace falta licencia de obra mayor para una casa contenedor?",
+    "html": "<p>Sí: instalar una casa contenedor con carácter permanente se considera obra mayor en la práctica totalidad de los ayuntamientos, porque implica cimentación, acometidas y un uso residencial estable, no una instalación provisional. Por eso el trámite exige una <strong>licencia de obra mayor</strong>, con proyecto básico y de ejecución firmados y visados por un arquitecto conforme a la LOE y al CTE.</p><p>Una vez terminada la obra hace falta además la licencia de primera ocupación, que certifica que la vivienda cumple el proyecto aprobado y las condiciones de habitabilidad; en algunas comunidades autónomas este documento se conoce como <strong>cédula de habitabilidad</strong>. Sin él, el ayuntamiento puede denegar el alta de los suministros de agua y electricidad.</p>"
    }
   ],
   "faq": {
@@ -69,7 +84,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px 0px 0px",
    "columnas": [
     {
@@ -85,10 +100,10 @@
       {
        "t": "espaciador",
        "id": "2cfcca2",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -113,8 +128,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 52.0,
-        "tamanoMovil": 34.0,
+        "tamano": 52,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -125,7 +140,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -138,7 +153,7 @@
        "color": "#373535",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "400"
        }
       }
@@ -152,7 +167,7 @@
       {
        "t": "espaciador",
        "id": "6f51ea6",
-       "alto": 43.0
+       "alto": 43
       },
       {
        "t": "encabezado",
@@ -165,7 +180,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -190,7 +205,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -217,10 +232,10 @@
       {
        "t": "espaciador",
        "id": "c4c0f14",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -245,8 +260,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 52.0,
-        "tamanoMovil": 34.0,
+        "tamano": 52,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -257,7 +272,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -270,7 +285,7 @@
        "color": "#373535",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "400"
        }
       },
@@ -280,7 +295,7 @@
        "url": "https://www.youtube.com/watch?v=SR-wGIBn2B0&ab_channel=PriscilaAzzini"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -296,7 +311,7 @@
       {
        "t": "espaciador",
        "id": "71f5c3e",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "boton",
@@ -308,12 +323,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -329,7 +344,7 @@
       {
        "t": "espaciador",
        "id": "7a7c566",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -343,8 +358,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 53.0,
-        "tamanoMovil": 34.0,
+        "tamano": 53,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -355,7 +370,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -368,12 +383,12 @@
        "color": "#373535",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -398,8 +413,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 52.0,
-        "tamanoMovil": 34.0,
+        "tamano": 52,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -410,7 +425,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -423,12 +438,12 @@
        "color": "#373535",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -453,8 +468,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 52.0,
-        "tamanoMovil": 34.0,
+        "tamano": 52,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -466,7 +481,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "13%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -479,12 +494,12 @@
        "color": "#373535",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -503,7 +518,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -520,7 +535,7 @@
       {
        "t": "espaciador",
        "id": "7da48a1",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -534,8 +549,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 39.0,
-        "tamanoMovil": 34.0,
+        "tamano": 39,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -547,7 +562,7 @@
        "color": "#F2C362",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 35.0,
+        "tamano": 35,
         "peso": "400"
        }
       },
@@ -566,7 +581,7 @@
        "html": "<div class=\"elementor-element elementor-element-8ed96d1 elementor-widget elementor-widget-text-editor\" data-id=\"8ed96d1\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><ul><li>6 Render de buena calidad</li><li>Resolución 4K (3840X2160)</li><li>1 Corrección gratis (textura, color, mobiliario)</li><li>Con postproducción</li></ul></div></div></div><div class=\"elementor-element elementor-element-7509a48 elementor-widget elementor-widget-text-editor\" data-id=\"7509a48\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><p>**Proyectos de hasta 250m², incluye modelo 3D y Diseño de Interiores.</p></div></div></div>"
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33
     },
     {
@@ -575,7 +590,7 @@
       {
        "t": "espaciador",
        "id": "a28a623",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -589,8 +604,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 39.0,
-        "tamanoMovil": 34.0,
+        "tamano": 39,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -602,7 +617,7 @@
        "color": "#F2C362",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 35.0,
+        "tamano": 35,
         "peso": "400"
        }
       },
@@ -621,7 +636,7 @@
        "html": "<div class=\"elementor-element elementor-element-ca73797 elementor-widget elementor-widget-text-editor\" data-id=\"ca73797\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><ul><li>6 Render de buena calidad</li><li>Resolución 4K (3840X2160)</li><li>1 Corrección gratis (textura, color, mobiliario)</li><li>Con postproducción </li></ul></div></div></div><div class=\"elementor-element elementor-element-c6d8f28 elementor-widget elementor-widget-text-editor\" data-id=\"c6d8f28\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><p>**Proyectos de hasta 250m², incluye modelo 3D y Diseño de Interiores.</p></div></div></div>"
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33
     },
     {
@@ -630,7 +645,7 @@
       {
        "t": "espaciador",
        "id": "9ce685d",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -644,8 +659,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Abel",
-        "tamano": 39.0,
-        "tamanoMovil": 34.0,
+        "tamano": 39,
+        "tamanoMovil": 34,
         "peso": "400"
        }
       },
@@ -657,7 +672,7 @@
        "color": "#F2C362",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 35.0,
+        "tamano": 35,
         "peso": "400"
        }
       },
@@ -676,7 +691,7 @@
        "html": "<div class=\"elementor-element elementor-element-ca73797 elementor-widget elementor-widget-text-editor\" data-id=\"ca73797\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><ul><li>1 Render de buena calidad</li><li>Resolución 4K (3840X2160)</li><li>1 Corrección gratis (textura, color, mobiliario)</li><li>Con postproducción</li></ul></div></div></div><div class=\"elementor-element elementor-element-c6d8f28 elementor-widget elementor-widget-text-editor\" data-id=\"c6d8f28\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-text-editor elementor-clearfix\"><p>**Proyectos de hasta 250m², incluye modelo 3D y Diseño de Interiores.</p></div></div></div>"
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33
     }
    ]
@@ -695,7 +710,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -706,7 +721,7 @@
    "disposicion": "boxed",
    "ancho": 1168,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "0px 0px 0px 0px",
    "fondo": {
     "imagen": "/wp-content/uploads/2022/01/zcxvdsvsdv-2.jpg",
@@ -731,8 +746,8 @@
           {
            "t": "espaciador",
            "id": "93533e4",
-           "alto": 114.0,
-           "altoMovil": 26.0
+           "alto": 114,
+           "altoMovil": 26
           },
           {
            "t": "encabezado",
@@ -746,8 +761,8 @@
            "color": "#FFFFFF",
            "tipo": {
             "familia": "Abel",
-            "tamano": 64.0,
-            "tamanoMovil": 56.0,
+            "tamano": 64,
+            "tamanoMovil": 56,
             "peso": "800"
            }
           },
@@ -760,7 +775,7 @@
            "color": "#FFFFFF",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 18.0,
+            "tamano": 18,
             "peso": "600",
             "interlineado": 1.7,
             "interlineadoUnidad": "em"
@@ -776,7 +791,7 @@
            "fondoHover": "#4F4444",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 19.0,
+            "tamano": 19,
             "peso": "500"
            }
           },
@@ -790,14 +805,14 @@
            "fondoHover": "#4F4444",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 19.0,
+            "tamano": 19,
             "peso": "500"
            }
           },
           {
            "t": "espaciador",
            "id": "7af4b30",
-           "alto": 44.0
+           "alto": 44
           }
          ],
          "ancho": 59.561,
@@ -817,7 +832,7 @@
        ]
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -833,10 +848,10 @@
       {
        "t": "espaciador",
        "id": "710e657",
-       "alto": 26.0
+       "alto": 26
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -852,10 +867,10 @@
       {
        "t": "espaciador",
        "id": "aceab8c",
-       "alto": 26.0
+       "alto": 26
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -880,8 +895,8 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
-        "tamanoMovil": 34.0,
+        "tamano": 42,
+        "tamanoMovil": 34,
         "peso": "600"
        }
       },
@@ -893,10 +908,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "62%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     },
     {
@@ -913,12 +928,12 @@
        "color": "#0A0A0A",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "400"
        }
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     }
    ]
@@ -934,10 +949,10 @@
       {
        "t": "espaciador",
        "id": "a243749",
-       "alto": 26.0
+       "alto": 26
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -961,7 +976,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-un-contenedor/"
@@ -977,7 +992,7 @@
      ],
      "ancho": 24.775,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -994,7 +1009,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-dos-contenedores/"
@@ -1010,7 +1025,7 @@
      ],
      "ancho": 25.18,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1027,7 +1042,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-tres-contenedores/"
@@ -1041,9 +1056,9 @@
        "url": "/casa-con-tres-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1060,7 +1075,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-cuatro-contenedores/"
@@ -1074,9 +1089,9 @@
        "url": "/casa-con-cuatro-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1094,10 +1109,10 @@
       {
        "t": "espaciador",
        "id": "9d9c73d",
-       "alto": 26.0
+       "alto": 26
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1121,7 +1136,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -1135,9 +1150,9 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1154,7 +1169,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -1168,9 +1183,9 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1187,7 +1202,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/modulos-sanitarios/"
@@ -1201,9 +1216,9 @@
        "url": "/modulos-sanitarios/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1220,7 +1235,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -1234,9 +1249,9 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -1254,10 +1269,10 @@
       {
        "t": "espaciador",
        "id": "2917fb5",
-       "alto": 26.0
+       "alto": 26
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1281,7 +1296,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/contenedores-maritimos/"
@@ -1295,9 +1310,9 @@
        "url": "/contenedores-maritimos/"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -1318,7 +1333,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1342,13 +1357,13 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "700"
        },
        "url": "/casa-contenedor-40-pies/"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     },
     {
@@ -1364,13 +1379,13 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "700"
        },
        "url": "/casa-contendor-20-pies/"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     }
    ]
@@ -1394,13 +1409,13 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "700"
        },
        "url": "/piscina-contenedor/"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1419,7 +1434,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1448,7 +1463,7 @@
       {
        "t": "espaciador",
        "id": "623a7c1",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1462,7 +1477,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 48.0,
+        "tamano": 48,
         "peso": "600"
        }
       },
@@ -1473,7 +1488,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "seccion",
@@ -1498,7 +1513,7 @@
            "color": "#FEFEFE",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 18.0,
+            "tamano": 18,
             "peso": "400"
            }
           },
@@ -1536,7 +1551,7 @@
            "color": "#FEFEFE",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 18.0,
+            "tamano": 18,
             "peso": "400"
            }
           },
@@ -1552,7 +1567,7 @@
        ]
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1568,10 +1583,10 @@
       {
        "t": "espaciador",
        "id": "341fb6c",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1587,10 +1602,10 @@
       {
        "t": "espaciador",
        "id": "78b3514",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1612,12 +1627,12 @@
        "color": "#31728E",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 28.0,
+        "tamano": 28,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1636,7 +1651,7 @@
        "html": "<ul class=\"texto-negro-mediana\"><li>Contenedores marítimos transformados en <b>equipamientos sociales para ayuntamientos y organismos públicos</b></li><li>Contenedor transformado para el tratamiento y depuración de aguas</li><li>Contenedor convertido en taller</li><li>Contenedor marítimo transformado en un comercio</li><li>Contenedor solar autónomo</li><li>Módulo prefabricado vestuario</li><li>Contenedores para bares o restaurantes, en Centros comerciales, parques, playas o piscinas.</li><li>Contenedor almacén ligero</li></ul>"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     },
     {
@@ -1648,7 +1663,7 @@
        "html": "<ul class=\"texto-negro-mediana\"><li>Contenedor de 6 m transformado en una oficina</li><li>Módulo prefabricado forrado de madera</li><li>Contenedor marítimo para punto de venta o información</li><li>Módulos prefabricados para servicios diversos en playa</li><li>Contenedor transformado en laboratorio móvil</li><li>Contenedor transformado de altura 2,90m (hc) a uno con puertas laterales (openside)</li><li>Contenedor transformado de carga seca (dry) con y sin aislamiento térmico</li><li>Conjunto modular para oficina de campaña</li><li>Casas modulares prefabricadas, etc</li></ul>"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     }
    ]
@@ -1659,7 +1674,7 @@
    "disposicion": "boxed",
    "ancho": 1214,
    "hueco": "custom",
-   "huecoPx": 49.0,
+   "huecoPx": 49,
    "fondo": {
     "imagen": "/wp-content/uploads/2021/06/casas-con-contenedores-precios.png",
     "posicion": "top center",
@@ -1685,7 +1700,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "400"
        }
       },
@@ -1696,7 +1711,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1707,7 +1722,7 @@
        "color": "#FEFEFE",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "400"
        }
       },
@@ -1721,12 +1736,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1745,7 +1760,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1777,7 +1792,7 @@
            "color": "#6D6D6D",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 33.0,
+            "tamano": 33,
             "peso": "400"
            }
           },
@@ -1788,7 +1803,7 @@
            "color": "#02E215",
            "grosor": 3.2,
            "ancho": "26%",
-           "hueco": 5.0
+           "hueco": 5
           },
           {
            "t": "texto",
@@ -1800,7 +1815,7 @@
            "color": "#676767",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 15.0,
+            "tamano": 15,
             "peso": "400"
            }
           }
@@ -1814,7 +1829,7 @@
           {
            "t": "espaciador",
            "id": "f38a917",
-           "alto": 325.0
+           "alto": 325
           },
           {
            "t": "boton",
@@ -1826,7 +1841,7 @@
            "fondoHover": "#4F4444",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 19.0,
+            "tamano": 19,
             "peso": "500"
            }
           }
@@ -1883,7 +1898,7 @@
            "color": "#6D6D6D",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 33.0,
+            "tamano": 33,
             "peso": "400"
            }
           },
@@ -1894,7 +1909,7 @@
            "color": "#02E215",
            "grosor": 3.2,
            "ancho": "26%",
-           "hueco": 5.0
+           "hueco": 5
           },
           {
            "t": "texto",
@@ -1906,7 +1921,7 @@
            "color": "#676767",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 15.0,
+            "tamano": 15,
             "peso": "400"
            }
           }
@@ -1920,7 +1935,7 @@
           {
            "t": "espaciador",
            "id": "49f9e7b",
-           "alto": 496.0
+           "alto": 496
           }
          ],
          "ancho": 44.634,
@@ -1954,7 +1969,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1971,7 +1986,7 @@
       {
        "t": "espaciador",
        "id": "a758e2a",
-       "alto": 233.0
+       "alto": 233
       },
       {
        "t": "encabezado",
@@ -1983,14 +1998,14 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 62.0,
+        "tamano": 62,
         "peso": "600"
        }
       },
       {
        "t": "espaciador",
        "id": "9b31301",
-       "alto": 53.0
+       "alto": 53
       },
       {
        "t": "texto",
@@ -2001,7 +2016,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 17.0,
+        "tamano": 17,
         "peso": "400",
         "interlineado": 1.6,
         "interlineadoUnidad": "em"
@@ -2010,7 +2025,7 @@
       {
        "t": "espaciador",
        "id": "a88fb12",
-       "alto": 99.0
+       "alto": 99
       }
      ],
      "ancho": 62.719,
@@ -2042,7 +2057,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -2062,7 +2077,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -2082,7 +2097,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -2102,7 +2117,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -2122,7 +2137,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -2161,7 +2176,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2177,7 +2192,7 @@
       {
        "t": "espaciador",
        "id": "b30a08b",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -2190,7 +2205,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2201,7 +2216,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -2213,7 +2228,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -2241,7 +2256,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -2265,7 +2280,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2281,7 +2296,7 @@
       {
        "t": "espaciador",
        "id": "17596cb",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -2294,7 +2309,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2305,7 +2320,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -2317,7 +2332,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -2345,7 +2360,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -2369,7 +2384,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2385,7 +2400,7 @@
       {
        "t": "espaciador",
        "id": "ed8279f",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -2398,7 +2413,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2409,7 +2424,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -2421,7 +2436,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -2449,7 +2464,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -2473,7 +2488,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2489,7 +2504,7 @@
       {
        "t": "espaciador",
        "id": "f077a81",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -2502,7 +2517,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2513,7 +2528,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -2525,7 +2540,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -2553,7 +2568,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -2577,7 +2592,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2602,7 +2617,7 @@
       {
        "t": "espaciador",
        "id": "b7906b8",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -2615,7 +2630,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -2629,7 +2644,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -2643,17 +2658,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "98fa116",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2669,10 +2684,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2696,7 +2711,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2707,10 +2722,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2733,7 +2748,7 @@
        "color": "#31728E",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "600"
        },
        "url": "/contenedores-maritimos/"
@@ -2753,9 +2768,9 @@
        "html": "<p>Venta de <strong>contenedores marítimos</strong> de diferentes tipos y precios</p>"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     },
     {
      "id": "101638f",
@@ -2769,7 +2784,7 @@
        "color": "#31728E",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "600"
        }
       },
@@ -2781,9 +2796,9 @@
        "ancho": "100%"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   }

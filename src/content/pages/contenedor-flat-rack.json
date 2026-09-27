@@ -20,7 +20,27 @@
    {
     "nivel": "h2",
     "titulo": "Qué es un contenedor flat rack y cómo se carga",
-    "html": "<p>El <strong>contenedor flat rack</strong> es una plataforma reforzada, sin paredes laterales ni techo, con testeros en los extremos que en muchos modelos son abatibles y anillas de amarre en las esquinas y en los laterales de la base. Se usa para maquinaria, vehículos, tuberías, bobinas y piezas industriales que no caben por la puerta de un contenedor cerrado, y también como base o superficie de apoyo temporal en obra.</p><p>Está disponible en 20 y 40 pies, con la misma huella ISO 668 que un dry van, 6,06 × 2,44 m y 12,19 × 2,44 m, pero sin la limitación de las puertas ni del techo: admite cargas más anchas o más altas que un contenedor cerrado de la misma longitud. En los modelos con testeros abatibles, puedes plegarlos para apilar varias unidades vacías y ahorrar espacio en el trayecto de vuelta.</p><p>La carga se amarra a las anillas de las esquinas y de los laterales con cadenas o cinchas: al no haber paredes que la contengan, un buen trincaje y un reparto correcto del peso son imprescindibles, y lo que sobresale por los lados o los extremos necesita autorización y señalización de transporte especial. La carga y la descarga se hacen con grúa, igual que en cualquier <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>, aunque al no haber techo se puede izar directamente desde arriba.</p><p>Si compras uno de <a href=\"/contenedores-maritimos-segunda-mano/\">segunda mano</a>, revisa el suelo, que las anillas no estén deformadas ni con soldaduras agrietadas, que los testeros abatibles bloqueen bien y que conserve la placa CSC que certifica que sigue siendo apto para el transporte marítimo. Puedes comparar sus medidas con el resto de formatos en <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+    "html": "<p>El <strong>contenedor flat rack</strong> es una plataforma reforzada, sin paredes laterales ni techo, con testeros en los extremos que en muchos modelos son abatibles y anillas de amarre en las esquinas y en los laterales de la base. Se usa para maquinaria, vehículos, tuberías, bobinas y piezas industriales que no caben por la puerta de un contenedor cerrado, y también como base o superficie de apoyo temporal en obra.</p><p>Está disponible en 20 y 40 pies, con la misma <strong>huella ISO 668</strong> que un dry van, 6,06 × 2,44 m y 12,19 × 2,44 m, pero sin la limitación de las puertas ni del techo: admite cargas más anchas o más altas que un contenedor cerrado de la misma longitud. En los modelos con testeros abatibles, puedes plegarlos para apilar varias unidades vacías y ahorrar espacio en el trayecto de vuelta.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "Trincaje, grúa y qué revisar en uno usado",
+    "html": "<p>La carga se amarra a las anillas de las esquinas y de los laterales con cadenas o cinchas: al no haber paredes que la contengan, un buen trincaje y un reparto correcto del peso son imprescindibles, y lo que sobresale por los lados o los extremos necesita autorización y señalización de <strong>transporte especial</strong>. La carga y la descarga se hacen con grúa, igual que en cualquier <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>, aunque al no haber techo se puede izar directamente desde arriba.</p><p>Si compras uno de <a href=\"/contenedores-maritimos-segunda-mano/\">segunda mano</a>, revisa el suelo, que las anillas no estén deformadas ni con soldaduras agrietadas, que los testeros abatibles bloqueen bien y que conserve la <strong>placa CSC</strong> que certifica que sigue siendo apto para el transporte marítimo. Puedes comparar sus medidas con el resto de formatos en <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Es obligatoria la placa CSC en un contenedor flat rack?",
+    "html": "<p>Sí, la placa CSC es obligatoria para que un contenedor pueda circular en transporte marítimo internacional: certifica, según el <strong>Convenio Internacional sobre Contenedores</strong>, que la estructura ha superado las pruebas de resistencia y apilamiento exigidas. Sin ella, ni las navieras ni las terminales portuarias aceptan la unidad, y por eso conviene comprobar que la placa siga vigente y sea legible antes de comprar un contenedor usado.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué trámites exige transportar una carga que sobresale del contenedor flat rack?",
+    "html": "<p>Cuando la carga sobresale de los límites del propio contenedor, el traslado pasa a considerarse transporte especial y necesita autorización previa del organismo de tráfico competente, además de señalización, escolta u otras medidas según el exceso de anchura, altura o longitud. El transportista debe declarar las medidas y el peso reales de la <strong>carga sobredimensionada</strong> para que se calculen correctamente la ruta y los permisos, algo que también afecta a la elección de grúa y camión en la carga y descarga.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Por qué los testeros del contenedor flat rack son abatibles?",
+    "html": "<p>Los <strong>testeros abatibles</strong> permiten plegar los extremos del contenedor cuando viaja vacío, de forma que varias unidades se pueden encajar y apilar igual que un contenedor cerrado, ahorrando espacio en el trayecto de vuelta. Con carga, en cambio, los testeros deben quedar bloqueados en posición vertical, ya que son el único punto de apoyo longitudinal de la mercancía al no existir paredes laterales.</p>"
    }
   ],
   "faq": {
@@ -44,7 +64,7 @@
     },
     {
      "pregunta": "¿Se alquila para un solo transporte?",
-     "respuesta": "Sí, es habitual alquilarlo para un traslado puntual de maquinaria o de una carga sobredimensionada, sin necesidad de comprarlo. Antes de cerrar el alquiler, indica las medidas y el peso reales de lo que vas a transportar, porque de eso dependen la grúa, el camión y los permisos de transporte especial que puedan hacer falta. Consulta las condiciones de <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a>."
+     "respuesta": "Sí, es habitual alquilarlo para un traslado puntual de maquinaria o de una carga sobredimensionada, sin necesidad de comprarlo. Antes de cerrar el alquiler, indica las medidas y el peso reales de lo que vas a transportar, porque de eso dependen la grúa, el camión y los permisos de transporte especial que puedan hacer falta. Consulta las condiciones de alquiler de contenedores marítimos."
     }
    ]
   }

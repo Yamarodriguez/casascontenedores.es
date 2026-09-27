@@ -19,33 +19,38 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Contenedores marítimos en Barcelona: usos habituales en la ciudad",
-    "html": "<p>En una ciudad casi por completo urbanizada, los <strong>contenedores marítimos en Barcelona</strong> se usan sobre todo para actividad terciaria antes que para vivienda:</p><ul><li>Oficinas modulares y espacios de coworking en el entorno tecnológico del 22@.</li><li>Locales y módulos para eventos y ferias temporales.</li><li>Alojamiento turístico de temporada en solares urbanos.</li><li>Naves auxiliares e instalaciones de apoyo en la industria de la Zona Franca.</li></ul>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Se puede poner un contenedor marítimo como vivienda en Barcelona?",
-    "html": "<p>Es posible, pero poco frecuente: el municipio es casi todo suelo urbano consolidado, así que el caso más habitual no es una vivienda aislada, sino un <strong>solar entre medianeras</strong> o una ampliación en azotea con uso terciario. Cada solar tiene su propia edificabilidad y retranqueos, así que conviene comprobarlo antes de comprar la parcela.</p>"
-   },
-   {
-    "nivel": "h2",
-    "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Barcelona?",
-    "html": "<p>Sí, instalar un contenedor es al menos una actuación sujeta a comunicació prèvia o <strong>llicència d'obra menor</strong> del Ayuntamiento de Barcelona, con más exigencias cuanto más permanente sea el uso. El Text refós de la Llei d'urbanisme de Catalunya (Decret Legislatiu 1/2010) es la norma de referencia, y Barcelona conserva el Pla General Metropolità como marco vigente, aunque el nuevo Pla Director Urbanístic Metropolità está en tramitación para sustituirlo.</p><p>En Ciutat Vella y en cascos antiguos como Gràcia, Sarrià o Sants, con calles estrechas y catálogos de protección patrimonial, y en el frente litoral protegido por la Ley de Costas, colocar cualquier módulo tiene más restricciones.</p><p>Consulta los <a href=\"/permisos/\">permisos para instalar un contenedor marítimo</a> antes de comprar la parcela.</p>"
+    "titulo": "Contenedores marítimos en Barcelona: ¿qué licencia piden para instalarlos?",
+    "html": "<p>Sí, instalar un contenedor es al menos una actuación sujeta a <strong>declaración responsable o licencia de obra menor</strong> del Ayuntamiento de Barcelona, con más exigencias cuanto más permanente sea el uso. El Decreto Legislativo 1/2010, de 3 de agosto, que aprueba el Texto Refundido de la Ley de Urbanismo de Cataluña, es la norma de referencia; la ciudad sigue ordenada por el Plan General Metropolitano, aunque el nuevo Plan Director Urbanístico Metropolitano está en tramitación.</p><p>En Ciutat Vella y en cascos antiguos como Gràcia, Sarrià o Sants, con catálogos de protección patrimonial, y en el frente litoral protegido por la Ley de Costas, colocar cualquier módulo tiene más restricciones. Resuélvelo con el distrito antes de cerrar la parcela; lo explicamos en los <a href=\"/permisos/\">permisos para instalar un contenedor marítimo</a>.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Hace falta permiso para ocupar la calle al descargar un contenedor marítimo en Barcelona?",
-    "html": "<p>Sí, normalmente hace falta un <strong>permiso de ocupación de vía pública</strong>, sobre todo en las superilles y ejes peatonales donde el tráfico está más restringido. Conviene solicitarlo con tiempo junto con la reserva del horario de carga y descarga.</p>"
+    "html": "<p>Sí, normalmente hace falta un permiso de ocupación de vía pública, sobre todo en las superilles y los ejes peatonales donde el tráfico está más restringido. Pide ese permiso junto con la reserva del horario de carga y descarga.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "De dónde llegan los contenedores a Barcelona",
-    "html": "<p>El <strong>Port de Barcelona</strong> cuenta con terminales de contenedores propias, como Hutchison Ports BEST y APM Terminals Barcelona, así que buena parte de la carga que llega a la ciudad sale directamente de ahí. El transporte hasta tu parcela circula por las rondas litorales y las autopistas de acceso a la ciudad, con la descarga y el presupuesto puesto en destino ya incluidos.</p><p>El interior de las rondas de circunvalación es Zona de Bajas Emisiones, así que el vehículo de transporte necesita el distintivo ambiental correspondiente en días laborables.</p>"
+    "titulo": "Contenedores marítimos en Barcelona: cómo trabajamos y desde dónde llegan",
+    "html": "<p>El <strong>Port de Barcelona</strong> cuenta con terminales de contenedores propias, entre ellas Hutchison Ports BEST y APM Terminals Barcelona, así que buena parte de la carga sale directamente de ahí. El transporte hasta tu parcela circula por las rondas litorales y las autopistas de acceso, con la descarga y el presupuesto puesto en destino incluidos.</p><p>El interior de las rondas de circunvalación es zona de bajas emisiones, así que el vehículo necesita el distintivo ambiental correspondiente en días laborables.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Se puede recoger un contenedor marítimo directamente en las terminales del puerto?",
+    "html": "<p>No de forma habitual para el cliente final: la recogida en terminal es un trámite propio del operador logístico, así que lo normal es que el contenedor salga ya de la terminal hacia tu parcela con el transporte y la grúa incluidos en el presupuesto.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Usos habituales de los contenedores en Barcelona y su comarca",
+    "html": "<p>En una ciudad casi por completo urbanizada, los contenedores se usan sobre todo para actividad terciaria antes que para vivienda:</p><ul><li><strong>Oficinas modulares</strong> y espacios de coworking en el entorno tecnológico del 22@.</li><li>Locales y módulos para eventos y ferias temporales.</li><li>Naves auxiliares en la industria de la Zona Franca.</li></ul>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puede un local o una oficina en contenedor marítimo abrir en Barcelona sin más trámites?",
+    "html": "<p>No: además del permiso de instalación, necesita su propia licencia de actividad, igual que cualquier otro local. Accesibilidad y seguridad se revisan aparte, así que conviene resolverlo antes de amueblar el espacio.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Barcelona",
-    "html": "<p>Además de la capital, entregamos contenedores marítimos en:</p><ul><li><a href=\"/contenedores-maritimos-badalona/\">Badalona</a> y el resto del área metropolitana</li><li>Sabadell y Terrassa</li><li>Mataró y el <a href=\"/catalunya/\">resto de Cataluña</a></li></ul>"
+    "html": "<p>Además de la capital, entregamos contenedores marítimos en:</p><ul><li><a href=\"/contenedores-maritimos-badalona/\">Badalona</a> y el resto del área metropolitana</li><li>Sabadell y Terrassa</li><li>Mataró y el resto de <a href=\"/catalunya/\">Cataluña</a></li></ul>"
    }
   ],
   "faq": {
@@ -53,19 +58,19 @@
    "items": [
     {
      "pregunta": "¿Tenéis depósito propio en Barcelona?",
-     "respuesta": "Barcelona tampoco cuenta con almacén propio: la ciudad funciona como <strong>zona de servicio</strong> y la unidad procede del depósito más próximo al puerto. El transporte, la descarga y el presupuesto puesto en destino ya están incluidos en la oferta, sin que el plazo dependa de un stock guardado en la capital."
+     "respuesta": "Barcelona tampoco es una excepción: no guardamos stock en la ciudad, la unidad sale del depósito más próximo al puerto y llega a tu parcela con el transporte, la descarga y el presupuesto puesto en destino ya cerrados, sin que el plazo dependa de lo que haya guardado localmente."
     },
     {
      "pregunta": "¿Aguanta un contenedor marítimo la humedad de Barcelona?",
-     "respuesta": "Sí, aunque conviene reforzarlo. Barcelona está en la zona climática C2 del CTE, con humedad alta, lluvias torrenciales de otoño y salitre en el frente marítimo; por eso recomendamos un buen <strong>tratamiento anticorrosión</strong> y ventilación cruzada si el uso va a ser de almacén cerrado o local comercial."
+     "respuesta": "Sí, aunque conviene reforzarlo. La ciudad está en la <strong>zona climática C2</strong> del CTE, con humedad alta, lluvias torrenciales de otoño y salitre en el frente marítimo; para un almacén cerrado o un local comercial recomendamos buen tratamiento anticorrosión y ventilación cruzada."
     },
     {
-     "pregunta": "¿Puedo alquilar un contenedor marítimo en lugar de comprarlo en Barcelona?",
-     "respuesta": "Sí, el alquiler es una opción frente a la compra en Barcelona. El contrato adapta duración, fianza y devolución al uso real: no pesa igual un módulo puntual para un evento o una feria que una instalación permanente en la Zona Franca o el 22@."
+     "pregunta": "¿Puedo alquilar un contenedor marítimo en Barcelona en lugar de comprarlo?",
+     "respuesta": "Sí, y es habitual para necesidades temporales como una feria, un rodaje o una obra puntual: el contrato fija la duración, la fianza y la devolución según ese plazo, sin comprometerte a quedarte con la unidad cuando termine el uso."
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Barcelona?",
-     "respuesta": "Sí. Además de vender y alquilar contenedores marítimos, diseñamos y construimos <a href=\"/barcelona/\">casas hechas con contenedores en Barcelona</a>, siempre condicionadas por el suelo urbano consolidado, la edificabilidad restante del solar y el planeamiento vigente del Pla General Metropolità de la ciudad."
+     "respuesta": "Sí. Además de vender y alquilar contenedores marítimos, diseñamos y construimos <a href=\"/barcelona/\">casas hechas con contenedores en Barcelona</a>, siempre condicionadas por el suelo urbano consolidado, la edificabilidad restante del solar y la <strong>cédula de habitabilidad</strong> de la Generalitat junto con la licencia municipal de primera ocupación."
     }
    ]
   }

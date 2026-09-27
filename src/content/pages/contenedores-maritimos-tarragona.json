@@ -58,7 +58,7 @@
    "items": [
     {
      "pregunta": "¿Entregáis contenedores marítimos en toda la provincia de Tarragona?",
-     "respuesta": "Sí. Cubrimos la capital, el Camp de Tarragona y el resto de la provincia, además del área de Reus y Barcelona. El transporte y la descarga se organizan desde el origen más cercano, con el presupuesto puesto en destino según el acceso de cada parcela."
+     "respuesta": "Sí, cubrimos toda la demarcación de Tarragona, del Camp al Priorat, con paradas frecuentes en Reus y Valls camino de Lleida o Barcelona. Al tener la ciudad puerto propio, buena parte de la carga llega ya por vía marítima, así que solo resta resolver el tramo final hasta tu parcela, que valoramos caso a caso."
     },
     {
      "pregunta": "¿Está en vigor la zona de bajas emisiones (ZBE) en Tarragona?",
@@ -66,11 +66,11 @@
     },
     {
      "pregunta": "¿El precio incluye la entrega del contenedor en Tarragona?",
-     "respuesta": "El transporte y la descarga se calculan según el origen, el tipo de contenedor y el acceso de tu parcela, y quedan reflejados en el presupuesto puesto en destino antes de confirmar el pedido. Al contar Tarragona con puerto propio, el origen suele estar más cerca que en provincias sin terminal marítima."
+     "respuesta": "Sí, siempre: cerramos un único presupuesto que ya incluye el transporte y la descarga, sin costes que aparezcan después. Lo que cambia de una parcela a otra es el tipo de acceso, no si la entrega está incluida, y tener el Port de Tarragona tan cerca acorta ese tramo final."
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Tarragona?",
-     "respuesta": "También, pero como un servicio aparte: en <a href=\"/tarragona/\">casas hechas con contenedores en Tarragona</a> nos encargamos del proyecto de arquitectura, la licencia y la primera ocupación de principio a fin, algo distinto de vender o alquilar el container que compras en esta página."
+     "respuesta": "Sí, con matices: en <a href=\"/tarragona/\">casas contenedor en Tarragona</a> encontrarás el mismo servicio de proyecto y montaje llave en mano, aunque conviene revisar antes el planeamiento vigente, porque el POUM de 2013 quedó anulado y la ciudad tramita uno nuevo."
     }
    ]
   }

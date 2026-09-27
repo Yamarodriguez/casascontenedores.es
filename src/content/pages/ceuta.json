@@ -19,53 +19,53 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Construir una casa contenedor en Ceuta: licencias y suelo disponible",
-    "html": "<p>Ceuta no tiene ley del suelo propia: rige la legislación estatal (Real Decreto Legislativo 7/2015) y su Plan General de Ordenación Urbana histórico, con la revisión parcial del Ministerio aprobada mediante la Orden TMA/840/2023. Toda construcción nueva necesita <strong>licencia de obra mayor</strong>, y el suelo urbano es tan escaso que lo habitual no es una parcela nueva, sino ampliar una vivienda o un local ya construido, o levantar un módulo auxiliar comercial o portuario.</p>"
+    "titulo": "Suelo escaso y licencias: cómo construir una casa contenedor en Ceuta",
+    "html": "<p>Ceuta no tiene ley del suelo propia: se aplica el Real Decreto Legislativo 7/2015, sobre el Plan General de Ordenación Urbana de 1992, revisado de forma parcial por la Orden TMA/840/2023 del Ministerio. Levantar una casa contenedor en Ceuta exige <strong>licencia de obra mayor</strong> y proyecto de arquitecto, pero el suelo urbano es tan escaso que lo habitual es ampliar una vivienda o un local ya construido. Consulta el proceso en <a href=\"/permisos/\">permisos</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Qué licencia necesita una vivienda de contenedores en Ceuta?",
-    "html": "<p>Sí: además de la licencia, hace falta un <strong>proyecto de arquitecto visado</strong> conforme a la LOE y el Código Técnico. El Monte Hacho y Calamocarro-Benzú son suelo protegido por la Red Natura 2000, y buena parte del perímetro está bajo la Ley de Costas, que también ampara las Murallas Reales como Bien de Interés Cultural. Pide la consulta urbanística antes de comprar, en <a href=\"/permisos/\">permisos</a>.</p>"
+    "titulo": "¿Se puede construir una vivienda nueva en el Monte Hacho o en Calamocarro-Benzú?",
+    "html": "<p>No: ambas zonas son suelo no urbanizable protegido por la Red Natura 2000, así que allí no cabe una <strong>casa contenedor</strong> nueva. En Ceuta, la mayoría de proyectos son ampliaciones dentro del suelo urbano consolidado, no construcciones desde cero.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "El salitre y el viento del Estrecho: el aislamiento de la casa contenedor",
-    "html": "<p>La zona climática de Ceuta (tabla del DB-HE) es B3, con viento de levante y de poniente propio del Estrecho, humedad atlántica constante y un salitre muy agresivo para el acero. La estrategia pasa por un <strong>aislamiento continuo por el exterior</strong>, protección anticorrosión reforzada en cortes y soldaduras, y ventilación cruzada para controlar la humedad.</p>"
+    "titulo": "El doble viento del Estrecho: aislamiento de la casa contenedor en Ceuta",
+    "html": "<p>La zona climática de Ceuta, según la tabla del DB-HE, es B3, con un fenómeno propio: el viento de levante y el de poniente del Estrecho se alternan casi todo el año y mantienen el aire cargado de humedad marina. Conviene un <strong>aislamiento térmico continuo</strong> por el exterior y ventilación cruzada, para evitar que esa humedad condense dentro de la vivienda.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Resiste el salitre del Estrecho una vivienda de acero en Ceuta?",
-    "html": "<p>Sí, siempre que se trate la chapa antes de instalarla: el doble viento del Estrecho, de levante y de poniente, mantiene el aire cargado de humedad marina todo el año, algo más agresivo para el acero que una brisa costera puntual. La solución pasa por una <strong>imprimación anticorrosiva</strong> previa al montaje, con un repaso periódico en los puntos donde se hayan abierto huecos nuevos para ventanas o puertas.</p>"
+    "titulo": "¿Por qué se oxida antes el acero en Ceuta que en otras costas?",
+    "html": "<p>Porque Ceuta no recibe una brisa puntual, sino dos vientos húmedos alternos que mantienen la chapa expuesta a la sal casi todo el año. Conviene una <strong>protección anticorrosiva</strong> reforzada antes del montaje, sobre todo en las caras más batidas por ese viento cruzado.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Cómo llega el contenedor a tu parcela en Ceuta",
-    "html": "<p>El relieve del Monte Hacho deja poco suelo llano, así que muchas parcelas necesitan cimentaciones escalonadas y muros de contención. El centro tiene además una <strong>Zona de Bajas Emisiones</strong> en tramitación (Ley 7/2021), con calles estrechas y en pendiente que condicionan el paso del camión con grúa.</p>"
+    "html": "<p>El relieve del Monte Hacho deja poco suelo llano, así que muchas parcelas necesitan cimentaciones escalonadas. El centro tendrá además una zona de bajas emisiones en tramitación, con calles estrechas y en pendiente que condicionan la llegada del camión con grúa hasta tu <strong>casa contenedor en Ceuta</strong>.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Cómo llega un contenedor marítimo hasta Ceuta?",
-    "html": "<p>Por un tramo marítimo obligatorio desde Algeciras, ya que Ceuta no tiene conexión terrestre con la península: el contenedor entra por el Muelle de España, dentro de un territorio con régimen de <strong>puerto franco</strong>, donde la mercancía pasa despacho aduanero. Consulta las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> o la ficha de <a href=\"/contenedores-maritimos-algeciras/\">contenedores marítimos en Algeciras</a>, el puerto de referencia más cercano.</p>"
+    "html": "<p>Por un tramo marítimo obligatorio desde Algeciras, ya que Ceuta no tiene conexión terrestre con la península: la carga entra por el Muelle de España, con despacho aduanero por su régimen fiscal propio. Consulta las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> o la ficha de <a href=\"/contenedores-maritimos-algeciras/\">contenedores marítimos en Algeciras</a>.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre casas contenedores en Ceuta",
    "items": [
     {
-     "pregunta": "¿Qué licencia pide el Ayuntamiento de Ceuta para construir con contenedores?",
-     "respuesta": "Licencia de obra mayor, con proyecto de arquitecto según la LOE y el Código Técnico de la Edificación, sobre el Plan General de Ordenación Urbana vigente y su revisión aprobada en parte por la Orden TMA/840/2023. Antes de comprar parcela conviene pedir la consulta urbanística al Ayuntamiento, para confirmar qué admite cada solar."
+     "pregunta": "¿Qué ayuntamiento tramita la licencia y sobre qué plan en Ceuta?",
+     "respuesta": "La Ciudad Autónoma de Ceuta, sobre el Plan General de Ordenación Urbana de 1992 y su revisión, aprobada de forma parcial por la Orden TMA/840/2023 del Ministerio. Ceuta no tiene ley del suelo propia: se aplica el Real Decreto Legislativo 7/2015 estatal, y el proyecto necesita la firma de un arquitecto conforme a la LOE y al Código Técnico."
     },
     {
-     "pregunta": "¿Hay protecciones especiales en Ceuta que limiten la construcción?",
-     "respuesta": "Sí. La Ley de Costas afecta a todo el perímetro de la ciudad, las Murallas Reales están declaradas Bien de Interés Cultural y el Monte Hacho, junto con Calamocarro-Benzú, es espacio protegido por la Red Natura 2000, lo que reduce mucho el suelo disponible para construir viviendas nuevas."
+     "pregunta": "¿Afecta la Ley de Costas a toda Ceuta?",
+     "respuesta": "Sí, alcanza a todo el perímetro de la ciudad, y las Murallas Reales están además declaradas Bien de Interés Cultural. Ambas protecciones, junto con la Red Natura 2000 de Monte Hacho y Calamocarro-Benzú, reducen mucho el suelo libre para construir en la ciudad."
     },
     {
-     "pregunta": "¿Qué terreno es habitual en una parcela de Ceuta y cómo afecta a la cimentación?",
-     "respuesta": "El relieve del Monte Hacho deja poco suelo llano, así que muchas parcelas necesitan cimentaciones escalonadas y muros de contención. En el centro, además, hay una Zona de Bajas Emisiones en tramitación, con calles estrechas y en pendiente que condicionan el acceso del camión con grúa hasta la parcela."
+     "pregunta": "¿Ceuta tiene ya Zona de Bajas Emisiones?",
+     "respuesta": "Está en tramitación, con ámbito previsto en el centro de la ciudad. Sus calles son estrechas y con pendiente, así que conviene comprobar el acceso antes de programar la entrega del contenedor con el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>."
     },
     {
-     "pregunta": "¿Se puede construir en el Monte Hacho o en Calamocarro-Benzú?",
-     "respuesta": "No: ambas zonas son suelo no urbanizable protegido por la Red Natura 2000. En Ceuta, el caso más habitual no es levantar una vivienda nueva en un terreno así, sino ampliar una casa o un local ya construido dentro del suelo urbano consolidado de la ciudad."
+     "pregunta": "¿Qué otros usos, además de vivienda, son habituales con contenedores en Ceuta?",
+     "respuesta": "Dada la actividad comercial y portuaria de la ciudad, con su condición de puerto franco, son frecuentes los módulos auxiliares para almacenes de puerto, pequeño comercio u oficinas, además de la vivienda o su ampliación."
     }
    ]
   }

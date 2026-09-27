@@ -20,37 +20,37 @@
    {
     "nivel": "h2",
     "titulo": "Contenedores marítimos en Baleares: cómo llegan a las islas",
-    "html": "<p>En Baleares no hablamos de carretera hasta el depósito, sino de <strong>tramo marítimo</strong>: cada contenedor sale por barco desde València o Barcelona, con líneas regulares de carga, hasta los puertos de la Autoritat Portuària de Balears (Palma y Alcúdia en Mallorca, Maó en Menorca, Eivissa y la Savina en Formentera). Desde el puerto de destino, el transporte sigue por carretera insular hasta tu parcela, con la descarga y el presupuesto puesto en destino ya incluidos.</p>"
+    "html": "<p>En Baleares no hablamos de una carretera hasta el depósito, sino de un <strong>tramo marítimo</strong>: cada contenedor sale por barco desde València o Barcelona hasta los puertos de la Autoritat Portuària de Balears, Palma y Alcúdia en Mallorca, Maó en Menorca, y Eivissa o la Savina en Formentera. Desde el puerto de destino, el trayecto sigue por carretera insular hasta tu parcela, con la descarga y el presupuesto puesto en destino ya incluidos.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Se puede llevar un contenedor marítimo a Menorca o Eivissa igual que a Mallorca?",
-    "html": "<p>Sí, aunque el trayecto por mar cambia según la isla: Menorca recibe la carga por el puerto de Maó y Formentera por la Savina, con reserva previa de plaza en el barco. Conviene organizarlo con tiempo, porque el hueco en la naviera condiciona la fecha.</p>"
+    "titulo": "¿Llega igual un contenedor marítimo a Menorca o Eivissa que a Mallorca?",
+    "html": "<p>El trayecto por mar cambia según la isla, aunque el resultado final es el mismo: Menorca recibe la carga por el puerto de Maó y Formentera por la Savina, con reserva previa de plaza en el barco. Conviene organizarlo con tiempo, porque el hueco en la naviera condiciona la fecha.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Para qué se usan los contenedores en las islas",
-    "html": "<p>El turismo y la construcción de segunda residencia marcan buena parte de los usos en Baleares:</p><ul><li><strong>Módulos de obra</strong> y almacén en polígonos como Son Castelló, Marratxí o Santa Gertrudis.</li><li>Trasteros y anexos en urbanizaciones turísticas del litoral.</li><li>Instalaciones de apoyo para la náutica en puertos deportivos.</li><li>Almacenes en las explotaciones de almendro, olivar y viña del interior.</li></ul>"
+    "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Baleares?",
+    "html": "<p>Sí, colocar un contenedor es al menos una instalación sujeta a declaración responsable o <strong>licencia de obra menor</strong> del ayuntamiento correspondiente, más exigente cuanto más permanente sea el uso. La Ley 12/2017, de urbanismo de las Illes Balears (LUIB), regula el suelo del archipiélago; fuera de los núcleos urbanos predomina el suelo rústico, condicionado además por el Plan Territorial Insular de cada isla.</p><p>En el litoral, protegido por la Ley de Costas, en la Serra de Tramuntana, Patrimonio de la Humanidad, y junto a torrentes como el de sa Riera en Palma, colocar cualquier módulo tiene más restricciones. El ayuntamiento de cada isla tiene su propio criterio: resuelve la duda antes de firmar con los <a href=\"/permisos/\">permisos para instalar un contenedor marítimo</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Resisten los contenedores marítimos el viento y la tramuntana en Baleares?",
-    "html": "<p>Sí, pero hace falta un buen anclaje. Baleares está en la zona climática B3 (Palma) del CTE, y recibe vientos fuertes, sobre todo la tramuntana en Menorca, además de salitre marino constante; conviene reforzar el <strong>anclaje al viento</strong> y el tratamiento anticorrosión.</p>"
+    "titulo": "¿Puedo meter un contenedor marítimo en un solar del centro de Palma?",
+    "html": "<p>Puede estar limitado: el centro histórico de Palma tiene un área de circulación restringida y una zona de bajas emisiones en marcha, así que el acceso de un camión grande puede necesitar autorización previa. Conviene consultarlo antes de fijar la fecha de entrega.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Usos habituales de los contenedores en Baleares y su comarca",
+    "html": "<p>El turismo y la construcción de segunda residencia marcan buena parte de los usos que se piden en el archipiélago:</p><ul><li>Módulos de obra y almacén en polígonos como Son Castelló, Marratxí o Santa Gertrudis.</li><li>Trasteros y anexos en urbanizaciones turísticas del litoral.</li><li><strong>Instalaciones náuticas</strong> de apoyo en puertos deportivos.</li></ul>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Sirve un contenedor marítimo para un puerto deportivo en Baleares?",
+    "html": "<p>Sí, es uno de los usos más pedidos: los puertos deportivos recurren a contenedores marítimos como almacén de aparejos, taller o punto de suministro, con el salitre y la humedad como principal condicionante para elegir el tratamiento anticorrosivo.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Baleares",
     "html": "<p>Entregamos contenedores marítimos en todo el archipiélago:</p><ul><li><a href=\"/mallorca/\">Mallorca</a>, incluida Palma</li><li>Menorca y <a href=\"/ibiza/\">Eivissa</a></li><li>Formentera, con tramo marítimo desde la Savina</li></ul>"
-   },
-   {
-    "nivel": "h2",
-    "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Baleares?",
-    "html": "<p>Sí, colocar un contenedor es al menos una instalación sujeta a declaración responsable o <strong>licencia de obra menor</strong> del ayuntamiento correspondiente, más exigente cuanto más permanente sea el uso. La Ley 12/2017 de urbanismo de las Illes Balears (LUIB) regula el suelo balear, y fuera de los núcleos urbanos predomina el suelo rústico, condicionado además por el Plan Territorial Insular de cada isla.</p><p>En el litoral, protegido por la Ley de Costas, en la Serra de Tramuntana, Patrimonio de la Humanidad, y junto a torrentes como el de sa Riera en Palma, colocar cualquier módulo tiene más restricciones. Consulta los <a href=\"/permisos/\">permisos para instalar un contenedor marítimo</a> antes de comprar.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Puedo poner un contenedor marítimo en un solar de Palma con ACIRE?",
-    "html": "<p>Puede estar limitado: el centro histórico de Palma tiene un área de circulación restringida (ACIRE) y una zona de bajas emisiones en marcha, así que el acceso de un camión de gran tamaño puede necesitar autorización previa. Consúltalo en el ayuntamiento antes de fijar la fecha de entrega.</p>"
    }
   ],
   "faq": {
@@ -58,15 +58,15 @@
    "items": [
     {
      "pregunta": "¿Entregáis en todas las islas de Baleares?",
-     "respuesta": "Sí. Además de Mallorca, entregamos en Menorca, Eivissa y Formentera, siempre con tramo marítimo desde el puerto de origen y transporte, descarga y presupuesto puesto en destino incluidos. En las islas más pequeñas conviene reservar plaza en el barco con tiempo para no condicionar la fecha."
+     "respuesta": "Cada isla es un envío por barco distinto: Mallorca, Menorca, Eivissa y Formentera, cada una con su propio puerto de llegada, aunque el transporte, la descarga y el presupuesto puesto en destino se calculan igual en cualquiera de ellas. En las islas más pequeñas conviene reservar plaza en el barco con antelación."
     },
     {
      "pregunta": "¿Tenéis depósito propio en Baleares?",
-     "respuesta": "No; en Baleares tampoco hay almacén propio: el archipiélago se atiende como <strong>zona de servicio</strong> y cada unidad sale por barco desde el puerto de origen en la península. El transporte insular, la descarga y el presupuesto puesto en destino quedan incluidos en la oferta, sin depender de existencias guardadas en las islas."
+     "respuesta": "No; en el archipiélago tampoco hay almacén fijo, y aquí el motivo es distinto al de la península: cada unidad viaja por barco desde el puerto de origen, así que hablamos de <strong>zona de servicio</strong> marítima más que de un simple envío por carretera."
     },
     {
-     "pregunta": "¿Puedo alquilar un contenedor marítimo en lugar de comprarlo en Baleares?",
-     "respuesta": "Sí, también puedes optar por el <strong>alquiler de contenedores</strong> en lugar de comprarlo, con el tramo marítimo igualmente incluido. Duración, fianza y devolución se pactan según el destino, ya sea un módulo turístico de temporada en el litoral o un almacén permanente en un polígono como Son Castelló."
+     "pregunta": "¿Puedo alquilar un contenedor marítimo en Baleares en lugar de comprarlo?",
+     "respuesta": "Sí, el <strong>alquiler de contenedores marítimos</strong> también incluye el tramo marítimo. Duración, fianza y devolución se pactan según el destino: no pesa igual un módulo turístico de temporada en el litoral que un almacén permanente en un polígono como Son Castelló."
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Baleares?",

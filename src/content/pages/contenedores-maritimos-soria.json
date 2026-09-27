@@ -58,7 +58,7 @@
    "items": [
     {
      "pregunta": "¿Entregáis contenedores marítimos en toda la provincia de Soria?",
-     "respuesta": "Sí. Cubrimos la capital y el resto de la provincia, incluidos los núcleos del entorno del Duero y de la sierra de Cabrejas. El transporte y la descarga se calculan desde el origen más cercano según el tipo de contenedor y el acceso de la parcela, y quedan reflejados en el presupuesto puesto en destino."
+     "respuesta": "Sí, toda la provincia entra en nuestra zona de reparto, desde el entorno del Duero hasta los pueblos de la Sierra de Cabrejas. Como Soria no tiene puerto, cada unidad llega antes por carretera desde Bilbao, Barcelona o Valencia, y ese trayecto va incluido en el presupuesto, ajustado al acceso real de tu parcela."
     },
     {
      "pregunta": "¿Tenéis depósito de contenedores en Soria?",
@@ -70,7 +70,7 @@
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Soria?",
-     "respuesta": "Sí, aunque es una línea de trabajo aparte: en <a href=\"/soria/\">casas hechas con contenedores en Soria</a> nos ocupamos del proyecto completo, con arquitecto, licencia de obra mayor y primera ocupación, mientras que en esta página solo vendemos o alquilamos el container suelto."
+     "respuesta": "También, aunque es un servicio aparte: el mismo equipo que gestiona el contenedor suelto proyecta y construye casas hechas con contenedores en Soria, partiendo siempre de la consulta previa al Ayuntamiento por el peso del suelo rústico del término. Toda la información, en <a href=\"/soria/\">casas contenedor en Soria</a>."
     }
    ]
   }

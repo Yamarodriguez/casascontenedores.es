@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Logroño?",
-    "html": "<p>Sí. Colocar un contenedor de forma permanente es una actuación sujeta a <strong>licencia municipal</strong>, conforme a la Ley 5/2006 de Ordenación del Territorio y Urbanismo de La Rioja (LOTUR). El Ayuntamiento de Logroño tramita sobre el Plan General Municipal vigente, con revisiones puntuales posteriores, mientras avanza una revisión integral; y en el Casco Antiguo, junto a monumentos como la Concatedral de Santa María de la Redonda o la Muralla del Revellín, las exigencias son mayores por su protección. Consulta <a href=\"/permisos/\">los permisos para construir con contenedores</a> antes de elegir el emplazamiento.</p>"
+    "html": "<p>Sí, hace falta <strong>licencia municipal</strong> del Ayuntamiento de Logroño para dejarlo instalado de forma permanente, conforme a la Ley 5/2006 de Ordenación del Territorio y Urbanismo de La Rioja (LOTUR). El trámite se resuelve hoy sobre el Plan General Municipal vigente mientras avanza una revisión integral, y en el Casco Antiguo, junto a monumentos como la Concatedral de Santa María de la Redonda, las exigencias son mayores por su valor patrimonial. Revisa <a href=\"/permisos/\">los permisos para construir con contenedores</a> antes de reservar la unidad.</p>"
    },
    {
     "nivel": "h3",
@@ -30,22 +30,27 @@
    {
     "nivel": "h2",
     "titulo": "Usos habituales de los contenedores en Logroño y su comarca",
-    "html": "<p>La actividad de Logroño reparte el uso del contenedor marítimo:</p><ul><li>Comercio y bodegas del vino de Rioja: almacén o caseta en parcela de viñedo.</li><li>Polígonos de La Portalada, Cantabria y El Sequero: módulo de obra o almacén industrial.</li><li>Barrios periféricos con vivienda unifamiliar: trastero en parcela ya edificada.</li></ul><p>El cierzo, viento del norte característico del valle del Ebro, es el fenómeno a tener en cuenta a la hora de fijar bien los apoyos y los cierres del contenedor.</p>"
+    "html": "<p>La actividad de Logroño reparte el uso del contenedor marítimo:</p><ul><li>Comercio y bodegas del vino de Rioja: almacén o caseta en parcela de viñedo.</li><li>Polígonos de La Portalada, Cantabria y El Sequero: módulo de obra o almacén industrial.</li><li>Chalés de los barrios periféricos: trastero doméstico junto a la vivienda.</li></ul><p>El cierzo, viento del norte característico del valle del Ebro, es el fenómeno que más condiciona cómo se fijan los apoyos y los cierres del contenedor.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Qué contenedor conviene para un almacén de bodega en Logroño?",
-    "html": "<p>Para guardar aperos o material de temporada suele bastar un contenedor de 20 pies, con unos 13,9 m² interiores; si necesitas más espacio para maquinaria de bodega, el <strong>contenedor de 40 pies</strong>, con unos 28,3 m² interiores, aprovecha mejor la parcela.</p>"
+    "titulo": "¿Necesita anclaje especial un contenedor por el cierzo de Logroño?",
+    "html": "<p>Sí, conviene reforzarlo: un viento constante como el cierzo ejerce más presión sobre las puertas y los paneles laterales que en una zona sin ese fenómeno, así que fijar bien los <strong>apoyos en cantoneras</strong> evita movimientos con el tiempo. Revisar los cierres con cierta frecuencia también ayuda a que no se aflojen.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Contenedores marítimos en Logroño: cómo trabajamos y desde dónde llegan",
-    "html": "<p>El puerto de referencia para los <strong>contenedores marítimos en Logroño</strong> es el Puerto de Bilbao, con acceso directo por autovía; en tierra, la red de carreteras hacia Zaragoza y Burgos completa el reparto hacia la ciudad y sus polígonos. Logroño se atiende como zona de servicio y no desde un depósito propio: el contenedor sale del punto de almacenaje más cercano y el presupuesto puesto en destino ya cierra el transporte y la descarga con pluma o grúa hasta tu parcela. Revisa el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> si necesitas coordinar la descarga.</p>"
+    "html": "<p>El puerto de referencia para los <strong>contenedores marítimos en Logroño</strong> es el Puerto de Bilbao, con acceso directo por la AP-68; en tierra, la red de carreteras hacia Zaragoza y Burgos completa el reparto hacia la ciudad y sus polígonos. Aquí no hay nave propia: cada contenedor llega desde el punto de almacenaje disponible dentro de la misma zona de servicio, con transporte y descarga con pluma o grúa ya cerrados en el presupuesto puesto en destino.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Se puede recibir un contenedor en una bodega alejada del centro de Logroño?",
+    "html": "<p>Sí, sin problema: buena parte de las bodegas y fincas de viñedo están fuera del casco urbano, con caminos que permiten el acceso del camión y la grúa sin las restricciones de las calles del centro. Conviene avisar del tipo de acceso al reservar el <a href=\"/transporte-contenedores-maritimos/\">transporte del contenedor marítimo</a>.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Logroño",
-    "html": "<ul><li><a href=\"/contenedores-maritimos-la-rioja/\">El resto de La Rioja</a></li><li>Vitoria-Gasteiz y Pamplona</li><li>Burgos y Navarra</li></ul>"
+    "html": "<ul><li>El resto de La Rioja</li><li>Vitoria-Gasteiz y Pamplona</li><li>Burgos y Navarra</li></ul>"
    }
   ],
   "faq": {
@@ -53,19 +58,19 @@
    "items": [
     {
      "pregunta": "¿Entregáis contenedores marítimos en toda La Rioja?",
-     "respuesta": "Sí. Cubrimos Logroño capital y el resto de la comunidad autónoma, y también Vitoria-Gasteiz, Pamplona, Burgos y Navarra. El transporte y la descarga se calculan desde el depósito más cercano y van incluidos en el <strong>presupuesto puesto en destino</strong>, sin coste añadido por la distancia dentro de la zona de servicio."
+     "respuesta": "Sí, toda La Rioja entra en nuestra zona de servicio, y también Vitoria-Gasteiz, Pamplona, Burgos y Navarra. No hay depósito propio en Logroño: cada contenedor sale del punto de almacenaje que corresponda, y el transporte hasta tu parcela o tu bodega queda incluido en el <strong>presupuesto puesto en destino</strong>."
     },
     {
-     "pregunta": "¿Aguanta un contenedor marítimo el cierzo de Logroño?",
-     "respuesta": "El acero resiste bien el viento, pero el cierzo del valle del Ebro sopla con intensidad y de forma constante, así que conviene reforzar los apoyos y revisar los cierres y las juntas con más frecuencia que en una zona sin ese viento dominante."
+     "pregunta": "¿Puedo alquilar un contenedor para la vendimia en lugar de comprarlo?",
+     "respuesta": "Sí, para la vendimia o una obra puntual en un polígono de Logroño, el alquiler evita comprar una unidad que luego no vas a necesitar el resto del año. Fija de antemano cuánto tiempo la vas a necesitar y las condiciones de devolución antes de comparar precios."
     },
     {
-     "pregunta": "¿Necesito licencia para un contenedor cerca del Casco Antiguo de Logroño?",
-     "respuesta": "Sí, y con más exigencia que en un polígono: el Casco Antiguo conserva monumentos protegidos y el trazado del Camino de Santiago, así que conviene consultar con el Ayuntamiento y revisar el planeamiento protegido antes de elegir el emplazamiento exacto de tu parcela."
+     "pregunta": "¿Qué espacio necesito para recibir un contenedor en una parcela de viñedo?",
+     "respuesta": "El terreno tiene que soportar el peso sin hundirse ni moverse, algo a comprobar sobre todo si el camino de acceso es de tierra. Además, el camión y la grúa necesitan sitio para maniobrar y desplegar el brazo sin toparse con parras, postes o cableado bajo; consulta las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> antes de decidir el emplazamiento."
     },
     {
      "pregunta": "¿En Logroño también hacéis casas contenedor, además de vender contenedores marítimos?",
-     "respuesta": "Sí. En Logroño no solo vendemos y alquilamos contenedores marítimos: también proyectamos y montamos <a href=\"/logrono/\">casas hechas con contenedores</a> llave en mano, con el mismo acompañamiento técnico desde el estudio de la parcela hasta la entrega final, también en el resto de La Rioja."
+     "respuesta": "Sí. Junto a la venta y el alquiler de contenedores marítimos, en Logroño y el resto de La Rioja construimos <a href=\"/logrono/\">casas hechas con contenedores</a>, con acompañamiento técnico desde el estudio de la parcela y el proyecto hasta la entrega llave en mano."
     }
    ]
   }

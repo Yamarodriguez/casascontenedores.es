@@ -2567,5 +2567,60 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1054,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "ampliacion": {
+  "secciones": [
+   {
+    "nivel": "h2",
+    "titulo": "Casas contenedores en Vizcaya: cómo llega el contenedor desde el puerto de Bilbao",
+    "html": "<p>En Vizcaya, el contenedor suele salir del puerto de Bilbao, uno de los principales del norte peninsular, con acceso por las autovías que conectan la ría con el resto de la provincia. El relieve es montañoso, con valles estrechos y un litoral protegido por la Ley de Costas, así que en las zonas de monte y en los caminos rurales conviene comprobar antes el <strong>espacio de maniobra</strong> del camión con grúa.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Puede entrar el camión con grúa en cualquier parcela de Vizcaya?",
+    "html": "<p>No siempre: en los valles con pendiente y en los caminos rurales estrechos, típicos del interior de la provincia, el camión necesita un punto de descarga cercano; en los polígonos industriales y en el suelo urbano de los municipios más grandes el acceso suele ser directo.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Licencia y suelo para construir en Vizcaya",
+    "html": "<p>En todo el País Vasco, incluida Vizcaya, rige la Ley 2/2006 de Suelo y Urbanismo, que exige <strong>licencia municipal de obra</strong> con un proyecto de arquitecto conforme a la Ley de Ordenación de la Edificación y al Código Técnico. Al terminar la construcción no se tramita cédula: el ayuntamiento correspondiente concede la licencia municipal de primera utilización. Antes de comprar parcela, pide la calificación urbanística exacta en <a href=\"/permisos/\">permisos y licencias</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Se puede construir una vivienda de contenedores en suelo rústico de Vizcaya?",
+    "html": "<p>En el <strong>suelo rústico protegido</strong> de monte, la vivienda nueva suele estar muy restringida y solo se admiten usos vinculados a la explotación agraria o forestal; en el suelo urbano de los municipios de la ría, en cambio, el trámite es el habitual de cualquier construcción.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Clima atlántico y aislamiento de la vivienda modular en Vizcaya",
+    "html": "<p>El clima de Vizcaya es atlántico, con lluvia abundante repartida durante buena parte del año, humedad constante y salitre en la franja costera. En una construcción con contenedores marítimos esto pesa más en la <strong>estanqueidad de cubierta</strong> y en la protección anticorrosiva del acero que en el grosor del aislamiento.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Por qué es importante la protección anticorrosiva en la costa de Vizcaya?",
+    "html": "<p>Porque la humedad constante y el salitre aceleran el óxido en cualquier estructura de acero; sin una protección anticorrosiva bien mantenida, las cantoneras y las soldaduras son el punto más expuesto en los municipios de la costa.</p>"
+   }
+  ],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas contenedores en Vizcaya",
+   "items": [
+    {
+     "pregunta": "¿Qué licencia pide el ayuntamiento para esta construcción en Vizcaya?",
+     "respuesta": "Cada ayuntamiento de Vizcaya exige licencia municipal de obra con un proyecto de arquitecto que cumpla el Código Técnico, sobre su planeamiento vigente. La Ley 2/2006 de Suelo y Urbanismo del País Vasco, común a toda la comunidad, sustituye la antigua cédula por la <strong>licencia municipal de primera utilización</strong> u ocupación al terminar la obra."
+    },
+    {
+     "pregunta": "¿Puedo instalar una vivienda de contenedores en un monte de Vizcaya?",
+     "respuesta": "Depende de la calificación exacta del suelo: los montes suelen estar clasificados como rústico protegido, con usos muy restringidos, mientras que el suelo urbano de los municipios de la ría sigue el trámite habitual de cualquier vivienda nueva. Pide la calificación urbanística antes de comprar terreno."
+    },
+    {
+     "pregunta": "¿Aguanta el clima de Vizcaya una vivienda con contenedores marítimos?",
+     "respuesta": "Sí, con el proyecto adecuado: la clave está en la estanqueidad de cubierta y carpintería frente a la lluvia atlántica, y en la protección anticorrosiva del acero frente al salitre costero, más que en un espesor concreto de aislamiento del que no damos una cifra fija."
+    },
+    {
+     "pregunta": "¿Vendéis también contenedores marítimos en Vizcaya, no solo casas?",
+     "respuesta": "Sí, trabajamos con <strong>contenedores marítimos</strong> para almacén, oficina o módulo industrial en toda la provincia, con presupuesto puesto en destino. Consulta la ficha de <a href=\"/contenedores-maritimos-vizcaya/\">contenedores marítimos en Vizcaya</a> para ver tipos y condiciones de entrega, también en <a href=\"/alava/\">Álava</a> y en <a href=\"/gipuzkoa/\">Gipuzkoa</a>."
+    }
+   ]
+  }
+ }
 }
