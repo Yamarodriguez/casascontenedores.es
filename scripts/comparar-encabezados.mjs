@@ -13,6 +13,10 @@
  * las 64 paginas que traian un h1 dentro del contenido ese encabezado baja a
  * h2. Cualquier otra diferencia se reporta.
  *
+ * Tambien se admiten los encabezados reescritos a peticion del propietario
+ * en paginas concretas (src/data/encabezados.json): se comparan con su texto
+ * nuevo.
+ *
  * Lo que la web nueva anade a proposito (formulario, pie, bloques generados)
  * no cuenta como diferencia: solo se exige que NO FALTE nada del original.
  */
@@ -59,6 +63,18 @@ function encabezadosDe(html) {
 }
 
 const vivo = JSON.parse(fs.readFileSync(VIVO, 'utf8'));
+
+// Segundo cambio permitido y documentado: los encabezados que el propietario
+// pidio reescribir en paginas concretas (src/data/encabezados.json, los
+// aplica src/utils/renombres.js al pintar). Cada original se compara con su
+// texto nuevo; lo demas de la pagina se exige igual que siempre.
+const RENOMBRES = (() => {
+  const f = path.join(RAIZ, 'src', 'data', 'encabezados.json');
+  if (!fs.existsSync(f)) return {};
+  const datos = JSON.parse(fs.readFileSync(f, 'utf8'));
+  return Object.fromEntries(Object.entries(datos).map(([ruta, m]) =>
+    [ruta, new Map(Object.entries(m).map(([k, v]) => [normalizar(k), normalizar(v)]))]));
+})();
 const informe = [];
 let iguales = 0, conFaltas = 0, revisadas = 0;
 
@@ -82,7 +98,9 @@ for (const [ruta, datos] of Object.entries(vivo)) {
   const enMain = (datos.encabezados || [])
     .map((e) => ({ nivel: e.nivel, texto: normalizar(e.texto) }))
     .filter((e) => e.texto);
-  const antes = enMain.filter((e, i) => !(i === 0 && e.nivel === 'h1' && bandaVivas.has(e.texto)));
+  const renombres = RENOMBRES[ruta];
+  const antes = enMain.filter((e, i) => !(i === 0 && e.nivel === 'h1' && bandaVivas.has(e.texto)))
+    .map((e) => (renombres?.has(e.texto) ? { ...e, texto: renombres.get(e.texto) } : e));
 
   const ahora = encabezadosDe(fs.readFileSync(destino, 'utf8'));
   const textosAhora = ahora.map((e) => e.texto);

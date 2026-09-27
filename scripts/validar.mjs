@@ -8,7 +8,8 @@
  *   1. equilibrio de <p>, <a>, <div>, <section>, <h2>, <h3>, <ul>, <li>, <figure>
  *   2. un solo <h1>
  *   3. ningun bloque generado anidado dentro de otro igual
- *   4. texto visible identico al original (salvo lo anadido a proposito)
+ *   4. texto visible identico al original (salvo lo anadido a proposito y
+ *      los encabezados reescritos de src/data/encabezados.json)
  *   5. ningun href perdido respecto del JSON de origen
  *   6. ninguna imagen marcador (aviso)
  *   7. title, meta description y canonical presentes
@@ -67,11 +68,26 @@ function equilibrio(html, etiqueta) {
   return abre - cierra;
 }
 
+/* Encabezados reescritos a peticion del propietario en paginas concretas
+   (src/data/encabezados.json, los aplica src/utils/renombres.js al pintar):
+   en esas paginas el texto de referencia es el nuevo, no el original. */
+const RENOMBRES = (() => {
+  const f = path.join(path.resolve('.'), 'src', 'data', 'encabezados.json');
+  return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : {};
+})();
+const planoDe = (t) => String(t ?? '')
+  .replace(/<[^>]+>/g, ' ')
+  .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#0?39;/g, "'")
+  .replace(/\s+/g, ' ').trim();
+const renombresDe = (ruta) => RENOMBRES[ruta]
+  ? new Map(Object.entries(RENOMBRES[ruta]).map(([k, v]) => [planoDe(k), v]))
+  : null;
+
 /** Todo el texto que el arbol de maquetacion deberia acabar enseñando. */
-function textoDelArbol(bloques, salida = []) {
+function textoDelArbol(bloques, salida = [], renombres = null) {
   for (const b of bloques || []) {
-    if (b.t === 'seccion') { for (const c of b.columnas || []) textoDelArbol(c.elementos, salida); }
-    else if (b.t === 'encabezado') salida.push(b.texto);
+    if (b.t === 'seccion') { for (const c of b.columnas || []) textoDelArbol(c.elementos, salida, renombres); }
+    else if (b.t === 'encabezado') salida.push(renombres?.get(planoDe(b.texto)) ?? b.texto);
     else if (b.t === 'texto') salida.push(b.html);
     else if (b.t === 'boton') salida.push(b.texto);
   }
@@ -137,7 +153,7 @@ for (const f of fs.readdirSync(PAGINAS).filter((x) => x.endsWith('.json'))) {
     /[^.]*estamos realizando modificaciones[^.]*\./gi,   // aviso de obras olvidado
   ];
   let original = origen.bloques && origen.bloques.length
-    ? textoVisible(textoDelArbol(origen.bloques))
+    ? textoVisible(textoDelArbol(origen.bloques, [], renombresDe(origen.ruta)))
     : textoVisible(origen.cuerpo);
   for (const re of QUITADO) original = original.replace(re, ' ');
 
