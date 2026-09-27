@@ -19,58 +19,53 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Usos habituales de los contenedores en Teruel y su comarca",
-    "html": "<p>La actividad económica de Teruel marca los usos más frecuentes del contenedor marítimo:</p><ul><li>Almacén o taller auxiliar ligado al aeropuerto de Teruel, dedicado al mantenimiento y desguace de aeronaves.</li><li>Caseta para explotaciones de <strong>ganadería porcina</strong> y jamón con Denominación de Origen, un sector clave de la provincia.</li><li>Módulo de información o almacén temporal para el turismo del conjunto mudéjar de la ciudad.</li><li>Almacén agrícola en los barrios pedáneos y el entorno rural del municipio.</li></ul><p>El clima de Teruel, con <strong>zona climática D2 del CTE DB-HE</strong> en la capital (E1 en las sierras altas de la provincia), tiene heladas muy frecuentes y nieve, así que conviene reforzar el aislamiento, cuidar la rotura de puente térmico en la estructura de acero y prever la carga de nieve en cubierta.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Qué contenedor conviene para un taller en el aeropuerto de Teruel?",
-    "html": "<p>Para un taller o almacén de herramientas pequeño basta un contenedor de 20 pies, con unos 13,9 m² interiores; para tareas de mantenimiento con más equipo, el <strong>contenedor de 40 pies</strong>, con unos 28,3 m² interiores, da más margen de trabajo. Compara todas las medidas en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a>.</p>"
-   },
-   {
-    "nivel": "h2",
-    "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Teruel?",
-    "html": "<p>Sí, y no es un simple trámite: el Ayuntamiento de Teruel exige declaración responsable o <strong>licencia de obra menor</strong> para colocar un contenedor marítimo, conforme al Decreto Legislativo 1/2014 de la Ley de Urbanismo de Aragón y a su Plan General de Ordenación Urbana vigente, en proceso de revisión. En suelo no urbanizable, muy extenso en el término, solo se admiten construcciones vinculadas a la explotación agraria o ganadera. Cerca de la catedral de Santa María de Mediavilla o de las iglesias de San Pedro, San Martín y El Salvador, Patrimonio de la Humanidad, se suma la protección del <strong>conjunto mudéjar de Teruel</strong>. Consulta tu caso en <a href=\"/permisos/\">permisos para construir con contenedores</a>.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Puedo instalar un contenedor junto a los ríos de Teruel?",
-    "html": "<p>Con precaución: la confluencia del Alfambra y el Guadalaviar, junto a la ciudad, puede tener zonas con riesgo de inundación, así que conviene comprobar la delimitación antes de elegir el emplazamiento, además de la licencia municipal correspondiente.</p>"
-   },
-   {
-    "nivel": "h2",
     "titulo": "Contenedores marítimos en Teruel: cómo trabajamos y desde dónde llegan",
-    "html": "<p>Teruel no tiene puerto, así que trabajamos como zona de servicio: el contenedor sale del <strong>Puerto de Valencia</strong> o de Sagunto y llega por carretera, con la salida, el transporte y la descarga ajustados a cada parcela y el coste final recogido en el presupuesto antes de confirmar el pedido. El eje principal de acceso es la Autovía Mudéjar, que une Sagunto con Aragón interior pasando por Teruel y Zaragoza, reforzada por otras carreteras nacionales que completan la red provincial. Conoce mejor cómo organizamos cada envío en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+    "html": "<p>En casascontenedores.es trabajamos en Teruel como zona de servicio: no tenemos depósito propio, sino que gestionamos la entrega desde el depósito más cercano y presentamos el presupuesto puesto en destino, con transporte y descarga incluidos.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Puede la nieve retrasar la entrega de un contenedor marítimo en Teruel?",
-    "html": "<p>Sí: Teruel es la capital de provincia con más días de helada de España y recibe nevadas invernales frecuentes, lo que puede obligar a reprogramar el transporte especial hasta que la calzada de la Autovía Mudéjar esté en condiciones seguras.</p>"
+    "titulo": "¿Cómo llega el contenedor marítimo a Teruel?",
+    "html": "<p>El contenedor llega por carretera desde el Puerto de Valencia o el de Sagunto por la A-23 (Autovía Mudéjar), que conecta la costa con Teruel y Zaragoza; según el destino final también se usan la N-234 o la N-330.</p><p>En el <strong>casco histórico</strong>, con calles estrechas junto al conjunto mudéjar, y en los barrios pedáneos que se sirven por caminos locales, el camión y la grúa necesitan espacio despejado para maniobrar; en invierno, las heladas y las nevadas propias de la provincia pueden condicionar la fecha de entrega. Revisamos el acceso a la parcela antes de confirmar el transporte; lo explicamos en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> y en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Usos habituales de los contenedores marítimos en Teruel y su comarca",
+    "html": "<ul><li><strong>Almacén agrícola y ganadero</strong>: apoyo a explotaciones de ganadería porcina y a la producción de jamón con Denominación de Origen, habituales en el término y en los barrios rurales.</li><li><strong>Espacios para el sector aeronáutico</strong>: el aeropuerto de Teruel, dedicado al mantenimiento y desguace de aeronaves, genera demanda de almacenamiento; ver <a href=\"/contenedores-de-almacenamiento/\">contenedores de almacenamiento</a>.</li><li><strong>Apoyo al turismo patrimonial</strong>: locales u oficinas temporales cerca del conjunto mudéjar, siempre fuera de los entornos protegidos.</li></ul><p>El clima continental de Teruel, con zona climática D2 en la capital y E1 en las sierras altas según la tabla del CTE DB-HE, exige <strong>aislamiento reforzado</strong> y rotura de puente térmico en la estructura de acero.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Licencias para instalar un contenedor en una parcela de Teruel",
+    "html": "<p>Aunque el terreno sea tuyo, colocar un contenedor en Teruel no es un acto libre de trámites.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Necesito licencia para poner un contenedor en suelo no urbanizable de Teruel?",
+    "html": "<p>El Ayuntamiento de Teruel exige declaración responsable o licencia según el uso y la duración, conforme al Decreto Legislativo 1/2014 de la Ley de Urbanismo de Aragón. En suelo no urbanizable solo se admiten construcciones <strong>vinculadas a explotación</strong> agraria o ganadera, y el planeamiento vigente -el PGOU de 1985, en revisión- también condiciona lo que se puede levantar. Amplía en <a href=\"/permisos/\">permisos y licencias</a>.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Teruel",
-    "html": "<p>Además de la capital, entregamos contenedores marítimos en la provincia y comunidades vecinas:</p><ul><li>Zaragoza, por la Autovía Mudéjar</li><li>Castellón, en la ruta hacia el Mediterráneo</li><li>Valencia, origen habitual de la carga marítima</li><li>Cuenca</li></ul>"
+    "html": "<p>Servimos la capital y los barrios pedáneos de Teruel, además de los municipios de la comarca por la A-23, la N-234 y la N-330. Si buscas información sobre vivienda, tenemos una página dedicada a <a href=\"/teruel/\">casas contenedor en Teruel</a> con la normativa aragonesa aplicada.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre contenedores marítimos en Teruel",
    "items": [
     {
-     "pregunta": "¿Entregáis contenedores marítimos en toda la provincia de Teruel?",
-     "respuesta": "Sí, tanto en la capital como en los barrios pedáneos y el resto de municipios de la provincia. La unidad sube por la Autovía Mudéjar desde el Puerto de Valencia o Sagunto, y ese trayecto ya entra en el presupuesto que te pasamos; en invierno, una nevada puede obligar a mover la fecha."
+     "pregunta": "¿Entregáis contenedores marítimos en los barrios rurales de Teruel?",
+     "respuesta": "Sí, servimos la capital y los barrios pedáneos del término, aunque los caminos locales y las carreteras rurales pueden limitar el tipo de vehículo o el punto exacto de descarga. Antes de confirmar la entrega, revisamos contigo el acceso a la parcela y, si hace falta, ajustamos el transporte con un camión más corto o una grúa adaptada al terreno."
     },
     {
-     "pregunta": "¿Necesito licencia para un contenedor cerca del conjunto mudéjar de Teruel?",
-     "respuesta": "Sí, y con más exigencia que en otras zonas: el entorno de la catedral y de las iglesias mudéjares, Patrimonio de la Humanidad, está protegido y limita las construcciones cercanas, incluidas las temporales. Consulta siempre con el Ayuntamiento de Teruel antes de elegir el emplazamiento."
+     "pregunta": "¿Afecta la nieve o las heladas de Teruel al transporte del contenedor?",
+     "respuesta": "Sí: Teruel es una de las capitales de provincia con más días de helada de España y recibe nevadas invernales, así que la fecha de entrega puede ajustarse en los días de peor tiempo por seguridad de la grúa y del camión. En la construcción con contenedores también se prevé un aislamiento reforzado y la carga de nieve en cubierta."
     },
     {
-     "pregunta": "¿Un contenedor marítimo aguanta las heladas de Teruel?",
-     "respuesta": "El acero resiste bien el frío, pero al ser la capital de provincia con más días de helada de España, conviene evitar apoyos directos sobre terreno helado y revisar juntas y pintura con más frecuencia para evitar filtraciones cuando llega el deshielo."
+     "pregunta": "¿Se puede colocar un contenedor cerca del conjunto mudéjar de Teruel?",
+     "respuesta": "En el entorno del conjunto mudéjar, Patrimonio de la Humanidad, y en el casco histórico rigen protecciones especiales, así que un contenedor a la vista suele necesitar autorización previa del Ayuntamiento de Teruel y, según el caso, del organismo de patrimonio. Fuera de esos entornos protegidos, la instalación se resuelve como declaración responsable o licencia de obra menor según el uso."
     },
     {
-     "pregunta": "¿También hacéis casas contenedor en Teruel?",
-     "respuesta": "También, como línea de trabajo distinta a la venta de contenedores: construimos casas contenedor en Teruel desde el proyecto visado hasta la entrega, teniendo en cuenta que el clima de la capital, con más heladas que casi cualquier otra en España, condiciona el aislamiento y la cubierta. Consulta <a href=\"/teruel/\">casas contenedor en Teruel</a>."
+     "pregunta": "¿Podéis entregar contenedores para el sector ganadero o la industria aeronáutica de Teruel?",
+     "respuesta": "Sí, es habitual: entregamos módulos de almacenamiento para explotaciones ganaderas y para instalaciones vinculadas al aeropuerto de Teruel, dedicado al mantenimiento y desguace de aeronaves. En suelo no urbanizable, la normativa aragonesa solo admite construcciones ligadas a la explotación agraria o ganadera, así que conviene confirmar el uso antes de encargar el contenedor."
     }
    ]
   }
@@ -85,7 +80,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px -3px 0px",
    "columnas": [
     {
@@ -102,10 +97,10 @@
       {
        "t": "espaciador",
        "id": "2cfcca2",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -121,7 +116,7 @@
       {
        "t": "espaciador",
        "id": "268bab2",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -135,7 +130,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -146,12 +141,12 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "espaciador",
        "id": "fb0647b",
-       "alto": 56.0
+       "alto": 56
       },
       {
        "t": "texto",
@@ -163,7 +158,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -177,7 +172,7 @@
       {
        "t": "espaciador",
        "id": "b91bc87",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -190,7 +185,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -215,7 +210,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -242,7 +237,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         },
         {
@@ -257,7 +252,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         }
        ]
@@ -282,8 +277,8 @@
       {
        "t": "espaciador",
        "id": "3fe8f7f",
-       "alto": 44.0,
-       "altoMovil": 16.0
+       "alto": 44,
+       "altoMovil": 16
       },
       {
        "t": "encabezado",
@@ -295,15 +290,15 @@
        "color": "#5C5C68",
        "tipo": {
         "familia": "Satisfy",
-        "tamano": 52.0,
-        "tamanoMovil": 52.0,
+        "tamano": 52,
+        "tamanoMovil": 52,
         "peso": "600"
        }
       },
       {
        "t": "espaciador",
        "id": "06d646f",
-       "alto": 26.0
+       "alto": 26
       },
       {
        "t": "texto",
@@ -316,7 +311,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "400"
        }
       },
@@ -330,7 +325,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -371,7 +366,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -389,7 +384,7 @@
       {
        "t": "espaciador",
        "id": "d1f30a4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -400,7 +395,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-20-pies/"
@@ -416,12 +411,12 @@
       {
        "t": "espaciador",
        "id": "26344cc",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -432,7 +427,7 @@
       {
        "t": "espaciador",
        "id": "b0341e4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -443,7 +438,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-40-pies/"
@@ -457,9 +452,9 @@
        "url": "/contenedores-40-pies/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -470,7 +465,7 @@
       {
        "t": "espaciador",
        "id": "3c118ee",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -481,7 +476,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-flat-rack/"
@@ -495,7 +490,7 @@
        "url": "/contenedor-flat-rack/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -507,7 +502,7 @@
       {
        "t": "espaciador",
        "id": "176f3ce",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -518,7 +513,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-top/"
@@ -532,7 +527,7 @@
        "url": "/contenedor-open-top/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -544,7 +539,7 @@
       {
        "t": "espaciador",
        "id": "513a343",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -555,7 +550,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-high-cube/"
@@ -569,7 +564,7 @@
        "url": "/contenedor-high-cube/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -588,10 +583,10 @@
       {
        "t": "espaciador",
        "id": "73f5aa4",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -614,7 +609,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-de-almacenamiento/"
@@ -627,7 +622,7 @@
        "url": "/contenedores-de-almacenamiento/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -645,7 +640,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-refrigerado/"
@@ -658,7 +653,7 @@
        "url": "/contenedor-refrigerado/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -676,7 +671,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-side/"
@@ -689,7 +684,7 @@
        "url": "/contenedor-open-side/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -707,7 +702,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-dry-van/"
@@ -720,7 +715,7 @@
        "url": "/contenedor-dry-van/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -739,10 +734,10 @@
       {
        "t": "espaciador",
        "id": "67faa2f",
-       "alto": 53.0
+       "alto": 53
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -765,7 +760,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/"
@@ -778,7 +773,7 @@
        "url": "/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -796,7 +791,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -809,7 +804,7 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -827,7 +822,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/modulos-sanitarios/"
@@ -841,7 +836,7 @@
        "url": "/modulos-sanitarios/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -859,7 +854,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -873,7 +868,7 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -891,7 +886,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -905,7 +900,7 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -924,10 +919,10 @@
       {
        "t": "espaciador",
        "id": "0e60003",
-       "alto": 35.0
+       "alto": 35
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -950,12 +945,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -974,7 +969,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -990,7 +985,7 @@
       {
        "t": "espaciador",
        "id": "09777f9",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1003,7 +998,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1014,7 +1009,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1026,7 +1021,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1054,14 +1049,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1079,7 +1074,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1095,7 +1090,7 @@
       {
        "t": "espaciador",
        "id": "5269422",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1108,7 +1103,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1119,7 +1114,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1131,7 +1126,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1159,14 +1154,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1184,7 +1179,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1200,7 +1195,7 @@
       {
        "t": "espaciador",
        "id": "78f3001",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1213,7 +1208,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1224,7 +1219,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1236,7 +1231,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1264,14 +1259,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1289,7 +1284,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1305,7 +1300,7 @@
       {
        "t": "espaciador",
        "id": "63a0414",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1318,7 +1313,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1329,7 +1324,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1341,7 +1336,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1369,14 +1364,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1394,7 +1389,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1418,7 +1413,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1429,7 +1424,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1441,12 +1436,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1468,12 +1463,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1490,7 +1485,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1501,7 +1496,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1513,12 +1508,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1540,12 +1535,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     }
    ]
@@ -1564,7 +1559,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1591,7 +1586,7 @@
       {
        "t": "espaciador",
        "id": "00fcbd2",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -1604,7 +1599,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -1618,7 +1613,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -1632,17 +1627,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "168b716",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1658,10 +1653,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1685,7 +1680,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1696,10 +1691,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1724,7 +1719,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 31.0,
+        "tamano": 31,
         "peso": "500"
        },
        "url": "/casas-prefabricadas/"
@@ -1744,14 +1739,14 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 25.0,
+        "tamano": 25,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   },
@@ -1769,7 +1764,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1793,12 +1788,12 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1819,7 +1814,7 @@
        "alto": 300
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]

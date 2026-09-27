@@ -19,54 +19,54 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Contenedores marítimos en Galicia: cómo trabajamos y desde dónde llegan",
-    "html": "<p>En Galicia trabajamos como zona de servicio: el contenedor sale del puerto o depósito más cercano, con transporte y descarga incluidos en el <strong>presupuesto puesto en destino</strong>. Los dos orígenes habituales son el puerto de Vigo, con terminal en Guixar, y el de A Coruña, con línea regular de contenedores y el puerto exterior de Punta Langosteira; los ejes AP-9 y A-52 conectan ambos con el resto de la comunidad.</p><p>El terreno gallego es mayoritariamente granítico, con parcelas en pendiente que necesitan muros de contención, y en las pistas rurales las curvas y los puentes sobre ría pueden limitar la góndola. Repasa el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> para valorar tu acceso.</p>"
+    "titulo": "Contenedores marítimos en Galicia: por qué no hay un depósito fijo y cómo llega el material",
+    "html": "<p>El relieve granítico de Galicia y el poblamento disperso en parcelas de núcleo rural hacen que no tenga sentido mantener un único depósito central: cada envío sale del puerto o la terminal que queda más cerca de tu concello, casi siempre A Coruña o Vigo, y el <strong>transporte y la descarga</strong> van incluidos en el mismo presupuesto. Los ejes AP-9, A-6 y A-52 conectan esas terminales con el interior, aunque el último tramo hasta una parcela en pendiente o sobre xabre puede necesitar grúa y no solo camión pluma.</p><p>Revisa el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> antes de fijar fecha, porque en las pistas rurales estrechas o con puentes sobre ría la maniobra de la góndola puede condicionar el día de entrega.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Desde qué puerto llegan los contenedores marítimos a Galicia?",
-    "html": "<p>Los dos orígenes habituales son el puerto de A Coruña, con Punta Langosteira, y el puerto de Vigo, con su terminal en Guixar; el que se use depende de cuál quede más cerca de tu localidad.</p>"
+    "titulo": "¿Qué puerto se usa para traer un contenedor marítimo a Galicia?",
+    "html": "<p>Normalmente sale de A Coruña, con la terminal de Punta Langosteira en Arteixo, o de Vigo, con la terminal de Guixar; la elección depende de la provincia de destino y de qué eje —AP-9, A-6 o A-52— acorta más el trayecto hasta tu parcela.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Usos habituales de los contenedores en Galicia y sus comarcas",
-    "html": "<ul><li>Almacén en explotaciones agroganaderas del interior de Lugo y Ourense.</li><li>Nave auxiliar en polígonos del naval de Vigo y Ferrol.</li><li>Chiringuito o punto de venta modular en la costa de las rías.</li></ul><p>La lluvia y la humedad del clima atlántico exigen buena estanqueidad, y en la costa el salitre acelera la corrosión: conviene reforzar la <strong>protección anticorrosión</strong>.</p>"
+    "html": "<ul><li>Almacén en explotaciones agroganaderas de Lugo y Ourense.</li><li>Caseta auxiliar en polígonos del naval de Vigo y Ferrol, y en la industria textil de Arteixo.</li><li>Módulo de obra vinculado a parques eólicos del interior.</li><li>Chiringuito o punto de venta modular en la costa de las rías.</li></ul><p>La lluvia persistente y la humedad del clima atlántico obligan a cuidar la <strong>estanqueidad del módulo</strong>, y cerca de la línea de costa el salitre acelera la corrosión si no se refuerza la pintura.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Aguanta un contenedor marítimo la humedad y el salitre de la costa gallega?",
-    "html": "<p>Sí, el acero con el que se fabrican está pensado para ambientes marinos, pero en la fachada atlántica conviene reforzar la pintura y revisar juntas con más frecuencia que en el interior, sobre todo si el contenedor permanece cerca de la línea de costa.</p>"
+    "titulo": "¿Cambia el mantenimiento de un contenedor entre la costa y el interior de Galicia?",
+    "html": "<p>Sí: en las rías el salitre exige repasar juntas y pintura con más frecuencia, mientras que en el interior de Lugo y Ourense el reto pasa por las heladas y una <strong>oscilación térmica</strong> mayor, correspondientes a las zonas climáticas D1 y C3 del CTE frente a la C1 de la franja costera.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Galicia?",
-    "html": "<p>Sí, y la respuesta cambia según el concello y el suelo: colocar un contenedor exige al menos <strong>declaración responsable</strong> o licencia, conforme a la Lei 2/2016 do solo de Galicia. En suelo de núcleo rural la tramitación suele ser más sencilla que en suelo rústico, y en primera línea de costa se añade la servidumbre de Costas. Amplía el trámite en <a href=\"/permisos/\">permisos para contenedores y casas contenedor</a>.</p>"
+    "html": "<p>Sí, y la tramitación cambia según el tipo de suelo: colocar un contenedor exige al menos <strong>declaración responsable</strong> o licencia, conforme a la Lei 2/2016 do solo de Galicia y su Regulamento (Decreto 143/2016). En suelo de núcleo rural el trámite suele ser más ágil que en suelo rústico, donde la vivienda nueva está muy restringida; consulta antes los <a href=\"/permisos/\">permisos para contenedores y casas contenedor</a> de tu concello.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Puedo poner un contenedor en primera línea de costa en Galicia?",
-    "html": "<p>Es la zona más restringida: la Ley de Costas 22/1988 establece una <strong>servidumbre de protección</strong> en toda la fachada atlántica, así que un contenedor necesita comprobar antes si la parcela queda dentro de esa franja. Fuera de ella, el trámite suele ser el habitual del concello.</p>"
+    "html": "<p>Es la zona más restringida: la Ley de Costas 22/1988 fija una servidumbre de <strong>protección litoral</strong> en toda la fachada atlántica y cantábrica, así que antes de nada hay que comprobar si la parcela queda dentro de esa franja. Fuera de ella, se sigue el trámite habitual del concello.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Galicia",
-    "html": "<p>Trabajamos en toda Galicia, con especial presencia en <a href=\"/vigo/\">Vigo</a> y su ría, A Coruña y Arteixo, Pontevedra, Lugo y Ourense, y llevamos la <strong>entrega de contenedores marítimos</strong> al resto de la comunidad autónoma.</p>"
+    "html": "<p>Trabajamos en toda Galicia, con especial presencia en <a href=\"/vigo/\">Vigo</a> y su ría, A Coruña y Arteixo, Pontevedra, Lugo y Ourense, y llevamos la entrega al resto de la comunidad autónoma, incluidos los concellos del interior con acceso por pista.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre contenedores marítimos en Galicia",
    "items": [
     {
-     "pregunta": "¿Entregáis contenedores marítimos en toda Galicia?",
-     "respuesta": "Sí: cubrimos las cuatro provincias gallegas, con salida habitual desde el puerto de Vigo o el de A Coruña según dónde esté tu parcela. El presupuesto se cierra siempre puesto en destino, e incluye el transporte y la maniobra de descarga, que varía bastante entre una calle estrecha de una villa costera y un camino de pista en el interior."
+     "pregunta": "¿Afecta la Zona de Bajas Emisiones a la entrega de un contenedor en ciudades como Vigo o A Coruña?",
+     "respuesta": "Vigo, A Coruña, Ourense, Lugo, Santiago y Ferrol están entre las ciudades obligadas por la Ley 7/2021 a tener Zona de Bajas Emisiones. Si la entrega es en el centro de alguna de ellas, conviene confirmar con el concello las restricciones vigentes para el vehículo de transporte antes de fijar el día de la maniobra."
     },
     {
      "pregunta": "¿Puedo instalar un contenedor en suelo de núcleo rural en Galicia?",
-     "respuesta": "Es más sencillo que en suelo rústico común: la Lei 2/2016 do solo de Galicia reconoce el núcleo rural como categoría propia, aunque siempre hace falta comprobar la ordenanza del concello y, si hay elementos protegidos cerca, el visto bueno de Patrimonio."
+     "respuesta": "Es más sencillo que en suelo rústico común: la Lei 2/2016 do solo de Galicia reconoce el núcleo rural como categoría propia del sistema de asentamientos. Aun así, siempre hace falta comprobar la ordenanza del concello y, si hay elementos protegidos cerca, el visto bueno de Patrimonio."
     },
     {
-     "pregunta": "¿Cómo afecta el clima atlántico a un contenedor usado como almacén?",
-     "respuesta": "La lluvia y la humedad exigen buena estanqueidad y apoyos elevados con drenaje, y cerca del mar el salitre acelera la corrosión si no se cuida la pintura; en el interior de Lugo y Ourense el reto cambia hacia las heladas y la mayor oscilación térmica."
+     "pregunta": "¿Por qué en Galicia se cita tanto el suelo rústico al hablar de un contenedor como vivienda?",
+     "respuesta": "Porque es el tipo de suelo predominante fuera de las villas y núcleos rurales, y en él la vivienda nueva está muy restringida: suele limitarse a rehabilitación o a usos vinculados a una explotación agraria, a diferencia del núcleo rural o del solar urbano."
     },
     {
      "pregunta": "¿También hacéis casas contenedor en Galicia?",
@@ -85,7 +85,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px -3px 0px",
    "columnas": [
     {
@@ -102,10 +102,10 @@
       {
        "t": "espaciador",
        "id": "2cfcca2",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -121,7 +121,7 @@
       {
        "t": "espaciador",
        "id": "268bab2",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -135,7 +135,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -146,12 +146,12 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "espaciador",
        "id": "fb0647b",
-       "alto": 56.0
+       "alto": 56
       },
       {
        "t": "texto",
@@ -163,7 +163,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -177,7 +177,7 @@
       {
        "t": "espaciador",
        "id": "b91bc87",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -190,7 +190,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -215,7 +215,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -242,7 +242,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         },
         {
@@ -257,7 +257,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         }
        ]
@@ -282,8 +282,8 @@
       {
        "t": "espaciador",
        "id": "3fe8f7f",
-       "alto": 44.0,
-       "altoMovil": 16.0
+       "alto": 44,
+       "altoMovil": 16
       },
       {
        "t": "encabezado",
@@ -295,15 +295,15 @@
        "color": "#5C5C68",
        "tipo": {
         "familia": "Satisfy",
-        "tamano": 52.0,
-        "tamanoMovil": 52.0,
+        "tamano": 52,
+        "tamanoMovil": 52,
         "peso": "600"
        }
       },
       {
        "t": "espaciador",
        "id": "06d646f",
-       "alto": 26.0
+       "alto": 26
       },
       {
        "t": "texto",
@@ -316,7 +316,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "400"
        }
       },
@@ -330,7 +330,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -371,7 +371,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -389,7 +389,7 @@
       {
        "t": "espaciador",
        "id": "d1f30a4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -400,7 +400,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-20-pies/"
@@ -416,12 +416,12 @@
       {
        "t": "espaciador",
        "id": "26344cc",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -432,7 +432,7 @@
       {
        "t": "espaciador",
        "id": "b0341e4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -443,7 +443,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-40-pies/"
@@ -457,9 +457,9 @@
        "url": "/contenedores-40-pies/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -470,7 +470,7 @@
       {
        "t": "espaciador",
        "id": "3c118ee",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -481,7 +481,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-flat-rack/"
@@ -495,7 +495,7 @@
        "url": "/contenedor-flat-rack/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -507,7 +507,7 @@
       {
        "t": "espaciador",
        "id": "176f3ce",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -518,7 +518,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-top/"
@@ -532,7 +532,7 @@
        "url": "/contenedor-open-top/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -544,7 +544,7 @@
       {
        "t": "espaciador",
        "id": "513a343",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -555,7 +555,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-high-cube/"
@@ -569,7 +569,7 @@
        "url": "/contenedor-high-cube/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -588,10 +588,10 @@
       {
        "t": "espaciador",
        "id": "73f5aa4",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -614,7 +614,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-de-almacenamiento/"
@@ -627,7 +627,7 @@
        "url": "/contenedores-de-almacenamiento/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -645,7 +645,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-refrigerado/"
@@ -658,7 +658,7 @@
        "url": "/contenedor-refrigerado/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -676,7 +676,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-side/"
@@ -689,7 +689,7 @@
        "url": "/contenedor-open-side/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -707,7 +707,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-dry-van/"
@@ -720,7 +720,7 @@
        "url": "/contenedor-dry-van/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -739,10 +739,10 @@
       {
        "t": "espaciador",
        "id": "67faa2f",
-       "alto": 53.0
+       "alto": 53
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -765,7 +765,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/"
@@ -778,7 +778,7 @@
        "url": "/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -796,7 +796,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -809,7 +809,7 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -827,7 +827,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/modulos-sanitarios/"
@@ -841,7 +841,7 @@
        "url": "/modulos-sanitarios/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -859,7 +859,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -873,7 +873,7 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -891,7 +891,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -905,7 +905,7 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -924,10 +924,10 @@
       {
        "t": "espaciador",
        "id": "0e60003",
-       "alto": 35.0
+       "alto": 35
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -950,12 +950,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -974,7 +974,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -990,7 +990,7 @@
       {
        "t": "espaciador",
        "id": "09777f9",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1003,7 +1003,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1014,7 +1014,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1026,7 +1026,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1054,14 +1054,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1079,7 +1079,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1095,7 +1095,7 @@
       {
        "t": "espaciador",
        "id": "5269422",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1108,7 +1108,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1119,7 +1119,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1131,7 +1131,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1159,14 +1159,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1184,7 +1184,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1200,7 +1200,7 @@
       {
        "t": "espaciador",
        "id": "78f3001",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1213,7 +1213,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1224,7 +1224,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1236,7 +1236,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1264,14 +1264,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1289,7 +1289,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1305,7 +1305,7 @@
       {
        "t": "espaciador",
        "id": "63a0414",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1318,7 +1318,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1329,7 +1329,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1341,7 +1341,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1369,14 +1369,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1394,7 +1394,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1418,7 +1418,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1429,7 +1429,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1441,12 +1441,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1468,12 +1468,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1490,7 +1490,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1501,7 +1501,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1513,12 +1513,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1540,12 +1540,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     }
    ]
@@ -1564,7 +1564,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1591,7 +1591,7 @@
       {
        "t": "espaciador",
        "id": "00fcbd2",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -1604,7 +1604,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -1618,7 +1618,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -1632,17 +1632,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "168b716",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1658,10 +1658,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1685,12 +1685,12 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1711,7 +1711,7 @@
        "alto": 300
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1730,7 +1730,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1754,7 +1754,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1765,10 +1765,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1793,7 +1793,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 31.0,
+        "tamano": 31,
         "peso": "500"
        },
        "url": "/casas-prefabricadas/"
@@ -1813,14 +1813,14 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 25.0,
+        "tamano": 25,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   }

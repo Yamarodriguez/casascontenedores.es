@@ -19,28 +19,28 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Contenedores marítimos en Salamanca: cómo trabajamos y desde dónde llegan",
-    "html": "<p>Salamanca cuenta con un nodo logístico propio para contenedores: la <strong>Zona de Actividades Logísticas de Salamanca</strong> (ZALDESA), un puerto seco con terminal intermodal ferroviaria de contenedores y graneles en el Corredor Atlántico, con aduana propia. Muchos de los contenedores marítimos que llegan a la ciudad y su comarca entran por esa vía o por carretera a través de la A-62 o la A-66. Trabajamos como zona de servicio, sin depósito propio en la provincia: el transporte y la descarga quedan incluidos en el presupuesto puesto en destino. Si la parcela está dentro de la Ciudad Vieja, declarada Patrimonio de la Humanidad por la UNESCO, conviene revisar antes el acceso de la grúa por sus calles estrechas.</p>"
+    "titulo": "Contenedores marítimos en Salamanca: puerto seco y acceso al casco histórico",
+    "html": "<p>Salamanca cuenta con <strong>puerto seco propio</strong>: la Zona de Actividades Logísticas de Salamanca (ZALDESA) opera una terminal intermodal ferroviaria de contenedores y graneles del Corredor Atlántico con aduana propia, y los accesos rodados a la ciudad se resuelven por la A-62 (eje Portugal-Burgos) y la A-66 (Ruta de la Plata). No mantenemos almacén propio en la provincia: cada contenedor marítimo viaja desde origen hasta tu parcela y ese trayecto queda cerrado en la oferta antes de confirmar el pedido.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Desde qué terminal llega un contenedor marítimo a Salamanca?",
-    "html": "<p>Lo habitual es que llegue a través de ZALDESA, la terminal intermodal ferroviaria de contenedores de Salamanca con aduana propia, o por carretera desde otros puertos utilizando la A-62 o la A-66 hasta completar el trayecto final a tu parcela.</p>"
+    "titulo": "¿La Zona de Bajas Emisiones de Salamanca afecta al transporte de un contenedor marítimo?",
+    "html": "<p>Sí, la ciudad tiene en vigor una ordenanza de Zona de Bajas Emisiones con aplicación progresiva, así que conviene comprobar el <strong>distintivo ambiental</strong> del vehículo de transporte antes de fijar la fecha de entrega, sobre todo si la ruta cruza el centro. Las restricciones a vehículos no residentes sin etiqueta llegarán más adelante, conforme lo previsto en la Ley 7/2021.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Usos habituales de los contenedores en Salamanca y su comarca",
-    "html": "<p>La actividad económica de la provincia marca los usos más frecuentes:</p><ul><li>Explotaciones ganaderas y agroalimentarias del Campo Charro: almacén de pienso y aperos.</li><li>ZALDESA y los polígonos del cinturón industrial: <strong>oficina de obra</strong> y módulo logístico.</li><li>Universidad y enseñanza del español: aula modular y alojamiento temporal.</li><li>Turismo cultural de la ciudad: módulos de temporada.</li></ul>"
+    "titulo": "Terreno y actividad: qué uso le dan a un contenedor en Salamanca",
+    "html": "<p>El relieve de Salamanca condiciona la cimentación tanto como el sector al que se destine el contenedor: la ciudad se asienta sobre cerros del borde de la cuenca sedimentaria terciaria (arenas y arcillas al norte y al este) y de la penillanura paleozoica del Campo Charro (pizarras y granitos al sur y al oeste), con <strong>cimentaciones sencillas</strong> fuera de la vega del Tormes.</p><ul><li>Explotaciones ganaderas y agroalimentarias del Campo Charro: almacén de pienso, aperos y maquinaria.</li><li>ZALDESA y los polígonos del cinturón industrial: <strong>oficina de obra</strong> y módulo logístico.</li><li>Universidad y enseñanza del español: aula modular y alojamiento temporal.</li><li>Turismo cultural de la ciudad: módulos de temporada.</li></ul>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Sirve un contenedor marítimo como almacén en una explotación ganadera de Salamanca?",
-    "html": "<p>Sí, es un uso habitual en el Campo Charro: sirve como almacén de pienso, aperos y maquinaria, aunque conviene revisar el anclaje y la ventilación si va a guardar forraje o productos sensibles a la humedad.</p>"
+    "titulo": "¿Qué terreno hay que tener en cuenta para cimentar un contenedor en Salamanca?",
+    "html": "<p>Depende del barrio: los cerros y tesos de la ciudad (San Vicente, teso de las Catedrales, teso de San Cristóbal) ofrecen terreno consolidado de arenas, arcillas, pizarras o granitos según la zona, mientras que en la vega del Tormes conviene comprobar antes el <strong>nivel freático</strong> y el riesgo de avenida histórica.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Salamanca?",
-    "html": "<p>Sí, colocar un contenedor es al menos una instalación sujeta a declaración responsable o <strong>licencia de obra menor</strong> según la ordenanza del Ayuntamiento de Salamanca y la Ley 5/1999 de Urbanismo de Castilla y León. La exigencia es mayor en suelo rústico del término municipal que en un polígono o una parcela urbana, y máxima dentro de la Ciudad Vieja, protegida por su condición de Patrimonio de la Humanidad. Consulta los <a href=\"/permisos/\">permisos para construir con contenedores</a> antes de comprar la parcela.</p>"
+    "html": "<p>Sí, colocar un contenedor es al menos una instalación sujeta a <strong>declaración responsable</strong> o licencia de obra menor, según la ordenanza del Ayuntamiento de Salamanca y la Ley 5/1999 de Urbanismo de Castilla y León. La exigencia es mayor en suelo rústico del término municipal que en un polígono o una parcela urbana, y llega a su punto más alto dentro de la Ciudad Vieja, protegida por su condición de conjunto histórico. Revisa antes los <a href=\"/permisos/\">permisos para construir con contenedores</a> para no descubrirlo después de comprar la parcela.</p>"
    },
    {
     "nivel": "h3",
@@ -49,28 +49,33 @@
    },
    {
     "nivel": "h2",
+    "titulo": "Clima en Salamanca: por qué la zona depende de la altitud de tu parcela",
+    "html": "<p>La tabla B.1 del DB-HE del CTE sitúa a Salamanca capital en la zona D2, pero justo en la cota a partir de la cual la norma exige pasar a E1: en la práctica, los barrios y tesos más altos de la ciudad suelen caer en zona E1 y la vega del Tormes se mantiene en D2. Con los inviernos largos y fríos de la meseta y los veranos secos, conviene proyectar el contenedor con <strong>aislamiento reforzado</strong> y sin puentes térmicos, y no dar por hecho la zona solo por el nombre del municipio.</p>"
+   },
+   {
+    "nivel": "h2",
     "titulo": "Zonas de entrega desde Salamanca",
-    "html": "<p>Entregamos contenedores marítimos en la provincia y alrededores:</p><ul><li>La capital y el Campo Charro</li><li><a href=\"/contenedores-maritimos-zamora/\">Zamora</a> y Ávila</li><li>Valladolid y el resto de Castilla y León</li></ul>"
+    "html": "<p>Salimos desde ZALDESA y desde los accesos de la A-62 y la A-66 para cubrir, además de la capital, el resto de la provincia y las zonas limítrofes de Castilla y León:</p><ul><li>Campo Charro y comarcas rurales de la provincia</li><li><a href=\"/contenedores-maritimos-zamora/\">Zamora</a> y Ávila</li><li>Valladolid y el resto de la comunidad</li></ul>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre contenedores marítimos en Salamanca",
    "items": [
     {
-     "pregunta": "¿Entregáis contenedores marítimos en toda la provincia de Salamanca?",
-     "respuesta": "Sí, trabajamos en la capital y en el Campo Charro, además del resto de la provincia. Muchos contenedores entran por ZALDESA, la terminal intermodal ferroviaria de la ciudad, o por carretera desde la A-62 y la A-66; el transporte y la descarga van incluidos en el presupuesto puesto en destino."
+     "pregunta": "¿Puedo poner un contenedor en suelo rústico del término de Salamanca?",
+     "respuesta": "En el suelo rústico común y de protección del término -como las dehesas y riberas del Campo Charro- solo se admite si el contenedor queda vinculado a una explotación agraria o ganadera, mediante <strong>autorización de uso excepcional</strong> del Ayuntamiento. En suelo urbano o en un polígono la tramitación es la ordinaria, con declaración responsable o licencia de obra menor según el caso."
     },
     {
-     "pregunta": "¿Puedo colocar un contenedor dentro de la Ciudad Vieja de Salamanca?",
-     "respuesta": "Es más restrictivo que en el resto del término municipal: el recinto está protegido por su condición de <strong>Patrimonio de la Humanidad</strong> UNESCO y por la normativa de conjunto histórico, así que conviene consultarlo con el ayuntamiento antes de instalar cualquier contenedor."
+     "pregunta": "¿Hay zonas inundables junto al Tormes donde no convenga instalar un contenedor en Salamanca?",
+     "respuesta": "El río Tormes está regulado por el embalse de Santa Teresa, pero conserva avenidas históricas, así que en parcelas de la ribera conviene comprobar antes la <strong>zona inundable</strong> con el Ayuntamiento antes de fijar la cimentación del contenedor, sobre todo si va a quedar habilitado como vivienda o módulo permanente."
     },
     {
-     "pregunta": "¿Puedo alquilar un contenedor marítimo en Salamanca en lugar de comprarlo?",
-     "respuesta": "Sí, ofrecemos alquiler además de venta, una opción práctica si solo necesitas el contenedor mientras dura una obra o una campaña agrícola en el Campo Charro. Las condiciones de duración, fianza y devolución se ajustan a cada caso; consulta las condiciones en <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a> antes de decidir."
+     "pregunta": "¿Qué zona climática debo aplicar si mi parcela está en un barrio alto de Salamanca?",
+     "respuesta": "La capital se sitúa justo en el umbral entre la zona D2 y la E1 de la tabla del CTE: los barrios y tesos más altos suelen quedar en E1, mientras que la vega del Tormes se mantiene en D2. El proyectista debe fijar la zona según la altitud real de tu parcela, no solo por el nombre del municipio."
     },
     {
-     "pregunta": "¿También hacéis casas contenedor en Salamanca?",
-     "respuesta": "Sí. Además de vender y alquilar contenedores marítimos, diseñamos y construimos <strong>casas contenedor en Salamanca</strong>, con proyecto de arquitecto, consulta urbanística previa y entrega llave en mano. Descúbrelo en <a href=\"/salamanca/\">casas hechas con contenedores en Salamanca</a>."
+     "pregunta": "¿Hacéis casas contenedor adaptadas al clima de Salamanca?",
+     "respuesta": "Sí, diseñamos <strong>casas contenedor</strong> con el aislamiento y la rotura de puente térmico que exige la meseta, ajustando el proyecto a la zona D2 o E1 según la altitud de la parcela. Incluimos la consulta urbanística previa y la entrega llave en mano; puedes verlas en <a href=\"/salamanca/\">casas hechas con contenedores en Salamanca</a>."
     }
    ]
   }
@@ -85,7 +90,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px -3px 0px",
    "columnas": [
     {
@@ -102,10 +107,10 @@
       {
        "t": "espaciador",
        "id": "2cfcca2",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -121,7 +126,7 @@
       {
        "t": "espaciador",
        "id": "268bab2",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -135,7 +140,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -146,12 +151,12 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "espaciador",
        "id": "fb0647b",
-       "alto": 56.0
+       "alto": 56
       },
       {
        "t": "texto",
@@ -163,7 +168,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -177,7 +182,7 @@
       {
        "t": "espaciador",
        "id": "b91bc87",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -190,7 +195,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -215,7 +220,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -242,7 +247,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         },
         {
@@ -257,7 +262,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         }
        ]
@@ -282,8 +287,8 @@
       {
        "t": "espaciador",
        "id": "3fe8f7f",
-       "alto": 44.0,
-       "altoMovil": 16.0
+       "alto": 44,
+       "altoMovil": 16
       },
       {
        "t": "encabezado",
@@ -295,15 +300,15 @@
        "color": "#5C5C68",
        "tipo": {
         "familia": "Satisfy",
-        "tamano": 52.0,
-        "tamanoMovil": 52.0,
+        "tamano": 52,
+        "tamanoMovil": 52,
         "peso": "600"
        }
       },
       {
        "t": "espaciador",
        "id": "06d646f",
-       "alto": 26.0
+       "alto": 26
       },
       {
        "t": "texto",
@@ -316,7 +321,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "400"
        }
       },
@@ -330,7 +335,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -371,7 +376,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -389,7 +394,7 @@
       {
        "t": "espaciador",
        "id": "d1f30a4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -400,7 +405,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-20-pies/"
@@ -416,12 +421,12 @@
       {
        "t": "espaciador",
        "id": "26344cc",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -432,7 +437,7 @@
       {
        "t": "espaciador",
        "id": "b0341e4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -443,7 +448,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-40-pies/"
@@ -457,9 +462,9 @@
        "url": "/contenedores-40-pies/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -470,7 +475,7 @@
       {
        "t": "espaciador",
        "id": "3c118ee",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -481,7 +486,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-flat-rack/"
@@ -495,7 +500,7 @@
        "url": "/contenedor-flat-rack/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -507,7 +512,7 @@
       {
        "t": "espaciador",
        "id": "176f3ce",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -518,7 +523,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-top/"
@@ -532,7 +537,7 @@
        "url": "/contenedor-open-top/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -544,7 +549,7 @@
       {
        "t": "espaciador",
        "id": "513a343",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -555,7 +560,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-high-cube/"
@@ -569,7 +574,7 @@
        "url": "/contenedor-high-cube/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -588,10 +593,10 @@
       {
        "t": "espaciador",
        "id": "73f5aa4",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -614,7 +619,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-de-almacenamiento/"
@@ -627,7 +632,7 @@
        "url": "/contenedores-de-almacenamiento/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -645,7 +650,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-refrigerado/"
@@ -658,7 +663,7 @@
        "url": "/contenedor-refrigerado/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -676,7 +681,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-side/"
@@ -689,7 +694,7 @@
        "url": "/contenedor-open-side/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -707,7 +712,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-dry-van/"
@@ -720,7 +725,7 @@
        "url": "/contenedor-dry-van/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -739,10 +744,10 @@
       {
        "t": "espaciador",
        "id": "67faa2f",
-       "alto": 53.0
+       "alto": 53
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -765,7 +770,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/"
@@ -778,7 +783,7 @@
        "url": "/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -796,7 +801,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -809,7 +814,7 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -827,7 +832,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/modulos-sanitarios/"
@@ -841,7 +846,7 @@
        "url": "/modulos-sanitarios/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -859,7 +864,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -873,7 +878,7 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -891,7 +896,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -905,7 +910,7 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -924,10 +929,10 @@
       {
        "t": "espaciador",
        "id": "0e60003",
-       "alto": 35.0
+       "alto": 35
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -950,12 +955,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -974,7 +979,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -990,7 +995,7 @@
       {
        "t": "espaciador",
        "id": "09777f9",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1003,7 +1008,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1014,7 +1019,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1026,7 +1031,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1054,14 +1059,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1079,7 +1084,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1095,7 +1100,7 @@
       {
        "t": "espaciador",
        "id": "5269422",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1108,7 +1113,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1119,7 +1124,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1131,7 +1136,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1159,14 +1164,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1184,7 +1189,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1200,7 +1205,7 @@
       {
        "t": "espaciador",
        "id": "78f3001",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1213,7 +1218,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1224,7 +1229,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1236,7 +1241,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1264,14 +1269,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1289,7 +1294,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1305,7 +1310,7 @@
       {
        "t": "espaciador",
        "id": "63a0414",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1318,7 +1323,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1329,7 +1334,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1341,7 +1346,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1369,14 +1374,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1394,7 +1399,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1418,7 +1423,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1429,7 +1434,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1441,12 +1446,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1468,12 +1473,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1490,7 +1495,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1501,7 +1506,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1513,12 +1518,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1540,12 +1545,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     }
    ]
@@ -1564,7 +1569,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1591,7 +1596,7 @@
       {
        "t": "espaciador",
        "id": "00fcbd2",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -1604,7 +1609,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -1618,7 +1623,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -1632,17 +1637,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "168b716",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1658,10 +1663,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1685,7 +1690,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1696,10 +1701,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1724,7 +1729,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 31.0,
+        "tamano": 31,
         "peso": "500"
        },
        "url": "/casas-prefabricadas/"
@@ -1744,14 +1749,14 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 25.0,
+        "tamano": 25,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   },
@@ -1769,7 +1774,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1793,12 +1798,12 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1819,7 +1824,7 @@
        "alto": 300
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]

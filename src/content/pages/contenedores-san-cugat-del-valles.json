@@ -19,23 +19,38 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Contenedores marítimos en San Cugat del Vallés: cómo preparamos la entrega",
-    "html": "<p>No tenemos depósito propio en la zona: coordinamos cada contenedor marítimo desde el origen más adecuado y lo llevamos hasta tu dirección, con transporte y descarga incluidos en el presupuesto puesto en destino.</p><p>El acceso puede complicarse en urbanizaciones con pendiente o en calles estrechas del casco antiguo, donde la grúa necesita espacio para maniobrar; avísanos si es tu caso. Prepara también una superficie firme y nivelada que apoye bien el contenedor en sus puntos de apoyo, para evitar golpes o desniveles durante la descarga. Te contamos cómo se organiza el reparto en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+    "titulo": "Contenedores en San Cugat del Vallés: cómo preparamos la entrega",
+    "html": "<p>No contamos con depósito propio en la zona: <strong>cada contenedor</strong> se coordina desde el origen más adecuado y se transporta hasta tu dirección, con descarga incluida en el presupuesto puesto en destino.</p><p>El acceso puede complicarse en urbanizaciones con pendiente o en calles estrechas del casco antiguo, donde el camión y la grúa necesitan espacio para maniobrar; avísanos si es tu caso. Prepara también una superficie firme y nivelada que apoye bien las esquineras del contenedor, para evitar golpes o desniveles durante la descarga. Te contamos cómo se organiza el reparto en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué es el transporte especial de un contenedor marítimo?",
+    "html": "<p>El <strong>transporte especial</strong> se aplica cuando las medidas del contenedor superan los límites de un vehículo de carga convencional. Los contenedores fabricados según la norma ISO 668 mantienen dimensiones estandarizadas (20 y 40 pies, con o sin altura extra en la versión high cube), lo que facilita la logística, pero el vehículo articulado y la grúa siguen necesitando espacio de maniobra en el punto de descarga. Por eso conviene revisar el acceso a la parcela antes de confirmar la entrega.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "¿Para qué se usa un contenedor marítimo aquí?",
-    "html": "<p>San Cugat combina zona residencial de chalets, urbanizaciones con jardín y un parque tecnológico con mucha actividad empresarial, así que el uso del contenedor cambia según el entorno:</p><ul><li>En el parque tecnológico y los polígonos cercanos, como oficina modular o punto de obra mientras dura un proyecto.</li><li>En parcelas con jardín, como almacenamiento de herramientas, muebles o material de obra.</li><li>En terrazas y jardines de chalet, como cubierto o rincón cerrado con distintos usos.</li><li>Cerca de Collserola, con más humedad ambiental, conviene ventilar bien el contenedor para evitar condensación.</li></ul>"
+    "titulo": "¿Para qué se usa un contenedor en San Cugat del Vallés?",
+    "html": "<p>En zonas residenciales de vivienda unifamiliar con jardín, un contenedor sirve sobre todo como <strong>trastero exterior</strong> para herramientas, muebles de temporada o material de obra durante una reforma. En parcelas con más superficie libre también funciona como caseta cerrada o cobertizo adaptado, y en negocios o naves pequeñas de la zona, como oficina modular o punto de almacén mientras dura un proyecto.</p><ul><li>Almacenamiento de herramientas, muebles o material de obra en el jardín o en el garaje exterior.</li><li>Cobertizo o cuarto cerrado con distintos usos en parcelas de chalet.</li><li>Oficina modular o almacén temporal vinculado a una actividad profesional o a una reforma.</li></ul>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué diferencia hay entre un contenedor dry van y uno high cube para este uso?",
+    "html": "<p>El contenedor dry van es el modelo estándar y el más habitual para almacenaje u oficina modular, mientras que el <strong>contenedor high cube</strong> añade mayor altura interior, lo que facilita el aislamiento y el paso de instalaciones cuando se acondiciona para un uso más prolongado. La elección depende del espacio disponible en la parcela y del uso final que le vayas a dar, ya sea almacenamiento, punto de obra o cerramiento en jardín.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "¿Necesito licencia para poner un contenedor en tu parcela?",
-    "html": "<p>Colocar un contenedor cuenta como una instalación: el ayuntamiento pide, según el uso y el tiempo que vaya a quedarse, una comunicació prèvia o una licencia de obra menor, conforme al Decret legislatiu 1/2010, pel qual s'aprova el Text refós de la Llei d'urbanisme de Catalunya. Si la parcela linda con el parque natural de Collserola o está en suelo no urbanizable, las restricciones son mayores y conviene consultarlo antes de comprar. Resolvemos estas dudas de tramitación en <a href=\"/permisos/\">permisos y licencias para contenedores marítimos</a>.</p>"
+    "titulo": "¿Necesito licencia para instalar un contenedor en tu parcela?",
+    "html": "<p>Sí, casi siempre hace falta algún trámite municipal: colocar un contenedor cuenta como una instalación, y el ayuntamiento suele pedir, según el uso y el tiempo que vaya a quedarse, una comunicación previa o una <strong>licencia de obra menor</strong>. Como en el resto de municipios catalanes, el suelo no urbanizable o los entornos protegidos suelen tener restricciones más estrictas que el suelo urbano consolidado, así que conviene consultarlo en el ayuntamiento antes de comprar. Resolvemos estas dudas de tramitación en <a href=\"/permisos/\">permisos y licencias para contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Hace falta licencia de obra mayor si el contenedor lleva cimentación?",
+    "html": "<p>Sí, cuando el contenedor se ancla con cimentación o pasa a formar parte de una construcción fija, el ayuntamiento puede exigir <strong>licencia de obra mayor</strong> y un proyecto visado, en lugar de la comunicación previa habitual para una instalación temporal. Este paso resulta más frecuente si el contenedor se destina a vivienda o a un uso que requiera después la cédula de habitabilidad o la licencia de primera ocupación. Conviene aclarar el uso previsto con el ayuntamiento antes de anclarlo de forma permanente.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde aquí",
-    "html": "<p>Además de aquí, entregamos contenedores marítimos en el resto del Vallès Occidental y su área metropolitana:</p><ul><li>Barcelona y su área metropolitana, a través de <a href=\"/contenedores-maritimos-barcelona/\">contenedores marítimos Barcelona</a>.</li><li>Sabadell, Terrassa y Rubí, y el resto de municipios cercanos del Vallès.</li><li>Si buscas una vivienda hecha con contenedores en la zona, la ficha gemela es <a href=\"/san-cugat-del-valles/\">casas contenedores en San Cugat del Vallés</a>.</li></ul>"
+    "html": "<p>Además de aquí, entregamos contenedores en el resto del Vallès Occidental y su área metropolitana:</p><ul><li>Barcelona y su área metropolitana, a través de <a href=\"/contenedores-maritimos-barcelona/\">contenedores marítimos Barcelona</a>.</li><li>Sabadell, Terrassa y Rubí, y el resto de municipios cercanos del Vallès.</li><li>Si buscas una <strong>vivienda hecha con contenedores</strong> en la zona, la ficha gemela es <a href=\"/san-cugat-del-valles/\">casas contenedores en San Cugat del Vallés</a>.</li></ul>"
    }
   ],
   "faq": {
@@ -46,16 +61,16 @@
      "respuesta": "Sí. Esta localidad forma parte de nuestra zona de servicio habitual en el Vallès Occidental, y desde aquí cubrimos el resto de la provincia de Barcelona y municipios cercanos como Sabadell, Terrassa o Rubí. El transporte y la descarga se organizan según tu dirección de entrega y quedan reflejados en el presupuesto antes de confirmar el pedido."
     },
     {
-     "pregunta": "¿Tenéis depósito o contenedores en stock aquí?",
-     "respuesta": "No contamos con depósito propio en la zona: coordinamos cada contenedor desde el origen más adecuado hasta tu dirección. Eso no afecta a la disponibilidad de modelos nuevos o usados ni al resto de condiciones, que te confirmamos al pedir presupuesto."
+     "pregunta": "¿De dónde viene el contenedor que se entrega en San Cugat del Vallés?",
+     "respuesta": "No contamos con depósito propio en la zona: cada contenedor se coordina desde el origen más adecuado según el modelo y la disponibilidad, y se transporta directamente hasta tu dirección. Eso no afecta a la elección entre unidades nuevas o usadas ni al resto de condiciones, que confirmamos contigo al pedir presupuesto."
     },
     {
-     "pregunta": "¿Puedo alquilar un contenedor marítimo en lugar de comprarlo?",
+     "pregunta": "¿Puedo alquilar un contenedor en lugar de comprarlo?",
      "respuesta": "Sí, ofrecemos alquiler además de venta. La duración, la fianza y las condiciones de devolución se fijan caso por caso según el uso que le vayas a dar (obra, almacenaje temporal, evento) y quedan recogidas en el contrato antes de la entrega."
     },
     {
-     "pregunta": "¿También hacéis casas contenedor aquí?",
-     "respuesta": "Sí. Si además de comprar o alquilar un contenedor marítimo buscas una vivienda modular para tu parcela, en <a href=\"/san-cugat-del-valles/\">casas contenedores en San Cugat del Vallés</a> tienes la información sobre proyecto, fabricación y montaje llave en mano para toda la zona del Vallès Occidental."
+     "pregunta": "¿También hacéis casas contenedor en San Cugat del Vallés?",
+     "respuesta": "Sí. Si además de comprar o alquilar un contenedor buscas una vivienda modular para tu parcela, en <a href=\"/san-cugat-del-valles/\">casas contenedores en San Cugat del Vallés</a> tienes la información sobre proyecto, fabricación y montaje llave en mano para toda la zona del Vallès Occidental."
     }
    ]
   }
@@ -70,7 +85,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px -3px 0px",
    "columnas": [
     {
@@ -79,7 +94,7 @@
       {
        "t": "espaciador",
        "id": "94f865b",
-       "alto": 0.0
+       "alto": 0
       },
       {
        "t": "encabezado",
@@ -93,7 +108,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -108,10 +123,10 @@
       {
        "t": "espaciador",
        "id": "52493ff",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -127,7 +142,7 @@
       {
        "t": "espaciador",
        "id": "268bab2",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -141,7 +156,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -152,12 +167,12 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "espaciador",
        "id": "fb0647b",
-       "alto": 56.0
+       "alto": 56
       },
       {
        "t": "texto",
@@ -169,7 +184,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -183,7 +198,7 @@
       {
        "t": "espaciador",
        "id": "b91bc87",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -196,7 +211,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -221,7 +236,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -251,8 +266,8 @@
       {
        "t": "espaciador",
        "id": "3fe8f7f",
-       "alto": 44.0,
-       "altoMovil": 16.0
+       "alto": 44,
+       "altoMovil": 16
       },
       {
        "t": "encabezado",
@@ -264,15 +279,15 @@
        "color": "#5C5C68",
        "tipo": {
         "familia": "Satisfy",
-        "tamano": 52.0,
-        "tamanoMovil": 52.0,
+        "tamano": 52,
+        "tamanoMovil": 52,
         "peso": "600"
        }
       },
       {
        "t": "espaciador",
        "id": "06d646f",
-       "alto": 26.0
+       "alto": 26
       },
       {
        "t": "texto",
@@ -285,7 +300,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "400"
        }
       },
@@ -299,7 +314,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -340,7 +355,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -358,7 +373,7 @@
       {
        "t": "espaciador",
        "id": "d1f30a4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -369,7 +384,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-20-pies/"
@@ -385,12 +400,12 @@
       {
        "t": "espaciador",
        "id": "26344cc",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -401,7 +416,7 @@
       {
        "t": "espaciador",
        "id": "b0341e4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -412,7 +427,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-40-pies/"
@@ -426,9 +441,9 @@
        "url": "/contenedores-40-pies/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -439,7 +454,7 @@
       {
        "t": "espaciador",
        "id": "3c118ee",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -450,7 +465,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-flat-rack/"
@@ -464,7 +479,7 @@
        "url": "/contenedor-flat-rack/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -476,7 +491,7 @@
       {
        "t": "espaciador",
        "id": "176f3ce",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -487,7 +502,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-top/"
@@ -501,7 +516,7 @@
        "url": "/contenedor-open-top/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -513,7 +528,7 @@
       {
        "t": "espaciador",
        "id": "513a343",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -524,7 +539,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-high-cube/"
@@ -538,7 +553,7 @@
        "url": "/contenedor-high-cube/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -557,10 +572,10 @@
       {
        "t": "espaciador",
        "id": "73f5aa4",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -583,7 +598,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-de-almacenamiento/"
@@ -596,7 +611,7 @@
        "url": "/contenedores-de-almacenamiento/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -614,7 +629,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-refrigerado/"
@@ -627,7 +642,7 @@
        "url": "/contenedor-refrigerado/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -645,7 +660,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-side/"
@@ -658,7 +673,7 @@
        "url": "/contenedor-open-side/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -676,7 +691,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-dry-van/"
@@ -689,7 +704,7 @@
        "url": "/contenedor-dry-van/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -708,10 +723,10 @@
       {
        "t": "espaciador",
        "id": "67faa2f",
-       "alto": 53.0
+       "alto": 53
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -734,7 +749,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/"
@@ -747,7 +762,7 @@
        "url": "/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -765,7 +780,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -778,7 +793,7 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -796,7 +811,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/modulos-sanitarios/"
@@ -810,7 +825,7 @@
        "url": "/modulos-sanitarios/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -828,7 +843,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -842,7 +857,7 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -860,7 +875,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -874,7 +889,7 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -893,10 +908,10 @@
       {
        "t": "espaciador",
        "id": "0e60003",
-       "alto": 35.0
+       "alto": 35
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -919,12 +934,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -943,7 +958,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -959,7 +974,7 @@
       {
        "t": "espaciador",
        "id": "09777f9",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -972,7 +987,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -983,7 +998,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -995,7 +1010,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1023,14 +1038,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1048,7 +1063,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1064,7 +1079,7 @@
       {
        "t": "espaciador",
        "id": "5269422",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1077,7 +1092,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1088,7 +1103,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1100,7 +1115,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1128,14 +1143,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1153,7 +1168,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1169,7 +1184,7 @@
       {
        "t": "espaciador",
        "id": "78f3001",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1182,7 +1197,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1193,7 +1208,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1205,7 +1220,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1233,14 +1248,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1258,7 +1273,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1274,7 +1289,7 @@
       {
        "t": "espaciador",
        "id": "63a0414",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1287,7 +1302,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1298,7 +1313,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1310,7 +1325,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1338,14 +1353,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1363,7 +1378,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1387,7 +1402,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1398,7 +1413,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1410,12 +1425,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1437,12 +1452,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1459,7 +1474,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1470,7 +1485,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1482,12 +1497,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1509,12 +1524,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     }
    ]
@@ -1533,7 +1548,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1560,7 +1575,7 @@
       {
        "t": "espaciador",
        "id": "00fcbd2",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -1573,7 +1588,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -1587,7 +1602,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -1601,17 +1616,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "168b716",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1627,10 +1642,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1654,7 +1669,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1665,10 +1680,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1693,7 +1708,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 31.0,
+        "tamano": 31,
         "peso": "500"
        },
        "url": "/casas-prefabricadas/"
@@ -1713,14 +1728,14 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 25.0,
+        "tamano": 25,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   },
@@ -1738,7 +1753,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1762,12 +1777,12 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1788,7 +1803,7 @@
        "alto": 300
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]

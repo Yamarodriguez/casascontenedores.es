@@ -20,36 +20,47 @@
    {
     "nivel": "h2",
     "titulo": "Qué es un módulo sanitario prefabricado con contenedor y dónde se usa",
-    "html": "<p>Un módulo sanitario es un contenedor marítimo transformado en aseo, ducha o vestuario, listo para conectar donde no hay baño fijo.</p>\n<ul>\n<li>Aseos independientes, duchas y vestuarios con taquillas, o un aseo adaptado para quien lo necesite.</li>\n<li>Se instala en obras, eventos, <a href=\"/camping-contenedores/\">campings</a>, playas, polígonos industriales y centros educativos o deportivos, como en un <a href=\"/gimnasio-contenedor/\">gimnasio contenedor</a>.</li>\n<li>Configuraciones habituales: aseos separados para hombres y mujeres, vestuario con duchas, aseo accesible o un bloque mixto con zona de almacén.</li>\n<li>Se parte de un contenedor de 20 pies (unos 13,9 m² interiores) o de 40 pies (unos 28,3 m² interiores), según cuántas cabinas necesites.</li>\n</ul>"
+    "html": "<p>Un módulo sanitario es un contenedor marítimo transformado en aseo, ducha o vestuario, equipado de fábrica y listo para conectar en destino. Es la solución habitual siempre que hace falta un servicio higiénico resistente sin obra de albañilería:</p><ul><li><strong>Obras y construcción:</strong> aseo para el personal durante toda la ejecución.</li><li><strong>Eventos y ferias:</strong> alquiler puntual con aseo o vestuario mixto.</li><li><strong>Campings y playas:</strong> bloques de aseos y duchas de uso público, como los que puedes ver en nuestros <a href=\"/camping-contenedores/\">campings con contenedores</a>.</li><li><strong>Polígonos y centros educativos</strong> o deportivos: vestuario con duchas junto a naves e <a href=\"/gimnasio-contenedor/\">instalaciones deportivas</a>.</li></ul><p>Las configuraciones más habituales son aseos separados para hombres y mujeres, vestuario con zona de duchas, aseo adaptado y módulo mixto con espacio de almacén; todas se fabrican sobre la base de un contenedor de 20 o 40 pies, según el número de cabinas que necesites.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿En qué se diferencia un módulo sanitario de un baño químico portátil?",
+    "html": "<p>La diferencia está en la construcción: el módulo parte de un contenedor marítimo con <strong>estructura de acero</strong> conforme a la norma ISO 668, mientras que el baño químico es una cabina de plástico sin conexión a redes. Ofrece varias cabinas bajo un mismo techo aislado, se conecta a agua corriente, saneamiento y electricidad como una instalación fija, y resiste a la intemperie y al uso intensivo durante toda la obra o el evento sin perder estanqueidad ni aislamiento.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Normativa, instalaciones y mantenimiento",
-    "html": "<p>En una obra, el <strong>Real Decreto 486/1997</strong> exige aseos y vestuarios para el personal, con lavabos, duchas e inodoros suficientes. Si el aseo lo usa público, el Documento Básico de Seguridad de Utilización y Accesibilidad (DB-SUA) del Código Técnico marca las medidas y ayudas técnicas del aseo adaptado. En campings e instalaciones deportivas, cada comunidad autónoma añade su propia normativa sanitaria, así que conviene revisarla antes de cerrar el diseño.</p>\n<p>Por dentro lleva acometida de agua o depósito, saneamiento conectado a la red o a una fosa séptica, agua caliente sanitaria, ventilación y suelo antideslizante; llega equipado de fábrica y se apoya sobre una base nivelada, sin obra húmeda. El mantenimiento se reduce a limpieza periódica, revisión de sellados y protección de las tuberías en los meses fríos. Según cuánto dure el proyecto, puedes comprarlo o pedirlo en <a href=\"/alquiler-contenedores-maritimos/\">alquiler</a>, con el coste que recoja tu presupuesto.</p>"
+    "html": "<p>Un módulo sanitario que da servicio al personal de una obra debe cumplir el RD 486/1997, que exige <strong>aseos y vestuarios diferenciados</strong> en los lugares de trabajo.</p><p>Si el módulo recibe público, al menos una cabina debe ofrecer un <strong>aseo accesible</strong> conforme al Código Técnico de la Edificación, y en campings cada comunidad autónoma añade su propia ratio de aseos por plaza.</p><p>Por dentro incorpora acometida de agua o depósito propio, saneamiento a la red o a fosa séptica, producción de agua caliente, ventilación y suelo antideslizante. Llega equipado de fábrica: solo hace falta apoyarlo sobre una <strong>base nivelada</strong> y conectar los suministros.</p><p>El mantenimiento habitual se reduce a limpieza periódica, revisión de sellados y purgar las instalaciones si el equipo queda parado en invierno. Puedes elegirlo en <a href=\"/alquiler-contenedores-maritimos/\">alquiler</a> para una necesidad puntual o en compra si el uso va a ser continuado.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Cuándo hace falta un proyecto técnico visado para instalar un módulo sanitario?",
+    "html": "<p>Se necesita proyecto técnico visado cuando el módulo deja de ser una instalación temporal y pasa a formar parte de una edificación permanente, conforme a la Ley de Ordenación de la Edificación (LOE). En ese caso, un técnico competente redacta y visa el proyecto, se tramita la <strong>licencia de obra mayor</strong> correspondiente y, una vez ejecutada la instalación, hay que solicitar la licencia de primera ocupación y, en su caso, la cédula de habitabilidad antes de poner el módulo en servicio.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué anclaje necesita el módulo para cumplir el CTE?",
+    "html": "<p>El módulo necesita un anclaje mecánico a una base nivelada mediante las esquineras ISO del contenedor, que reparte las cargas y evita desplazamientos por viento conforme exige el Código Técnico de la Edificación. Además conviene resolver el <strong>puente térmico</strong> de la estructura metálica con aislamiento continuo en paredes y cubierta, y prever que el transporte hasta destino se gestione como transporte especial si las dimensiones o el itinerario lo requieren.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre módulos sanitarios",
    "items": [
     {
-     "pregunta": "¿Funciona si no hay red de saneamiento cerca?",
-     "respuesta": "Sí. Cuando no hay acometida disponible, se instala con depósito de agua limpia y una fosa séptica o un depósito estanco para las aguas residuales, que se vacía de forma periódica. Es la solución habitual en obras y parcelas alejadas de la red municipal, y se define en el proyecto según el punto de conexión más cercano."
+     "pregunta": "¿Funciona sin red de saneamiento?",
+     "respuesta": "Sí. Cuando no hay acometida cerca, el módulo se instala con depósito de agua limpia y depósito o fosa séptica para las aguas residuales, que se vacían de forma periódica. Es la solución habitual en obras, campings de temporada o parcelas sin conexión, y se puede combinar con un depósito de mayor capacidad si el uso es intenso."
     },
     {
-     "pregunta": "¿Cuántos aseos caben en un contenedor de 20 pies?",
-     "respuesta": "Un contenedor de 20 pies ronda los 13,9 m² interiores, suficientes para varias cabinas de inodoro, un par de duchas y una zona de lavabos, separando hombres y mujeres si hace falta. Si necesitas más cabinas o un vestuario amplio, el contenedor de 40 pies duplica ese espacio disponible."
+     "pregunta": "¿Cuántos aseos caben en un 20 pies?",
+     "respuesta": "Depende de la distribución elegida: un contenedor de 20 pies, con un interior útil de unos 2,35 m de ancho, admite varias cabinas de aseo o bien un aseo junto a una zona de duchas si el módulo es de vestuario. Si necesitas más cabinas, el módulo de 40 pies duplica la longitud disponible."
     },
     {
-     "pregunta": "¿Sirve para un evento de un solo día?",
-     "respuesta": "Sí, se alquila también para eventos puntuales, ferias o competiciones deportivas: llega equipado, se conecta y se retira al terminar. Para una jornada muy corta puede bastar con cabinas portátiles tradicionales; el contenedor gana sentido cuando el evento se repite o necesitas duchas además de inodoros."
+     "pregunta": "¿Sirve para un evento de un día?",
+     "respuesta": "Sí, es una de las razones para preferir el alquiler frente a la compra. El módulo se transporta, se apoya sobre una base nivelada, se conecta a la red o a un depósito y queda listo para el público desde el primer día; al terminar el evento se retira con la misma rapidez."
     },
     {
-     "pregunta": "¿Puede ser accesible para personas con movilidad reducida?",
-     "respuesta": "Sí. Se diseña como aseo adaptado siguiendo el Documento Básico de Seguridad de Utilización y Accesibilidad (DB-SUA) del Código Técnico, con espacio de giro, barras de apoyo, lavabo sin pie y puerta corredera. Es obligatorio cuando el aseo recibe público, como en centros deportivos, playas o eventos abiertos."
-    },
-    {
-     "pregunta": "¿Necesita licencia para instalarse?",
-     "respuesta": "Depende del uso y de cuánto tiempo vaya a quedarse. En una obra suele bastar con el proyecto y las medidas de seguridad del RD 486/1997; si se instala de forma permanente en una parcela, el ayuntamiento puede exigir declaración responsable o licencia según su ordenanza. Consulta nuestro apartado de <a href=\"/permisos/\">permisos y licencias</a> antes de decidir la ubicación."
+     "pregunta": "¿Necesita licencia?",
+     "respuesta": "Como instalación temporal suele bastar con una declaración responsable o comunicación previa al ayuntamiento; si el módulo se queda de forma permanente sobre la parcela, puede exigirse licencia de obra menor según la ordenanza municipal y el tipo de suelo. Consulta tu caso en nuestra página de <a href=\"/permisos/\">permisos</a> antes de instalarlo."
     }
    ]
   }
@@ -64,7 +75,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px 0px 0px",
    "columnas": [
     {
@@ -80,10 +91,10 @@
       {
        "t": "espaciador",
        "id": "2cfcca2",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -108,7 +119,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -119,7 +130,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -132,7 +143,7 @@
        "color": "#373535",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 16.0,
+        "tamano": 16,
         "peso": "400"
        }
       }
@@ -146,7 +157,7 @@
       {
        "t": "espaciador",
        "id": "b91bc87",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -159,7 +170,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -184,7 +195,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -211,7 +222,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 100.0,
+         "ancho": 100,
          "anchoBase": 100
         }
        ]
@@ -236,8 +247,8 @@
       {
        "t": "espaciador",
        "id": "6feb4f6",
-       "alto": 14.0,
-       "altoMovil": 16.0
+       "alto": 14,
+       "altoMovil": 16
       },
       {
        "t": "encabezado",
@@ -250,8 +261,8 @@
        "color": "#202020",
        "tipo": {
         "familia": "Roboto Slab",
-        "tamano": 43.0,
-        "tamanoMovil": 36.0,
+        "tamano": 43,
+        "tamanoMovil": 36,
         "peso": "400",
         "interlineado": 1.1,
         "interlineadoUnidad": "em",
@@ -261,7 +272,7 @@
       {
        "t": "espaciador",
        "id": "dfe66a8",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "texto",
@@ -274,7 +285,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "400"
        }
       },
@@ -291,16 +302,16 @@
        "grosorBorde": "3px 3px 3px 3px",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 28.0,
-        "tamanoMovil": 23.0,
+        "tamano": 28,
+        "tamanoMovil": 23,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "8f8449b",
-       "alto": 10.0,
-       "altoMovil": 16.0
+       "alto": 10,
+       "altoMovil": 16
       }
      ],
      "ancho": 56.49,
@@ -312,8 +323,8 @@
       {
        "t": "espaciador",
        "id": "9f1a1ce",
-       "alto": 10.0,
-       "altoMovil": 16.0
+       "alto": 10,
+       "altoMovil": 16
       },
       {
        "t": "imagen",
@@ -344,7 +355,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -367,7 +378,7 @@
       {
        "t": "espaciador",
        "id": "8cc4a05",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -381,8 +392,8 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Abel",
-        "tamano": 51.0,
-        "tamanoMovil": 42.0,
+        "tamano": 51,
+        "tamanoMovil": 42,
         "peso": "800"
        }
       },
@@ -398,8 +409,8 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Abel",
-        "tamano": 34.0,
-        "tamanoMovil": 34.0,
+        "tamano": 34,
+        "tamanoMovil": 34,
         "peso": "500"
        },
        "url": "https://prefabricadascasas.es/"
@@ -414,7 +425,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -463,7 +474,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -492,7 +503,7 @@
       {
        "t": "espaciador",
        "id": "623a7c1",
-       "alto": 44.0
+       "alto": 44
       },
       {
        "t": "encabezado",
@@ -506,7 +517,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 48.0,
+        "tamano": 48,
         "peso": "600"
        }
       },
@@ -517,7 +528,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "seccion",
@@ -542,14 +553,14 @@
            "color": "#FEFEFE",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 18.0,
+            "tamano": 18,
             "peso": "400"
            }
           },
           {
            "t": "espaciador",
            "id": "d69e975",
-           "alto": 26.0
+           "alto": 26
           }
          ],
          "ancho": 46.664,
@@ -580,7 +591,7 @@
            "color": "#FEFEFE",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 18.0,
+            "tamano": 18,
             "peso": "400"
            }
           },
@@ -596,7 +607,7 @@
        ]
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -612,10 +623,10 @@
       {
        "t": "espaciador",
        "id": "341fb6c",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -640,7 +651,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "700"
        }
       },
@@ -652,10 +663,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "62%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     },
     {
@@ -672,12 +683,12 @@
        "color": "#0A0A0A",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "400"
        }
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     }
    ]
@@ -693,10 +704,10 @@
       {
        "t": "espaciador",
        "id": "9ac0123",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -720,7 +731,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-un-contenedor/"
@@ -736,7 +747,7 @@
      ],
      "ancho": 24.775,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -753,7 +764,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-dos-contenedores/"
@@ -769,7 +780,7 @@
      ],
      "ancho": 25.18,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -786,7 +797,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-tres-contenedores/"
@@ -800,9 +811,9 @@
        "url": "/casa-con-tres-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -819,7 +830,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/casa-con-cuatro-contenedores/"
@@ -833,9 +844,9 @@
        "url": "/casa-con-cuatro-contenedores/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -853,10 +864,10 @@
       {
        "t": "espaciador",
        "id": "32ac3f3",
-       "alto": 22.0
+       "alto": 22
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -880,7 +891,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -894,9 +905,9 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -913,7 +924,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -927,9 +938,9 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -946,7 +957,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -960,9 +971,9 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 33.0,
+     "ancho": 33,
      "anchoBase": 33,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E8E8E8"
      }
@@ -983,7 +994,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1007,13 +1018,13 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "700"
        },
        "url": "/casa-contenedor-40-pies/"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     },
     {
@@ -1029,13 +1040,13 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "700"
        },
        "url": "/casa-contendor-20-pies/"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     }
    ]
@@ -1059,13 +1070,13 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto Condensed",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "700"
        },
        "url": "/piscina-contenedor/"
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1095,12 +1106,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1116,10 +1127,10 @@
       {
        "t": "espaciador",
        "id": "78b3514",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1144,12 +1155,12 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 28.0,
+        "tamano": 28,
         "peso": "700"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1168,7 +1179,7 @@
        "html": "<ul class=\"texto-negro-mediana\"><li>Contenedores marítimos transformados en <b>equipamientos sociales para ayuntamientos y organismos públicos</b></li><li>Contenedor transformado para el tratamiento y depuración de aguas</li><li>Contenedor convertido en taller</li><li>Contenedor marítimo transformado en un comercio</li><li>Contenedor solar autónomo</li><li>Módulo prefabricado vestuario</li><li>Contenedores para bares o restaurantes, en Centros comerciales, parques, playas o piscinas.</li><li>Contenedor almacén ligero</li></ul>"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     },
     {
@@ -1180,7 +1191,7 @@
        "html": "<ul class=\"texto-negro-mediana\"><li>Contenedor de 6 m transformado en una oficina</li><li>Módulo prefabricado forrado de madera</li><li>Contenedor marítimo para punto de venta o información</li><li>Módulos prefabricados para servicios diversos en playa</li><li>Contenedor transformado en laboratorio móvil</li><li>Contenedor transformado de altura 2,90m (hc) a uno con puertas laterales (openside)</li><li>Contenedor transformado de carga seca (dry) con y sin aislamiento térmico</li><li>Conjunto modular para oficina de campaña</li><li>Casas modulares prefabricadas, etc</li></ul>"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50
     }
    ]
@@ -1191,7 +1202,7 @@
    "disposicion": "boxed",
    "ancho": 1214,
    "hueco": "custom",
-   "huecoPx": 49.0,
+   "huecoPx": 49,
    "fondo": {
     "imagen": "/wp-content/uploads/2021/06/casas-con-contenedores-precios.png",
     "posicion": "top center",
@@ -1217,7 +1228,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "400"
        }
       },
@@ -1228,7 +1239,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1239,7 +1250,7 @@
        "color": "#FEFEFE",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "400"
        }
       },
@@ -1253,12 +1264,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1277,7 +1288,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1309,7 +1320,7 @@
            "color": "#6D6D6D",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 33.0,
+            "tamano": 33,
             "peso": "400"
            }
           },
@@ -1320,7 +1331,7 @@
            "color": "#02E215",
            "grosor": 3.2,
            "ancho": "26%",
-           "hueco": 5.0
+           "hueco": 5
           },
           {
            "t": "texto",
@@ -1332,7 +1343,7 @@
            "color": "#676767",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 15.0,
+            "tamano": 15,
             "peso": "400"
            }
           }
@@ -1346,7 +1357,7 @@
           {
            "t": "espaciador",
            "id": "f38a917",
-           "alto": 325.0
+           "alto": 325
           },
           {
            "t": "boton",
@@ -1358,7 +1369,7 @@
            "fondoHover": "#4F4444",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 19.0,
+            "tamano": 19,
             "peso": "500"
            }
           }
@@ -1415,7 +1426,7 @@
            "color": "#6D6D6D",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 33.0,
+            "tamano": 33,
             "peso": "400"
            }
           },
@@ -1426,7 +1437,7 @@
            "color": "#02E215",
            "grosor": 3.2,
            "ancho": "26%",
-           "hueco": 5.0
+           "hueco": 5
           },
           {
            "t": "texto",
@@ -1438,7 +1449,7 @@
            "color": "#676767",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 15.0,
+            "tamano": 15,
             "peso": "400"
            }
           }
@@ -1452,7 +1463,7 @@
           {
            "t": "espaciador",
            "id": "49f9e7b",
-           "alto": 310.0
+           "alto": 310
           },
           {
            "t": "boton",
@@ -1464,14 +1475,14 @@
            "fondoHover": "#4F4444",
            "tipo": {
             "familia": "Roboto",
-            "tamano": 19.0,
+            "tamano": 19,
             "peso": "500"
            }
           },
           {
            "t": "espaciador",
            "id": "bbe9d73",
-           "alto": 164.0
+           "alto": 164
           }
          ],
          "ancho": 44.634,
@@ -1505,7 +1516,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1522,7 +1533,7 @@
       {
        "t": "espaciador",
        "id": "a758e2a",
-       "alto": 233.0
+       "alto": 233
       },
       {
        "t": "encabezado",
@@ -1534,14 +1545,14 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 62.0,
+        "tamano": 62,
         "peso": "600"
        }
       },
       {
        "t": "espaciador",
        "id": "9b31301",
-       "alto": 53.0
+       "alto": 53
       },
       {
        "t": "texto",
@@ -1552,7 +1563,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "400",
         "interlineado": 1.6,
         "interlineadoUnidad": "em"
@@ -1561,7 +1572,7 @@
       {
        "t": "espaciador",
        "id": "a88fb12",
-       "alto": 99.0
+       "alto": 99
       }
      ],
      "ancho": 62.719,
@@ -1593,7 +1604,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -1605,7 +1616,7 @@
        "color": "#FDFDFD",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       },
@@ -1618,7 +1629,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -1630,7 +1641,7 @@
        "color": "#FDFDFD",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       },
@@ -1643,7 +1654,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -1655,7 +1666,7 @@
        "color": "#FDFDFD",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       },
@@ -1668,7 +1679,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -1680,7 +1691,7 @@
        "color": "#FDFDFD",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       },
@@ -1693,7 +1704,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 24.0,
+        "tamano": 24,
         "peso": "600"
        }
       },
@@ -1705,7 +1716,7 @@
        "color": "#FDFDFD",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       },
@@ -1737,7 +1748,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1753,7 +1764,7 @@
       {
        "t": "espaciador",
        "id": "b30a08b",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1766,7 +1777,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1777,7 +1788,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1789,7 +1800,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -1817,7 +1828,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -1841,7 +1852,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1857,7 +1868,7 @@
       {
        "t": "espaciador",
        "id": "17596cb",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1870,7 +1881,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1881,7 +1892,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1893,7 +1904,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -1921,7 +1932,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -1945,7 +1956,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1961,7 +1972,7 @@
       {
        "t": "espaciador",
        "id": "ed8279f",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1974,7 +1985,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1985,7 +1996,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1997,7 +2008,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -2025,7 +2036,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -2049,7 +2060,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2065,7 +2076,7 @@
       {
        "t": "espaciador",
        "id": "4dcf27d",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -2078,7 +2089,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2089,7 +2100,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -2101,7 +2112,7 @@
        "color": "#676767",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 15.0,
+        "tamano": 15,
         "peso": "400"
        }
       }
@@ -2129,7 +2140,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -2153,7 +2164,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2178,7 +2189,7 @@
       {
        "t": "espaciador",
        "id": "00fcbd2",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -2191,7 +2202,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -2205,7 +2216,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -2219,17 +2230,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "168b716",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2245,10 +2256,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2272,7 +2283,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -2283,10 +2294,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -2311,7 +2322,7 @@
        "color": "#31728E",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "600"
        },
        "url": "/contenedores-maritimos/"
@@ -2331,9 +2342,9 @@
        "html": "<p>Venta de <strong>contenedores marítimos</strong> de diferentes tipos y precios</p>"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     },
     {
      "id": "0d665b2",
@@ -2347,7 +2358,7 @@
        "color": "#31728E",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 20.0,
+        "tamano": 20,
         "peso": "600"
        },
        "url": "/casas-prefabricadas/"
@@ -2367,9 +2378,9 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   }
@@ -2377,44 +2388,5 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 880,
- "huecoTitulo": false,
- "ampliacion": {
-  "secciones": [
-   {
-    "nivel": "h2",
-    "titulo": "Qué es un módulo sanitario prefabricado con contenedor y dónde se usa",
-    "html": "<p>Un módulo sanitario es un contenedor marítimo transformado en aseo, ducha o vestuario, equipado de fábrica y listo para conectar en destino. Es la solución habitual siempre que hace falta un servicio higiénico resistente sin obra de albañilería:</p><ul><li><strong>Obras y construcción:</strong> aseo para el personal durante toda la ejecución.</li><li><strong>Eventos y ferias:</strong> alquiler puntual con aseo o vestuario mixto.</li><li><strong><a href=\"/camping-contenedores/\">Campings</a> y playas:</strong> bloques de aseos y duchas de uso público.</li><li><strong>Polígonos y centros educativos o deportivos:</strong> vestuario con duchas junto a naves e <a href=\"/gimnasio-contenedor/\">instalaciones deportivas</a>.</li></ul><p>Las configuraciones más habituales son aseos separados para hombres y mujeres, vestuario con zona de duchas, aseo adaptado y módulo mixto con espacio de almacén; todas se fabrican sobre la base de un contenedor de 20 o 40 pies, según el número de cabinas que necesites.</p>"
-   },
-   {
-    "nivel": "h2",
-    "titulo": "Normativa, instalaciones y mantenimiento",
-    "html": "<p>Un módulo sanitario para el personal de una obra debe cumplir el <strong>RD 486/1997</strong>, sobre condiciones de seguridad y salud en los lugares de trabajo, que exige aseos y vestuarios diferenciados. Si el módulo recibe público, al menos un aseo tiene que ser accesible conforme al <strong>DB-SUA</strong> del Código Técnico de la Edificación, y en campings cada comunidad autónoma añade su propia ratio de aseos por plaza.</p><p>Por dentro incorpora acometida de agua o depósito propio, saneamiento a la red o a fosa séptica, producción de agua caliente, ventilación y suelo antideslizante. Llega equipado de fábrica: solo hace falta apoyarlo sobre una base nivelada y conectar los suministros. El mantenimiento habitual se reduce a limpieza periódica, revisión de sellados y purgar las instalaciones si el módulo queda parado en invierno. Puedes elegirlo en <a href=\"/alquiler-contenedores-maritimos/\">alquiler</a> para una necesidad puntual o en compra si el uso va a ser continuado.</p>"
-   }
-  ],
-  "faq": {
-   "titulo": "Preguntas frecuentes sobre módulos sanitarios",
-   "items": [
-    {
-     "pregunta": "¿Funciona sin red de saneamiento?",
-     "respuesta": "Sí. Cuando no hay acometida cerca, el módulo se instala con depósito de agua limpia y depósito o fosa séptica para las aguas residuales, que se vacían de forma periódica. Es la solución habitual en obras, campings de temporada o parcelas sin conexión, y se puede combinar con un depósito de mayor capacidad si el uso es intenso."
-    },
-    {
-     "pregunta": "¿Cuántos aseos caben en un 20 pies?",
-     "respuesta": "Depende de la distribución elegida: un contenedor de 20 pies, con un interior útil de unos 2,35 m de ancho, admite varias cabinas de aseo o bien un aseo junto a una zona de duchas si el módulo es de vestuario. Si necesitas más cabinas, el módulo de 40 pies duplica la longitud disponible."
-    },
-    {
-     "pregunta": "¿Sirve para un evento de un día?",
-     "respuesta": "Sí, es una de las razones para preferir el alquiler frente a la compra. El módulo se transporta, se apoya sobre una base nivelada, se conecta a la red o a un depósito y queda listo para el público desde el primer día; al terminar el evento se retira con la misma rapidez."
-    },
-    {
-     "pregunta": "¿Puede ser accesible?",
-     "respuesta": "Sí. Puedes pedir el módulo con un aseo adaptado que cumpla el DB-SUA del Código Técnico de la Edificación, con espacio de giro, barras de apoyo e inodoro y lavabo a la altura correcta. Es obligatorio cuando el módulo recibe público, y recomendable también en obra si el equipo lo necesita."
-    },
-    {
-     "pregunta": "¿Necesita licencia?",
-     "respuesta": "Como instalación temporal suele bastar con una declaración responsable o comunicación previa al ayuntamiento; si el módulo se queda de forma permanente sobre la parcela, puede exigirse licencia de obra menor según la ordenanza municipal y el tipo de suelo. Consulta tu caso en nuestra página de <a href=\"/permisos/\">permisos</a> antes de instalarlo."
-    }
-   ]
-  }
- }
+ "huecoTitulo": false
 }

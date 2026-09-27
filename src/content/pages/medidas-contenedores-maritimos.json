@@ -20,12 +20,32 @@
    {
     "nivel": "h2",
     "titulo": "Tabla de medidas de contenedores marítimos (norma ISO 668)",
-    "html": "<p>La norma ISO 668 fija las medidas exteriores estándar de los contenedores marítimos. Estas son las cifras de los modelos más habituales en vivienda y almacenaje:</p><table><thead><tr><th>Modelo</th><th>Exterior (largo × ancho × alto)</th><th>Alto interior aprox.</th><th>Ancho interior útil</th><th>Superficie interior aprox.</th></tr></thead><tbody><tr><td>20 pies estándar</td><td>6,06 × 2,44 × 2,59 m</td><td>2,39 m</td><td>2,35 m</td><td>≈ 13,9 m²</td></tr><tr><td>20 pies High Cube</td><td>6,06 × 2,44 × 2,90 m</td><td>2,69 m</td><td>2,35 m</td><td>≈ 13,9 m²</td></tr><tr><td>40 pies estándar</td><td>12,19 × 2,44 × 2,59 m</td><td>2,39 m</td><td>2,35 m</td><td>≈ 28,3 m²</td></tr><tr><td>40 pies High Cube</td><td>12,19 × 2,44 × 2,90 m</td><td>2,69 m</td><td>2,35 m</td><td>≈ 28,3 m²</td></tr></tbody></table><p>Son valores nominales de fábrica: cada unidad puede variar unos milímetros. El ancho interior útil queda por debajo del exterior porque las paredes corrugadas y el suelo técnico restan espacio. El peso bruto máximo admitido y la tara real van grabados en la placa CSC de cada contenedor, junto a una de las puertas.</p><p>También existe el 45 pies High Cube, con el mismo ancho y alto que el resto de la gama HC; consulta su ficha en <a href=\"/tipos-de-contenedores/\">tipos de contenedores marítimos</a>.</p>"
+    "html": "<p>La <strong>norma ISO 668</strong> fija las medidas exteriores estándar de los contenedores marítimos. Estas son las cifras de los modelos más habituales en vivienda y almacenaje:</p><table><thead><tr><th>Modelo</th><th>Exterior (largo × ancho × alto)</th><th>Ancho interior útil</th><th>Superficie interior aprox.</th></tr></thead><tbody><tr><td>20 pies estándar</td><td>6,06 × 2,44 × 2,59 m</td><td>2,35 m</td><td>≈ 13,9 m²</td></tr><tr><td>20 pies High Cube</td><td>6,06 × 2,44 × 2,90 m</td><td>2,35 m</td><td>≈ 13,9 m²</td></tr><tr><td>40 pies estándar</td><td>12,19 × 2,44 × 2,59 m</td><td>2,35 m</td><td>≈ 28,3 m²</td></tr><tr><td>40 pies High Cube</td><td>12,19 × 2,44 × 2,90 m</td><td>2,35 m</td><td>≈ 28,3 m²</td></tr></tbody></table><p>Son valores nominales de fábrica: cada unidad puede variar unos milímetros según el fabricante. El <strong>ancho interior útil</strong> queda por debajo del exterior porque las paredes corrugadas y el suelo técnico restan espacio a los 2,44 m de fuera. El peso bruto máximo admitido y la tara real van grabados en la placa CSC, remachada junto a una de las puertas de cada contenedor.</p><p>En la versión <strong>High Cube</strong>, la altura interior gana hasta unos 2,69 m frente a la de un contenedor estándar; el ancho interior útil, en cambio, es el mismo en las dos versiones, unos 2,35 m. Consulta el resto de la gama en <a href=\"/tipos-de-contenedores/\">tipos de contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué es la norma ISO 668 y qué garantiza en un contenedor marítimo?",
+    "html": "<p>La norma ISO 668 es el estándar internacional que fija las dimensiones exteriores, la resistencia estructural y el peso bruto máximo admisible de los contenedores intermodales, de modo que cualquier unidad fabricada según esta norma resulta compatible con grúas, camiones, trenes y buques de cualquier país. Su cumplimiento se acredita mediante la placa CSC remachada en el contenedor, exigida por el <strong>Convenio Internacional sobre Contenedores</strong> para garantizar que la estructura soporta el apilado y el manejo en puerto sin perder su integridad.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Medidas interiores, palés y qué camión necesita el transporte",
-    "html": "<p>El hueco interior real es siempre menor que las medidas exteriores, porque las paredes corrugadas y el suelo técnico restan espacio al ancho y al alto. Trabaja siempre con las medidas interiores para calcular una carga o distribuir una vivienda.</p><p>Un europalé y un palé americano no ocupan igual dentro del contenedor: cuántas unidades caben depende del modelo y de si se disponen en filas o en batería; pide a quien gestione el transporte que calcule tu caso.</p><p>El vehículo también cambia según el tamaño: el 20 pies carga en un camión rígido con grúa pluma propia; el 40 pies necesita plataforma o semirremolque más largo. El High Cube, por su altura, puede superar la altura máxima de circulación habitual y requerir góndola rebajada. Deja hueco para las puertas traseras y para que la grúa maniobre; resuelve los detalles en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+    "html": "<p>El hueco interior real es siempre menor que las medidas exteriores, porque las paredes corrugadas y el suelo técnico restan espacio al ancho y al alto. Trabaja siempre con las <strong>medidas interiores</strong> para calcular una carga o distribuir una vivienda.</p><p>Un europalé y un palé americano no ocupan igual dentro del contenedor: cuántas unidades caben depende del modelo y de si se disponen en filas o en batería; pide a quien gestione el transporte que calcule tu caso.</p><p>El vehículo también cambia según el tamaño: <strong>el 20 pies</strong> carga en un camión rígido con grúa pluma propia; el 40 pies necesita plataforma o semirremolque más largo. El High Cube, por su altura, puede superar la altura máxima de circulación habitual y requerir góndola rebajada. Deja hueco para las puertas traseras y para que la grúa maniobre; resuelve los detalles en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Cuándo se necesita transporte especial para mover un contenedor marítimo?",
+    "html": "<p>Se necesita autorización de transporte especial cuando las dimensiones o el peso del conjunto superan los límites ordinarios de circulación, algo habitual con el contenedor High Cube por su mayor altura o con cargas que sobrepasan el ancho estándar del remolque. El transportista debe solicitar el permiso correspondiente ante la administración competente y señalizar el vehículo conforme a la normativa de cargas sobredimensionadas, además de estudiar la ruta para evitar puentes, túneles o líneas eléctricas con gálibo insuficiente. En el caso de un <strong>contenedor de 40 pies</strong>, la longitud del semirremolque también entra dentro de los supuestos que exigen esta autorización.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cuántos contenedores necesitas según la superficie que busques",
+    "html": "<p>Antes de comprar conviene traducir metros cuadrados a número de módulos: un <strong>contenedor de 20 pies</strong> aporta unos 13,9 m² interiores y un 40 pies ronda los 28,3 m², siempre con el mismo ancho útil de 2,35 m dentro. A partir de ahí, la superficie total de la vivienda o nave depende de cuántas unidades se unan y de cómo se distribuyan en planta.</p><p>Combinar contenedores en horizontal amplía la superficie por planta; apilarlos en dos alturas gana metros sin ocupar más suelo, siempre que la estructura y las uniones estén calculadas para soportar el peso superior. Revisa las combinaciones ya resueltas en nuestros <a href=\"/modelos/\">modelos de casas contenedor</a> antes de decidir cuántas unidades necesitas.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Es lo mismo un contenedor de 40 pies que dos de 20 pies unidos?",
+    "html": "<p>En superficie, casi: dos contenedores de 20 pies suman unos 27,8 m² interiores, muy cerca de los 28,3 m² de un 40 pies, aunque el resultado no es idéntico. La diferencia real está en la planta: un 40 pies ofrece <strong>un único módulo continuo</strong> de 12,19 m de largo, mientras que dos 20 pies forman dos módulos independientes que hay que unir y sellar por la cara interior, con una junta añadida que el 40 pies no necesita.</p>"
    }
   ],
   "faq": {
@@ -33,7 +53,7 @@
    "items": [
     {
      "pregunta": "¿Qué diferencia hay entre un 40 pies estándar y un 40 pies High Cube?",
-     "respuesta": "El largo y el ancho exteriores son los mismos en los dos modelos, 12,19 × 2,44 m. La diferencia está en la altura: el estándar mide 2,59 m por fuera y el High Cube sube hasta 2,90 m, con lo que el interior libre pasa de unos 2,39 a unos 2,69 m, con más sensación de amplitud."
+     "respuesta": "El largo y el ancho exteriores son los mismos en los dos modelos, 12,19 × 2,44 m. La diferencia está en la altura: el estándar mide 2,59 m por fuera y el High Cube sube hasta 2,90 m. Por dentro, el High Cube gana altura hasta unos 2,69 m, con más sensación de amplitud, aunque el ancho interior útil se mantiene igual en los dos, unos 2,35 m."
     },
     {
      "pregunta": "¿Cuánto pesa un contenedor marítimo vacío?",
@@ -41,15 +61,15 @@
     },
     {
      "pregunta": "¿Qué medida de contenedor conviene elegir para una casa?",
-     "respuesta": "Depende de los metros que necesites. Un 40 pies High Cube da más superficie y altura libre en una sola unidad; combinar varios contenedores de 20 pies permite plantas más compartimentadas. Compara las opciones por número de unidades en nuestros <a href=\"/modelos/\">modelos de casas contenedor</a>."
+     "respuesta": "Depende de los metros que necesites. Un 40 pies High Cube da más superficie y altura libre en una sola unidad; combinar varios contenedores de 20 pies permite plantas más compartimentadas. Compara las opciones por número de unidades en nuestros modelos de casas contenedor."
     },
     {
-     "pregunta": "¿Existen contenedores de 8 y 10 pies?",
-     "respuesta": "Sí, aunque son mucho menos frecuentes que el 20 y el 40 pies. Se usan sobre todo como trasteros pequeños o casetas de obra, no tanto para vivienda por su escasa superficie. Si buscas una casa contenedor, el punto de partida habitual sigue siendo el 20 o el 40 pies."
+     "pregunta": "¿Por qué el ancho interior útil es menor que el ancho exterior?",
+     "respuesta": "Porque las paredes corrugadas de acero y el forrado interior restan grosor al hueco disponible: por fuera el contenedor mide 2,44 m de ancho, pero el hueco útil para vivir o almacenar baja a unos 2,35 m en todos los modelos, con independencia de si es un 20 o un 40 pies. Es la cifra que debes usar para planificar muebles, tabiques o distribución interior, no la exterior."
     },
     {
      "pregunta": "¿Cuál es la altura interior útil de un contenedor?",
-     "respuesta": "En un contenedor estándar, la altura interior libre ronda los 2,39 m; en un High Cube sube hasta unos 2,69 m. El ancho interior útil, en cambio, es igual en todos los modelos, unos 2,35 m, algo menos que el ancho exterior de 2,44 m."
+     "respuesta": "En un contenedor estándar, la altura interior queda por debajo de la exterior de 2,59 m, sin una cifra única válida para todos los fabricantes; en un High Cube sube hasta unos 2,69 m. El ancho interior útil, en cambio, es igual en todos los modelos, unos 2,35 m, algo menos que el ancho exterior de 2,44 m."
     },
     {
      "pregunta": "¿Cabe un coche dentro de un contenedor de 20 pies?",
@@ -68,7 +88,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px -3px 0px",
    "columnas": [
     {
@@ -85,10 +105,10 @@
       {
        "t": "espaciador",
        "id": "2cfcca2",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -104,7 +124,7 @@
       {
        "t": "espaciador",
        "id": "268bab2",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -118,7 +138,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -129,12 +149,12 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "espaciador",
        "id": "fb0647b",
-       "alto": 56.0
+       "alto": 56
       },
       {
        "t": "texto",
@@ -146,7 +166,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -160,7 +180,7 @@
       {
        "t": "espaciador",
        "id": "b91bc87",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -173,7 +193,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -198,7 +218,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -225,7 +245,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         },
         {
@@ -240,7 +260,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         }
        ]
@@ -262,10 +282,10 @@
       {
        "t": "espaciador",
        "id": "6f26c86",
-       "alto": 71.0
+       "alto": 71
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -283,7 +303,7 @@
       {
        "t": "espaciador",
        "id": "d1f30a4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -294,7 +314,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -308,12 +328,12 @@
       {
        "t": "espaciador",
        "id": "26344cc",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -324,7 +344,7 @@
       {
        "t": "espaciador",
        "id": "b0341e4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -335,7 +355,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -347,9 +367,9 @@
        "ancho": "92%"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -360,7 +380,7 @@
       {
        "t": "espaciador",
        "id": "3c118ee",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -371,7 +391,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -383,7 +403,7 @@
        "ancho": "92%"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -395,7 +415,7 @@
       {
        "t": "espaciador",
        "id": "176f3ce",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -406,7 +426,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -418,7 +438,7 @@
        "ancho": "92%"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -430,7 +450,7 @@
       {
        "t": "espaciador",
        "id": "513a343",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -441,7 +461,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -453,7 +473,7 @@
        "ancho": "92%"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -472,10 +492,10 @@
       {
        "t": "espaciador",
        "id": "73f5aa4",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -498,7 +518,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -509,7 +529,7 @@
        "alt": "Contenedores-maritimos-almacenaje"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -527,7 +547,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -538,7 +558,7 @@
        "alt": "Contenedores-maritimos-ventilados"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -556,7 +576,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -567,7 +587,7 @@
        "alt": ""
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -585,7 +605,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -596,7 +616,7 @@
        "alt": "Contenedores-maritimos-open-side"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -614,7 +634,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -625,7 +645,7 @@
        "alt": "Contenedores-maritimos-dry-van"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -644,10 +664,10 @@
       {
        "t": "espaciador",
        "id": "67faa2f",
-       "alto": 53.0
+       "alto": 53
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -670,7 +690,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/"
@@ -683,7 +703,7 @@
        "url": "/"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50,
      "fondo": {
       "color": "#E8E8E8"
@@ -701,7 +721,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -714,7 +734,7 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50,
      "fondo": {
       "color": "#E8E8E8"
@@ -733,7 +753,7 @@
       {
        "t": "espaciador",
        "id": "d3abbf7",
-       "alto": 19.0
+       "alto": 19
       },
       {
        "t": "boton",
@@ -745,12 +765,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -769,7 +789,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -785,7 +805,7 @@
       {
        "t": "espaciador",
        "id": "09777f9",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -798,7 +818,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -809,7 +829,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -821,7 +841,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -849,7 +869,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -873,7 +893,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -889,7 +909,7 @@
       {
        "t": "espaciador",
        "id": "78f3001",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -902,7 +922,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -913,7 +933,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -925,7 +945,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -953,7 +973,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -977,7 +997,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -993,7 +1013,7 @@
       {
        "t": "espaciador",
        "id": "63a0414",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1006,7 +1026,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1017,7 +1037,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1029,7 +1049,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1057,7 +1077,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -1081,7 +1101,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1105,7 +1125,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1116,7 +1136,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1128,12 +1148,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1155,12 +1175,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1177,7 +1197,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1188,7 +1208,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1200,12 +1220,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1227,12 +1247,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     }
    ]
@@ -1251,7 +1271,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1278,7 +1298,7 @@
       {
        "t": "espaciador",
        "id": "00fcbd2",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -1291,7 +1311,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -1305,7 +1325,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -1319,17 +1339,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "168b716",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1345,10 +1365,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1372,7 +1392,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1383,10 +1403,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1411,7 +1431,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 31.0,
+        "tamano": 31,
         "peso": "500"
        },
        "url": "/casas-prefabricadas/"
@@ -1431,14 +1451,14 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 25.0,
+        "tamano": 25,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   }

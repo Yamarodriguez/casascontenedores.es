@@ -19,48 +19,43 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Getting a container home from the factory to your plot: transport and site access",
-    "html": "<p>Once the design and licence for a container home are settled, a shipping unit still has to travel from the factory or port to the plot, and that journey shapes both the schedule and the access work needed on site. A loaded lorry carrying a standard unit is usually within normal road limits, but the route to a rural or sloped plot can still call for a <strong>special transport authorisation</strong> if the convoy needs a wider lane or a brief traffic stop to manoeuvre. Ask the haulier for the exact clearance and turning radius the truck needs before fixing a delivery date, since a plot entrance built for a car does not always suit an articulated lorry. See our <a href=\"/transporte-contenedores-maritimos/\">container transport guide</a> for how each stage of the journey is organised.</p>"
+    "titulo": "Cómo llega el contenedor marítimo hasta tu parcela",
+    "html": "<p>Una vez decidido el diseño y conseguida la licencia, el contenedor todavía tiene que recorrer el trayecto desde la fábrica o el puerto hasta la parcela, y ese tramo final condiciona tanto el calendario de la obra como el presupuesto de transporte. Antes de cerrar el pedido conviene comprobar el ancho de las calles o pistas de acceso y si hay espacio para maniobrar un camión articulado de gran longitud, porque muchas <strong>container homes</strong> se fabrican lejos de la parcela final.</p><p>Cuando la parcela no deja sitio para que una grúa convencional trabaje junto al camión, el transportista recurre a una grúa telescópica de mayor alcance o a un carro elevador lateral, soluciones que encarecen el transporte pero evitan descargar la unidad en plena calle. Nuestra guía de <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> detalla las opciones según el tipo de acceso, y el <a href=\"/casa-container-paso-a-paso/\">proceso paso a paso</a> explica en qué momento de la obra llega la unidad a la parcela.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "Does bringing a container onto the plot always need a special transport permit?",
-    "html": "<p>Not always: a permit is only required when the loaded lorry exceeds the standard dimensions or weight allowed on ordinary roads, which mainly affects rural routes with narrow bridges or tight bends. The haulage company checks the route in advance and applies for the <strong>oversized-load permit</strong> when needed, so this gets arranged before the delivery date rather than left to the driver on the day.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "What happens if the plot has no room for a crane to lift the container?",
-    "html": "<p>When a full-size crane cannot set up beside the plot, the delivery team switches to a smaller mobile crane, a self-loading lorry crane, or a controlled slide off the truck bed, chosen after a site visit rather than guessed from photos. Steep access, low power lines or a narrow street usually decide which method applies, so it is worth flagging these details to the supplier as early as the quote stage.</p>"
+    "titulo": "¿Necesita un permiso especial el transporte de un contenedor hasta la parcela?",
+    "html": "<p>Sí, cuando las dimensiones del vehículo y la carga superan las medidas habituales de un transporte por carretera, la empresa transportista solicita un <strong>permiso de transporte especial</strong> antes de mover la unidad. Este trámite lo gestiona el transportista, no el comprador, pero conviene preguntarlo al pedir presupuesto porque puede condicionar la fecha de entrega en la parcela.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Standard sizes, insulation, foundations and what a turnkey quote includes",
-    "html": "<p>Every unit sold for building follows the fixed sizes set by the ISO 668 standard:</p><table><thead><tr><th>Unit</th><th>External dimensions</th><th>Approx. interior</th></tr></thead><tbody><tr><td>20-foot</td><td>6.06 × 2.44 × 2.59 m</td><td>≈ 13.9 m² floor area</td></tr><tr><td>40-foot</td><td>12.19 × 2.44 × 2.59 m</td><td>≈ 28.3 m² floor area</td></tr><tr><td>High Cube</td><td>2.90 m external height</td><td>≈ 2.69 m clear interior height</td></tr></tbody></table><p>Usable width stays close to 2.35 m once the lining goes in. That narrow footprint is also why insulation is applied on the outside of the steel: fitted from indoors only, the corrugated panel keeps conducting heat and cold through at every rib, a <strong>thermal bridge</strong> that tends to show up later as condensation on the walls.</p><p>The four corner castings carry the whole load, so foundations are usually point footings under each corner rather than a full slab, and the plot needs crane clearance to lift each unit into place. On the coast, cut edges and exposed steel need an <strong>anti-corrosion treatment</strong>. Ask for a written, itemised quote stating what is included, such as structure and insulation, and what is priced apart, like site connections: see our <a href=\"/precios/\">pricing breakdown</a> and the <a href=\"/casa-container-paso-a-paso/\">build process step by step</a>.</p>"
+    "titulo": "Medidas normalizadas, aislamiento y cimentación de una casa contenedor",
+    "html": "<p>Todas las unidades que se venden para construir siguen las medidas fijadas por la norma ISO 668:</p><table><thead><tr><th>Unidad</th><th>Medidas exteriores</th><th>Superficie interior aprox.</th></tr></thead><tbody><tr><td>20 pies</td><td>6,06 × 2,44 × 2,59 m</td><td>≈ 13,9 m²</td></tr><tr><td>40 pies</td><td>12,19 × 2,44 × 2,59 m</td><td>≈ 28,3 m²</td></tr><tr><td>High Cube</td><td>2,90 m de altura exterior</td><td>≈ 2,69 m de altura libre interior</td></tr></tbody></table><p>El ancho útil queda cerca de 2,35 m una vez colocado el revestimiento interior, y esa estrechez explica por qué el aislamiento se coloca por fuera del acero: puesto solo desde dentro, la chapa ondulada sigue conduciendo el calor y el frío por cada nervio, un <strong>puente térmico</strong> que con el tiempo suele notarse como condensación en las paredes.</p><p>Las cuatro esquinas de fundición soportan todo el peso de la estructura, así que la cimentación habitual son zapatas puntuales bajo cada esquina en lugar de una losa continua, y la parcela necesita espacio para que una grúa levante la unidad hasta su sitio. En zonas costeras, los cortes y el acero visto piden un <strong>tratamiento anticorrosión</strong>. Pide siempre un presupuesto por escrito y desglosado que diga qué incluye la partida de estructura y aislamiento, y qué se cobra aparte, como las acometidas: consulta nuestro <a href=\"/precios/\">desglose de precios</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "Why does a shipping container need extra insulation to become a home?",
-    "html": "<p>A shipping container needs extra insulation because its corrugated steel skin conducts heat and cold through every rib once it is enclosed, and interior cladding alone cannot stop that path. Applying rigid insulation on the outside face breaks the conduction route and keeps the steel from sweating, which is why units built to the <strong>ISO 668 standard</strong> suit a home shell but do not, by themselves, make one habitable. Any weld or cut made later to open a window or door also needs to be resealed carefully to keep that same insulation line intact.</p>"
+    "titulo": "¿Por qué necesita aislamiento extra un contenedor marítimo para ser vivienda?",
+    "html": "<p>Un contenedor marítimo necesita aislamiento extra porque su piel de acero ondulado conduce el calor y el frío por cada nervio en cuanto queda cerrado, y el revestimiento interior por sí solo no corta ese paso. Colocar un aislamiento rígido por la cara exterior rompe la vía de conducción y evita que el acero sude, motivo por el que las unidades fabricadas según la <strong>norma ISO 668</strong> sirven de estructura para las container homes, pero no bastan por sí mismas para hacerlas habitables.</p>"
    }
   ],
   "faq": {
-   "titulo": "FAQ about container homes in Spain",
+   "titulo": "Preguntas frecuentes sobre casas contenedor",
    "items": [
     {
-     "pregunta": "Is it legal to live in a container home in Spain?",
-     "respuesta": "Yes, when the project goes through the same building licence and technical-code compliance as any other house. A converted unit without a licence, foundations or an approved project is not treated as legal housing. Once construction ends, a first occupation licence or habitability certificate confirms it is fit to live in, the same paperwork covered above."
+     "pregunta": "¿Qué ancho de acceso necesita la parcela para descargar el contenedor?",
+     "respuesta": "La parcela necesita una vía por la que pueda entrar y maniobrar un camión articulado de gran longitud, con espacio para que el remolque gire sin rozar muros, farolas o cableado bajo. Si la calle o el camino de acceso es estrecho, la solución habitual es transbordar la unidad a un vehículo más corto o recurrir a una grúa de mayor alcance junto a la vía pública."
     },
     {
-     "pregunta": "Can I put one on rustic land?",
-     "respuesta": "Usually not. Rustic, or non-urbanizable, land is reserved mainly for agricultural, forestry or livestock use, and most town halls refuse a permanent home there no matter how it is built. Some regions allow limited exceptions, such as an existing agricultural holding. Always ask for written confirmation of the land classification before buying a plot."
+     "pregunta": "¿Cuál es la diferencia entre aislar el contenedor por dentro y por fuera?",
+     "respuesta": "Aislar solo por dentro deja la chapa de acero en contacto directo con el frío y el calor exterior, así que el metal sigue formando un puente térmico que favorece la condensación en las paredes. Aislar por fuera, en cambio, envuelve el acero y corta ese paso, por lo que es la solución que se recomienda para una vivienda habitable todo el año."
     },
     {
-     "pregunta": "Can I get a mortgage?",
-     "respuesta": "It depends on the lender. Spanish banks generally treat this as a self-build file rather than a standard mortgage, and each one sets its own requirements for the appraisal, the licensed project and the land title. Ask your bank directly and get the conditions in writing before committing to a plot or a deposit."
+     "pregunta": "¿Con el contenedor de 20 o el de 40 pies se gana más superficie interior?",
+     "respuesta": "El de 40 pies da más del doble de superficie que el de 20 pies para una sola unidad, ya que ronda los 28,3 m² frente a los 13,9 m² del contenedor corto, aunque ambos comparten el mismo ancho y alto exteriores fijados por la norma ISO 668. La elección depende del uso previsto y de si se combinan varias unidades."
     },
     {
-     "pregunta": "Do you supply the containers too?",
-     "respuesta": "Yes. We can supply the maritime containers that form the structure, alongside the design, fabrication and turnkey assembly of the finished home, so the whole project runs through a single point of contact. Explore the container types and models we work with for more detail."
+     "pregunta": "¿Hace falta grúa para montar cualquier casa contenedor?",
+     "respuesta": "Prácticamente sí, porque cada unidad se levanta y se posa sobre las zapatas por las cuatro esquinas de fundición, un peso y un tamaño que no se mueven a mano. Lo que cambia según la parcela es el tipo de grúa: una convencional si hay sitio junto al camión, o una telescópica de mayor alcance cuando el acceso es limitado."
     }
    ]
   }

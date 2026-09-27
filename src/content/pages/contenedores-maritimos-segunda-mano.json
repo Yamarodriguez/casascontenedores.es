@@ -20,40 +20,47 @@
    {
     "nivel": "h2",
     "titulo": "Grados de un contenedor marítimo de segunda mano",
-    "html": "<p>No todos los contenedores marítimos de segunda mano están en el mismo estado. El sector los clasifica en cuatro grados orientativos:</p><ul><li><strong>One trip</strong>: ha dado un único viaje de carga desde fábrica, casi como uno nuevo.</li><li><strong>Cargo worthy</strong>: pasa una inspección que certifica que aguanta carga y sigue apto para navegar.</li><li><strong>Wind &amp; watertight</strong>: ya no navega, pero cierra bien y no filtra agua; es el grado más habitual para almacén, obra o base de una construcción.</li><li><strong>As is</strong>: se vende tal cual está, sin garantía de estanqueidad ni estructural; conviene revisarlo en persona.</li></ul><p>La placa CSC (Convenio Internacional sobre Contenedores, 1972) certifica que la unidad es apta para navegar; si vas a darle un uso en tierra, que deje de renovarse no afecta a su utilidad.</p>"
+    "html": "<p>No todos los <strong>contenedores marítimos de segunda mano</strong> están en el mismo estado. El sector los clasifica en grados orientativos:</p><ul><li><strong>One trip</strong>: ha dado un único viaje de carga desde fábrica, casi como uno nuevo.</li><li><strong>Cargo worthy</strong>: pasa una inspección que certifica que aguanta carga y sigue apto para navegar.</li><li><strong>Wind &amp; watertight</strong>: ya no navega, pero cierra bien y no filtra agua; es el grado más habitual para almacén, obra o base de una construcción.</li><li><strong>As is</strong>: se vende tal cual está, sin garantía de estanqueidad ni estructural; conviene revisarlo en persona.</li></ul><p>La placa CSC certifica que la unidad es apta para navegar; si vas a darle un uso en tierra, que deje de renovarse no afecta a su utilidad.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué es la norma ISO 668 en un contenedor marítimo?",
+    "html": "<p>La <strong>norma ISO 668</strong> es el estándar internacional que fija las medidas exteriores, la resistencia y los puntos de esquina de los contenedores marítimos, con independencia de su grado o de si son de segunda mano. Un contenedor fabricado bajo esta norma mantiene las mismas dimensiones y encajes que uno nuevo, lo que permite apilarlo, transportarlo y anclarlo con los mismos sistemas estándar del sector. La placa CSC certifica la aptitud para navegar, pero la norma ISO 668 es la que define la geometría de la unidad, tanto si se usa para carga como si acaba siendo la base de una construcción.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Qué revisar antes de comprar un contenedor usado y para qué sirve",
-    "html": "<p>Antes de comprar, revisa el contenedor en persona o pide fotos detalladas de estos puntos:</p><ul><li>Suelo: que no ceda ni tenga zonas blandas por humedad.</li><li>Puertas y juntas: que cierren y sellen sin rendijas.</li><li>Óxido superficial frente a estructural: el primero se lija y se pinta; el que perfora la chapa o afecta a las <strong>cantoneras y largueros</strong> compromete la resistencia de la estructura.</li><li>Olores: pueden delatar la carga anterior.</li><li>Placa y año de fabricación: dan la trazabilidad de la unidad.</li><li>Prueba de luz: con las puertas cerradas desde dentro, si no entra luz por ninguna rendija, está bien sellado.</li></ul><p>Comprar de segunda mano permite reutilizar una estructura pensada para años de trabajo marítimo; si la placa CSC caducó, pierde la aptitud para navegar, aunque sigue sirviendo en tierra. Es una opción habitual como almacén, obra, uso agrícola o base de un local o una <a href=\"/casa-container-paso-a-paso/\">vivienda modular</a>, siempre que el proyecto pase antes por los <a href=\"/permisos/\">permisos urbanísticos</a> que correspondan.</p>"
+    "html": "<p>Antes de comprar, revisa el contenedor en persona o pide fotos detalladas de estos puntos:</p><ul><li>Suelo: que no ceda ni tenga zonas blandas por humedad.</li><li>Puertas y juntas: que cierren y sellen sin rendijas.</li><li>Óxido superficial frente a estructural: el primero se lija y se pinta; el que perfora la chapa o afecta a las <strong>cantoneras y largueros</strong> compromete la resistencia de la estructura.</li><li>Olores: pueden delatar la carga anterior.</li><li>Placa y año de fabricación: dan la trazabilidad de la unidad.</li><li>Prueba de luz: con las puertas cerradas desde dentro, si no entra luz por ninguna rendija, está bien sellado.</li></ul><p>Comprar de segunda mano permite reutilizar una estructura pensada para el trabajo marítimo; si la placa CSC caducó, pierde la aptitud para navegar, aunque sigue sirviendo en tierra. Es una opción habitual como almacén, obra, uso agrícola o base de un local o una <a href=\"/casa-container-paso-a-paso/\">vivienda modular</a>, siempre que el proyecto pase antes por los <a href=\"/permisos/\">permisos urbanísticos</a> que correspondan.</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Hace falta licencia de obra mayor para instalar un contenedor de segunda mano como vivienda?",
+    "html": "<p>Sí, cuando un contenedor marítimo de segunda mano se destina a vivienda, la normativa lo trata como cualquier otra construcción y exige <strong>licencia de obra mayor</strong>, con un proyecto técnico visado que cumpla el Código Técnico de la Edificación y la Ley de Ordenación de la Edificación. El proyecto debe resolver aspectos propios de este tipo de estructura, como el aislamiento frente al puente térmico del acero y el anclaje al terreno, y solo tras la inspección final se obtiene la licencia de primera ocupación que permite habitarla. Estos trámites son los mismos que los de cualquier vivienda nueva; lo que cambia es el material de partida, no el procedimiento administrativo.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Transporte y trazabilidad de un contenedor marítimo de segunda mano",
+    "html": "<p>Cada contenedor conserva una <strong>placa de identificación</strong> con su número, el fabricante y el año de construcción, un dato que conviene pedir siempre al vendedor porque orienta sobre el desgaste esperable de la chapa y las juntas. Un contenedor de segunda mano en grado wind &amp; watertight o cargo worthy no necesita ningún trato distinto al de una unidad nueva a la hora de moverlo: pesa y mide lo mismo, así que el traslado sigue las mismas normas de transporte especial que ya se aplican a cualquier contenedor marítimo.</p><p>Antes de cerrar la compra conviene pedir el <strong>historial de carga</strong> si el proveedor lo facilita, ya que ayuda a anticipar si el interior necesita limpieza o desinfección antes de darle un uso como almacén o vivienda.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre contenedores de segunda mano",
    "items": [
     {
-     "pregunta": "¿Es estanco un contenedor usado?",
-     "respuesta": "Depende del grado: uno wind &amp; watertight está pensado para no filtrar agua, aunque conviene revisar juntas, techo y esquinas antes de comprarlo, sobre todo si ha estado parado a la intemperie. Uno as is puede necesitar reparaciones antes de darle uso."
+     "pregunta": "¿Se reparan el suelo o las puertas de un contenedor usado?",
+     "respuesta": "Sí, son las reparaciones más habituales: cambio de tablas del suelo, ajuste de juntas y repintado del óxido superficial. Si el daño afecta a cantoneras o largueros, la reparación es más compleja y conviene valorarla antes de comprar la unidad, sobre todo en unidades as is."
     },
     {
-     "pregunta": "¿Se reparan el suelo o las puertas?",
-     "respuesta": "Sí, son las reparaciones más habituales: cambio de tablas del suelo, ajuste de juntas y repintado del óxido superficial. Si el daño afecta a cantoneras o largueros, la reparación es más compleja y conviene valorarla antes de comprar la unidad."
+     "pregunta": "¿Puedo pedir fotos o vídeo de la unidad concreta antes de comprarla?",
+     "respuesta": "Depende del grado y de la disponibilidad del proveedor: en unidades cargo worthy o wind &amp; watertight con inspección, es habitual poder pedir fotos o vídeo de la unidad exacta antes de decidir. En contenedores as is, la unidad depende del stock disponible en cada momento."
     },
     {
-     "pregunta": "¿Puedo elegir la unidad concreta?",
-     "respuesta": "Depende de la disponibilidad de cada proveedor: en unidades cargo worthy o wind &amp; watertight con inspección, es habitual poder pedir fotos o vídeo de la unidad concreta antes de decidir. En contenedores as is, la unidad exacta depende del stock disponible en cada momento, así que conviene confirmarlo antes de reservarla."
+     "pregunta": "¿Sirve un contenedor de segunda mano para construir una casa?",
+     "respuesta": "Sí, es habitual usar un contenedor de segunda mano en grado wind &amp; watertight o cargo worthy como base de una vivienda, siempre que la estructura esté sana y el proyecto cuente con licencia de obra mayor. Conviene seguir los pasos de <a href=\"/casa-container-paso-a-paso/\">casa contenedor paso a paso</a>."
     },
     {
-     "pregunta": "¿Vienen limpios?",
-     "respuesta": "Un contenedor de segunda mano puede conservar restos u olor de la carga que transportó antes, aunque no suele traer suciedad extrema. Antes de darle uso como almacén o vivienda conviene revisarlo por dentro y limpiarlo o desinfectarlo si hace falta."
-    },
-    {
-     "pregunta": "¿Sirve para construir una casa?",
-     "respuesta": "Sí, es habitual usar un contenedor de segunda mano en grado wind &amp; watertight o cargo worthy como base de una vivienda, siempre que la estructura esté sana. Conviene revisarla bien y seguir los pasos de <a href=\"/casa-container-paso-a-paso/\">casa contenedor paso a paso</a>."
-    },
-    {
-     "pregunta": "¿Qué diferencia hay entre one trip y nuevo?",
-     "respuesta": "Un contenedor one trip ha hecho un único viaje de carga desde fábrica, así que su estado es casi idéntico al de uno nuevo, aunque ya se vende como usado. Puedes comparar todos los <a href=\"/contenedores-maritimos/\">tipos de contenedores marítimos</a> antes de decidir."
+     "pregunta": "¿Qué diferencia hay entre un contenedor one trip y uno nuevo?",
+     "respuesta": "Un contenedor one trip ha hecho un único viaje de carga desde fábrica, así que su estado es casi idéntico al de uno nuevo, aunque ya se vende como usado y a otro precio de mercado. Puedes comparar todos los <a href=\"/contenedores-maritimos/\">tipos de contenedores marítimos</a> antes de decidir."
     }
    ]
   }
@@ -68,7 +75,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px -3px 0px",
    "columnas": [
     {
@@ -85,10 +92,10 @@
       {
        "t": "espaciador",
        "id": "2cfcca2",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -104,7 +111,7 @@
       {
        "t": "espaciador",
        "id": "268bab2",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -118,7 +125,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -129,12 +136,12 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "espaciador",
        "id": "fb0647b",
-       "alto": 56.0
+       "alto": 56
       },
       {
        "t": "texto",
@@ -146,7 +153,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -160,7 +167,7 @@
       {
        "t": "espaciador",
        "id": "b91bc87",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -173,7 +180,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -198,7 +205,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -225,7 +232,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         },
         {
@@ -240,7 +247,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         }
        ]
@@ -262,10 +269,10 @@
       {
        "t": "espaciador",
        "id": "6f26c86",
-       "alto": 71.0
+       "alto": 71
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -283,7 +290,7 @@
       {
        "t": "espaciador",
        "id": "d1f30a4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -294,7 +301,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -308,12 +315,12 @@
       {
        "t": "espaciador",
        "id": "26344cc",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -324,7 +331,7 @@
       {
        "t": "espaciador",
        "id": "b0341e4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -335,7 +342,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -347,9 +354,9 @@
        "ancho": "92%"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -360,7 +367,7 @@
       {
        "t": "espaciador",
        "id": "3c118ee",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -371,7 +378,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -383,7 +390,7 @@
        "ancho": "92%"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -395,7 +402,7 @@
       {
        "t": "espaciador",
        "id": "176f3ce",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -406,7 +413,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -418,7 +425,7 @@
        "ancho": "92%"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -430,7 +437,7 @@
       {
        "t": "espaciador",
        "id": "513a343",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -441,7 +448,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -453,7 +460,7 @@
        "ancho": "92%"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -472,10 +479,10 @@
       {
        "t": "espaciador",
        "id": "73f5aa4",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -498,7 +505,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -509,7 +516,7 @@
        "alt": "Contenedores-maritimos-almacenaje"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -527,7 +534,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -538,7 +545,7 @@
        "alt": "Contenedores-maritimos-ventilados"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -556,7 +563,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -567,7 +574,7 @@
        "alt": ""
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -585,7 +592,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -596,7 +603,7 @@
        "alt": "Contenedores-maritimos-open-side"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -614,7 +621,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        }
       },
@@ -625,7 +632,7 @@
        "alt": "Contenedores-maritimos-dry-van"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -644,10 +651,10 @@
       {
        "t": "espaciador",
        "id": "67faa2f",
-       "alto": 53.0
+       "alto": 53
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -670,7 +677,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/"
@@ -683,7 +690,7 @@
        "url": "/"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50,
      "fondo": {
       "color": "#E8E8E8"
@@ -701,7 +708,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -714,7 +721,7 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 50.0,
+     "ancho": 50,
      "anchoBase": 50,
      "fondo": {
       "color": "#E8E8E8"
@@ -733,7 +740,7 @@
       {
        "t": "espaciador",
        "id": "ce4a43c",
-       "alto": 19.0
+       "alto": 19
       },
       {
        "t": "boton",
@@ -745,12 +752,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -769,7 +776,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -785,7 +792,7 @@
       {
        "t": "espaciador",
        "id": "5269422",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -798,7 +805,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -809,7 +816,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -821,7 +828,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -849,7 +856,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -873,7 +880,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -889,7 +896,7 @@
       {
        "t": "espaciador",
        "id": "78f3001",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -902,7 +909,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -913,7 +920,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -925,7 +932,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -953,7 +960,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -977,7 +984,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -993,7 +1000,7 @@
       {
        "t": "espaciador",
        "id": "63a0414",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1006,7 +1013,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1017,7 +1024,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1029,7 +1036,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1057,7 +1064,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -1081,7 +1088,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1105,7 +1112,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1116,7 +1123,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1128,12 +1135,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1155,12 +1162,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1177,7 +1184,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1188,7 +1195,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1200,12 +1207,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1227,12 +1234,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     }
    ]
@@ -1251,7 +1258,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1278,7 +1285,7 @@
       {
        "t": "espaciador",
        "id": "00fcbd2",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -1291,7 +1298,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -1305,7 +1312,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -1319,17 +1326,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "168b716",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1345,10 +1352,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1372,7 +1379,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1383,10 +1390,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1411,7 +1418,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 31.0,
+        "tamano": 31,
         "peso": "500"
        },
        "url": "/casas-prefabricadas/"
@@ -1431,14 +1438,14 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 25.0,
+        "tamano": 25,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   }

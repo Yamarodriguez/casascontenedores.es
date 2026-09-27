@@ -19,58 +19,58 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Contenedores marítimos en Las Palmas: cómo trabajamos y desde dónde llegan",
-    "html": "<p>El punto de referencia logístico para los <strong>contenedores marítimos en Las Palmas</strong> es el Puerto de la Luz y de Las Palmas, hub de transbordo entre África, América y Europa: desde ahí sale cada unidad que llega a la isla. No mantenemos nave propia en la isla, así que la capital entra en nuestra zona de servicio habitual, con transporte y descarga mediante pluma o grúa ya incluidos en el presupuesto puesto en destino. Si tu parcela está en Lanzarote o Fuerteventura, se suma el tramo marítimo interinsular que corresponda.</p>"
+    "titulo": "Contenedores marítimos en Las Palmas: el Puerto de la Luz y la red de circunvalación",
+    "html": "<p>El <strong>Puerto de la Luz y de Las Palmas</strong> funciona como hub de transbordo entre África, América y Europa, con parques de contenedores propios y equipos preparados para unidades reefer. Desde ahí, la red de circunvalación GC-1, GC-2 y GC-3 reparte cada contenedor marítimo hacia el resto de la isla, tanto si tu parcela está junto a la costa como si queda en las cotas altas del municipio.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Cómo llega un contenedor marítimo a Gran Canaria desde la Península?",
-    "html": "<p>Siempre por vía marítima: no existe alternativa terrestre, así que la unidad completa la travesía hasta el puerto de la isla antes de seguir por carretera hasta tu dirección. Ese tramo obligatorio distingue el <strong>transporte de contenedores marítimos</strong> hacia Canarias; consulta <a href=\"/transporte-contenedores-maritimos/\">cómo se organiza el transporte</a> para calcular los plazos con ese tramo insular.</p>"
+    "titulo": "¿Qué papel cumple el Puerto de la Luz en el transporte de contenedores hacia Gran Canaria?",
+    "html": "<p>Redistribuye buena parte del tráfico de contenedores del archipiélago, incluido el tráfico interinsular hacia Lanzarote y Fuerteventura, gracias a su condición de hub de transbordo entre continentes. Esa función concentra en Las Palmas el <strong>tramo marítimo obligatorio</strong> desde la Península antes de que la unidad complete el trayecto por carretera hasta tu dirección; consulta <a href=\"/transporte-contenedores-maritimos/\">cómo se organiza el transporte</a> para calcular ese tramo insular.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Usos habituales de los contenedores en Las Palmas y su comarca",
-    "html": "<p>La actividad de Las Palmas reparte el uso del contenedor marítimo:</p><ul><li>Puerto de la Luz: almacén auxiliar o taller portuario.</li><li>Turismo y comercio de la ciudad: local o punto de venta de temporada.</li><li>Servicios y oficinas en parcelas ya edificadas: módulo de trabajo.</li></ul><p>El alisio del noreste trae nubosidad baja -la llamada panza de burro- con humedad casi constante.</p>"
+    "titulo": "Usos del contenedor marítimo en la actividad de Las Palmas",
+    "html": "<p>La actividad económica de la ciudad marca los usos más habituales del contenedor marítimo:</p><ul><li>Puerto (carga, reparación naval y combustibles): almacén auxiliar o taller portuario.</li><li>Turismo y comercio en el entorno urbano: local o punto de venta de temporada.</li><li>Servicios y oficinas en parcelas ya edificadas: módulo de trabajo adicional.</li></ul>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Por qué se corroe antes un contenedor instalado cerca del mar en Las Palmas?",
-    "html": "<p>Porque el ambiente salino de la costa acelera la oxidación del acero en soldaduras y cantoneras, y la humedad de la nubosidad baja agrava el efecto frente a un contenedor situado en el interior de la isla. Revisar la <strong>pintura anticorrosión</strong> y los sellos con regularidad alarga su vida útil.</p>"
+    "html": "<p>Porque el ambiente salino de la costa acelera la oxidación del acero en soldaduras y cantoneras, y el alisio del noreste añade nubosidad baja -la llamada \"panza de burro\"- con humedad casi constante que agrava el efecto frente a una unidad situada en el interior de la isla. Revisar la <strong>pintura anticorrosiva</strong> y los sellos con regularidad alarga su vida útil.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Las Palmas?",
-    "html": "<p>Sí. Colocar un contenedor de forma permanente exige al menos una <strong>licencia de obra menor</strong> o declaración responsable del Ayuntamiento, conforme a la Ley 4/2017 del Suelo de Canarias y al Plan General de Ordenación de 2012. Vegueta y Triana, declarado Conjunto Histórico, y el paisaje protegido de La Isleta suman más exigencias, y toda la costa queda bajo la Ley de Costas. Consulta <a href=\"/permisos/\">los permisos para construir con contenedores</a> antes de comprar.</p>"
+    "html": "<p>Sí. Colocar un contenedor de forma permanente exige al menos una <strong>licencia de obra menor</strong> o declaración responsable del Ayuntamiento, conforme a la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias. El Plan General de Ordenación, con aprobación definitiva publicada en el BOC de 4 de diciembre de 2012, ordena el suelo municipal; Vegueta y Triana, declarado Conjunto Histórico, y el paisaje protegido de La Isleta suman más exigencias, y toda la costa queda bajo la Ley de Costas. Consulta <a href=\"/permisos/\">los permisos para construir con contenedores</a> antes de comprar.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Puedo instalar un contenedor en un barranco de Las Palmas?",
-    "html": "<p>No sin más trámite: los barrancos que cortan la ciudad, como el Guiniguada, tienen riesgo de inundación en episodios de lluvia intensa, así que el planeamiento urbanístico los trata con más cautela que una parcela llana. Pide siempre la <strong>consulta urbanística previa</strong> antes de elegir el emplazamiento.</p>"
+    "html": "<p>No sin más trámite: los barrancos que cortan la ciudad, como el Guiniguada, concentran riesgo de inundación en episodios de lluvia intensa, así que el planeamiento los trata con más cautela que una parcela llana en la ciudad alta. Pide siempre la <strong>consulta urbanística previa</strong> antes de elegir el emplazamiento.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Las Palmas",
-    "html": "<ul><li>Telde y el resto de <a href=\"/contenedores-maritimos-telde/\">Gran Canaria</a></li><li>Tenerife y San Cristóbal de la Laguna</li><li>El resto de las Islas Canarias, sumando el tramo marítimo interinsular que corresponda</li></ul>"
+    "html": "<ul><li>Telde y el resto de <a href=\"/contenedores-maritimos-telde/\">Gran Canaria</a>, por la red GC-1, GC-2 y GC-3</li><li><a href=\"/contenedores-maritimos-tenerife/\">Tenerife</a> y San Cristóbal de la Laguna</li><li>Lanzarote y Fuerteventura, sumando el tramo marítimo interinsular que corresponda</li></ul>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre contenedores marítimos en Las Palmas",
    "items": [
     {
-     "pregunta": "¿Entregáis contenedores marítimos en toda la provincia de Las Palmas?",
-     "respuesta": "Sí. Cubrimos Gran Canaria entera -incluida Telde- y también Lanzarote y Fuerteventura, sumando en estos casos el tramo marítimo interinsular al trayecto peninsular. No tenemos nave en la isla: cada pedido sale del depósito más próximo y el <strong>presupuesto puesto en destino</strong> ya recoge ese trayecto completo."
+     "pregunta": "¿Qué cambia en el transporte si mi parcela está en Lanzarote o Fuerteventura en vez de en Gran Canaria?",
+     "respuesta": "El Puerto de la Luz redistribuye el tráfico interinsular del archipiélago, así que a esas islas se añade un <strong>tramo marítimo interinsular</strong> después de la travesía desde la Península. Ese trayecto extra se calcula sobre el presupuesto puesto en destino, y el plazo final depende de la conexión interinsular disponible en cada pedido."
     },
     {
-     "pregunta": "¿Tenéis depósito propio en Las Palmas?",
-     "respuesta": "No: en Gran Canaria no hay nave propia de la empresa, así que la isla entra dentro de la zona de servicio habitual. Cada contenedor sale del depósito disponible que quede más cerca en ese momento, y ese trayecto ya está resuelto en el presupuesto antes de que confirmes el pedido."
+     "pregunta": "¿Qué licencia pide una parcela de asentamiento rural en Las Palmas frente a una en suelo urbano?",
+     "respuesta": "La Ley 4/2017 distingue el suelo urbano del rústico, y dentro de este último regula los <strong>asentamientos rurales</strong> como categoría propia. En ambos casos hace falta licencia de obra menor o declaración responsable municipal, pero en el asentamiento rural conviene revisar antes la categoría de protección que le aplica dentro del planeamiento."
     },
     {
-     "pregunta": "¿Aguanta el salitre y la humedad de Las Palmas un contenedor marítimo?",
-     "respuesta": "El acero resiste bien el ambiente costero si se mantiene la pintura y los sellos en buen estado, pero el salitre y la humedad de la nubosidad baja aceleran la corrosión más que en el interior de la isla. Revisarlo con cierta frecuencia evita que el problema avance sin verse."
+     "pregunta": "¿Aplica la misma zona climática a un contenedor en la costa de Las Palmas que en las cotas altas?",
+     "respuesta": "No. La capital y la franja baja de la isla están en zona α3 del CTE, mientras que las cotas medias y altas se reparten entre A2, B2 y C2 según el Anejo B del DB-HE. Esa diferencia condiciona el aislamiento que conviene reforzar en la <strong>envolvente del contenedor</strong>."
     },
     {
-     "pregunta": "¿En Las Palmas también proyectáis casas hechas con contenedores?",
-     "respuesta": "Sí: además de contenedores marítimos, en Las Palmas y el resto de Gran Canaria diseñamos y construimos <a href=\"/las-palmas/\">casas hechas con contenedores</a>. El proyecto arranca con la consulta urbanística de la parcela y termina con la entrega llave en mano."
+     "pregunta": "¿Afecta la Zona de Bajas Emisiones a la entrega de un contenedor en Las Palmas?",
+     "respuesta": "El territorio insular está sujeto a la obligación de <strong>Zona de Bajas Emisiones</strong> que marca el artículo 14.3 de la Ley 7/2021, aunque el ayuntamiento todavía no ha publicado la ordenanza ni el perímetro exacto. Conviene confirmar ese detalle en el momento de programar la entrega del contenedor."
     }
    ]
   }
@@ -85,7 +85,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px -3px 0px",
    "columnas": [
     {
@@ -102,10 +102,10 @@
       {
        "t": "espaciador",
        "id": "2cfcca2",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -121,7 +121,7 @@
       {
        "t": "espaciador",
        "id": "268bab2",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -135,7 +135,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -146,12 +146,12 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "espaciador",
        "id": "fb0647b",
-       "alto": 56.0
+       "alto": 56
       },
       {
        "t": "texto",
@@ -163,7 +163,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -177,7 +177,7 @@
       {
        "t": "espaciador",
        "id": "b91bc87",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -190,7 +190,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -215,7 +215,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -242,7 +242,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         },
         {
@@ -257,7 +257,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         }
        ]
@@ -282,8 +282,8 @@
       {
        "t": "espaciador",
        "id": "3fe8f7f",
-       "alto": 44.0,
-       "altoMovil": 16.0
+       "alto": 44,
+       "altoMovil": 16
       },
       {
        "t": "encabezado",
@@ -295,15 +295,15 @@
        "color": "#5C5C68",
        "tipo": {
         "familia": "Satisfy",
-        "tamano": 52.0,
-        "tamanoMovil": 52.0,
+        "tamano": 52,
+        "tamanoMovil": 52,
         "peso": "600"
        }
       },
       {
        "t": "espaciador",
        "id": "06d646f",
-       "alto": 26.0
+       "alto": 26
       },
       {
        "t": "texto",
@@ -316,7 +316,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "400"
        }
       },
@@ -330,7 +330,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -371,7 +371,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -389,7 +389,7 @@
       {
        "t": "espaciador",
        "id": "d1f30a4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -400,7 +400,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-20-pies/"
@@ -416,12 +416,12 @@
       {
        "t": "espaciador",
        "id": "26344cc",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -432,7 +432,7 @@
       {
        "t": "espaciador",
        "id": "b0341e4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -443,7 +443,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-40-pies/"
@@ -457,9 +457,9 @@
        "url": "/contenedores-40-pies/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -470,7 +470,7 @@
       {
        "t": "espaciador",
        "id": "3c118ee",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -481,7 +481,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-flat-rack/"
@@ -495,7 +495,7 @@
        "url": "/contenedor-flat-rack/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -507,7 +507,7 @@
       {
        "t": "espaciador",
        "id": "176f3ce",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -518,7 +518,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-top/"
@@ -532,7 +532,7 @@
        "url": "/contenedor-open-top/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -544,7 +544,7 @@
       {
        "t": "espaciador",
        "id": "513a343",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -555,7 +555,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-high-cube/"
@@ -569,7 +569,7 @@
        "url": "/contenedor-high-cube/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -588,10 +588,10 @@
       {
        "t": "espaciador",
        "id": "73f5aa4",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -614,7 +614,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-de-almacenamiento/"
@@ -627,7 +627,7 @@
        "url": "/contenedores-de-almacenamiento/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -645,7 +645,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-refrigerado/"
@@ -658,7 +658,7 @@
        "url": "/contenedor-refrigerado/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -676,7 +676,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-side/"
@@ -689,7 +689,7 @@
        "url": "/contenedor-open-side/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -707,7 +707,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-dry-van/"
@@ -720,7 +720,7 @@
        "url": "/contenedor-dry-van/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -739,10 +739,10 @@
       {
        "t": "espaciador",
        "id": "67faa2f",
-       "alto": 53.0
+       "alto": 53
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -765,7 +765,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/"
@@ -778,7 +778,7 @@
        "url": "/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -796,7 +796,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -809,7 +809,7 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -827,7 +827,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/modulos-sanitarios/"
@@ -841,7 +841,7 @@
        "url": "/modulos-sanitarios/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -859,7 +859,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -873,7 +873,7 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -891,7 +891,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -905,7 +905,7 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -924,10 +924,10 @@
       {
        "t": "espaciador",
        "id": "0e60003",
-       "alto": 35.0
+       "alto": 35
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -950,12 +950,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -974,7 +974,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -990,7 +990,7 @@
       {
        "t": "espaciador",
        "id": "09777f9",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1003,7 +1003,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1014,7 +1014,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1026,7 +1026,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1054,14 +1054,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1079,7 +1079,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1095,7 +1095,7 @@
       {
        "t": "espaciador",
        "id": "5269422",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1108,7 +1108,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1119,7 +1119,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1131,7 +1131,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1159,14 +1159,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1184,7 +1184,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1200,7 +1200,7 @@
       {
        "t": "espaciador",
        "id": "78f3001",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1213,7 +1213,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1224,7 +1224,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1236,7 +1236,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1264,14 +1264,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1289,7 +1289,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1305,7 +1305,7 @@
       {
        "t": "espaciador",
        "id": "63a0414",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1318,7 +1318,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1329,7 +1329,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1341,7 +1341,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1369,14 +1369,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1394,7 +1394,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1418,7 +1418,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1429,7 +1429,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1441,12 +1441,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1468,12 +1468,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1490,7 +1490,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1501,7 +1501,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1513,12 +1513,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1540,12 +1540,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     }
    ]
@@ -1564,7 +1564,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1591,7 +1591,7 @@
       {
        "t": "espaciador",
        "id": "00fcbd2",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -1604,7 +1604,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -1618,7 +1618,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -1632,17 +1632,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "168b716",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1658,10 +1658,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1685,7 +1685,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1696,10 +1696,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1724,7 +1724,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 31.0,
+        "tamano": 31,
         "peso": "500"
        },
        "url": "/casas-prefabricadas/"
@@ -1744,14 +1744,14 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 25.0,
+        "tamano": 25,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   },
@@ -1769,7 +1769,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1793,12 +1793,12 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1819,7 +1819,7 @@
        "alto": 300
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]

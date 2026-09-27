@@ -2565,8 +2565,8 @@
    },
    {
     "nivel": "h3",
-    "titulo": "¿Cómo preparar un módulo único si más adelante quieres ampliarlo?",
-    "html": "<p>Conviene preverlo ya en el proyecto inicial: dónde irán los <strong>huecos de paso</strong>, una cimentación pensada también para el siguiente contenedor y unas instalaciones con capacidad de sobra. Abrir un hueco no calculado más adelante le resta rigidez a la estructura. Así se resuelve en <a href=\"/casa-con-dos-contenedores/\">la casa con dos contenedores</a> y en <a href=\"/casa-con-tres-contenedores/\">la de tres</a>.</p>"
+    "titulo": "Si piensas ampliar más adelante",
+    "html": "<p>Cuando la idea es empezar con un solo módulo y sumar más con el tiempo, conviene preverlo ya en el proyecto: dónde irán los <strong>huecos de paso</strong>, una cimentación pensada también para el siguiente contenedor y unas instalaciones con capacidad de sobra. Abrir un hueco no calculado le resta rigidez a la estructura. Así se resuelve en <a href=\"/casa-con-dos-contenedores/\">la casa con dos contenedores</a> y en <a href=\"/casa-con-tres-contenedores/\">la de tres</a>.</p>"
    },
    {
     "nivel": "h2",
@@ -2590,10 +2590,6 @@
     {
      "pregunta": "¿Se puede vivir todo el año en un solo contenedor?",
      "respuesta": "Sí, si lleva aislamiento térmico continuo por el exterior y buena ventilación: el acero por sí solo no aísla, ni de calor ni de frío. Con ese tratamiento, un módulo único cumple las mismas exigencias del CTE que cualquier vivienda convencional y se puede habitar todo el año."
-    },
-    {
-     "pregunta": "¿Para qué tipo de uso da un módulo de un dormitorio?",
-     "respuesta": "Un contenedor de 40 pies permite montar una vivienda compacta de un dormitorio, con baño y cocina-salón separados, pensada para uso individual o en pareja. Cuando hace falta repartir varios dormitorios, lo habitual es sumar un segundo o un tercer contenedor en vez de amontonarlo todo en uno."
     },
     {
      "pregunta": "¿Qué tamaño conviene más, 20 o 40 pies?",

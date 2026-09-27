@@ -19,58 +19,53 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Telde?",
-    "html": "<p>Colocar un contenedor marítimo en Telde no es un trámite libre: el Ayuntamiento exige declaración responsable o <strong>licencia de obra menor</strong>, según la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias. En suelo rústico, muy presente en las medianías agrícolas del municipio, solo se admiten usos agrarios o instalaciones vinculadas, salvo en los asentamientos rurales reconocidos por el planeamiento. Cerca del litoral se suma la Ley de Costas, y junto a yacimientos arqueológicos como Cuatro Puertas o Tufia, la protección patrimonial. Consulta tu caso en <a href=\"/permisos/\">permisos para construir con contenedores</a> antes de comprar.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Puedo instalar un contenedor en un asentamiento rural de Telde?",
-    "html": "<p>Depende del reconocimiento del núcleo: la Ley 4/2017 admite usos agrarios en todo el suelo rústico, pero solo permite vivienda u otras construcciones vinculadas en los <strong>asentamientos rurales</strong> que el planeamiento de Telde reconoce expresamente, así que conviene comprobar la clasificación exacta de la parcela antes de comprar.</p>"
-   },
-   {
-    "nivel": "h2",
     "titulo": "Contenedores marítimos en Telde: cómo trabajamos y desde dónde llegan",
-    "html": "<p>En Telde trabajamos como zona de servicio para los <strong>contenedores marítimos en Telde</strong>: no tenemos depósito propio en el municipio, así que gestionamos la salida desde el origen más cercano y ajustamos el transporte y la descarga a cada parcela, con el coste final recogido en el presupuesto antes de confirmar el pedido. La referencia logística de toda Gran Canaria es el Puerto de Las Palmas (Puerto de la Luz), accesible por la autopista que une la capital con el sur de la isla; Telde cuenta además con su propio puerto industrial en Salinetas y queda cerca del Aeropuerto de Gran Canaria. Conoce mejor cómo organizamos cada envío en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+    "html": "<p>Los contenedores marítimos en Telde te llegan como zona de servicio, no desde un depósito o nave propios en el municipio: preparamos la unidad, la enviamos por carretera y la bajamos en tu parcela con pluma o grúa, con el presupuesto cerrado puesto en destino.</p><p>El origen habitual es el Puerto de Las Palmas (Puerto de la Luz), el principal de Canarias en tráfico de contenedores, con salida por la autopista GC-1 hacia Telde; el propio municipio cuenta además con el puerto industrial de Salinetas. Como en toda Canarias, cualquier unidad llega primero por <strong>tramo marítimo</strong> desde la Península.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Por qué un contenedor tarda más en llegar a Telde que a una ciudad peninsular?",
-    "html": "<p>Porque, al ser una entrega insular, el contenedor necesita antes un tramo marítimo desde la Península hasta el Puerto de Las Palmas, y solo después completa el trayecto por carretera hasta Telde. Ese tramo marítimo forma parte de cualquier envío a Canarias, sea cual sea el tipo de contenedor.</p>"
+    "titulo": "¿Se puede entregar un contenedor en los cascos históricos de Telde?",
+    "html": "<p>Sí, pero con matices: los cascos de San Juan y San Francisco tienen calles estrechas que obligan a maniobras cortas, y varios caminos de medianía con pendiente y curvas limitan el paso de un transporte especial. Conviene revisar el acceso antes de fijar fecha de entrega y dejar una <strong>superficie firme y nivelada</strong> para los apoyos del contenedor. Más detalles en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Usos habituales de los contenedores en Telde y su comarca",
-    "html": "<p>La economía de Telde reparte el uso del contenedor marítimo entre varios sectores:</p><ul><li>Almacén y oficina de obra en los polígonos industriales de Salinetas, El Goro y Las Rubiesas.</li><li>Caseta agrícola para las explotaciones de exportación de tomate, flores y cítricos de las medianías.</li><li>Módulo náutico o de almacenaje ligado al puerto industrial de Salinetas.</li><li>Trastero o almacén auxiliar en los núcleos costeros de Melenara y Salinetas.</li></ul><p>El clima de Telde, con <strong>zona climática α3 del CTE DB-HE</strong> en la costa y las medianías bajas (pasa a A2, B2 y C2 hacia la cumbre), tiene alisios constantes y salitre marino, así que conviene prever protección anticorrosiva y buena ventilación cruzada en cualquier instalación cercana al mar.</p>"
+    "html": "<p>La economía de Telde marca los usos más pedidos:</p><ul><li>Almacén para los polígonos junto a la GC-1 (Salinetas, El Goro, Las Rubiesas), como <a href=\"/contenedores-de-almacenamiento/\">contenedor de almacenamiento</a> de material o herramienta.</li><li>Apoyo a la agricultura de exportación (tomate, flores, cítricos) de las medianías, para guardar aperos, abono o cosecha.</li><li>Uso ligado a la actividad logística e industrial del entorno del aeropuerto de Gando y la GC-1.</li><li>Locales de temporada en la costa (Salinetas, Melenara), con el módulo adaptado a hostelería.</li></ul><p>El <strong>clima de alisios</strong> de Telde, con salitre marino constante y lluvia escasa, pide protección anticorrosiva y ventilación cruzada en cualquiera de estos usos.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "¿Necesito licencia para poner un contenedor en una parcela de Telde?",
+    "html": "<p>Sí, en la mayoría de los casos: colocar un contenedor en Telde es al menos una instalación sujeta a declaración responsable o licencia de obra menor del Ayuntamiento, y el trámite varía si el uso es temporal (obra, evento) o permanente. Si la parcela está en el litoral (Salinetas, Melenara, Tufia) se suma la <strong>Ley de Costas</strong>, y cerca de los yacimientos prehispánicos o de los cascos de San Juan y San Francisco, la protección patrimonial. Conviene <a href=\"/permisos/\">consultar antes de comprar</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Qué contenedor conviene para un almacén agrícola en las medianías de Telde?",
-    "html": "<p>Para una explotación pequeña basta un contenedor de 20 pies, con unos 13,9 m² interiores; si necesitas guardar maquinaria agrícola o más volumen de cosecha, el <strong>contenedor de 40 pies</strong>, con unos 28,3 m² interiores, aprovecha mejor el espacio disponible en la parcela. Compara todas las medidas en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a>.</p>"
+    "titulo": "¿Puedo instalar un contenedor en suelo rústico de Telde sin más trámite?",
+    "html": "<p>No: la Ley 4/2017 del Suelo de Canarias solo permite un contenedor en <strong>suelo rústico</strong> dentro de un uso agrario reconocido o de un asentamiento rural recogido en el planeamiento; fuera de esos casos, ni como vivienda ni como almacén libre. Conviene comprobar la categoría exacta de la parcela (agraria, asentamiento u otra) antes de mover nada.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Telde",
-    "html": "<p>Además del municipio, entregamos contenedores marítimos en el resto de Gran Canaria y Canarias:</p><ul><li>Las Palmas de Gran Canaria y su área metropolitana</li><li>El resto de la isla de Gran Canaria</li><li>Canarias en general, con tramo marítimo previo desde la Península</li></ul>"
+    "html": "<p>Además del propio municipio, llegamos a los términos vecinos y al resto de la isla:</p><ul><li><a href=\"/las-palmas/\">Las Palmas de Gran Canaria</a> y su área metropolitana.</li><li>Ingenio, Agüimes, Valsequillo y Santa Brígida.</li><li>Resto de Canarias, con el tramo marítimo correspondiente desde la Península en cada envío.</li></ul>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre contenedores marítimos en Telde",
    "items": [
     {
-     "pregunta": "¿Entregáis contenedores marítimos en toda Gran Canaria?",
-     "respuesta": "Sí, entregamos en toda la isla, no solo en Telde y su comarca: el tramo peninsular llega siempre por el Puerto de Las Palmas y desde ahí seguimos por la GC-1 hasta cualquier municipio de Gran Canaria. Ese trayecto final, más corto o más largo según el destino, entra en el mismo presupuesto cerrado."
+     "pregunta": "¿Cómo afecta el clima de alisios de Telde a un contenedor marítimo?",
+     "respuesta": "Telde tiene alisios constantes y salitre marino en la costa, con zona climática CTE α3 en las cotas bajas que sube a A2, B2 y C2 hacia la cumbre. Para un contenedor conviene protección anticorrosiva en cortes y soldaduras, y ventilación cruzada si se acondiciona por dentro."
     },
     {
-     "pregunta": "¿Necesito licencia para un contenedor de almacenamiento en un polígono de Telde?",
-     "respuesta": "Sí, aunque sea temporal. En polígonos como Salinetas, El Goro o Las Rubiesas, el Ayuntamiento de Telde exige declaración responsable o licencia según el uso y el tiempo de permanencia del contenedor. Consulta la ordenanza municipal antes de instalarlo en tu nave o parcela industrial."
+     "pregunta": "¿Se puede colocar un contenedor cerca de la costa de Telde, en Salinetas o Melenara?",
+     "respuesta": "Con matices: todo el litoral de Telde, incluidas Salinetas, Melenara y Tufia, está sujeto a la Ley de Costas y a su servidumbre de protección, que limita usos y distancias. Antes de instalar nada cerca de la orilla conviene consultar el deslinde y el planeamiento con el Ayuntamiento."
     },
     {
-     "pregunta": "¿Aguanta un contenedor marítimo el salitre y los alisios de Telde?",
-     "respuesta": "El acero resiste bien el viento constante de los alisios, pero el ambiente salino de la costa acelera la corrosión si no se refuerza la protección anticorrosiva, sobre todo en los cortes de puertas y ventanas. Revisarla periódicamente alarga la vida útil del contenedor."
+     "pregunta": "¿Por qué autopista llega el contenedor a los polígonos de Telde?",
+     "respuesta": "El contenedor sale del Puerto de Las Palmas (Puerto de la Luz), el principal de Canarias en tráfico de contenedores, y llega hasta los polígonos de Telde -como Salinetas, El Goro o Las Rubiesas- por la autopista GC-1, que conecta la capital con el sureste de Gran Canaria."
     },
     {
-     "pregunta": "¿También hacéis casas contenedor en Telde?",
-     "respuesta": "Puedes pedirlo aquí mismo: además de vender y alquilar contenedores sueltos, montamos casas contenedor en Telde partiendo del Plan General municipal y, si la parcela es rústica, de la clasificación que fija la Ley 4/2017 de Canarias. Lo ves en <a href=\"/telde/\">casas contenedor en Telde</a>."
+     "pregunta": "¿Hay restricciones de tráfico para llevar un contenedor al centro de Telde?",
+     "respuesta": "Telde está entre los municipios sujetos a la obligación de Zona de Bajas Emisiones de la Ley 7/2021, aunque su ordenanza y perímetro exactos no están publicados: conviene confirmarlo con el Ayuntamiento. A eso se suman las calles estrechas de los cascos de San Juan y San Francisco."
     }
    ]
   }
@@ -85,7 +80,7 @@
    "disposicion": "boxed",
    "ancho": 1282,
    "hueco": "custom",
-   "huecoPx": 0.0,
+   "huecoPx": 0,
    "margen": "-50px 0px -3px 0px",
    "columnas": [
     {
@@ -102,10 +97,10 @@
       {
        "t": "espaciador",
        "id": "2cfcca2",
-       "alto": 19.0
+       "alto": 19
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -121,7 +116,7 @@
       {
        "t": "espaciador",
        "id": "268bab2",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -135,7 +130,7 @@
        "color": "#414141",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -146,12 +141,12 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "espaciador",
        "id": "fb0647b",
-       "alto": 56.0
+       "alto": 56
       },
       {
        "t": "texto",
@@ -163,7 +158,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -177,7 +172,7 @@
       {
        "t": "espaciador",
        "id": "b91bc87",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -190,7 +185,7 @@
        "color": "#52D457",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 42.0,
+        "tamano": 42,
         "peso": "600"
        }
       },
@@ -215,7 +210,7 @@
        "color": "#010101",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 18.0,
+        "tamano": 18,
         "peso": "600",
         "interlineado": 1.7,
         "interlineadoUnidad": "em"
@@ -242,7 +237,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         },
         {
@@ -257,7 +252,7 @@
            "radio": "63px 63px 63px 63px"
           }
          ],
-         "ancho": 50.0,
+         "ancho": 50,
          "anchoBase": 50
         }
        ]
@@ -282,8 +277,8 @@
       {
        "t": "espaciador",
        "id": "3fe8f7f",
-       "alto": 44.0,
-       "altoMovil": 16.0
+       "alto": 44,
+       "altoMovil": 16
       },
       {
        "t": "encabezado",
@@ -295,15 +290,15 @@
        "color": "#5C5C68",
        "tipo": {
         "familia": "Satisfy",
-        "tamano": 52.0,
-        "tamanoMovil": 52.0,
+        "tamano": 52,
+        "tamanoMovil": 52,
         "peso": "600"
        }
       },
       {
        "t": "espaciador",
        "id": "06d646f",
-       "alto": 26.0
+       "alto": 26
       },
       {
        "t": "texto",
@@ -316,7 +311,7 @@
        "color": "#000000",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "400"
        }
       },
@@ -330,7 +325,7 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
@@ -371,7 +366,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -389,7 +384,7 @@
       {
        "t": "espaciador",
        "id": "d1f30a4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -400,7 +395,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-20-pies/"
@@ -416,12 +411,12 @@
       {
        "t": "espaciador",
        "id": "26344cc",
-       "alto": 10.0
+       "alto": 10
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -432,7 +427,7 @@
       {
        "t": "espaciador",
        "id": "b0341e4",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -443,7 +438,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-40-pies/"
@@ -457,9 +452,9 @@
        "url": "/contenedores-40-pies/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
-     "anchoMovil": 50.0,
+     "anchoMovil": 50,
      "fondo": {
       "color": "#E7E7E7"
      }
@@ -470,7 +465,7 @@
       {
        "t": "espaciador",
        "id": "3c118ee",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -481,7 +476,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-flat-rack/"
@@ -495,7 +490,7 @@
        "url": "/contenedor-flat-rack/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -507,7 +502,7 @@
       {
        "t": "espaciador",
        "id": "176f3ce",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -518,7 +513,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-top/"
@@ -532,7 +527,7 @@
        "url": "/contenedor-open-top/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -544,7 +539,7 @@
       {
        "t": "espaciador",
        "id": "513a343",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -555,7 +550,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-high-cube/"
@@ -569,7 +564,7 @@
        "url": "/contenedor-high-cube/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -588,10 +583,10 @@
       {
        "t": "espaciador",
        "id": "73f5aa4",
-       "alto": 41.0
+       "alto": 41
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -614,7 +609,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedores-de-almacenamiento/"
@@ -627,7 +622,7 @@
        "url": "/contenedores-de-almacenamiento/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -645,7 +640,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-refrigerado/"
@@ -658,7 +653,7 @@
        "url": "/contenedor-refrigerado/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -676,7 +671,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-open-side/"
@@ -689,7 +684,7 @@
        "url": "/contenedor-open-side/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -707,7 +702,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/contenedor-dry-van/"
@@ -720,7 +715,7 @@
        "url": "/contenedor-dry-van/"
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25,
      "fondo": {
       "color": "#E8E8E8"
@@ -739,10 +734,10 @@
       {
        "t": "espaciador",
        "id": "67faa2f",
-       "alto": 53.0
+       "alto": 53
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -765,7 +760,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/"
@@ -778,7 +773,7 @@
        "url": "/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -796,7 +791,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/oficinas-contenedores/"
@@ -809,7 +804,7 @@
        "url": "/oficinas-contenedores/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -827,7 +822,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/modulos-sanitarios/"
@@ -841,7 +836,7 @@
        "url": "/modulos-sanitarios/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -859,7 +854,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/local-containers/"
@@ -873,7 +868,7 @@
        "url": "/local-containers/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -891,7 +886,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "500"
        },
        "url": "/pergolas/"
@@ -905,7 +900,7 @@
        "url": "/pergolas/"
       }
      ],
-     "ancho": 20.0,
+     "ancho": 20,
      "anchoBase": 20,
      "fondo": {
       "color": "#E8E8E8"
@@ -924,10 +919,10 @@
       {
        "t": "espaciador",
        "id": "0e60003",
-       "alto": 35.0
+       "alto": 35
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -950,12 +945,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -974,7 +969,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -990,7 +985,7 @@
       {
        "t": "espaciador",
        "id": "09777f9",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1003,7 +998,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1014,7 +1009,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1026,7 +1021,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1054,14 +1049,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1079,7 +1074,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1095,7 +1090,7 @@
       {
        "t": "espaciador",
        "id": "5269422",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1108,7 +1103,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1119,7 +1114,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1131,7 +1126,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1159,14 +1154,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1184,7 +1179,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1200,7 +1195,7 @@
       {
        "t": "espaciador",
        "id": "78f3001",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1213,7 +1208,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1224,7 +1219,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1236,7 +1231,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1264,14 +1259,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1289,7 +1284,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1305,7 +1300,7 @@
       {
        "t": "espaciador",
        "id": "63a0414",
-       "alto": 10.0
+       "alto": 10
       },
       {
        "t": "encabezado",
@@ -1318,7 +1313,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1329,7 +1324,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1341,7 +1336,7 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
@@ -1369,14 +1364,14 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
      "ancho": 32.837,
      "anchoBase": 50,
-     "anchoTablet": 100.0
+     "anchoTablet": 100
     }
    ]
   },
@@ -1394,7 +1389,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1418,7 +1413,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1429,7 +1424,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1441,12 +1436,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1468,12 +1463,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1490,7 +1485,7 @@
        "color": "#282828",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1501,7 +1496,7 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       },
       {
        "t": "texto",
@@ -1513,12 +1508,12 @@
        "color": "#313131",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 22.0,
+        "tamano": 22,
         "peso": "400"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     },
     {
@@ -1540,12 +1535,12 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       }
      ],
-     "ancho": 25.0,
+     "ancho": 25,
      "anchoBase": 25
     }
    ]
@@ -1564,7 +1559,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1591,7 +1586,7 @@
       {
        "t": "espaciador",
        "id": "00fcbd2",
-       "alto": 38.0
+       "alto": 38
       },
       {
        "t": "encabezado",
@@ -1604,7 +1599,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 43.0,
+        "tamano": 43,
         "peso": "400"
        }
       },
@@ -1618,7 +1613,7 @@
        "color": "#FFFFFF",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 21.0,
+        "tamano": 21,
         "peso": "400"
        }
       },
@@ -1632,17 +1627,17 @@
        "fondoHover": "#4F4444",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 19.0,
+        "tamano": 19,
         "peso": "500"
        }
       },
       {
        "t": "espaciador",
        "id": "168b716",
-       "alto": 38.0
+       "alto": 38
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1658,10 +1653,10 @@
       {
        "t": "espaciador",
        "id": "4ee0e1f",
-       "alto": 23.0
+       "alto": 23
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1685,7 +1680,7 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       },
@@ -1696,10 +1691,10 @@
        "color": "#02E215",
        "grosor": 3.2,
        "ancho": "26%",
-       "hueco": 5.0
+       "hueco": 5
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1724,7 +1719,7 @@
        "color": "#494949",
        "tipo": {
         "familia": "Ubuntu",
-        "tamano": 31.0,
+        "tamano": 31,
         "peso": "500"
        },
        "url": "/casas-prefabricadas/"
@@ -1744,14 +1739,14 @@
        "html": "<p>Construcción y diseño de <strong>casas prefabricadas</strong>, arquitectura modular</p>",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 25.0,
+        "tamano": 25,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100,
-     "anchoMovil": 50.0
+     "anchoMovil": 50
     }
    ]
   },
@@ -1769,7 +1764,7 @@
        "alto": 50
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1793,12 +1788,12 @@
        "color": "#6D6D6D",
        "tipo": {
         "familia": "Roboto",
-        "tamano": 33.0,
+        "tamano": 33,
         "peso": "400"
        }
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
@@ -1819,7 +1814,7 @@
        "alto": 300
       }
      ],
-     "ancho": 100.0,
+     "ancho": 100,
      "anchoBase": 100
     }
    ]
