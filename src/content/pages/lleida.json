@@ -19,7 +19,7 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Casas contenedores en Lleida: suelo, POUM y licencia de obra",
+    "titulo": "Casas contenedores Lleida: suelo, POUM y licencia de obra",
     "html": "<p>Construir en el término de Lleida obliga a mirar primero la clase de suelo: el Decreto Legislativo 1/2010 (TRLU) distingue urbano, urbanizable y no urbanizable, y esa calificación decide si el proyecto es vivienda, almacén o no encaja. Lo habitual es una parcela urbana en barrios o partidas para vivienda, un polígono industrial del Segre para módulos, o una parcela de la Horta, de vocación agrícola. El Ayuntamiento exige <strong>licencia de obra mayor</strong> con proyecto de arquitecto conforme a la Ley de Ordenación de la Edificación y el Código Técnico; la ciudad tramita además un nuevo POUM que conviene consultar antes de comprar parcela. Resuelve dudas de tramitación en <a href=\"/permisos/\">permisos y licencias para casas contenedores</a>.</p>"
    },
    {
@@ -52,8 +52,8 @@
    "titulo": "Preguntas frecuentes sobre casas contenedores en Lleida",
    "items": [
     {
-     "pregunta": "¿Qué licencia pide el Ayuntamiento de Lleida?",
-     "respuesta": "Exige licencia de obra mayor sobre el planeamiento vigente, a la espera del nuevo POUM, con proyecto de arquitecto conforme a la Ley de Ordenación de la Edificación y el Código Técnico, igual que para una vivienda tradicional. El trámite se resuelve en el propio Ayuntamiento antes de empezar la obra."
+     "pregunta": "¿Condiciona el terreno de Lleida el proyecto de una casa contenedor?",
+     "respuesta": "En general no: el término de Lleida es sobre todo una llanura aluvial del Segre, con el cerro de la Seu Vella como único relieve destacado, así que la mayoría de parcelas ofrecen una base uniforme para cimentar. Distinto es el uso: la Horta de regadío que rodea la ciudad tiene vocación agrícola, y ahí el suelo no urbanizable limita el proyecto a construcciones auxiliares, no a vivienda."
     },
     {
      "pregunta": "¿Puedo construir ya con el nuevo POUM de Lleida?",
@@ -65,11 +65,7 @@
     },
     {
      "pregunta": "¿Aguanta el clima de Lleida un proyecto con contenedores?",
-     "respuesta": "Sí, con el proyecto adecuado: el valle del Segre combina veranos muy calurosos, inviernos fríos y boira invernal con inversión térmica, así que conviene reforzar el aislamiento y la ventilación, sin depender de un espesor concreto de material."
-    },
-    {
-     "pregunta": "¿Vendéis contenedores marítimos en Lleida?",
-     "respuesta": "Sí. Además de construir tu vivienda, suministramos <strong>contenedores marítimos</strong> sueltos para almacén, oficina u otros usos en toda la provincia, con origen en los puertos de Barcelona o Tarragona. La ficha de <a href=\"/contenedores-maritimos-lleida/\">contenedores marítimos en Lleida</a> detalla tipos y condiciones de entrega."
+     "respuesta": "Sí, con el proyecto adecuado: la capital está en zona climática D3 del CTE, aunque el valle del Segre suma un matiz propio, la boira invernal con inversión térmica, además de veranos muy calurosos e inviernos fríos. Conviene reforzar el aislamiento envolvente y sumar ventilación cruzada para evitar condensaciones, sin necesidad de fijar aquí un espesor concreto de material."
     }
    ]
   }

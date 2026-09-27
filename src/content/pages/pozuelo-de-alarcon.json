@@ -20,17 +20,17 @@
    {
     "nivel": "h2",
     "titulo": "Casas contenedores en Pozuelo de Alarcón: suelo residencial y trámite municipal",
-    "html": "<p>Pozuelo de Alarcón se rige por la <strong>Ley 9/2001</strong> del Suelo de la Comunidad de Madrid, que en su artículo 13 distingue suelo urbano, urbanizable y no urbanizable de protección. El municipio combina urbanizaciones de baja densidad, como Somosaguas, Húmera o La Finca, con suelo protegido en el Monte de Pozuelo y la Casa de Campo; lo más habitual no es una parcela nueva, sino ampliar la vivienda existente con un estudio, una oficina o una caseta de piscina, respetando la <strong>edificabilidad y los retranqueos</strong> de la ficha del ámbito.</p><p>Terminada la obra no hace falta pedir cédula de habitabilidad autonómica, porque Madrid ya no la exige; en su lugar, el propio Ayuntamiento de Pozuelo de Alarcón tramita la Declaración Responsable de Primera Ocupación y Funcionamiento, junto con las declaraciones responsables de inicio y ejecución de obra y, si el proyecto lo requiere, la licencia urbanística correspondiente.</p>"
+    "html": "<p>Pozuelo de Alarcón se rige por la Ley 9/2001 del Suelo de la Comunidad de Madrid, que en su artículo 13 distingue suelo urbano, urbanizable y no urbanizable de protección. El municipio combina urbanizaciones de baja densidad, como Somosaguas, Húmera o La Finca, con suelo protegido en el Monte de Pozuelo y la Casa de Campo; lo más habitual no es una parcela nueva, sino ampliar la vivienda existente con un estudio, una oficina o una caseta de piscina, respetando la <strong>edificabilidad y los retranqueos</strong> de la ficha del ámbito.</p><p>Terminada la obra no hace falta pedir cédula de habitabilidad autonómica, porque Madrid ya no la exige; en su lugar, el propio Ayuntamiento de Pozuelo de Alarcón tramita la Declaración Responsable de Primera Ocupación y Funcionamiento, junto con las declaraciones responsables de inicio y ejecución de obra y, si el proyecto lo requiere, la licencia urbanística correspondiente.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿Qué trámite sustituye a la cédula de habitabilidad en Pozuelo de Alarcón?",
-    "html": "<p>La Declaración Responsable de Primera Ocupación y Funcionamiento, gestionada por el propio Ayuntamiento dentro de su catálogo de licencias de obra, junto a las declaraciones responsables de inicio y ejecución que acompañan a cada expediente.</p>"
+    "html": "<p>La <strong>Declaración Responsable</strong> de Primera Ocupación y Funcionamiento, gestionada por el propio Ayuntamiento dentro de su catálogo de licencias de obra, junto a las declaraciones responsables de inicio y ejecución que acompañan a cada expediente.</p>"
    },
    {
     "nivel": "h2",
     "titulo": "Cómo llega el contenedor a una urbanización de Pozuelo de Alarcón",
-    "html": "<p>La entrada rodada al municipio se resuelve principalmente por la <strong>M-40</strong>, que atraviesa su interior, con apoyo de la M-503, la M-511 y la A-6 según el barrio de destino; detrás de ese tramo final está la plataforma logística de Coslada, con enlace ferroviario hacia los puertos de Valencia, Algeciras, Bilbao y Barcelona. Las urbanizaciones de La Finca y Somosaguas tienen <strong>viales privados con control de acceso</strong>, así que conviene avisar con antelación para que la grúa y el camión puedan descargar.</p><p>Para el reparto de la carga y las medidas exactas, consulta <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> y <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a>; para otro punto del oeste de Madrid, tenemos también fichas de <a href=\"/las-rozas-de-madrid/\">Las Rozas de Madrid</a> y <a href=\"/mostoles/\">Móstoles</a>.</p>"
+    "html": "<p>La entrada rodada al municipio se resuelve principalmente por la M-40, que atraviesa su interior, con apoyo de la M-503, la M-511 y la A-6 según el barrio de destino; detrás de ese tramo final está la plataforma logística de Coslada, con enlace ferroviario hacia los puertos de Valencia, Algeciras, Bilbao y Barcelona. Las urbanizaciones de La Finca y Somosaguas tienen <strong>viales privados</strong> con control de acceso, así que conviene avisar con antelación para que la grúa y el camión puedan descargar.</p><p>Para el reparto de la carga y las medidas exactas, consulta <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a> y <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a>; para otro punto del oeste de Madrid, tenemos también fichas de <a href=\"/las-rozas-de-madrid/\">Las Rozas de Madrid</a> y <a href=\"/mostoles/\">Móstoles</a>.</p>"
    },
    {
     "nivel": "h3",
@@ -61,10 +61,6 @@
     {
      "pregunta": "¿Qué zona climática aplica en Pozuelo de Alarcón según el CTE?",
      "respuesta": "D3, la misma que corresponde a la provincia de Madrid en la tabla B.1 del DB-HE, con heladas invernales y veranos secos y calurosos. El proyecto debe resolver ambos extremos con aislamiento continuo por el exterior y protección solar en las fachadas más expuestas."
-    },
-    {
-     "pregunta": "¿Qué ocurre con el módulo si se levanta cerca de un arroyo como el Meaques o el de las Huertas?",
-     "respuesta": "Esas vaguadas llevan banda de protección y peor terreno de cimentación, por rellenos y sedimentos sueltos; conviene alejar el módulo del cauce y encargar un estudio geotécnico previo, ya que las arenas y arcillas del resto del término suelen aguantar mejor la cimentación."
     }
    ]
   }

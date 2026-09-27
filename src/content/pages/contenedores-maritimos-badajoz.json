@@ -50,7 +50,7 @@
    {
     "nivel": "h2",
     "titulo": "Zonas de entrega desde Badajoz",
-    "html": "<p>Además de la capital, entregamos contenedores en:</p><ul><li>Cáceres y el resto de la provincia</li><li>Sevilla</li><li>Huelva y el resto del suroeste peninsular</li></ul>"
+    "html": "<p>Además de la capital, entregamos contenedores en:</p><ul><li><a href=\"/contenedores-maritimos-caceres/\">Cáceres</a> y el resto de la provincia</li><li><a href=\"/contenedores-maritimos-sevilla/\">Sevilla</a></li><li>Huelva y el resto del suroeste peninsular</li></ul>"
    }
   ],
   "faq": {

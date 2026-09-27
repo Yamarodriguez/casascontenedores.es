@@ -1798,28 +1798,28 @@
    },
    {
     "nivel": "h2",
-    "titulo": "Zonas de entrega desde Huelva",
-    "html": "<p>Entregamos en la capital y en los municipios del entorno onubense:</p><ul><li>Aljaraque, Gibraleón, Punta Umbría y el área metropolitana.</li><li>Resto de <a href=\"/contenedores-maritimos-andalucia/\">Andalucía</a>, sin distancias ni plazos cerrados de antemano.</li></ul>"
+    "titulo": "Acceso y entrega del contenedor en los municipios de Huelva",
+    "html": "<p>Coordinamos la entrega según el acceso de cada punto de la provincia:</p><ul><li>Aljaraque, Gibraleón, Moguer y el área metropolitana, con calles y accesos habitualmente amplios para el camión y la grúa.</li><li>Resto de <a href=\"/contenedores-maritimos-andalucia/\">Andalucía</a>, sin distancias ni plazos cerrados de antemano.</li></ul>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre contenedores marítimos en Huelva",
    "items": [
     {
-     "pregunta": "¿Tenéis depósito o sede en Huelva?",
-     "respuesta": "No contamos con depósito propio en Huelva: trabajamos la provincia como zona de servicio, con el contenedor saliendo del origen más adecuado y el transporte y la descarga incluidos en el presupuesto puesto en destino. Esto no afecta al plazo de fabricación ni a la calidad del contenedor, solo a la logística de la entrega final."
-    },
-    {
      "pregunta": "¿Entregáis en toda la provincia de Huelva?",
      "respuesta": "Sí, entregamos tanto en la capital como en los municipios del entorno onubense y en la comarca de la fresa, incluidas las zonas rurales con caminos agrícolas de firme irregular. En estos casos valoramos el acceso antes de confirmar el día de entrega, porque el camión y la grúa necesitan espacio suficiente para maniobrar con seguridad."
     },
     {
-     "pregunta": "¿También hacéis casas contenedor en Huelva?",
-     "respuesta": "Sí, además de vender y transportar contenedores marítimos, diseñamos y montamos casas contenedor llave en mano en Huelva y su provincia. La normativa que aplica no es la misma en los dos casos: una vivienda exige proyecto de arquitecto y licencia de obra mayor, mientras que un contenedor como instalación se resuelve con una declaración responsable o una licencia de obra menor."
+     "pregunta": "¿Qué cimentación necesita un contenedor en los cabezos o en las marismas de Huelva?",
+     "respuesta": "Depende del terreno: en los cabezos de arcillas y arenas donde se asienta la ciudad basta con zapatas convencionales, mientras que en las marismas de la confluencia del Odiel y el Tinto, con limos blandos y el nivel freático casi en superficie, hace falta losa o pilotaje y una protección anticorrosión reforzada en la estructura. Un estudio geotécnico previo evita sorpresas antes de fijar la cimentación definitiva."
     },
     {
      "pregunta": "¿Puedo instalar un contenedor en las marismas del Odiel o en el litoral de Huelva?",
      "respuesta": "No sin más trámites: buena parte de las marismas del Odiel y del Tinto está protegida como Reserva de la Biosfera, Ramsar y Red Natura 2000, y el litoral queda bajo la servidumbre de protección de la Ley de Costas de 1988. En estas zonas necesitas informe favorable de Costas o de la Autoridad Portuaria antes de instalar cualquier contenedor, aunque sea temporal."
+    },
+    {
+     "pregunta": "¿Afecta la zona de bajas emisiones de Huelva a la entrega de un contenedor?",
+     "respuesta": "Huelva capital está entre los municipios que la Ley 7/2021 obliga a delimitar una zona de bajas emisiones, aunque su implantación concreta no está confirmada a día de hoy. Si finalmente restringe el acceso de vehículos pesados al centro, coordinamos la ruta y el horario del camión y la grúa para evitar esa zona o cumplir sus condiciones. Conviene consultarlo al planificar la entrega."
     }
    ]
   }

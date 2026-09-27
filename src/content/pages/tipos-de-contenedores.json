@@ -25,7 +25,7 @@
    {
     "nivel": "h3",
     "titulo": "¿Qué significa el código ISO que llevan pintado los contenedores?",
-    "html": "<p>El código ISO 6346 indica en pocas cifras la longitud, la altura y la familia del contenedor, de modo que permite reconocer un dry van, un reefer o un flat rack sin necesidad de abrirlo. Va marcado junto al número de serie y las siglas del propietario, y es el dato que revisan navieras y transportistas en cada movimiento del contenedor.</p><p>El estado de venta se agrupa, además, en categorías comerciales que conviene pedir por escrito antes de cerrar la compra:</p><ul><li><strong>Nuevo</strong> o one trip: un solo viaje, prácticamente sin marcas.</li><li><strong>Cargo worthy (CW)</strong>: apto para carga, con algún golpe o punto de óxido superficial.</li><li><strong>Wind &amp; watertight (WWT)</strong>: estanco, sin garantía estructural completa.</li></ul>"
+    "html": "<p>El código ISO 6346 indica en pocas cifras la longitud, la altura y la familia del contenedor, de modo que permite reconocer un dry van, un reefer o un flat rack sin necesidad de abrirlo. Va marcado junto al número de serie y las siglas del propietario, y es el dato que revisan navieras y transportistas en cada movimiento del contenedor.</p><p>El estado de venta se agrupa, además, en categorías comerciales que conviene pedir por escrito antes de cerrar la compra:</p><ul><li><strong>Nuevo o one trip</strong>: un solo viaje, prácticamente sin marcas.</li><li>Cargo worthy (CW): apto para carga, con algún golpe o punto de óxido superficial.</li><li>Wind &amp; watertight (WWT): estanco, sin garantía estructural completa.</li></ul>"
    },
    {
     "nivel": "h2",
@@ -56,10 +56,6 @@
     {
      "pregunta": "¿Qué es un contenedor pallet wide?",
      "respuesta": "Es una variante con el interior algo más ancho que el estándar, pensada para que quepan más palés europeos por fila. Es un formato de transporte terrestre por carretera y ferrocarril; los contenedores marítimos de 20 y 40 pies que se usan para casas no son pallet wide."
-    },
-    {
-     "pregunta": "¿Se pueden combinar distintos tipos de contenedores en un mismo proyecto?",
-     "respuesta": "Sí. Es habitual combinar dry van o high cube para las estancias con open side donde interesa un hueco de fachada más grande, o sumar un módulo refrigerado o de almacenamiento junto a la vivienda. Cada tipo cumple una función y se combinan según el uso de cada espacio."
     }
    ]
   }

@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "Contenedores en San Cugat del Vallés: cómo preparamos la entrega",
-    "html": "<p>No contamos con depósito propio en la zona: <strong>cada contenedor</strong> se coordina desde el origen más adecuado y se transporta hasta tu dirección, con descarga incluida en el presupuesto puesto en destino.</p><p>El acceso puede complicarse en urbanizaciones con pendiente o en calles estrechas del casco antiguo, donde el camión y la grúa necesitan espacio para maniobrar; avísanos si es tu caso. Prepara también una superficie firme y nivelada que apoye bien las esquineras del contenedor, para evitar golpes o desniveles durante la descarga. Te contamos cómo se organiza el reparto en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+    "html": "<p>El contenedor no sale de una nave propia en la zona: <strong>cada contenedor</strong> se coordina desde el origen más adecuado y se transporta hasta tu dirección, con descarga incluida en el presupuesto puesto en destino.</p><p>El acceso puede complicarse en urbanizaciones con pendiente o en calles estrechas del casco antiguo, donde el camión y la grúa necesitan espacio para maniobrar; avísanos si es tu caso. Prepara también una superficie firme y nivelada que apoye bien las esquineras del contenedor, para evitar golpes o desniveles durante la descarga. Te contamos cómo se organiza el reparto en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
    },
    {
     "nivel": "h3",
@@ -58,19 +58,15 @@
    "items": [
     {
      "pregunta": "¿Entregáis contenedores marítimos en toda la provincia de Barcelona?",
-     "respuesta": "Sí. Esta localidad forma parte de nuestra zona de servicio habitual en el Vallès Occidental, y desde aquí cubrimos el resto de la provincia de Barcelona y municipios cercanos como Sabadell, Terrassa o Rubí. El transporte y la descarga se organizan según tu dirección de entrega y quedan reflejados en el presupuesto antes de confirmar el pedido."
+     "respuesta": "Sí, los Contenedores San Cugat del Vallés forman parte de nuestra zona de servicio habitual en el Vallès Occidental, y desde aquí cubrimos también el resto de la provincia de Barcelona y municipios cercanos como Sabadell, Terrassa o Rubí. El transporte y la descarga se organizan según tu dirección de entrega y quedan reflejados en el presupuesto antes de confirmar el pedido."
     },
     {
-     "pregunta": "¿De dónde viene el contenedor que se entrega en San Cugat del Vallés?",
-     "respuesta": "No contamos con depósito propio en la zona: cada contenedor se coordina desde el origen más adecuado según el modelo y la disponibilidad, y se transporta directamente hasta tu dirección. Eso no afecta a la elección entre unidades nuevas o usadas ni al resto de condiciones, que confirmamos contigo al pedir presupuesto."
+     "pregunta": "¿Es buena idea apilar un contenedor marítimo sobre otro en una parcela residencial?",
+     "respuesta": "No siempre conviene. Los contenedores están diseñados para soportar carga por las cuatro esquineras, así que apilar dos unidades puede ser seguro si se apoyan bien alineadas y la estructura original no se ha modificado con huecos o refuerzos. Si el conjunto va a quedar fijo de forma permanente, conviene contar con un informe técnico antes de instalarlo y revisar además la normativa municipal aplicable."
     },
     {
-     "pregunta": "¿Puedo alquilar un contenedor en lugar de comprarlo?",
-     "respuesta": "Sí, ofrecemos alquiler además de venta. La duración, la fianza y las condiciones de devolución se fijan caso por caso según el uso que le vayas a dar (obra, almacenaje temporal, evento) y quedan recogidas en el contrato antes de la entrega."
-    },
-    {
-     "pregunta": "¿También hacéis casas contenedor en San Cugat del Vallés?",
-     "respuesta": "Sí. Si además de comprar o alquilar un contenedor buscas una vivienda modular para tu parcela, en <a href=\"/san-cugat-del-valles/\">casas contenedores en San Cugat del Vallés</a> tienes la información sobre proyecto, fabricación y montaje llave en mano para toda la zona del Vallès Occidental."
+     "pregunta": "¿Cómo se limpia un contenedor marítimo de segunda mano antes de usarlo como almacén?",
+     "respuesta": "Los contenedores usados han transportado mercancía, así que pueden llegar con restos de suciedad, óxido superficial o humedad acumulada. Antes de darle uso conviene limpiarlo a fondo con agua a presión, ventilarlo bien y revisar el estado de las juntas y la pintura anticorrosión. Si vas a guardar herramientas o material sensible, resulta recomendable repasar también el sellado de puertas y esquineras."
     }
    ]
   }

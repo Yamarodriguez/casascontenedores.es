@@ -1683,12 +1683,12 @@
    {
     "nivel": "h2",
     "titulo": "Qué es un contenedor refrigerado (reefer) y para qué sirve",
-    "html": "<p>Un <strong>contenedor refrigerado</strong> es una unidad con paredes, suelo y techo aislados y un equipo frigorífico integrado en uno de los testeros, que mantiene una temperatura constante dentro de un rango de frío o de congelación. El suelo en T marca unos canales bajo la carga por los que circula el aire desde el evaporador hasta el fondo, así que el frío llega de forma uniforme y no solo por arriba.</p><p>En el sector marítimo también se le llama <strong>reefer</strong>. El equipo se conecta a una toma eléctrica trifásica, en puerto o en tu instalación, o a un generador acoplado al chasis durante el transporte por carretera, y sirve para conservar alimentación y productos frescos, farmacia y material sanitario, o flores, además de actuar como cámara puntual en hostelería, eventos, agricultura o pesca.</p>"
+    "html": "<p>Un <strong>contenedor refrigerado</strong> es una unidad con paredes, suelo y techo aislados y un equipo frigorífico integrado en uno de los testeros, que mantiene una temperatura constante dentro de un rango de frío o de congelación. El suelo en T marca unos canales bajo la carga por los que circula el aire desde el evaporador hasta el fondo, así que el frío llega de forma uniforme y no solo por arriba.</p><p>En el sector marítimo también se le llama reefer. El equipo se conecta a una toma eléctrica trifásica, en puerto o en tu instalación, o a un generador acoplado al chasis durante el transporte por carretera, y sirve para conservar alimentación y productos frescos, farmacia y material sanitario, o flores, además de actuar como cámara puntual en hostelería, eventos, agricultura o pesca.</p>"
    },
    {
     "nivel": "h3",
     "titulo": "¿En qué se diferencia un contenedor isotermo de esta unidad con equipo?",
-    "html": "<p>Un contenedor <strong>isotermo</strong> comparte el aislamiento y la estructura de esta unidad, pero no lleva equipo frigorífico propio, así que solo retiene el frío o el calor que ya tenga la carga en su interior. La versión con equipo genera y mantiene su propia temperatura de forma autónoma gracias al compresor y al evaporador instalados en el testero. Elegir uno u otro depende de si necesitas producir frío de manera activa o solo conservar una temperatura ya alcanzada.</p>"
+    "html": "<p>Un contenedor isotermo comparte el aislamiento y la estructura de esta unidad, pero no lleva equipo frigorífico propio, así que solo retiene el frío o el calor que ya tenga la carga en su interior. La versión con equipo genera y mantiene su propia temperatura de forma autónoma gracias al compresor y al evaporador instalados en el testero. Elegir uno u otro depende de si necesitas producir frío de manera activa o solo conservar una temperatura ya alcanzada.</p>"
    },
    {
     "nivel": "h3",
@@ -1698,7 +1698,7 @@
    {
     "nivel": "h2",
     "titulo": "Qué necesitas para instalar un contenedor refrigerado: medidas y la opción sin equipo",
-    "html": "<p>Antes de recibir la unidad conviene revisar estos puntos:</p><ul><li>Deja libre una <strong>toma eléctrica trifásica</strong> cerca del punto de descarga, o prevé un generador si el emplazamiento no tiene acometida cercana.</li><li>Asegura una base nivelada que reparta el peso sobre las cantoneras, sin que el equipo quede inclinado.</li><li>Reserva espacio junto al testero para que el aire circule y el <strong>compresor</strong> no recaliente.</li><li>Programa una revisión del <strong>ciclo de desescarche</strong> y de las juntas de las puertas, sobre todo si la unidad es de segunda mano.</li></ul><p>El aislamiento interior resta espacio frente a un contenedor estándar de las mismas <a href=\"/medidas-contenedores-maritimos/\">medidas exteriores</a>; se fabrica en versiones de 20 y 40 pies, también en <a href=\"/contenedor-high-cube/\">High Cube</a>. Si no necesitas frío activo, existe la opción de un contenedor aislado sin equipo. Y para una campaña agrícola, pesquera o un evento puntual, el <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a> te da la unidad solo durante esas fechas.</p>"
+    "html": "<p>Antes de recibir la unidad conviene revisar estos puntos:</p><ul><li>Deja libre una <strong>toma eléctrica trifásica</strong> cerca del punto de descarga, o prevé un generador si el emplazamiento no tiene acometida cercana.</li><li>Asegura una base nivelada que reparta el peso sobre las cantoneras, sin que el equipo quede inclinado.</li><li>Reserva espacio junto al testero para que el aire circule y el compresor no recaliente.</li><li>Programa una revisión del <strong>ciclo de desescarche</strong> y de las juntas de las puertas, sobre todo si la unidad es de segunda mano.</li></ul><p>El aislamiento interior resta espacio frente a un contenedor estándar de las mismas <a href=\"/medidas-contenedores-maritimos/\">medidas exteriores</a>; se fabrica en versiones de 20 y 40 pies, también en <a href=\"/contenedor-high-cube/\">High Cube</a>. Si no necesitas frío activo, existe la opción de un contenedor aislado sin equipo, que conserva mejor la temperatura de la carga sin el gasto eléctrico del compresor.</p>"
    },
    {
     "nivel": "h3",
@@ -1722,8 +1722,8 @@
      "respuesta": "Sí, muchos negocios la usan como cámara frigorífica fija en lugar de levantar una obra nueva: solo necesita una base nivelada, la toma eléctrica y espacio de ventilación junto al equipo. Es habitual en hostelería, distribución de alimentación o almacenaje de flores y productos frescos, y se puede combinar con más unidades si el volumen crece."
     },
     {
-     "pregunta": "¿Se puede alquilar por temporada?",
-     "respuesta": "Sí, es una de las formas más habituales de usarlo: alquilarlo solo durante una campaña agrícola, pesquera o un evento puntual, sin asumir el mantenimiento a largo plazo. Las condiciones de duración, recogida y devolución se acuerdan caso por caso; puedes consultarlas en el apartado de <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a>."
+     "pregunta": "¿Cómo se revisan las juntas de las puertas en una unidad de segunda mano?",
+     "respuesta": "Conviene abrir y cerrar las puertas para comprobar que el cierre queda hermético y que la goma no está agrietada, despegada o endurecida, porque una junta en mal estado deja entrar aire caliente y obliga al compresor a trabajar más. También merece la pena mirar el suelo en T por si tiene golpes que dificulten la circulación del aire frío hasta el fondo de la carga."
     }
    ]
   }

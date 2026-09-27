@@ -20,7 +20,7 @@
    {
     "nivel": "h2",
     "titulo": "Qué es un contenedor dry van y en qué se diferencia de otros",
-    "html": "<p>El <strong>contenedor dry van</strong> es el modelo cerrado y sin control de temperatura: chapa de acero corten, cantoneras en las esquinas y puertas dobles en un testero. Es el contenedor marítimo que más se fabrica, pensado para carga seca y paletizada, y punto de partida para una casa contenedor o una oficina modular.</p><p>Se diferencia de otros tipos por la función: el <a href=\"/contenedor-high-cube/\">contenedor high cube</a> gana altura, el open top cambia el techo por una lona y el reefer añade frío. El estándar no trae de fábrica ni ventilación ni aislamiento.</p><p>Las medidas siguen la norma ISO 668: el de 20 pies mide 6,06 × 2,44 × 2,59 m, unos 13,9 m² interiores; el de 40 pies, 12,19 × 2,44 × 2,59 m, unos 28,3 m² interiores. La versión High Cube sube la altura exterior a 2,90 m (2,69 m libres por dentro) y deja 2,35 m de ancho útil, la referencia que necesitas antes de elegir el tamaño para tu proyecto.</p>"
+    "html": "<p>El <strong>contenedor dry van</strong> es el modelo cerrado y sin control de temperatura: chapa de acero corten, cantoneras en las esquinas y puertas dobles en un testero. Es el contenedor marítimo que más se fabrica, pensado para carga seca y paletizada, y punto de partida para una casa contenedor o una oficina modular.</p><p>Se diferencia de otros tipos por la función: el <a href=\"/contenedor-high-cube/\">contenedor high cube</a> gana altura, el open top cambia el techo por una lona y el reefer añade frío. El estándar no trae de fábrica ni ventilación ni aislamiento.</p><p>Antes de comprar conviene mirar la <strong>placa CSC</strong> remachada en una de las puertas: certifica que la estructura ha pasado la inspección que exige el Convenio Internacional sobre Contenedores y es distinta del código que identifica cada unidad. El estado de las juntas de goma de las puertas y del suelo de madera tratada dice mucho más del contenedor real que su mera condición de nuevo o usado.</p>"
    },
    {
     "nivel": "h3",
@@ -36,11 +36,6 @@
     "nivel": "h3",
     "titulo": "¿Hace falta licencia de obra para levantar una casa contenedor?",
     "html": "<p>Sí: levantar una vivienda con contenedores marítimos exige <strong>licencia de obra mayor</strong> en la mayoría de ayuntamientos, igual que cualquier edificación nueva sujeta al Código Técnico de la Edificación y a la Ley de Ordenación de la Edificación. El trámite pasa por un proyecto técnico visado, la dirección facultativa de la obra y el control municipal habitual, y conviene revisarlo en el <a href=\"/permisos/\">apartado de permisos</a> antes de empezar.</p><p>Al terminar la obra hace falta además la <strong>cédula de habitabilidad</strong> o la licencia de primera ocupación, según marque la comunidad autónoma, para poder dar de alta los suministros y empadronarse en la vivienda.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Qué garantiza la resistencia de un contenedor dry van al abrir huecos?",
-    "html": "<p>La resistencia de un contenedor dry van depende de que la chapa siga arriostrada por la estructura perimetral, así que abrir un hueco nuevo para puertas o ventanas obliga a compensarlo con un <strong>refuerzo estructural</strong> en el marco, normalmente un perfil metálico soldado que recupera la rigidez que aportaba la chapa continua.</p><p>En una <strong>casa contenedor de 40 pies</strong> este refuerzo se calcula dentro del proyecto visado, junto con un aislamiento continuo que evite puentes térmicos en las cantoneras y en los pilares de las esquinas.</p>"
    }
   ],
   "faq": {

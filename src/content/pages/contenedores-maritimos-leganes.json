@@ -30,7 +30,7 @@
    {
     "nivel": "h2",
     "titulo": "La red de accesos que recibe el contenedor marítimo en Leganés",
-    "html": "<p>El contenedor marítimo que llega a Leganés pasa primero por el <strong>Puerto Seco de Madrid</strong>, en Coslada, un nodo interior conectado por ferrocarril con los puertos de Valencia -el principal en este corredor-, Algeciras, Barcelona y Bilbao. Desde allí la mercancía sigue por carretera hasta los polígonos del municipio, sin necesidad de pasar de nuevo por un puerto marítimo.</p><p>Dentro de Leganés, el reparto se apoya en las rondas <strong>M-40, M-45 y M-50</strong>, que enlazan con la A-42 y con las vías locales M-406, M-407, M-409 y M-411; a esa malla se suman las líneas de Cercanías y Metrosur, que marcan también el ritmo de accesos en los polígonos.</p>"
+    "html": "<p>El contenedor marítimo que llega a Leganés pasa primero por el <strong>Puerto Seco de Madrid</strong>, en Coslada, un nodo interior conectado por ferrocarril con los puertos de Valencia -el principal en este corredor-, Algeciras, Barcelona y Bilbao. Desde allí la mercancía sigue por carretera hasta los polígonos del municipio, sin necesidad de pasar de nuevo por un puerto marítimo.</p><p>Dentro de Leganés, el reparto se apoya en las <strong>rondas de circunvalación</strong> M-40, M-45 y M-50, que enlazan con la A-42 y con las vías locales M-406, M-407, M-409 y M-411; a esa malla se suman las líneas de Cercanías y Metrosur, que marcan también el ritmo de accesos en los polígonos.</p>"
    },
    {
     "nivel": "h3",
@@ -57,20 +57,8 @@
    "titulo": "Preguntas frecuentes sobre contenedores marítimos en Leganés",
    "items": [
     {
-     "pregunta": "¿Entregáis contenedores marítimos en toda la zona sur de Madrid?",
-     "respuesta": "Sí, la zona sur de la Comunidad de Madrid está dentro de nuestra área habitual de trabajo: Getafe, Fuenlabrada, Alcorcón, Móstoles y la propia Leganés. No mantenemos depósito en ninguno de estos municipios -la unidad sale del punto de almacenaje que corresponda- pero el transporte hasta tu polígono o tu calle queda cerrado en el mismo <strong>presupuesto puesto en destino</strong>."
-    },
-    {
-     "pregunta": "¿Puedo alquilar un contenedor en Leganés en lugar de comprarlo?",
-     "respuesta": "Sí, muchas empresas de los polígonos de Leganés optan por el alquiler para una obra puntual o un uso temporal, ya que evita la inversión inicial de comprar la unidad. Fija de antemano la duración prevista y las condiciones de devolución antes de firmar el contrato."
-    },
-    {
      "pregunta": "¿Qué espacio necesito para recibir un contenedor en un polígono de Leganés?",
      "respuesta": "Hace falta una superficie firme y nivelada, con apoyo en las cuatro cantoneras, y espacio libre suficiente para que el camión maniobre y la grúa despliegue el brazo sin obstáculos. Revisa las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores marítimos</a> antes de preparar el acceso."
-    },
-    {
-     "pregunta": "¿En Leganés también construís casas hechas con contenedores?",
-     "respuesta": "Sí, aunque la venta y el alquiler de contenedores es solo una parte de lo que hacemos en Leganés: con el mismo equipo técnico levantamos también <a href=\"/leganes/\">casas hechas con contenedores</a> en la ciudad y en el resto de la zona sur de Madrid."
     },
     {
      "pregunta": "¿Qué zona climática aplica a un contenedor acondicionado como vivienda u oficina en Leganés?",

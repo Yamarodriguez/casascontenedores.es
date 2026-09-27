@@ -2524,7 +2524,7 @@
    {
     "nivel": "h2",
     "titulo": "Casas contenedores en Vitoria-Gasteiz: heladas, nieblas y aislamiento",
-    "html": "<p>Vitoria-Gasteiz está en zona climática <strong>D1</strong> del Código Técnico, igual que el resto de la Llanada a una altitud parecida; las zonas más altas del municipio suben a E1. El fenómeno más determinante no es el frío puntual, sino las heladas prolongadas, la niebla de valle y una lluvia repartida durante todo el año, así que el aislamiento continuo por el exterior y la rotura de puente térmico en las cantoneras pesan más que en climas más templados.</p>"
+    "html": "<p>Vitoria-Gasteiz está en <strong>zona climática D1</strong> del Código Técnico, igual que el resto de la Llanada a una altitud parecida; las zonas más altas del municipio suben a E1. El fenómeno más determinante no es el frío puntual, sino las heladas prolongadas, la niebla de valle y una lluvia repartida durante todo el año, así que el aislamiento continuo por el exterior y la rotura de puente térmico en las cantoneras pesan más que en climas más templados.</p>"
    },
    {
     "nivel": "h3",
@@ -2570,10 +2570,6 @@
     {
      "pregunta": "¿Tiene sentido un módulo de contenedor marítimo para una empresa de Júndiz?",
      "respuesta": "Sí: el polígono de Júndiz concentra industria de automoción, aeronáutica y logística, un tipo de actividad que suele necesitar almacén u oficina modular sin obra fija. Un <strong>contenedor marítimo adaptado</strong> resuelve ese uso auxiliar con rapidez. Consulta la ficha de <a href=\"/contenedores-maritimos-alava/\">contenedores marítimos en Álava</a> para ver medidas y condiciones de entrega en la provincia."
-    },
-    {
-     "pregunta": "¿Qué exige realmente el clima de la Llanada a una casa contenedor en Vitoria-Gasteiz?",
-     "respuesta": "Más que el frío puntual, lo que pide vigilancia son las heladas prolongadas y la niebla de valle que cubre la capital buena parte del invierno, unidas a una zona climática D1 del Código Técnico. La solución pasa por el <strong>aislamiento continuo</strong> por el exterior y por resolver bien el puente térmico en las cantoneras de unión entre módulos."
     }
    ]
   }
