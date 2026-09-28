@@ -18,6 +18,15 @@
     "alquiler",
     "estudio-parcela"
    ]
+  },
+  "/casas-prefabricadas/": {
+   "antetitulo": "Para tu casa prefabricada",
+   "h2": "Servicios para casas prefabricadas de contenedores, de la parcela al acabado",
+   "intro": "<p>Además de la casa prefabricada llave en mano, puedes contratar por separado <strong>servicios para tu proyecto</strong>: el estudio de la parcela antes de comprarla, el transporte hasta el terreno, el aislamiento, la instalación eléctrica, la pintura, la reparación o el traslado de una unidad ya instalada.</p><p>Cada trabajo se presupuesta a medida según el contenedor, el uso y la parcela. Tienes el detalle en <a href=\"/servicios/\">todos los servicios para contenedores</a>.</p>",
+   "excluir": [
+    "alquiler",
+    "tasacion"
+   ]
   }
  },
  "tarjetas": [

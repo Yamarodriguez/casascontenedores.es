@@ -3,8 +3,8 @@
  "ruta": "/casas-prefabricadas/",
  "titulo": "Casas Prefabricadas",
  "h1": "Casas Prefabricadas, Arquitectura y Construcción Modular",
- "tituloSeo": "Casas Prefabricadas - Arquitectura y construcción de casas prefabricadas",
- "descripcion": "casas prefabricadas ✅, Construcción de casa prefabricadas, Casas Prefabricadas precios y diseños, tu vivienda prefabricada ✅",
+ "tituloSeo": "Casas prefabricadas de contenedores: precios y modelos",
+ "descripcion": "Casas prefabricadas con contenedores marítimos, llave en mano en toda España: modelos de 15 a 120 m², precio orientativo, licencia y presupuesto cerrado.",
  "palabraClave": "casas prefabricadas",
  "noindex": false,
  "hero": {
@@ -87,7 +87,7 @@
        "alinearMovil": "center",
        "margen": "0px 87px 0px 0px",
        "margenMovil": "0px 0px 0px 0px",
-       "html": "<p><span><strong>Casas prefabricadas</strong>, Se habilitara próximamente, estamos realizando modificaciones para mejorar la usabilidad del usuario, disculpe las molestias. </span></p><p><span> </span></p>",
+       "html": "<p>Las <strong>casas prefabricadas de contenedores</strong> que construimos parten de contenedores marítimos de 20 y 40 pies: una estructura de acero ya fabricada que en taller se corta, se refuerza, se aísla y se termina con instalaciones y acabados. A tu parcela llega una vivienda casi terminada, y en obra quedan la cimentación, la descarga con grúa, las uniones entre módulos y la conexión a los suministros. Así el trabajo en el terreno es más corto y la fabricación, bajo cubierta, depende menos del clima.</p><p>Hacemos tu <strong>casa prefabricada llave en mano</strong> en toda España. Redactamos el proyecto con arquitecto y tramitamos la licencia de obra mayor, igual que en cualquier vivienda. Los módulos se fabrican en taller mientras en la parcela se hace la cimentación, y después nos encargamos del transporte, el izado y el montaje hasta la entrega.</p><p>Puedes elegir entre modelos de casas prefabricadas de 15 a 120 m², desde un estudio de un solo contenedor hasta una vivienda familiar de cuatro módulos en una o dos plantas, o partir de un diseño a medida que podrás ver antes de empezar. Como referencia, el metro cuadrado de una casa contenedor ronda los 600 a 800 €, sin contar el terreno, las acometidas, la licencia ni el transporte.</p><p>El precio final queda fijado en un <strong>presupuesto cerrado</strong> y desglosado por partidas, que separa lo incluido de lo que va aparte e indica el plazo previsto. Para empezar, cuéntanos qué buscas y, si ya tienes parcela, dónde está: revisamos contigo que admita uso residencial y que el camión y la grúa puedan llegar hasta el punto de descarga, porque el acceso condiciona el transporte y el montaje de tu casa.</p>",
        "color": "#373535",
        "tipo": {
         "familia": "Roboto",
@@ -1803,14 +1803,16 @@
         "familia": "Roboto",
         "tamano": 20,
         "peso": "600"
-       }
+       },
+       "url": "/casas-modulares/"
       },
       {
        "t": "imagen",
        "id": "ea004ab",
        "src": "/wp-content/uploads/2021/06/casas-de-contenedores.jpg",
        "alt": "",
-       "ancho": "100%"
+       "ancho": "100%",
+       "url": "/casas-modulares/"
       }
      ],
      "ancho": 50,
@@ -1828,33 +1830,43 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Casas prefabricadas con contenedores marítimos: qué son y cómo se fabrican",
-    "html": "<p>Una casa prefabricada con contenedores marítimos parte de <strong>módulos ISO 668</strong> que se cortan, refuerzan y visten por dentro en taller: aislamiento, instalaciones, carpintería y acabados se resuelven bajo cubierta. En la parcela solo queda preparar la cimentación, recibir los módulos con grúa y unirlos entre sí.</p><p>La ventaja de partir de un contenedor es que la estructura ya existe: es rígida, modular y permite combinar varias unidades según el <a href=\"/modelos/\">modelo</a> que elijas. Tiene también límites que conviene conocer: el ancho interior útil ronda los 2,35 m por módulo, abrir huecos grandes obliga a reforzar las cantoneras que soportan la carga, el aislamiento exige cuidado para evitar el <strong>puente térmico del acero</strong>, y sin mantenimiento de la pintura la corrosión avanza como en cualquier estructura metálica.</p>"
+    "titulo": "Casas prefabricadas con contenedores marítimos: qué son, medidas y límites",
+    "html": "<p>Una <strong>casa prefabricada con contenedores</strong> se compone de módulos de acero con las medidas exteriores que fija la norma ISO 668 para los contenedores marítimos: el de 20 pies mide 6,06 × 2,44 × 2,59 m y el de 40 pies, 12,19 × 2,44 × 2,59 m; en vivienda lo habitual es la versión High Cube, que sube a 2,90 m de alto por fuera. Esas medidas mandan en el diseño: cada módulo es largo y estrecho, así que las viviendas más amplias se consiguen uniendo varios en paralelo o apilándolos en dos plantas, como en nuestros <a href=\"/modelos/\">modelos de casas contenedor</a>.</p><p>La ventaja de partir de un contenedor es que la estructura ya existe y es rígida. El contenedor tiene también límites que conviene conocer: el ancho interior útil ronda los 2,35 m por módulo, abrir huecos grandes obliga a reforzar la estructura, el aislamiento exige cuidado para evitar el <strong>puente térmico del acero</strong> y, sin mantenimiento de la pintura, la corrosión avanza como en cualquier estructura metálica.</p><p>Cada uno tiene solución desde el proyecto; los repasamos en <a href=\"/inconvenientes-casas-contenedores/\">inconvenientes de las casas contenedor</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Se pueden abrir muchas ventanas en un contenedor marítimo sin debilitar la estructura?",
-    "html": "<p>Sí, es posible abrir varias ventanas en un contenedor marítimo siempre que cada hueco se compense reforzando la estructura, porque las paredes onduladas y las esquinas son las que soportan la carga vertical del módulo. Un proyecto de casa contenedor bien calculado señala dónde colocar refuerzos con perfiles metálicos antes de cortar puertas o ventanas, de modo que el conjunto siga cumpliendo el <strong>Código Técnico de la Edificación</strong> en materia de seguridad estructural.</p>"
+    "titulo": "¿Se pueden abrir muchas ventanas en una casa prefabricada de contenedores?",
+    "html": "<p>Sí, siempre que cada hueco se compense <strong>reforzando la estructura</strong>, porque las paredes onduladas y las esquinas del contenedor son las que soportan la carga del módulo. El proyecto de una casa prefabricada de contenedores señala dónde colocar marcos y perfiles metálicos antes de cortar puertas o ventanas, de modo que el conjunto siga cumpliendo el Código Técnico de la Edificación en seguridad estructural. El número de huecos lo fija el cálculo estructural del proyecto, no una cifra estándar.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Contenedor, hormigón, madera o acero ligero: comparativa",
-    "html": "<p>Elegir <strong>sistema constructivo</strong> depende de tus prioridades. Esta comparativa es cualitativa, sin cifras: cada <a href=\"/presupuesto-casas-contenedores/\">presupuesto</a> varía según calidades y proyecto.</p><table><thead><tr><th>Sistema</th><th>Estructura</th><th>Transporte</th><th>Personalización</th><th>Comportamiento térmico</th></tr></thead><tbody><tr><td>Contenedor marítimo</td><td>Ya construida, modular</td><td>Módulos completos con grúa</td><td>Alta combinando módulos</td><td>Exige aislamiento continuo, puente térmico en el acero</td></tr><tr><td>Hormigón</td><td>Se levanta en obra</td><td>Materiales sueltos</td><td>Muy alta, sin límite de módulo</td><td>Buena inercia térmica</td></tr><tr><td>Madera (entramado ligero)</td><td>Paneles prefabricados</td><td>Piezas ligeras, montaje rápido</td><td>Alta</td><td>Buen aislante natural</td></tr><tr><td>Acero ligero</td><td>Perfiles prefabricados</td><td>Piezas ligeras, montaje en seco</td><td>Alta</td><td>Necesita aislamiento, sin masa térmica propia</td></tr></tbody></table><p>En los cuatro casos la licencia y el <strong>proyecto visado</strong> son los mismos: la vivienda se convierte en bien inmueble en cuanto queda anclada al terreno, sea cual sea el material.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Necesitan licencia de obra todos los sistemas de construcción prefabricada?",
-    "html": "<p>Sí, la normativa no distingue según el material: cualquier vivienda permanente, ya sea de contenedor, hormigón, madera o acero ligero, necesita <strong>licencia de obra mayor</strong> y un proyecto firmado por un arquitecto conforme a la Ley de Ordenación de la Edificación. Lo que cambia entre sistemas es el proceso de fabricación y montaje, no el trámite administrativo que exige el ayuntamiento.</p>"
+    "titulo": "Tipos de casas prefabricadas: contenedor, hormigón, madera y acero ligero",
+    "html": "<p>Los cuatro sistemas se fabrican fuera de la parcela, pero no llegan igual al terreno: en <strong>módulos tridimensionales</strong> ya cerrados o en paneles planos que se levantan y unen en obra. El contenedor llega siempre como módulo; la madera, el acero ligero y el hormigón admiten las dos vías, y la diferencia entre módulos y paneles la explicamos en nuestra guía de <a href=\"/casas-modulares/\">casas modulares</a>. La tabla resume en qué se diferencian:</p><table><thead><tr><th>Sistema</th><th>Estructura</th><th>Transporte</th><th>Personalización</th><th>Comportamiento térmico</th></tr></thead><tbody><tr><td>Contenedor marítimo</td><td>Módulo de acero ya fabricado</td><td>Módulos completos con grúa</td><td>Alta combinando módulos</td><td>Exige aislamiento continuo por el puente térmico del acero</td></tr><tr><td>Hormigón</td><td>Paneles o módulos de hormigón armado</td><td>Piezas pesadas, con grúa</td><td>Alta</td><td>Buena inercia térmica</td></tr><tr><td>Madera</td><td>Paneles de entramado o CLT, o módulos cerrados</td><td>Paneles o módulos ligeros</td><td>Alta</td><td>Buen aislante natural</td></tr><tr><td>Acero ligero</td><td>Perfiles tipo steel frame, en paneles o módulos</td><td>Paneles o módulos ligeros, montaje en seco</td><td>Alta</td><td>Necesita aislamiento, sin masa térmica propia</td></tr></tbody></table>"
    },
    {
     "nivel": "h2",
-    "titulo": "Permisos y cómo elegir fabricante",
-    "html": "<p>Mientras el contenedor no está anclado al suelo es un bien mueble; en cuanto se ancla y se dota de cimentación pasa a ser inmueble y necesita la misma <a href=\"/permisos/\">licencia de obra</a> que cualquier vivienda, con <strong>proyecto visado por arquitecto</strong>. Antes de encargar tu casa, conviene comprobar del fabricante:</p><ul><li>Presupuesto desglosado por partidas, no un precio cerrado sin detalle</li><li>Memoria de calidades que especifique aislamiento, carpintería e instalaciones</li><li>Garantías conforme a la LOE (estructurales, de instalaciones y de acabados)</li><li>Posibilidad de visitar el taller donde se fabrican los módulos</li><li>Plazos por escrito en el contrato, no solo de palabra</li><li>Quién tramita la licencia: tú, el arquitecto o el propio fabricante</li></ul>"
+    "titulo": "Qué hace variar el precio de una casa prefabricada de contenedores",
+    "html": "<p>El <strong>precio orientativo</strong> de 600 a 800 € el metro cuadrado que damos en <a href=\"/precios/\">precios de casas contenedores</a> cubre solo la construcción del módulo y sus acabados: no incluye el terreno, el estudio geotécnico, las acometidas, la licencia y sus tasas, la gestión, el transporte ni el equipamiento.</p><p>Lo que más mueve el coste final es el número y el tipo de contenedores, cuántos huecos se abren y refuerzan, el aislamiento según la zona climática, los acabados y las instalaciones, y el acceso de la grúa a tu parcela. El precio se cierra en el <a href=\"/presupuesto-casas-contenedores/\">presupuesto desglosado por partidas</a>, una vez definidos el diseño y la memoria de calidades, y ese precio pasa al contrato; hasta entonces, cualquier cifra es orientativa.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Qué diferencia hay entre la licencia de obra y la licencia de primera ocupación?",
-    "html": "<p>La licencia de obra mayor autoriza a construir la vivienda y se tramita antes de empezar los trabajos, mientras que la licencia de primera ocupación se solicita al terminar la obra y certifica que la casa cumple el proyecto visado y es apta para habitarla. Sin esta segunda licencia no se puede dar de alta el suministro ni solicitar la <strong>cédula de habitabilidad</strong>.</p>"
+    "titulo": "¿Qué incluye una casa prefabricada llave en mano y qué va aparte?",
+    "html": "<p>Una <strong>casa prefabricada llave en mano</strong> es la vivienda terminada, no solo el módulo: proyecto técnico, contenedores reforzados, aislamiento, instalaciones, acabados, cimentación, transporte y montaje. El terreno, las acometidas y la licencia con sus tasas van aparte; tienes el desglose partida a partida en nuestra guía de <a href=\"/precios/\">qué incluye el precio de una casa contenedor</a>. Dentro del llave en mano, la cimentación y el montaje con grúa son las partidas que más dependen del terreno: las fijan el estudio geotécnico y el acceso a la parcela.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Eficiencia energética y aislamiento de una casa prefabricada",
+    "html": "<p>En una casa prefabricada de contenedores, la chapa de acero transmite el calor y el frío con facilidad, así que la eficiencia depende de un <strong>aislamiento continuo</strong> que no deje puentes térmicos en cantoneras, uniones y refuerzos. Se resuelve por fuera, con SATE o fachada ventilada, o por dentro, con poliuretano proyectado, lana mineral o panel sándwich, siempre con barrera de vapor y carpinterías con rotura de puente térmico.</p><p>El proyecto justifica el cumplimiento del DB-HE, el documento de ahorro de energía del Código Técnico, y al terminar la obra la vivienda obtiene su <strong>certificado energético</strong>. La ventilación completa el aislamiento para evitar condensaciones, y puedes sumar instalaciones como aerotermia o fotovoltaica. Tienes más detalle en <a href=\"/aislamiento-contenedores/\">aislamiento de contenedores</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Licencia de una casa prefabricada y cómo elegir fabricante",
+    "html": "<p>Pedir la <a href=\"/permisos/\">licencia de obra</a> exige un <strong>proyecto firmado por arquitecto</strong> y visado por su colegio profesional, así que conviene saber desde el principio quién se encarga de cada paso. Antes de encargar tu casa prefabricada, comprueba con el fabricante estos puntos:</p><ul><li>Presupuesto desglosado por partidas, no una cifra global sin detalle</li><li>Memoria de calidades que especifique aislamiento, carpintería e instalaciones</li><li>Garantías de la LOE por escrito: diez años para la estructura, tres para la habitabilidad y uno para los acabados</li><li>Si el precio incluye el transporte, la grúa y el montaje en tu parcela</li><li>Plazos por escrito en el contrato, no solo de palabra</li><li>Quién tramita la licencia: tú, el arquitecto o el propio fabricante</li></ul>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué diferencia hay entre la licencia de obra y la de primera ocupación de una casa prefabricada?",
+    "html": "<p>La licencia de obra mayor autoriza a construir la casa prefabricada y se tramita antes de empezar los trabajos. Al terminar se solicita la <strong>licencia de primera ocupación</strong>, o se presenta la declaración responsable donde la normativa autonómica o municipal lo prevé, para acreditar que la vivienda se ajusta al proyecto y es apta para habitarla. En algunas comunidades autónomas se exige además, o en su lugar, la cédula de habitabilidad. Sin ese trámite final, en muchos casos no puedes contratar los suministros definitivos.</p>"
    }
   ],
   "faq": {
@@ -1862,23 +1874,47 @@
    "items": [
     {
      "pregunta": "¿Una casa prefabricada necesita licencia de obra?",
-     "respuesta": "Sí. En cuanto queda anclada al terreno y se dota de cimentación, es una vivienda como cualquier otra: necesita licencia de obra mayor, proyecto firmado por arquitecto y cumplir el Código Técnico de la Edificación. La prefabricación agiliza la fabricación, pero no exime de ningún trámite urbanístico ni de la licencia municipal."
+     "respuesta": "Sí. Si va a ser vivienda, necesita licencia de obra mayor y un proyecto firmado por arquitecto, y debe cumplir el Código Técnico de la Edificación. Da igual el material, que llegue en módulos o en paneles o que vaya anclada o solo apoyada: la normativa mira el uso, no el sistema constructivo."
     },
     {
      "pregunta": "¿Se puede hipotecar una casa prefabricada?",
-     "respuesta": "Una vez inscrita como vivienda con licencia de primera ocupación y cédula de habitabilidad, se registra como bien inmueble y puede hipotecarse igual que una construcción tradicional. La entidad bancaria valorará el proyecto, la cimentación y las calidades igual que en cualquier tasación; no todos los bancos tienen el mismo criterio."
+     "respuesta": "Sí. Si la construyes en tu terreno, la vía habitual es la <strong>hipoteca de autopromoción</strong>: con la licencia de obra concedida, el banco libera el dinero por fases, a medida que el técnico certifica la cimentación, el montaje y los acabados. Si la compras terminada, se hipoteca como cualquier vivienda con su licencia o declaración de primera ocupación, o con la cédula de habitabilidad donde se exija. Lo explicamos en <a href=\"/financiacion-casas-contenedores/\">financiación de casas contenedores</a>."
     },
     {
      "pregunta": "¿Se puede trasladar una casa prefabricada después de construida?",
-     "respuesta": "Depende de cómo se haya anclado. Si los módulos se fijan a una cimentación continua, moverla implica una obra de desmontaje; si se apoyan sobre zapatas puntuales o pilotes, el traslado es más sencillo. En cualquier caso hace falta grúa y transporte especial, y volver a tramitar los permisos en el nuevo emplazamiento."
-    },
-    {
-     "pregunta": "¿Qué diferencia hay entre casa modular y casa prefabricada?",
-     "respuesta": "Prefabricada es cualquier vivienda cuyas partes se fabrican fuera de la parcela; modular es un tipo concreto de prefabricada hecha con módulos volumétricos completos (como los contenedores) que se transportan ya terminados. Toda casa modular es prefabricada, pero no toda prefabricada es modular: también hay paneles, entramados o kits que se montan en obra."
+     "respuesta": "Depende de cómo se haya anclado. Si los módulos se fijan a una cimentación continua, trasladar la casa implica una obra de desmontaje; si se apoyan sobre zapatas puntuales, pilotes o tornillos, el traslado es más sencillo. En cualquier caso, hay que desmontar anclajes y acometidas, izar los módulos, casi siempre con grúa, y pedir una nueva licencia en el destino. Lo vemos en <a href=\"/traslado-contenedores/\">traslado de contenedores</a>."
     },
     {
      "pregunta": "¿Cuánto dura una casa prefabricada de contenedores?",
      "respuesta": "La estructura de acero, bien protegida y con revisiones periódicas de pintura, sellados y aislamiento, se comporta como cualquier construcción metálica de larga duración. No existe una cifra única válida para todos los casos: depende del mantenimiento, del clima de la zona y de la calidad de fabricación de cada módulo."
+    },
+    {
+     "pregunta": "¿Qué IVA se paga en una casa prefabricada?",
+     "respuesta": "Depende de lo que contrates. La obra de una vivienda con proyecto y licencia suele tributar al <strong>tipo reducido del IVA</strong>, hoy del 10 %, mientras que la compra de un módulo suelto sin obra asociada va al tipo general, del 21 %. En Canarias no se aplica el IVA sino el IGIC, y en Ceuta y Melilla, el IPSI. Como cada caso tiene matices, confírmalo con tu asesor fiscal antes de firmar."
+    },
+    {
+     "pregunta": "¿Qué garantías tiene una casa prefabricada?",
+     "respuesta": "Las de cualquier vivienda nueva según la Ley de Ordenación de la Edificación: diez años para los daños que afectan a la estructura, tres para los que impiden cumplir los requisitos de habitabilidad y uno para los defectos de acabado. El <strong>seguro decenal</strong> es obligatorio en toda vivienda nueva; solo se libra el autopromotor de una única vivienda unifamiliar para uso propio, que tendrá que contratarlo por el tiempo que falte si la vende antes de diez años, salvo pacto con el comprador."
+    },
+    {
+     "pregunta": "¿Se puede poner una casa prefabricada en suelo rústico?",
+     "respuesta": "Como norma general, no: el suelo rústico no admite vivienda nueva salvo las excepciones de cada ley autonómica, como la vivienda vinculada a una explotación agraria en activo. Que la casa prefabricada no lleve cimentación tradicional no cambia nada: sigue siendo una edificación. Pide la cédula urbanística antes de comprar el terreno y lee nuestra guía de <a href=\"/casa-contenedor-suelo-rustico/\">casa contenedor en suelo rústico</a>."
+    },
+    {
+     "pregunta": "¿Qué debe tener la parcela para instalar una casa prefabricada?",
+     "respuesta": "Antes de comprarla o de encargar la casa, comprueba que admite uso residencial según el planeamiento municipal, que tiene un <strong>acceso para camión y grúa</strong> hasta el punto de descarga y que dispone de acometidas de agua, luz y saneamiento, o de sitio para una fosa homologada. El estudio geotécnico dirá, además, qué cimentación pide el terreno. Lo revisamos todo en nuestro <a href=\"/estudio-de-parcela/\">estudio de parcela</a>."
+    },
+    {
+     "pregunta": "¿Se puede personalizar el diseño de una casa prefabricada de contenedores?",
+     "respuesta": "Sí. Partes de un modelo o de un diseño a medida y decides la distribución, los huecos, la cubierta, el revestimiento exterior, los acabados y las instalaciones; también puedes añadir un porche. Lo que marca el módulo es el ancho interior de cada contenedor, de unos 2,35 m, y el refuerzo que lleva cada hueco nuevo. En <a href=\"/renders/\">diseños y renders 3D</a> puedes ver tu casa antes de fabricarla."
+    },
+    {
+     "pregunta": "¿Cuánto se tarda en tener una casa prefabricada de contenedores?",
+     "respuesta": "El plazo varía con el tamaño y el proyecto, pero el calendario real lo marca sobre todo la <strong>licencia de obra</strong>, que depende del ayuntamiento y no del sistema constructivo. Con la licencia concedida, la fabricación en taller y la cimentación en la parcela avanzan a la vez. Tienes cada fase en <a href=\"/tiempos-de-construccion-de-casas-con-contenedores/\">tiempos de construcción</a>."
+    },
+    {
+     "pregunta": "¿Qué cimentación necesita una casa prefabricada de contenedores?",
+     "respuesta": "Depende del terreno, y lo decide el <strong>estudio geotécnico</strong>. Como el contenedor carga sobre sus esquinas, lo habitual son zapatas aisladas bajo cada cantonera; si el suelo tiene poca capacidad portante se recurre a una losa, y con relleno, humedad o pendiente, a pilotes o tornillos helicoidales. Lo explicamos en <a href=\"/cimentacion-casas-contenedores/\">cimentación de casas contenedores</a>."
     }
    ]
   }
