@@ -1,0 +1,15 @@
+{
+ "_nota": "Orden de la rejilla de tipos de contenedor (104 paginas), pedido por el propietario: primero los estandar (por tamaño y de uso general) y despues los especiales. 'patron' se busca en el titulo en minusculas y sin tildes. Lo aplican src/utils/tipos.js al pintar y scripts/comparar-encabezados.mjs al comparar con la web en vivo.",
+ "tipos": [
+  { "clave": "20-pies", "patron": "\\b20 pies\\b" },
+  { "clave": "40-pies", "patron": "\\b40 pies\\b" },
+  { "clave": "high-cube", "patron": "high cube" },
+  { "clave": "dry-van", "patron": "dry van" },
+  { "clave": "almacenamiento", "patron": "almacen" },
+  { "clave": "ventilado", "patron": "ventilad" },
+  { "clave": "open-top", "patron": "open top" },
+  { "clave": "open-side", "patron": "open side" },
+  { "clave": "flat-rack", "patron": "flat rack" },
+  { "clave": "refrigerado", "patron": "refrigera" }
+ ]
+}

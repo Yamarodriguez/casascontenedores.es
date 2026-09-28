@@ -18,6 +18,8 @@ const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsa
     action={hayClave ? site.formulario.accion : undefined}
     method={hayClave ? 'POST' : undefined}
     onsubmit={hayClave ? undefined : 'return false'}
+    data-web3forms={hayClave ? '' : undefined}
+    data-whatsapp={wa}
   >
     {hayClave && (
       <>
@@ -62,3 +64,8 @@ const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsa
       : <p class="enviar"><a class="boton-enviar" href={wa} target="_blank" rel="noopener">ESCRÍBENOS POR WHATSAPP</a></p>}
   </form>
 </div>
+
+<script>
+  // envio sin salir de la pagina y aviso de "Mensaje enviado" (src/scripts/formularios.js)
+  import '../scripts/formularios.js';
+</script>

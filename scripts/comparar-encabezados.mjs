@@ -75,6 +75,32 @@ const RENOMBRES = (() => {
   return Object.fromEntries(Object.entries(datos).map(([ruta, m]) =>
     [ruta, new Map(Object.entries(m).map(([k, v]) => [normalizar(k), normalizar(v)]))]));
 })();
+// Tercer cambio permitido y documentado: la rejilla de tipos de contenedor
+// ("Contenedor 20 Pies", "Contenedor High cube"...) se pinta en el orden que
+// pidio el propietario (src/data/orden-tipos.json, lo aplica
+// src/utils/tipos.js). Cada tanda seguida de h3 de tipo del original se
+// compara ya reordenada; el resto de la pagina, igual que siempre.
+const ORDEN_TIPOS = (() => {
+  const f = path.join(RAIZ, 'src', 'data', 'orden-tipos.json');
+  if (!fs.existsSync(f)) return [];
+  return JSON.parse(fs.readFileSync(f, 'utf8')).tipos.map((t) => new RegExp(t.patron));
+})();
+const sinTildes = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '');
+const rangoTipo = (e) => (e.nivel === 'h3' ? ORDEN_TIPOS.findIndex((p) => p.test(sinTildes(e.texto))) : -1);
+function ordenarTandasDeTipos(lista) {
+  const salida = [...lista];
+  for (let i = 0; i < salida.length;) {
+    let j = i;
+    while (j < salida.length && rangoTipo(salida[j]) >= 0) j++;
+    if (j - i >= 3) {
+      const tanda = salida.slice(i, j).map((e, k) => ({ e, k })).sort((a, b) => rangoTipo(a.e) - rangoTipo(b.e) || a.k - b.k);
+      salida.splice(i, j - i, ...tanda.map((x) => x.e));
+    }
+    i = Math.max(j, i + 1);
+  }
+  return salida;
+}
+
 const informe = [];
 let iguales = 0, conFaltas = 0, revisadas = 0;
 
@@ -99,8 +125,8 @@ for (const [ruta, datos] of Object.entries(vivo)) {
     .map((e) => ({ nivel: e.nivel, texto: normalizar(e.texto) }))
     .filter((e) => e.texto);
   const renombres = RENOMBRES[ruta];
-  const antes = enMain.filter((e, i) => !(i === 0 && e.nivel === 'h1' && bandaVivas.has(e.texto)))
-    .map((e) => (renombres?.has(e.texto) ? { ...e, texto: renombres.get(e.texto) } : e));
+  const antes = ordenarTandasDeTipos(enMain.filter((e, i) => !(i === 0 && e.nivel === 'h1' && bandaVivas.has(e.texto)))
+    .map((e) => (renombres?.has(e.texto) ? { ...e, texto: renombres.get(e.texto) } : e)));
 
   const ahora = encabezadosDe(fs.readFileSync(destino, 'utf8'));
   const textosAhora = ahora.map((e) => e.texto);

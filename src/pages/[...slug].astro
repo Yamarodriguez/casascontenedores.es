@@ -24,6 +24,7 @@ import { pintar, seccionAmpliacion, rebajarH1 } from '../utils/render.js';
 import { localidadDe } from '../utils/localidades.js';
 import { anadirModelos, anadirFaq, tieneFaq, esCiudad, anadirZonas } from '../utils/comunes.js';
 import { aplicarRenombres } from '../utils/renombres.js';
+import { ordenarTipos } from '../utils/tipos.js';
 import { sanearImagenes, existe } from '../utils/imagenes.js';
 // medidas y fondo de cada foto (scripts/analizar-imagenes.mjs): un producto
 // sobre fondo blanco se enseña entero, una foto de verdad se recorta
@@ -57,6 +58,9 @@ const modelosM2 = Object.fromEntries(
 const bloques = structuredClone(pagina.bloques || []);
 const h1 = pagina.titulo;
 rebajarH1(bloques);
+// la rejilla de tipos de contenedor, en el orden que pidio el propietario:
+// primero los estandar y luego los especiales (src/utils/tipos.js)
+ordenarTipos(bloques);
 
 // Localidad de la pagina, para que la franja de cierre pueda nombrarla
 // ("¿Quieres una casa contenedor en Lugo?"). Sale de la tabla que construye

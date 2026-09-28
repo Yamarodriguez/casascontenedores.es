@@ -467,6 +467,23 @@ iframe { max-width: 100%; border: 0; }
 }
 .formulario button:hover,
 .formulario .boton-enviar:hover { background: var(--verde-osc); color: #fff; transform: translateY(-1px); box-shadow: 0 6px 16px -8px rgba(14,122,60,.7); }
+.formulario button:disabled { opacity: .7; cursor: wait; transform: none; box-shadow: none; }
+
+/* aviso tras enviar un formulario, en su mismo sitio (src/scripts/formularios.js) */
+.form-aviso {
+  margin: 4px 0 0; padding: 22px 20px;
+  border-radius: var(--radio-l); border: 1px solid var(--verde);
+  background: var(--verde-claro, #e8f5ec); color: var(--ink);
+  text-align: center; outline: none;
+}
+.form-aviso[data-tipo="error"] { border-color: #c0392b; background: #fdf1ef; }
+.form-aviso__titulo { margin: 0 0 6px; font-family: var(--titular); font-size: 20px; font-weight: 700; }
+.form-aviso[data-tipo="ok"] .form-aviso__titulo::before {
+  content: "✓"; display: block; width: 44px; height: 44px; margin: 0 auto 10px;
+  border-radius: 50%; background: var(--verde); color: #fff; font-size: 24px; line-height: 44px;
+}
+.form-aviso__texto { margin: 0; font-size: 15px; line-height: 1.55; color: var(--texto); }
+.form-aviso__enlace { display: inline-block; margin-top: 12px; font-weight: 700; color: var(--verde-osc); }
 
 /* --------------------------------------------------------- franja de cierre
    (Cierre.astro) Contenido nuevo, después de todo lo original. Verde de la

@@ -16,7 +16,9 @@ import { aWebp, existe } from '../utils/imagenes.js';
 
 const { ruta = '/' } = Astro.props;
 const enServicios = ruta === '/servicios/';
-const cabecera = enServicios ? datos.servicios : datos.home;
+// cabecera propia de la pagina si la tiene (servicios.json -> cabeceras), si no
+// la de /servicios/ (sin entradilla) o la de la portada
+const cabecera = datos.cabeceras?.[ruta] || (enServicios ? datos.servicios : datos.home);
 // un producto sobre fondo blanco se enseña entero; una foto se recorta (con
 // su punto de recorte si lo trae)
 const tarjetas = datos.tarjetas
@@ -35,7 +37,7 @@ const cierre = enServicios
 <section class="servicios-cont" aria-labelledby="servicios-cont-titulo">
   <p class="servicios-cont__antetitulo">{cabecera.antetitulo}</p>
   <h2 id="servicios-cont-titulo" class="servicios-cont__titulo">{cabecera.h2}</h2>
-  {!enServicios && datos.home.intro && <div class="servicios-cont__intro" set:html={datos.home.intro} />}
+  {cabecera.intro && <div class="servicios-cont__intro" set:html={cabecera.intro} />}
 
   <ul class="servicios-cont__lista">
     {tarjetas.map((t) => (

@@ -17,7 +17,7 @@ const { ruta = '/' } = Astro.props;
   <p class="pasos-presupuesto__antetitulo">Presupuesto en 3 pasos</p>
   <h2 id="pp-titulo" class="pasos-presupuesto__titulo">Cuéntanos tu proyecto y te preparamos el presupuesto</h2>
 
-  <form class="formulario pasos-presupuesto__form" action={hayClave ? site.formulario.accion : undefined} method={hayClave ? 'POST' : undefined} data-pasos>
+  <form class="formulario pasos-presupuesto__form" action={hayClave ? site.formulario.accion : undefined} method={hayClave ? 'POST' : undefined} data-pasos data-web3forms={hayClave ? '' : undefined} data-whatsapp={wa}>
     {hayClave && (
       <>
         <input type="hidden" name="access_key" value={site.formulario.accessKey} />
@@ -117,6 +117,11 @@ const { ruta = '/' } = Astro.props;
     </div>
   </form>
 </section>
+
+<script>
+  // envio sin salir de la pagina y aviso de "Mensaje enviado" (src/scripts/formularios.js)
+  import '../scripts/formularios.js';
+</script>
 
 <script is:inline>
   (function () {
