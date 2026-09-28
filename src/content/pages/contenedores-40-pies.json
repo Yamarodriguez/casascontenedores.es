@@ -1895,7 +1895,7 @@
    {
     "nivel": "h3",
     "titulo": "¿Necesitas cédula de habitabilidad si conviertes el contenedor en vivienda?",
-    "html": "<p>Sí: para destinarlo a vivienda habitual hace falta la <strong>cédula de habitabilidad</strong> o, según la comunidad autónoma, la licencia de primera ocupación, un trámite posterior a la obra que certifica que la construcción cumple los requisitos de salubridad, superficie y seguridad del Código Técnico de la Edificación. Sin ese documento no se pueden dar de alta los suministros de agua y electricidad ni empadronarse en la vivienda, por lo que conviene solicitarlo en cuanto finalice la obra.</p>"
+    "html": "<p>Sí: para destinarlo a vivienda habitual hace falta la <strong>cédula de habitabilidad</strong> o, según la comunidad autónoma, la licencia de primera ocupación, un trámite posterior a la obra que certifica que la construcción cumple los requisitos de salubridad, superficie y seguridad del Código Técnico de la Edificación. Sin ese documento no se pueden dar de alta los suministros de agua y electricidad, por lo que conviene solicitarlo en cuanto finalice la obra.</p>"
    }
   ],
   "faq": {
