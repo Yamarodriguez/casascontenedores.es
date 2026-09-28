@@ -8,6 +8,18 @@
   "antetitulo": "Servicio a servicio",
   "h2": "Elige el servicio que necesita tu contenedor"
  },
+ "cabeceras": {
+  "/contenedores-maritimos/": {
+   "antetitulo": "Más allá de la venta",
+   "h2": "Servicios para contenedores marítimos: de la pintura a la transformación",
+   "intro": "<p>Además de vender, alquilar y transportar contenedores marítimos, ofrecemos <strong>servicios sobre el propio contenedor</strong>: pintura, aislamiento, instalación eléctrica, seguridad, reparación, transformación en oficina, local o taller y traslado de unidades ya instaladas.</p><p>Si vas a comprar o vender uno usado, la <strong>tasación de contenedores</strong> revisa antes su estado. Cada servicio se contrata por separado y con presupuesto a medida: consulta el detalle en <a href=\"/servicios/\">todos los servicios para contenedores marítimos</a>.</p>",
+   "excluir": [
+    "transporte",
+    "alquiler",
+    "estudio-parcela"
+   ]
+  }
+ },
  "tarjetas": [
   {
    "servicio": "transporte",

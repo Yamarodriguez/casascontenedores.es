@@ -17,11 +17,11 @@ import { fotoHero, detalleHero, esMaritimos, esServicio } from '../utils/hero.js
 /* El titular del heroe es el <h1> de la pagina: su titulo propio ("Casas
  * Contenedores Madrid", "Casa con un Contenedor"…), asi cambia en cada
  * pestaña. Los encabezados del contenido se quedan en su nivel original. */
-const { titulo = '', ruta = '', localidad = '' } = Astro.props;
+const { titulo = '', ruta = '', localidad = '', menu = '' } = Astro.props;
 
 // La foto es siempre una limpia elegida a mano (ver src/utils/hero.js).
-const foto = fotoHero(ruta);
-const maritimos = esMaritimos(ruta);
+const foto = fotoHero(ruta, menu);
+const maritimos = esMaritimos(ruta, menu);
 // las paginas de servicios para contenedores (pintura, aislamiento…)
 const servicio = esServicio(ruta);
 // alt y encuadre de la foto propia del servicio, si la tiene

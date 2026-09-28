@@ -13,12 +13,14 @@
  */
 import site from '../data/site.json';
 
-const { titulo = '', localidad = '', ruta = '' } = Astro.props;
+import { esMaritimos } from '../utils/hero.js';
+
+const { titulo = '', localidad = '', ruta = '', menu = '' } = Astro.props;
 
 // El H2 se adapta a la página: si es de localidad, la nombra, que es como se
 // busca de verdad ("contenedores marítimos en Lugo"). Y nombra el producto
 // correcto: las páginas de contenedores marítimos no venden casas.
-const producto = /^\/contenedor(es)?-maritimo/.test(ruta)
+const producto = esMaritimos(ruta, menu)
   ? 'un contenedor marítimo'
   : 'una casa contenedor';
 

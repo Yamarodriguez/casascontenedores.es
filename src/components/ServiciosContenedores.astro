@@ -21,8 +21,11 @@ const enServicios = ruta === '/servicios/';
 const cabecera = datos.cabeceras?.[ruta] || (enServicios ? datos.servicios : datos.home);
 // un producto sobre fondo blanco se enseña entero; una foto se recorta (con
 // su punto de recorte si lo trae)
+// fuera la tarjeta de la propia pagina y las que la cabecera excluya
+// (servicios que la pagina ya trata con su propio h2)
+const excluir = cabecera.excluir || [];
 const tarjetas = datos.tarjetas
-  .filter((t) => t.ruta !== ruta)
+  .filter((t) => t.ruta !== ruta && !excluir.includes(t.servicio))
   .map((t) => ({
     ...t,
     src: existe(t.foto) ? aWebp(t.foto) : '',

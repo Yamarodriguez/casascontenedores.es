@@ -13,6 +13,7 @@ import site from '../data/site.json';
 import menus from '../data/menus.json';
 import modelosM2 from '../data/modelos-m2.json';
 import { existe, aWebp } from '../utils/imagenes.js';
+import { rangoTipo } from '../utils/tipos.js';
 
 const { ruta = '/', menu: nombreMenu = '' } = Astro.props;
 
@@ -69,6 +70,16 @@ const agrupar = (e) => {
     return [{ titulo, hijos }];
   }
   return null;
+};
+
+/* Submenu "Tipos": los tipos de contenedor en el mismo orden que la rejilla
+   de las paginas (src/data/orden-tipos.json); lo demas (casas, piscina, bar...)
+   detras, en su orden. */
+const ordenarHijos = (hijos) => {
+  const tipos = hijos.filter((h) => rangoTipo(h.rotulo) >= 0);
+  if (tipos.length < 3) return hijos;
+  const orden = tipos.map((h, i) => ({ h, i })).sort((a, b) => rangoTipo(a.h.rotulo) - rangoTipo(b.h.rotulo) || a.i - b.i).map((x) => x.h);
+  return [...orden, ...hijos.filter((h) => rangoTipo(h.rotulo) < 0)];
 };
 
 const LOGO = '/wp-content/uploads/2021/08/casas-contenedores-.jpg';
@@ -130,7 +141,7 @@ const esActivoConHijos = (e) => activo(e.url) || (e.hijos || []).some((h) => act
                   </div>
                 ) : (
                   <ul class:list={['menu__sub', e.hijos.length > 8 && 'menu__sub--dos']}>
-                    {e.hijos.map((h) => (
+                    {ordenarHijos(e.hijos).map((h) => (
                       <li><a href={h.url} aria-current={activo(h.url) ? 'page' : undefined}>{h.rotulo}</a></li>
                     ))}
                   </ul>

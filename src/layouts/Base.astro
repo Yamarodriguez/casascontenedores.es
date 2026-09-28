@@ -31,7 +31,7 @@ const {
 const canonical = site.dominio + ruta;
 // la foto de cabecera del original sigue siendo la imagen social (og:image)
 const heroSrc = hero?.src && existe(hero.src) ? aWebp(hero.src) : '';
-const fotoHeroe = fotoHero(ruta);
+const fotoHeroe = fotoHero(ruta, menu);
 
 const jsonld = [
   {
@@ -145,7 +145,7 @@ if (faq.length) {
     <div id="wrap">
       <Header ruta={ruta} menu={menu} />
 
-      <Hero titulo={h1 || titulo} ruta={ruta} localidad={localidad} />
+      <Hero titulo={h1 || titulo} ruta={ruta} localidad={localidad} menu={menu} />
       <Migas ruta={ruta} titulo={h1 || titulo} />
 
       <main id="main">
@@ -155,7 +155,7 @@ if (faq.length) {
       </main>
 
       <!-- Franja de cierre: contenido NUEVO, despues de todo lo original. -->
-      <Cierre titulo={titulo} localidad={localidad} ruta={ruta} />
+      <Cierre titulo={titulo} localidad={localidad} ruta={ruta} menu={menu} />
 
       <Footer />
     </div>

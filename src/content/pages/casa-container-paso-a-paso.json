@@ -2852,7 +2852,7 @@
     },
     {
      "pregunta": "¿Cuánto pesa un contenedor vacío?",
-     "respuesta": "Cada contenedor lleva su tara grabada en la placa CSC de la unidad, junto al peso máximo bruto autorizado. Varía según el fabricante y el estado del contenedor, así que conviene comprobarlo en la placa de tu unidad. Más datos en medidas de contenedores marítimos."
+     "respuesta": "Cada contenedor lleva su tara marcada en el propio contenedor, y el peso máximo bruto autorizado, en su placa CSC. Varía según el fabricante y el estado del contenedor, así que conviene comprobarlo en la placa de tu unidad. Más datos en medidas de contenedores marítimos."
     },
     {
      "pregunta": "¿Se puede trasladar la casa más adelante?",
