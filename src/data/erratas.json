@@ -1,0 +1,43 @@
+{
+ "_nota": "Erratas del texto original, y voseo y usted pasados a tuteo de España, que el propietario pidio corregir (28-09-2026). Las aplica scripts/corregir-erratas.mjs SOLO al texto visible (nodos de texto, encabezados, botones, titulos, descripciones y menus), nunca a URLs, nombres de fichero ni atributos. 'palabras' se busca como palabra entera sin distinguir mayusculas y conserva la mayuscula del original; 'frases' son expresiones regulares (flags giu). scripts/comparar-encabezados.mjs aplica lo mismo a los encabezados de la web en vivo para compararlos.",
+ "palabras": {
+  "contendor": "contenedor",
+  "contendores": "contenedores",
+  "casascontendores": "casascontenedores",
+  "conteiner": "contenedor",
+  "conteiners": "contenedores",
+  "conteineres": "contenedores",
+  "numero": "número",
+  "ademas": "además",
+  "aqui": "aquí",
+  "maritimo": "marítimo",
+  "maritimos": "marítimos",
+  "maritima": "marítima",
+  "maritimas": "marítimas",
+  "politica": "política",
+  "leido": "leído",
+  "mas": "más",
+  "encontraras": "encontrarás",
+  "catalogo": "catálogo",
+  "catalogos": "catálogos",
+  "elegí": "elige",
+  "adaptá": "adapta",
+  "personalizá": "personaliza",
+  "accedé": "accede",
+  "podés": "puedes",
+  "recibís": "recibes"
+ },
+ "protegidas": ["Mas del Jutge"],
+ "frases": [
+  ["(^|[^\\p{L}])([Ss])i estas (pensando|buscando|interesad[oa]s?|necesitando|planeando)", "$1$2i estás $3"],
+  ["(^|[^\\p{L}])([Ss])eria posible", "$1$2ería posible"],
+  ["(Tu (?:casa|contenedor) te espera)!\\.", "¡$1!"],
+  ["Pida aquí su presupuesto para su diseño", "Pide aquí tu presupuesto para tu diseño"],
+  ["nos comunicaremos con usted", "nos comunicaremos contigo"],
+  ["ANUNCIE SU EMPRESA", "ANUNCIA TU EMPRESA"],
+  ["Disculpe las molestias", "Disculpa las molestias"],
+  ["si así lo desea(?!s)", "si así lo deseas"],
+  ["se adapta a vos(?![\\p{L}])", "se adapta a ti"],
+  ["crece con vos(?![\\p{L}])", "crece contigo"]
+ ]
+}

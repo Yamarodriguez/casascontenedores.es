@@ -22,6 +22,7 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
+import { corregir } from './erratas.mjs';
 
 const RAIZ = path.resolve('.');
 const DIST = path.join(RAIZ, 'dist');
@@ -120,9 +121,12 @@ for (const [ruta, datos] of Object.entries(vivo)) {
   // scripts/arbol.py) y su H1 es el primer encabezado del contenido. Pedir
   // aqui un encabezado que en la web real nadie ve seria exigir que copiemos
   // un fallo del tema.
-  const bandaVivas = new Set((datos.h1 || []).map((t) => normalizar(t)).filter(Boolean));
+  // Cuarto cambio permitido y documentado: las erratas del original que el
+  // propietario pidio corregir (src/data/erratas.json) se corrigen tambien en
+  // los encabezados de la web en vivo antes de comparar.
+  const bandaVivas = new Set((datos.h1 || []).map((t) => normalizar(corregir(t))).filter(Boolean));
   const enMain = (datos.encabezados || [])
-    .map((e) => ({ nivel: e.nivel, texto: normalizar(e.texto) }))
+    .map((e) => ({ nivel: e.nivel, texto: normalizar(corregir(e.texto)) }))
     .filter((e) => e.texto);
   const renombres = RENOMBRES[ruta];
   const antes = ordenarTandasDeTipos(enMain.filter((e, i) => !(i === 0 && e.nivel === 'h1' && bandaVivas.has(e.texto)))
