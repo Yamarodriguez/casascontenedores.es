@@ -1578,7 +1578,7 @@
        "id": "cd89f19",
        "alinear": "center",
        "texto": "PRECIOS",
-       "url": "",
+       "url": "/precios/",
        "fondo": "#2EB340",
        "fondoHover": "#4F4444",
        "tipo": {
@@ -1683,7 +1683,7 @@
            "id": "4b300d5",
            "alinear": "center",
            "texto": "Permisos",
-           "url": "",
+           "url": "/permisos/",
            "fondo": "#2EB340",
            "fondoHover": "#4F4444",
            "tipo": {
