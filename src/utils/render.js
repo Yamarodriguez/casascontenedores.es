@@ -303,7 +303,9 @@ function esListaEnlaces(col) {
  *  para 90, si la pagina existe (ctx.modelosM2 la trae la ruta). */
 function modeloPorSuperficie(enc, ctx) {
   if (!ctx.modelosM2) return null;
-  const m = textoPlano(enc.texto).match(/(\d{2,3})\s*m\s*[²2]/i);
+  // con el texto ORIGINAL del rotulo: uno reescrito ("Piscina contenedor para
+  // tu casa de 90 m²", src/utils/renombres.js) sigue siendo la piscina
+  const m = textoPlano(enc.textoOriginal ?? enc.texto).match(/(\d{2,3})\s*m\s*[²2]/i);
   return m ? ctx.modelosM2[m[1]] || null : null;
 }
 

@@ -37,7 +37,9 @@ export function aplicarRenombres(ruta, bloques, faq = []) {
     for (const e of lista || []) {
       if (!e) continue;
       if (e.t === 'seccion') { for (const c of e.columnas || []) recorrer(c.elementos); continue; }
-      if (e.t === 'encabezado' && nuevo(e.texto)) { e.texto = nuevo(e.texto); n++; }
+      // el original se guarda: render.js reconoce las tarjetas de superficie
+      // por el texto, y el nuevo puede nombrar otra superficie
+      if (e.t === 'encabezado' && nuevo(e.texto)) { e.textoOriginal = e.texto; e.texto = nuevo(e.texto); n++; }
       if (e.t === 'faq') for (const i of e.items || []) if (nuevo(i.pregunta)) { i.pregunta = nuevo(i.pregunta); n++; }
       if (e.t === 'texto' && /faq-question/.test(e.html || '')) {
         e.html = e.html.replace(/(<(h[2-4]) class="faq-question"[^>]*>)([\s\S]*?)(<\/\2>)/gi, (m, abre, et, dentro, cierra) => {
