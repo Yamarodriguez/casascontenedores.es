@@ -1,8 +1,21 @@
 import fs from 'node:fs';
 import path from 'node:path';
+// medidas reales de cada foto (scripts/analizar-imagenes.mjs)
+import MEDIDAS from '../data/imagenes.json';
 
 const PUBLICO = path.resolve('public');
 const cache = new Map();
+
+/* width/height de la propia foto cuando la etiqueta no los trae: el navegador
+ * reserva el hueco antes de que llegue la imagen y la pagina no salta al
+ * cargar. Solo en las de un unico tamaño (sin srcset), donde el tamaño con el
+ * que se pinta ya es el del fichero: no cambia como se ve. */
+function conMedidas(tag, src) {
+  if (/\swidth="/i.test(tag) || /\ssrcset="/i.test(tag)) return tag;
+  const m = MEDIDAS[src];
+  if (!m || !m.ancho || !m.alto) return tag;
+  return tag.replace(/^<img\b/i, `<img width="${m.ancho}" height="${m.alto}"`);
+}
 
 /** ¿Existe el archivo en public/? Se cachea: son ~10.000 comprobaciones por build. */
 export function existe(ruta) {
@@ -74,7 +87,7 @@ export function sanearImagenes(html) {
 
     // el src existe: se sirve la copia .webp si la hay (scripts/webp.mjs,
     // un 69 % menos de peso) y se podan del srcset las variantes que falten
-    return tag
+    return conMedidas(tag, src)
       .replace(/\ssrc="([^"]*)"/i, (todo, u) => ` src="${aWebp(u)}"`)
       .replace(/\ssrcset="([^"]*)"/i, (todo, valor) => {
         const buenas = valor

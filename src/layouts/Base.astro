@@ -7,7 +7,7 @@ import Hero from '../components/Hero.astro';
 import Migas from '../components/Migas.astro';
 import WhatsApp from '../components/WhatsApp.astro';
 import { aWebp, existe } from '../utils/imagenes.js';
-import { fotoHero } from '../utils/hero.js';
+import { fotoHero, srcsetHero, TAMANOS_HERO } from '../utils/hero.js';
 // El aspecto de la web. global.css pinta el chrome (cabecera, heroe, cierre,
 // pie) y diseno.css el contenido (lo que escribe render.js). Las 26 hojas de
 // Elementor ya NO se cargan: eran las que hacian que la web siguiera
@@ -32,6 +32,7 @@ const canonical = site.dominio + ruta;
 // la foto de cabecera del original sigue siendo la imagen social (og:image)
 const heroSrc = hero?.src && existe(hero.src) ? aWebp(hero.src) : '';
 const fotoHeroe = fotoHero(ruta, menu);
+const srcsetHeroe = srcsetHero(ruta, menu);
 
 const jsonld = [
   {
@@ -101,7 +102,7 @@ if (faq.length) {
         texto); las demas variantes llegan con la hoja de fuentes */}
     <link rel="preload" href="/fonts/texto/archivo-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/texto/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
-    {fotoHeroe && <link rel="preload" as="image" href={fotoHeroe} fetchpriority="high" />}
+    {fotoHeroe && <link rel="preload" as="image" href={fotoHeroe} imagesrcset={srcsetHeroe || undefined} imagesizes={srcsetHeroe ? TAMANOS_HERO : undefined} fetchpriority="high" />}
 
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />

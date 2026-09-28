@@ -37,12 +37,32 @@ const PROPIAS = Object.fromEntries(servicios.tarjetas
   .filter((t) => fotos[t.foto] && !fotos[t.foto].blanco)
   .map((t) => [t.ruta, t]));
 
+/* La foto de casas (el mismo render) en WebP a varios anchos: el navegador
+ * baja la que necesita su pantalla (en movil, 40-150 KB en vez de los 320 KB
+ * del JPG de 2048 px, que marcaba el LCP en unos 9 s). */
+const FOTO_CASAS_LIGERA = '/wp-content/uploads/2022/02/RENDER-3A-1-1024x576.webp';
+const VARIANTES_CASAS = [
+  ['/wp-content/uploads/2022/02/RENDER-3A-1-768x432.webp', 768],
+  [FOTO_CASAS_LIGERA, 1024],
+  ['/wp-content/uploads/2022/02/RENDER-3A-1-1536x864.webp', 1536],
+  [FOTO_CASAS, 2048],
+];
+/** El heroe ocupa todo el ancho de la caja de la web (1280 px como mucho). */
+export const TAMANOS_HERO = '(max-width: 1280px) 100vw, 1280px';
+
 /** Ruta de la foto del héroe para una página (o '' si no está en public/). */
 export function fotoHero(ruta, menu = '') {
   const propia = PROPIAS[ruta];
   if (propia && existe(propia.foto)) return aWebp(propia.foto);
   const elegida = (esMaritimos(ruta, menu) || esServicio(ruta)) && existe(FOTO_MARITIMOS) ? FOTO_MARITIMOS : FOTO_CASAS;
+  if (elegida === FOTO_CASAS && existe(FOTO_CASAS_LIGERA)) return FOTO_CASAS_LIGERA;
   return existe(elegida) ? aWebp(elegida) : '';
+}
+
+/** srcset de la foto del heroe cuando es la de casas ('' en las demas). */
+export function srcsetHero(ruta, menu = '') {
+  if (fotoHero(ruta, menu) !== FOTO_CASAS_LIGERA) return '';
+  return VARIANTES_CASAS.filter(([u]) => existe(u)).map(([u, w]) => `${u} ${w}w`).join(', ');
 }
 
 /** alt y encuadre de la foto propia de una pagina de servicio (o null). */

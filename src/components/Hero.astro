@@ -12,7 +12,7 @@
  * pase los números reales.
  */
 import site from '../data/site.json';
-import { fotoHero, detalleHero, esMaritimos, esServicio } from '../utils/hero.js';
+import { fotoHero, srcsetHero, TAMANOS_HERO, detalleHero, esMaritimos, esServicio } from '../utils/hero.js';
 
 /* El titular del heroe es el <h1> de la pagina: su titulo propio ("Casas
  * Contenedores Madrid", "Casa con un Contenedor"…), asi cambia en cada
@@ -21,6 +21,8 @@ const { titulo = '', ruta = '', localidad = '', menu = '' } = Astro.props;
 
 // La foto es siempre una limpia elegida a mano (ver src/utils/hero.js).
 const foto = fotoHero(ruta, menu);
+// la de casas va en varios anchos: el navegador elige la que necesita
+const srcset = srcsetHero(ruta, menu);
 const maritimos = esMaritimos(ruta, menu);
 // las paginas de servicios para contenedores (pintura, aislamiento…)
 const servicio = esServicio(ruta);
@@ -52,6 +54,8 @@ const fichas = servicio
     <img
       class="hero-foto"
       src={foto}
+      srcset={srcset || undefined}
+      sizes={srcset ? TAMANOS_HERO : undefined}
       alt={propia ? propia.alt : maritimos || servicio ? 'Contenedor marítimo' : 'Casa construida con contenedores marítimos'}
       style={propia?.estilo}
       fetchpriority="high"

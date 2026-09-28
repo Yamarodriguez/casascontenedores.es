@@ -57,10 +57,27 @@ fs.mkdirSync(DESTINO_FICHEROS, { recursive: true });
 const reglas = [];
 let copiados = 0, ausentes = 0;
 
+/* El rango de letras de cada fichero (unicode-range), tal cual lo declara el
+ * propio paquete en su <peso>.css. Sin el, el navegador no sabe que el fichero
+ * "latin-ext" solo hace falta para letras de otros idiomas (ł, ő, ş...) y lo
+ * descarga siempre: eran 8 ficheros y unos 113 KB de mas en cada pagina. */
+function rangos(paquete, peso) {
+  const css = path.join(MODULOS, paquete, `${peso}.css`);
+  if (!fs.existsSync(css)) return {};
+  const salida = {};
+  for (const m of fs.readFileSync(css, 'utf8').matchAll(/@font-face\s*\{([\s\S]*?)\}/g)) {
+    const fichero = (m[1].match(/url\(\.\/files\/([^)]+\.woff2)\)/) || [])[1];
+    const rango = (m[1].match(/unicode-range:\s*([^;]+);/) || [])[1];
+    if (fichero && rango) salida[fichero] = rango.trim();
+  }
+  return salida;
+}
+
 for (const [familia, paquete, grosores] of FAMILIAS) {
   const dir = path.join(MODULOS, paquete, 'files');
   if (!fs.existsSync(dir)) { console.log(`  aviso: falta el paquete ${paquete}`); continue; }
   for (const peso of grosores) {
+    const rango = rangos(paquete, peso);
     for (const sub of SUBCONJUNTOS) {
       const nombre = `${paquete}-${sub}-${peso}-normal.woff2`;
       const origen = path.join(dir, nombre);
@@ -69,7 +86,8 @@ for (const [familia, paquete, grosores] of FAMILIAS) {
       copiados++;
       reglas.push(
         `@font-face{font-family:'${familia}';font-style:normal;font-weight:${peso};` +
-        `font-display:swap;src:url(/fonts/texto/${nombre}) format('woff2')}`);
+        `font-display:swap;src:url(/fonts/texto/${nombre}) format('woff2')` +
+        (rango[nombre] ? `;unicode-range:${rango[nombre]}` : '') + '}');
     }
   }
 }
