@@ -207,6 +207,21 @@ const PINTORES = {
   },
 
   galeria(b, ctx) {
+    // galeria con fichas { src, miniatura, alt, ancho, alto, anchoGrande }: la
+    // miniatura (la misma URL que servia WordPress) en la rejilla, la foto
+    // grande en el srcset y en el enlace, que el visor (src/scripts/galeria.js)
+    // abre en grande sin salir de la pagina
+    if (Array.isArray(b.fotos)) {
+      const fotos = b.fotos.map((f) => {
+        const mini = f.miniatura || f.src;
+        const srcset = f.miniatura && f.anchoGrande ? ` srcset="${escapar(f.miniatura)} ${f.ancho}w, ${escapar(f.src)} ${f.anchoGrande}w" sizes="(max-width: 640px) 50vw, (max-width: 1100px) 33vw, 280px"` : '';
+        const medidas = f.ancho && f.alto ? ` width="${f.ancho}" height="${f.alto}"` : '';
+        return `<figure><a href="${escapar(f.src)}" data-galeria-foto>` +
+          ctx.imagenes(`<img src="${escapar(mini)}"${srcset} alt="${escapar(f.alt || '')}"${medidas} loading="lazy" decoding="async">`) +
+          '</a></figure>';
+      }).join('');
+      return { html: `<div class="galeria galeria--fotos" data-galeria data-cols="${b.columnas || 4}">${fotos}</div>` };
+    }
     const fotos = b.imagenes
       .map((u) => '<figure>' +
         ctx.imagenes(`<img src="${escapar(u)}" alt="" loading="lazy" decoding="async">`) + '</figure>')

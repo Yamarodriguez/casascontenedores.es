@@ -193,9 +193,533 @@
      "id": "defa393",
      "elementos": [
       {
-       "t": "texto",
-       "id": "3270f9a",
-       "html": "<p>[modula id=«2806»]</p>"
+       "t": "galeria",
+       "id": "galeria-2806",
+       "columnas": 4,
+       "fotos": [
+        {
+         "src": "/wp-content/uploads/2021/08/casa-con-contenedores-roja.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-con-contenedores-roja-300x300.jpg",
+         "alt": "Casa contenedor roja elevada sobre pilares de hormigón, con gran fachada acristalada y bosque detrás",
+         "ancho": 300,
+         "alto": 300,
+         "anchoGrande": 600,
+         "altoGrande": 600
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-con-dos-contenedores.png",
+         "miniatura": "/wp-content/uploads/2021/08/casa-con-dos-contenedores-300x167.png",
+         "alt": "Recreación de casa de contenedores negra de dos plantas con grandes cristaleras iluminada al anochecer",
+         "ancho": 300,
+         "alto": 167,
+         "anchoGrande": 810,
+         "altoGrande": 450
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-contenedor-arbol.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-contenedor-arbol-300x169.jpg",
+         "alt": "Casa de contenedores rojizos con terraza de madera sobre pilares metálicos entre árboles al anochecer",
+         "ancho": 300,
+         "alto": 169,
+         "anchoGrande": 1280,
+         "altoGrande": 720
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-contenedor-con-colores.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-contenedor-con-colores-232x300.jpg",
+         "alt": "Casa de contenedores amarillos, naranjas y rojos en una ladera verde con muros de piedra",
+         "ancho": 232,
+         "alto": 300,
+         "anchoGrande": 575,
+         "altoGrande": 745
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-contenedor-con-piscina.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-contenedor-con-piscina-200x300.jpg",
+         "alt": "Casa moderna blanca de dos plantas con grandes ventanales, césped y piscina rectangular en primer plano",
+         "ancho": 200,
+         "alto": 300,
+         "anchoGrande": 736,
+         "altoGrande": 1104
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-contenedores-lujo-piscina.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-contenedores-lujo-piscina-205x300.jpg",
+         "alt": "Render de local con contenedores marítimos grises apilados, terraza de madera y mesas al anochecer",
+         "ancho": 205,
+         "alto": 300,
+         "anchoGrande": 684,
+         "altoGrande": 1000
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-contenedores-temporales.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-contenedores-temporales-300x181.jpg",
+         "alt": "Casa de contenedores naranja de dos plantas con terraza superior y puertas verdes, en un bosque",
+         "ancho": 300,
+         "alto": 181,
+         "anchoGrande": 800,
+         "altoGrande": 483
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-contenedor-hermosa.png",
+         "miniatura": "/wp-content/uploads/2021/08/casa-contenedor-hermosa-200x300.png",
+         "alt": "Dos casas oscuras acristaladas, arriba una casa con contenedores marítimos, tumbonas y mesa de madera",
+         "ancho": 200,
+         "alto": 300,
+         "anchoGrande": 683,
+         "altoGrande": 1024
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-contenedor-larga.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-contenedor-larga-300x225.jpg",
+         "alt": "Vivienda de una planta con módulos tipo contenedores marítimos revestidos de madera negra y salón acristalado",
+         "ancho": 300,
+         "alto": 225,
+         "anchoGrande": 800,
+         "altoGrande": 600
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-contenedor-maritimo-negra.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-contenedor-maritimo-negra-300x300.jpg",
+         "alt": "Recreación de casa contenedor negra con grandes cristaleras abiertas al bosque y tarima de madera",
+         "ancho": 300,
+         "alto": 300,
+         "anchoGrande": 640,
+         "altoGrande": 640
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casacontenedor-por-dentro-cocina.png",
+         "miniatura": "/wp-content/uploads/2021/08/casacontenedor-por-dentro-cocina-229x300.png",
+         "alt": "Cocina alargada de madera con fregadero de acero y sofá al fondo en una casa contenedor",
+         "ancho": 229,
+         "alto": 300,
+         "anchoGrande": 780,
+         "altoGrande": 1024
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-contenedor-revestida-en-madera.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-contenedor-revestida-en-madera-300x300.jpg",
+         "alt": "Casa contenedor revestida de madera con puertas de cristal, azotea con barandilla y escalera de caracol",
+         "ancho": 300,
+         "alto": 300,
+         "anchoGrande": 668,
+         "altoGrande": 668
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-con-un-contenedor-maritimo-lujo.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-con-un-contenedor-maritimo-lujo-225x300.jpg",
+         "alt": "Módulo habitable de madera con gran ventanal y la cama a la vista entre álamos",
+         "ancho": 225,
+         "alto": 300,
+         "anchoGrande": 1500,
+         "altoGrande": 2000
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-con-un-contenedor-maritimo-noche.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-con-un-contenedor-maritimo-noche-300x225.jpg",
+         "alt": "Render de casa contenedor gris con frente acristalado y dormitorio iluminado sobre césped al anochecer",
+         "ancho": 300,
+         "alto": 225,
+         "anchoGrande": 1000,
+         "altoGrande": 750
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-de-contenedores-dos-plantas-de-lujo.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-de-contenedores-dos-plantas-de-lujo-300x201.jpg",
+         "alt": "Render de casa moderna de dos plantas con marco blanco, madera oscura y jardín al atardecer",
+         "ancho": 300,
+         "alto": 201,
+         "anchoGrande": 768,
+         "altoGrande": 514
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-de-contenedores-en-la-playa.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-de-contenedores-en-la-playa-300x200.jpg",
+         "alt": "Casa de dos plantas con contenedores marítimos, módulo amarillo en voladizo y palmeras frente al mar",
+         "ancho": 300,
+         "alto": 200,
+         "anchoGrande": 480,
+         "altoGrande": 320
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-de-contenedores-proceso-de-construccion.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-de-contenedores-proceso-de-construccion-101x300.jpg",
+         "alt": "Cuatro vistas de una casa negra sobre pilotes con cristaleras abatibles e interior de madera",
+         "ancho": 101,
+         "alto": 300,
+         "anchoGrande": 300,
+         "altoGrande": 888
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-de-contenedores-rusitica.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-de-contenedores-rusitica-300x225.jpg",
+         "alt": "Vivienda de una planta revestida de madera con tarima, tumbonas y grandes ventanales junto al bosque",
+         "ancho": 300,
+         "alto": 225,
+         "anchoGrande": 1024,
+         "altoGrande": 768
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-de-contenedores-rustica.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-de-contenedores-rustica-300x200.jpg",
+         "alt": "Casa con contenedores marítimos apilados sobre pilares metálicos y una hamaca debajo, iluminada al anochecer",
+         "ancho": 300,
+         "alto": 200,
+         "anchoGrande": 1000,
+         "altoGrande": 667
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-hechas-con-contenedores-de-arriba.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-hechas-con-contenedores-de-arriba-200x300.jpg",
+         "alt": "Casa revestida de madera con cubierta de paneles solares y porche entre árboles, vista desde arriba",
+         "ancho": 200,
+         "alto": 300,
+         "anchoGrande": 1000,
+         "altoGrande": 1500
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-prefabricada-con-con-contenedores-blanca.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-prefabricada-con-con-contenedores-blanca-300x216.jpg",
+         "alt": "Casa blanca cúbica de dos plantas con gran ventanal superior y piscina rodeada de madera",
+         "ancho": 300,
+         "alto": 216,
+         "anchoGrande": 700,
+         "altoGrande": 505
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/Casa-prefabricada-con-contenedores-maritimos.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/Casa-prefabricada-con-contenedores-maritimos-300x221.jpg",
+         "alt": "Casa contenedor gris oscuro con cristaleras, macetas con flores y tarima de madera en el jardín",
+         "ancho": 300,
+         "alto": 221,
+         "anchoGrande": 821,
+         "altoGrande": 605
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-prefabricada-de-contenedores-moderna.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-prefabricada-de-contenedores-moderna-300x225.jpg",
+         "alt": "Render de vivienda de una planta con marco blanco, madera, cristaleras y dos tumbonas sobre tarima",
+         "ancho": 300,
+         "alto": 225,
+         "anchoGrande": 1080,
+         "altoGrande": 810
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores.png",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-300x300.png",
+         "alt": "Módulo prefabricado negro con frente acristalado y paneles perforados entre hierba alta al atardecer",
+         "ancho": 300,
+         "alto": 300,
+         "anchoGrande": 1000,
+         "altoGrande": 1000
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/Casas-prefabricadas-con-contenedores-una-manera-inteligente-de-reciclar-los-contenedores-maritimos-a-muy-bajo-coste_.png",
+         "miniatura": "/wp-content/uploads/2021/08/Casas-prefabricadas-con-contenedores-una-manera-inteligente-de-reciclar-los-contenedores-maritimos-a-muy-bajo-coste_-300x203.png",
+         "alt": "Vivienda de dos contenedores marítimos turquesa en L con tarima de madera y pinos",
+         "ancho": 300,
+         "alto": 203,
+         "anchoGrande": 776,
+         "altoGrande": 525
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-con-contenedores.png",
+         "miniatura": "/wp-content/uploads/2021/08/casas-con-contenedores-300x169.png",
+         "alt": "Módulo prefabricado negro con cristalera en un extremo y paneles perforados en pleno campo",
+         "ancho": 300,
+         "alto": 169,
+         "anchoGrande": 1920,
+         "altoGrande": 1080
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-con-contenedores-bosque.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-con-contenedores-bosque-243x300.jpg",
+         "alt": "Recreación de una casa contenedor elevada sobre pilares en un bosque, con fachada de cristal",
+         "ancho": 243,
+         "alto": 300,
+         "anchoGrande": 1080,
+         "altoGrande": 1335
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-con-contenedores-dos-plantas-negra.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-con-contenedores-dos-plantas-negra-300x234.jpg",
+         "alt": "Casa con contenedores marítimos negros en dos plantas, cristaleras, jardín vertical y terraza con sofás",
+         "ancho": 300,
+         "alto": 234,
+         "anchoGrande": 640,
+         "altoGrande": 499
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-con-contenedores-precios.png",
+         "miniatura": "/wp-content/uploads/2021/08/casas-con-contenedores-precios-300x169.png",
+         "alt": "Contenedores marítimos grises apilados en dos plantas con frentes de cristal, terraza superior y palmeras",
+         "ancho": 300,
+         "alto": 169,
+         "anchoGrande": 560,
+         "altoGrande": 315
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-con-contenedores-ventajas.png",
+         "miniatura": "/wp-content/uploads/2021/08/casas-con-contenedores-ventajas-212x300.png",
+         "alt": "Interior de casa con contenedores marítimos de chapa ondulada, con escalera y barandilla de cristal",
+         "ancho": 212,
+         "alto": 300,
+         "anchoGrande": 1587,
+         "altoGrande": 2245
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contendores-blancas.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contendores-blancas-300x200.jpg",
+         "alt": "Casa contenedor blanca con lamas verticales, dormitorio y cocina a la vista sobre suelo de piedra",
+         "ancho": 300,
+         "alto": 200,
+         "anchoGrande": 528,
+         "altoGrande": 352
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-1.png",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-1-300x300.png",
+         "alt": "Cabaña negra con frente de cristal y dormitorio forrado de madera sobre una ladera verde",
+         "ancho": 300,
+         "alto": 300,
+         "anchoGrande": 1080,
+         "altoGrande": 1080
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-alicante.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-alicante-300x114.jpg",
+         "alt": "Casa con contenedores marítimos: módulo blanco con dormitorio abierto al patio y cocina con escalera",
+         "ancho": 300,
+         "alto": 114,
+         "anchoGrande": 820,
+         "altoGrande": 312
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-antes-y-despues.png",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-antes-y-despues-200x300.png",
+         "alt": "Antes y después de contenedores marítimos rojos convertidos en casa de dos plantas revestida de madera",
+         "ancho": 200,
+         "alto": 300,
+         "anchoGrande": 700,
+         "altoGrande": 1050
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-blanca-fachada.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-blanca-fachada-223x300.jpg",
+         "alt": "Dos vistas de una vivienda blanca en ladera con planta baja acristalada, entre árboles otoñales",
+         "ancho": 223,
+         "alto": 300,
+         "anchoGrande": 474,
+         "altoGrande": 637
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-complejo-4.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-complejo-4-250x300.jpg",
+         "alt": "Vivienda de volúmenes de madera con marcos inclinados y ventanales, sobre muros de piedra y césped",
+         "ancho": 250,
+         "alto": 300,
+         "anchoGrande": 500,
+         "altoGrande": 600
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-con-patio.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-con-patio-157x300.jpg",
+         "alt": "Estudio de jardín azul con cristalera, bañera de hidromasaje y brasero, de día y al atardecer",
+         "ancho": 157,
+         "alto": 300,
+         "anchoGrande": 768,
+         "altoGrande": 1466
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-desplegable.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-desplegable-229x300.jpg",
+         "alt": "Recreación en cuatro fases de una casa contenedor marrón que se despliega con terraza y muebles",
+         "ancho": 229,
+         "alto": 300,
+         "anchoGrande": 343,
+         "altoGrande": 450
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-interior-y-fachada.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-interior-y-fachada-165x300.jpg",
+         "alt": "Casa contenedor revestida de madera clara en tres vistas: fachada, puertas abiertas y salón interior",
+         "ancho": 165,
+         "alto": 300,
+         "anchoGrande": 236,
+         "altoGrande": 428
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-luminosa.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-luminosa-300x169.jpg",
+         "alt": "Casa contenedor revestida de madera al anochecer con gran ventanal y despacho iluminado dentro",
+         "ancho": 300,
+         "alto": 169,
+         "anchoGrande": 1060,
+         "altoGrande": 596
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-marinos.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-marinos-300x173.jpg",
+         "alt": "Pequeña casa cúbica color óxido con frente acristalado y terraza de madera con mesa entre vegetación",
+         "ancho": 300,
+         "alto": 173,
+         "anchoGrande": 537,
+         "altoGrande": 309
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-permanente-1.png",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-permanente-1-300x169.png",
+         "alt": "Recreación de vivienda moderna de dos plantas con marco blanco, fachada oscura y jardín al atardecer",
+         "ancho": 300,
+         "alto": 169,
+         "anchoGrande": 1920,
+         "altoGrande": 1080
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-permanente.png",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-permanente-300x169.png",
+         "alt": "Render de vivienda moderna blanca de dos plantas con grandes cristaleras y porche con sofás exteriores",
+         "ancho": 300,
+         "alto": 169,
+         "anchoGrande": 1920,
+         "altoGrande": 1080
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-temporales-pasos-para-la-construccion.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-temporales-pasos-para-la-construccion-300x199.jpg",
+         "alt": "Pequeña casa de madera con porche, butaca de mimbre y escaleras de tablas al atardecer",
+         "ancho": 300,
+         "alto": 199,
+         "anchoGrande": 960,
+         "altoGrande": 638
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-contenedores-un-contenedor-blanca.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-contenedores-un-contenedor-blanca-300x200.jpg",
+         "alt": "Casa contenedor blanca con lamas verticales y dormitorio y comedor abiertos bajo los árboles",
+         "ancho": 300,
+         "alto": 200,
+         "anchoGrande": 750,
+         "altoGrande": 500
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-de-contenedores-4.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-de-contenedores-4-300x200.jpg",
+         "alt": "Casa de contenedores con módulo negro acristalado en voladizo sobre una terraza con mesas de madera",
+         "ancho": 300,
+         "alto": 200,
+         "anchoGrande": 400,
+         "altoGrande": 266
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-de-contenedores-frente.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-de-contenedores-frente-300x200.jpg",
+         "alt": "Casa con contenedores marítimos en voladizo sobre base de hormigón, iluminada al anochecer entre rocas",
+         "ancho": 300,
+         "alto": 200,
+         "anchoGrande": 750,
+         "altoGrande": 501
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-de-contenedores-techo-verde.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-de-contenedores-techo-verde-300x200.jpg",
+         "alt": "Render de vivienda con cubierta vegetal curva, fachada acristalada y terraza de madera en el campo",
+         "ancho": 300,
+         "alto": 200,
+         "anchoGrande": 1350,
+         "altoGrande": 900
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/Casas-en-contenedores-maritimos-Amazon.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/Casas-en-contenedores-maritimos-Amazon-200x300.jpg",
+         "alt": "Contenedor marítimo marrón convertido en vivienda, con puertas acristaladas, cocina y sofá en el interior",
+         "ancho": 200,
+         "alto": 300,
+         "anchoGrande": 800,
+         "altoGrande": 1200
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-hechas-con-contenedores-y-piscina.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-hechas-con-contenedores-y-piscina-300x225.jpg",
+         "alt": "Vivienda moderna blanca de una planta en L con piscina, tumbonas y césped junto al bosque",
+         "ancho": 300,
+         "alto": 225,
+         "anchoGrande": 754,
+         "altoGrande": 566
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-hechas-de-contenedores.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-hechas-de-contenedores-300x300.jpg",
+         "alt": "Pabellón negro acristalado sobre pilares en el bosque, con isla de cocina y mesa de comedor",
+         "ancho": 300,
+         "alto": 300,
+         "anchoGrande": 1080,
+         "altoGrande": 1080
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-prefabricadas-de-contenedores-permanente.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casas-prefabricadas-de-contenedores-permanente-300x200.jpg",
+         "alt": "Render de casa con contenedores marítimos oscuros, uno elevado sobre pilares, escalera y ventana circular",
+         "ancho": 300,
+         "alto": 200,
+         "anchoGrande": 1500,
+         "altoGrande": 1000
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casas-prefabricadas-hechas-con-contenedores-negra.png",
+         "miniatura": "/wp-content/uploads/2021/08/casas-prefabricadas-hechas-con-contenedores-negra-300x225.png",
+         "alt": "Casa de contenedores negra de dos plantas con cochera abierta, terraza arriba y tarima con bicicleta",
+         "ancho": 300,
+         "alto": 225,
+         "anchoGrande": 845,
+         "altoGrande": 634
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-tres-pisos-de-contenedores.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-tres-pisos-de-contenedores-300x183.jpg",
+         "alt": "Recreación de casa de contenedores sobre pilares de acero con piscina, tumbonas y grandes ventanales",
+         "ancho": 300,
+         "alto": 183,
+         "anchoGrande": 473,
+         "altoGrande": 289
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-un-contenedor.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-un-contenedor-300x167.jpg",
+         "alt": "Recreación de casa blanca de una planta con pérgola de lamas, cristaleras y tumbonas junto a la piscina",
+         "ancho": 300,
+         "alto": 167,
+         "anchoGrande": 810,
+         "altoGrande": 450
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/casa-un-contenedor-simple.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/casa-un-contenedor-simple-225x300.jpg",
+         "alt": "Render de cabaña cúbica blanca acristalada junto a un lago con árboles otoñales y barbacoa",
+         "ancho": 225,
+         "alto": 300,
+         "anchoGrande": 450,
+         "altoGrande": 600
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/contenedores-casas-blanca.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/contenedores-casas-blanca-300x200.jpg",
+         "alt": "Casa minimalista gris de líneas rectas con listones de madera y ventanal iluminado al anochecer",
+         "ancho": 300,
+         "alto": 200,
+         "anchoGrande": 1732,
+         "altoGrande": 1154
+        },
+        {
+         "src": "/wp-content/uploads/2021/08/contenedores-oficinas.jpg",
+         "miniatura": "/wp-content/uploads/2021/08/contenedores-oficinas-300x225.jpg",
+         "alt": "Oficina acristalada en un contenedor marítimo con laterales abatidos como tarima y toldo, en entorno urbano",
+         "ancho": 300,
+         "alto": 225,
+         "anchoGrande": 500,
+         "altoGrande": 375
+        }
+       ]
       }
      ],
      "ancho": 100,

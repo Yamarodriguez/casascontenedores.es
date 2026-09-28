@@ -25,6 +25,7 @@ const recorrer = (b) => {
   if (!b) return;
   if (b.t === 'seccion') { anotar(b.fondo?.imagen); (b.columnas || []).forEach((c) => { anotar(c.fondo?.imagen); (c.elementos || []).forEach(recorrer); }); return; }
   if (b.t === 'imagen') anotar(b.src);
+  if (b.t === 'galeria') { (b.imagenes || []).forEach(anotar); (b.fotos || []).forEach((f) => { anotar(f.src); anotar(f.miniatura); }); }
   if (b.t === 'texto') for (const m of String(b.html || '').matchAll(/<img\b[^>]*\ssrc="([^"]+)"/gi)) anotar(m[1]);
   if (b.fondo?.imagen) anotar(b.fondo.imagen);
 };
