@@ -2217,7 +2217,7 @@
        "t": "boton",
        "id": "fa8edc3",
        "alinear": "center",
-       "texto": "Haz clic aquí",
+       "texto": "Ver interiores",
        "url": "/por-dentro",
        "fondo": "#2EB340",
        "fondoHover": "#4F4444",

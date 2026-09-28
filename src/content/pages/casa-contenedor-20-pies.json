@@ -2413,7 +2413,7 @@
        "t": "boton",
        "id": "523c184",
        "alinear": "center",
-       "texto": "Haz clic aquí",
+       "texto": "Ver casas por dentro",
        "url": "/por-dentro",
        "fondo": "#2EB340",
        "fondoHover": "#4F4444",

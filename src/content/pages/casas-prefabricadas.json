@@ -1395,7 +1395,7 @@
        "t": "boton",
        "id": "f602410",
        "alinear": "center",
-       "texto": "Haz clic aquí",
+       "texto": "Ver el paso a paso",
        "url": "/casa-container-paso-a-paso/",
        "fondoHover": "#4F4444"
       }
@@ -1493,7 +1493,7 @@
        "t": "boton",
        "id": "a3ef00b",
        "alinear": "center",
-       "texto": "Haz clic aquí",
+       "texto": "Ver tiempos de obra",
        "url": "/tiempos-de-construccion-de-casas-con-contenedores/",
        "fondoHover": "#4F4444"
       }
@@ -1591,7 +1591,7 @@
        "t": "boton",
        "id": "7b39c6b",
        "alinear": "center",
-       "texto": "Haz clic aquí",
+       "texto": "Ver fotos de casas",
        "url": "/fotos-de-casas-containers/",
        "fondoHover": "#4F4444"
       }
