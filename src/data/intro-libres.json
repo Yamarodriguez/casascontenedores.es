@@ -1,0 +1,30 @@
+{
+ "_nota": "Paginas nuevas con seccion 'libre' (guias, servicios, modelos por m2): cuantas secciones del cuerpo (encabezado + su texto) suben a la columna de la entrada para que no quede hueco junto al formulario (las menos que lo llenan, con 100 px de margen). Medido pagina a pagina con capturas-tmp/intro/medir-libres.mjs; con 'medir' a true suben todas menos la ultima, para volver a medir.",
+ "medir": false,
+ "grupos": {
+  "/aislamiento-contenedores/": 1,
+  "/casa-contenedor-120-m2/": 1,
+  "/casa-contenedor-15-m2/": 1,
+  "/casa-contenedor-30-m2/": 1,
+  "/casa-contenedor-45-m2/": 1,
+  "/casa-contenedor-60-m2/": 1,
+  "/casa-contenedor-75-m2/": 1,
+  "/casa-contenedor-90-m2/": 1,
+  "/casa-contenedor-suelo-rustico/": 1,
+  "/casas-modulares/": 1,
+  "/cimentacion-casas-contenedores/": 1,
+  "/comprar-contenedor-sin-estafas/": 1,
+  "/electricidad-contenedores/": 1,
+  "/estudio-de-parcela/": 1,
+  "/financiacion-casas-contenedores/": 1,
+  "/inconvenientes-casas-contenedores/": 2,
+  "/pintura-contenedores/": 1,
+  "/preguntas-frecuentes/": 2,
+  "/reparacion-contenedores/": 1,
+  "/seguridad-contenedores/": 1,
+  "/servicios/": 1,
+  "/tasacion-contenedores/": 1,
+  "/transformacion-contenedores/": 1,
+  "/traslado-contenedores/": 1
+ }
+}

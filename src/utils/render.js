@@ -564,7 +564,7 @@ function pintarSeccion(s, ctx, nivel, anchoPadre = 100) {
       if (ctx.fotos?.[media.imagen.src]?.blanco) extras.push('bloque--banda-producto');
     }
   }
-  if (cols.some(esVentajas)) extras.push('bloque--ventajas');
+  if (cols.some((c) => !c.sinPatrones && esVentajas(c))) extras.push('bloque--ventajas');
   if (cols.some((c) => (c.elementos || []).some((e) => e.t === 'formulario'))) extras.push('bloque--contacto');
 
   // Una fila anidada dentro de una columna estrecha (las dos cajas PERMISOS /

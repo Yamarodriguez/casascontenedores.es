@@ -44,6 +44,8 @@
   --sombra: 0 1px 2px rgba(18,23,27,.05), 0 10px 28px -14px rgba(18,23,27,.2);
   --sombra-2: 0 2px 6px rgba(18,23,27,.07), 0 22px 44px -20px rgba(18,23,27,.28);
   --caja: 1180px;
+  --caja-web: 1280px;   /* la caja de toda la web (diseño encajonado) */
+  --fuera: #e5e9ec;     /* el gris de fuera de la caja */
   --margen: 22px;
   --seccion: clamp(34px, 4.5vw, 60px);
 }
@@ -56,7 +58,7 @@
 html body {
   margin: 0 !important;
   padding: 0 !important;
-  background: var(--fondo) !important;
+  background: var(--fuera) !important;
   color: var(--texto);
   font-family: var(--cuerpo) !important;
   font-size: 17px;
@@ -105,7 +107,17 @@ a { color: var(--verde-osc); }
    ESTRUCTURA: bloque > fila > columna
    ========================================================================= */
 
-#wrap { background: var(--papel); overflow-x: hidden; }
+/* Diseño "encajonado", como el tema de la web anterior (OceanWP boxed-layout,
+   #wrap de 1280 px): todo va dentro de una caja blanca centrada sobre fondo
+   gris, y al alejar el zoom sigue siendo una caja en vez de estirarse a todo
+   el ancho de la pantalla. clip (no hidden) para no romper la cabecera fija. */
+#wrap {
+  background: var(--papel);
+  overflow-x: clip;
+  max-width: var(--caja-web);
+  margin-inline: auto;
+  box-shadow: 0 0 0 1px rgba(18, 23, 27, .05), 0 12px 48px -12px rgba(18, 23, 27, .18);
+}
 #main { display: block; padding: var(--seccion) 0 clamp(48px, 6vw, 84px); }
 
 /* Ritmo vertical: los espaciadores del original ya no se pintan; el aire
@@ -786,6 +798,17 @@ a.modelo__enlace:hover .modelo__titulo::after { color: var(--verde); transform: 
 .bloque--libre .b--encabezado h2.tit { margin-top: 22px; }
 .bloque--libre .b--encabezado:first-child h2.tit { margin-top: 0; }
 .bloque--libre .b--encabezado h3.tit { margin-top: 8px; }
+/* Paginas nuevas (con seccion "libre": guias, servicios, modelos por m2):
+   todo empieza en el mismo margen y con el mismo ancho que el texto de la
+   entrada (la columna de al lado del formulario), en vez de una columna
+   centrada. Y las secciones que suben a la entrada (src/utils/intro.js)
+   llevan el mismo aire que en el cuerpo. */
+@media (min-width: 861px) {
+  .entrada:has(.bloque--libre) :is(.bloque--libre, .bloque--ampliacion) .col,
+  .entrada:has(.bloque--libre) .servicios-cont { max-width: 67.28%; margin-left: 0; margin-right: auto; }
+}
+.entrada:has(.bloque--libre) .b--texto + .b--encabezado h2.tit { margin-top: 22px; }
+.entrada:has(.bloque--libre) .b--texto + .b--encabezado h3.tit { margin-top: 8px; }
 .bloque--ampliacion .b--encabezado h2.tit { margin-top: 26px; }
 .bloque--ampliacion .b--encabezado:first-child h2.tit { margin-top: 0; }
 .bloque--ampliacion .b--encabezado h3.tit { margin-top: 10px; color: var(--ink); }
