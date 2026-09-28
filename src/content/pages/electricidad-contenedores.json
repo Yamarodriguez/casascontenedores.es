@@ -8,7 +8,7 @@
  "palabraClave": "instalación eléctrica en contenedores",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2021/08/oficinas-de-contenedores-maritimos.jpg",
+  "src": "/img/servicios/instalacion-electrica-en-contenedores.jpg",
   "alt": "Oficina modular iluminada de noche, con focos empotrados encendidos y dos puestos de trabajo: electricidad para contenedores",
   "ancho": 810,
   "alto": 450
@@ -28,7 +28,7 @@
       {
        "t": "imagen",
        "id": "electricidad-001",
-       "src": "/wp-content/uploads/2021/08/oficinas-de-contenedores-maritimos.jpg",
+       "src": "/img/servicios/instalacion-electrica-en-contenedores.jpg",
        "alt": "Oficina modular iluminada de noche, con focos empotrados encendidos y dos puestos de trabajo: electricidad para contenedores"
       }
      ]

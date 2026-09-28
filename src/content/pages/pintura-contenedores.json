@@ -8,7 +8,7 @@
  "palabraClave": "pintura para contenedores",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2021/07/casa-contenedores-temporales.jpg",
+  "src": "/img/servicios/pintura-de-contenedores.jpg",
   "alt": "Pintura de contenedores terminada: casa de dos contenedores pintados en naranja óxido, con las puertas originales en verde oliva",
   "ancho": 800,
   "alto": 483
@@ -28,7 +28,7 @@
       {
        "t": "imagen",
        "id": "pintura-cont-001",
-       "src": "/wp-content/uploads/2021/07/casa-contenedores-temporales.jpg",
+       "src": "/img/servicios/pintura-de-contenedores.jpg",
        "alt": "Pintura de contenedores terminada: casa de dos contenedores pintados en naranja óxido, con las puertas originales en verde oliva"
       }
      ]

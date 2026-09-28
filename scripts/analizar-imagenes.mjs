@@ -20,7 +20,7 @@ const PAGINAS = path.join(RAIZ, 'src', 'content', 'pages');
 const SALIDA = path.join(RAIZ, 'src', 'data', 'imagenes.json');
 
 const rutas = new Set();
-const anotar = (u) => { if (u && u.startsWith('/wp-content/')) rutas.add(u.split('?')[0]); };
+const anotar = (u) => { if (u && (u.startsWith('/wp-content/') || u.startsWith('/img/'))) rutas.add(u.split('?')[0]); };
 const recorrer = (b) => {
   if (!b) return;
   if (b.t === 'seccion') { anotar(b.fondo?.imagen); (b.columnas || []).forEach((c) => { anotar(c.fondo?.imagen); (c.elementos || []).forEach(recorrer); }); return; }
@@ -33,6 +33,9 @@ for (const f of fs.readdirSync(PAGINAS).filter((f) => f.endsWith('.json'))) {
   (p.bloques || []).forEach(recorrer);
   anotar(p.hero?.src);
 }
+// las fotos de la rejilla de servicios (src/data/servicios.json)
+const SERVICIOS = path.join(RAIZ, 'src', 'data', 'servicios.json');
+if (fs.existsSync(SERVICIOS)) for (const t of JSON.parse(fs.readFileSync(SERVICIOS, 'utf8')).tarjetas) anotar(t.foto);
 
 const previo = fs.existsSync(SALIDA) ? JSON.parse(fs.readFileSync(SALIDA, 'utf8')) : {};
 const salida = {};

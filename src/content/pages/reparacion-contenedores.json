@@ -8,7 +8,7 @@
  "palabraClave": "reparación de contenedores",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-open-top.jpg",
+  "src": "/img/servicios/reparacion-de-contenedores.jpg",
   "alt": "Contenedor con las puertas abiertas y el suelo de madera a la vista, zonas que se revisan en la reparación de contenedores",
   "ancho": 810,
   "alto": 450
@@ -28,7 +28,7 @@
       {
        "t": "imagen",
        "id": "reparacion-c-001",
-       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-open-top.jpg",
+       "src": "/img/servicios/reparacion-de-contenedores.jpg",
        "alt": "Contenedor con las puertas abiertas y el suelo de madera a la vista, zonas que se revisan en la reparación de contenedores"
       }
      ]

@@ -8,7 +8,7 @@
  "palabraClave": "seguridad para contenedores",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-40-pies.jpg",
+  "src": "/img/servicios/seguridad-para-contenedores.jpg",
   "alt": "Puertas de contenedor de 40 pies con barras de cierre: seguridad de contenedores",
   "ancho": 810,
   "alto": 450
@@ -28,7 +28,7 @@
       {
        "t": "imagen",
        "id": "seguridad-co-001",
-       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-40-pies.jpg",
+       "src": "/img/servicios/seguridad-para-contenedores.jpg",
        "alt": "Puertas de contenedor de 40 pies con barras de cierre: seguridad de contenedores"
       }
      ]

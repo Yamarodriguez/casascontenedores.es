@@ -8,7 +8,7 @@
  "palabraClave": "tasación de contenedores usados",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-20-pies.jpg",
+  "src": "/img/servicios/tasacion-de-contenedores-usados.jpg",
   "alt": "Contenedor con su código y tabla de pesos, que se revisan en la tasación de contenedores",
   "ancho": 810,
   "alto": 450
@@ -28,7 +28,7 @@
       {
        "t": "imagen",
        "id": "tasacion-con-001",
-       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-20-pies.jpg",
+       "src": "/img/servicios/tasacion-de-contenedores-usados.jpg",
        "alt": "Contenedor con su código y tabla de pesos, que se revisan en la tasación de contenedores"
       }
      ]

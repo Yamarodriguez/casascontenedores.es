@@ -15,9 +15,10 @@
    "titulo": "Transporte de contenedores marítimos",
    "texto": "<p>Hacemos el <strong>transporte de contenedores marítimos</strong> hasta tu parcela, vacíos o cargados, con camión pluma, plataforma o góndola rebajada según la medida, y autogrúa si la pluma no llega al punto de descarga.</p>",
    "enlace": "Ver el servicio de transporte",
-   "foto": "/wp-content/uploads/2021/08/transporte-de-contenedor-maritimo-1024x1024.jpg",
+   "foto": "/img/servicios/transporte-de-contenedores-maritimos.jpg",
    "alt": "Transporte de contenedores marítimos: camión con un contenedor por autovía al atardecer",
-   "posicion": "center 60%"
+   "posicion": "center 60%",
+   "original": "/wp-content/uploads/2021/08/transporte-de-contenedor-maritimo-1024x1024.jpg"
   },
   {
    "servicio": "pintura",
@@ -25,8 +26,9 @@
    "titulo": "Pintura de contenedores marítimos",
    "texto": "<p>La <strong>pintura para contenedores</strong> empieza por limpiar el acero y quitar el óxido, sigue con imprimación anticorrosiva y termina con el color RAL que elijas. Sirve para unidades nuevas, usadas o ya instaladas.</p>",
    "enlace": "Ver el servicio de pintura",
-   "foto": "/wp-content/uploads/2021/07/casa-contenedores-temporales.jpg",
-   "alt": "Pintura de contenedores terminada: casa de dos contenedores pintados en naranja óxido, con las puertas originales en verde oliva"
+   "foto": "/img/servicios/pintura-de-contenedores.jpg",
+   "alt": "Pintura de contenedores terminada: casa de dos contenedores pintados en naranja óxido, con las puertas originales en verde oliva",
+   "original": "/wp-content/uploads/2021/07/casa-contenedores-temporales.jpg"
   },
   {
    "servicio": "aislamiento",
@@ -34,8 +36,9 @@
    "titulo": "Aislamiento de contenedores",
    "texto": "<p>El <strong>aislamiento de contenedores</strong> se elige según el uso, de almacén a vivienda: espuma proyectada, panel sándwich, lana mineral o corcho, con barrera de vapor contra la condensación y sin olvidar techo, suelo ni cantoneras.</p>",
    "enlace": "Ver el servicio de aislamiento",
-   "foto": "/wp-content/uploads/2021/08/Contenedores-maritimos-refrigerados.jpg",
-   "alt": "Contenedor frigorífico blanco de 20 pies, aislado de fábrica: ejemplo de aislamiento de contenedores"
+   "foto": "/img/servicios/aislamiento-de-contenedores.jpg",
+   "alt": "Contenedor frigorífico blanco de 20 pies, aislado de fábrica: ejemplo de aislamiento de contenedores",
+   "original": "/wp-content/uploads/2021/08/Contenedores-maritimos-refrigerados.jpg"
   },
   {
    "servicio": "electricidad",
@@ -43,8 +46,9 @@
    "titulo": "Instalación eléctrica en contenedores",
    "texto": "<p>La <strong>instalación eléctrica en contenedores</strong> se proyecta conforme al REBT: cuadro con protecciones, cableado, puntos de luz, tomas y puesta a tierra de la estructura metálica. Sin acometida cercana, la alternativa es un kit solar fotovoltaico.</p>",
    "enlace": "Ver el servicio de electricidad",
-   "foto": "/wp-content/uploads/2021/08/oficinas-de-contenedores-maritimos.jpg",
-   "alt": "Oficina modular iluminada de noche, con focos empotrados encendidos y dos puestos de trabajo: electricidad para contenedores"
+   "foto": "/img/servicios/instalacion-electrica-en-contenedores.jpg",
+   "alt": "Oficina modular iluminada de noche, con focos empotrados encendidos y dos puestos de trabajo: electricidad para contenedores",
+   "original": "/wp-content/uploads/2021/08/oficinas-de-contenedores-maritimos.jpg"
   },
   {
    "servicio": "transformacion",
@@ -52,8 +56,9 @@
    "titulo": "Transformación de contenedores",
    "texto": "<p>La <strong>transformación de contenedores</strong> trabaja sobre el contenedor que ya tienes: huecos abiertos con refuerzo estructural, aislamiento, instalaciones y acabados para convertirlo en oficina, local, bar, taller o, con proyecto y licencia, vivienda.</p>",
    "enlace": "Ver el servicio de transformación",
-   "foto": "/wp-content/uploads/2021/09/Precios-de-casas-contenedores.jpg",
-   "alt": "Recreación de casa con tres contenedores, hueco circular y cristaleras: transformación de contenedores"
+   "foto": "/img/servicios/transformacion-de-contenedores.jpg",
+   "alt": "Recreación de casa con tres contenedores, hueco circular y cristaleras: transformación de contenedores",
+   "original": "/wp-content/uploads/2021/09/Precios-de-casas-contenedores.jpg"
   },
   {
    "servicio": "alquiler",
@@ -61,8 +66,9 @@
    "titulo": "Alquiler de contenedores marítimos",
    "texto": "<p>El <strong>alquiler de contenedores marítimos</strong> resuelve necesidades temporales como obras, mudanzas, eventos, archivo o campañas agrícolas. El contrato fija duración, cuota, fianza, entrega y recogida, y también hay modelos refrigerados, open side y high cube.</p>",
    "enlace": "Ver el servicio de alquiler",
-   "foto": "/wp-content/uploads/2021/08/presupuestos-de-contenedores-maritimos.jpg",
-   "alt": "Pilas de contenedores en un depósito y carretilla portacontenedores: alquiler de contenedores marítimos"
+   "foto": "/img/servicios/alquiler-de-contenedores-maritimos.jpg",
+   "alt": "Pilas de contenedores en un depósito y carretilla portacontenedores: alquiler de contenedores marítimos",
+   "original": "/wp-content/uploads/2021/08/presupuestos-de-contenedores-maritimos.jpg"
   },
   {
    "servicio": "seguridad",
@@ -70,8 +76,9 @@
    "titulo": "Seguridad para contenedores",
    "texto": "<p>La <strong>seguridad para contenedores</strong> combina capas según el uso: candado de alta seguridad con caja protectora, cerradura interior, rejas en los huecos, anclaje al suelo y alarma con cámara que avisa en el móvil.</p>",
    "enlace": "Ver el servicio de seguridad",
-   "foto": "/wp-content/uploads/2021/08/Contenedores-maritimos-40-pies.jpg",
-   "alt": "Puertas de contenedor de 40 pies con barras de cierre: seguridad de contenedores"
+   "foto": "/img/servicios/seguridad-para-contenedores.jpg",
+   "alt": "Puertas de contenedor de 40 pies con barras de cierre: seguridad de contenedores",
+   "original": "/wp-content/uploads/2021/08/Contenedores-maritimos-40-pies.jpg"
   },
   {
    "servicio": "reparacion",
@@ -79,8 +86,9 @@
    "titulo": "Reparación de contenedores marítimos",
    "texto": "<p>La <strong>reparación de contenedores</strong> devuelve estanqueidad y resistencia: parches de chapa soldados donde el óxido es pasante, ajuste de puertas y bisagras, juntas de goma, tablas del suelo e impermeabilización del techo, tras una inspección previa.</p>",
    "enlace": "Ver el servicio de reparación",
-   "foto": "/wp-content/uploads/2021/08/Contenedores-maritimos-open-top.jpg",
-   "alt": "Contenedor con las puertas abiertas y el suelo de madera a la vista, zonas que se revisan en la reparación de contenedores"
+   "foto": "/img/servicios/reparacion-de-contenedores.jpg",
+   "alt": "Contenedor con las puertas abiertas y el suelo de madera a la vista, zonas que se revisan en la reparación de contenedores",
+   "original": "/wp-content/uploads/2021/08/Contenedores-maritimos-open-top.jpg"
   },
   {
    "servicio": "tasacion",
@@ -88,8 +96,9 @@
    "titulo": "Tasación de contenedores marítimos usados",
    "texto": "<p>Antes de vender, comprar o asegurar una unidad, la <strong>tasación de contenedores usados</strong> revisa la placa CSC, cantoneras y largueros, óxido, suelo, puertas y juntas, y la sitúa en su categoría de mercado.</p>",
    "enlace": "Ver el servicio de tasación",
-   "foto": "/wp-content/uploads/2021/08/Contenedores-maritimos-20-pies.jpg",
-   "alt": "Contenedor con su código y tabla de pesos, que se revisan en la tasación de contenedores"
+   "foto": "/img/servicios/tasacion-de-contenedores-usados.jpg",
+   "alt": "Contenedor con su código y tabla de pesos, que se revisan en la tasación de contenedores",
+   "original": "/wp-content/uploads/2021/08/Contenedores-maritimos-20-pies.jpg"
   },
   {
    "servicio": "estudio-parcela",
@@ -97,8 +106,9 @@
    "titulo": "Estudio de parcela para casa contenedor",
    "texto": "<p>Antes de comprar el terreno o encargar tu casa contenedor, el <strong>estudio de parcela</strong> revisa la clasificación del suelo, la edificabilidad, el acceso para camión y grúa, las acometidas o la fosa homologada y la capacidad portante del terreno.</p>",
    "enlace": "Ver el estudio de parcela",
-   "foto": "/wp-content/uploads/2021/07/pasos-construccion-casas-contenedores-temporales.jpg",
-   "alt": "Casa de contenedores sobre pilotes de hormigón en una parcela: el terreno se revisa en el estudio de parcela"
+   "foto": "/img/servicios/estudio-de-parcela-casa-contenedor.jpg",
+   "alt": "Casa de contenedores sobre pilotes de hormigón en una parcela: el terreno se revisa en el estudio de parcela",
+   "original": "/wp-content/uploads/2021/07/pasos-construccion-casas-contenedores-temporales.jpg"
   },
   {
    "servicio": "traslado",
@@ -106,10 +116,10 @@
    "titulo": "Traslado de contenedores ya instalados",
    "texto": "<p>El <strong>traslado de contenedores</strong> mueve una unidad ya instalada, vacía o transformada, dentro de la parcela o a otro terreno: desconexión y desanclaje, elevación con grúa o camión pluma, nuevo apoyo nivelado y reconexión de suministros.</p>",
    "enlace": "Ver el servicio de traslado",
-   "foto": "/wp-content/uploads/2021/08/alquiler-contenedor-maritimos-1024x1024.jpg",
+   "foto": "/img/servicios/traslado-de-contenedores.jpg",
    "alt": "Camión con contenedor rojo y grúa izando otro contenedor en una terminal: traslado de contenedores",
    "posicion": "center 62%",
-   "bordeBlanco": true
+   "original": "/wp-content/uploads/2021/08/alquiler-contenedor-maritimos-1024x1024.jpg"
   }
  ]
 }

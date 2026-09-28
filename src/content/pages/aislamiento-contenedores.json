@@ -8,7 +8,7 @@
  "palabraClave": "aislamiento de contenedores",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-refrigerados.jpg",
+  "src": "/img/servicios/aislamiento-de-contenedores.jpg",
   "alt": "Contenedor frigorífico blanco de 20 pies, aislado de fábrica: ejemplo de aislamiento de contenedores",
   "ancho": 810,
   "alto": 450
@@ -28,7 +28,7 @@
       {
        "t": "imagen",
        "id": "aislamiento--001",
-       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-refrigerados.jpg",
+       "src": "/img/servicios/aislamiento-de-contenedores.jpg",
        "alt": "Contenedor frigorífico blanco de 20 pies, aislado de fábrica: ejemplo de aislamiento de contenedores"
       }
      ]

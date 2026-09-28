@@ -1996,5 +1996,60 @@
   "alto": 1024,
   "blanco": false,
   "mtime": 1789638527953.1008
+ },
+ "/img/servicios/transporte-de-contenedores-maritimos.jpg": {
+  "ancho": 1024,
+  "alto": 1024,
+  "blanco": false
+ },
+ "/img/servicios/pintura-de-contenedores.jpg": {
+  "ancho": 800,
+  "alto": 483,
+  "blanco": false
+ },
+ "/img/servicios/aislamiento-de-contenedores.jpg": {
+  "ancho": 810,
+  "alto": 450,
+  "blanco": true
+ },
+ "/img/servicios/instalacion-electrica-en-contenedores.jpg": {
+  "ancho": 810,
+  "alto": 450,
+  "blanco": false
+ },
+ "/img/servicios/transformacion-de-contenedores.jpg": {
+  "ancho": 1500,
+  "alto": 1000,
+  "blanco": false
+ },
+ "/img/servicios/alquiler-de-contenedores-maritimos.jpg": {
+  "ancho": 1632,
+  "alto": 925,
+  "blanco": false
+ },
+ "/img/servicios/seguridad-para-contenedores.jpg": {
+  "ancho": 810,
+  "alto": 450,
+  "blanco": true
+ },
+ "/img/servicios/reparacion-de-contenedores.jpg": {
+  "ancho": 810,
+  "alto": 450,
+  "blanco": true
+ },
+ "/img/servicios/tasacion-de-contenedores-usados.jpg": {
+  "ancho": 810,
+  "alto": 450,
+  "blanco": true
+ },
+ "/img/servicios/estudio-de-parcela-casa-contenedor.jpg": {
+  "ancho": 750,
+  "alto": 516,
+  "blanco": false
+ },
+ "/img/servicios/traslado-de-contenedores.jpg": {
+  "ancho": 1012,
+  "alto": 1022,
+  "blanco": false
  }
 }

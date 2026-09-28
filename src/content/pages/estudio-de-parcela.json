@@ -8,7 +8,7 @@
  "palabraClave": "estudio de parcela para casa contenedor",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2021/07/pasos-construccion-casas-contenedores-temporales.jpg",
+  "src": "/img/servicios/estudio-de-parcela-casa-contenedor.jpg",
   "alt": "Casa de contenedores sobre pilotes de hormigón en una parcela: el terreno se revisa en el estudio de parcela",
   "ancho": 750,
   "alto": 516
@@ -28,7 +28,7 @@
       {
        "t": "imagen",
        "id": "estudio-de-p-001",
-       "src": "/wp-content/uploads/2021/07/pasos-construccion-casas-contenedores-temporales.jpg",
+       "src": "/img/servicios/estudio-de-parcela-casa-contenedor.jpg",
        "alt": "Casa de contenedores sobre pilotes de hormigón en una parcela: el terreno se revisa en el estudio de parcela"
       }
      ]
