@@ -133,5 +133,25 @@
    "posicion": "center 62%",
    "original": "/wp-content/uploads/2021/08/alquiler-contenedor-maritimos-1024x1024.jpg"
   }
- ]
+ ],
+ "generica": {
+  "_nota": "Cabecera de la rejilla en el resto de paginas. {en L} se cambia por \"en <localidad>\" en las de ciudad y desaparece en las demas.",
+  "casas": {
+   "antetitulo": "Para tu contenedor",
+   "h2": "Servicios para casas de contenedores{en L}",
+   "intro": "<p>Además de proyectar y montar tu casa, trabajamos sobre el propio contenedor: pintura, aislamiento, instalación eléctrica, seguridad, reparación, transformación, traslado y tasación, cada uno con su <strong>presupuesto a medida</strong>.</p>"
+  },
+  "maritimos": {
+   "antetitulo": "Más allá de la venta",
+   "h2": "Servicios para contenedores marítimos{en L}",
+   "intro": "<p>Además de vender, alquilar y transportar contenedores marítimos, trabajamos sobre el propio contenedor: pintura, aislamiento, instalación eléctrica, seguridad, reparación, transformación, traslado y tasación, cada uno con su <strong>presupuesto a medida</strong>.</p>",
+   "excluir": [
+    "estudio-parcela"
+   ]
+  },
+  "servicio": {
+   "antetitulo": "Servicio a servicio",
+   "h2": "Otros servicios para tu contenedor"
+  }
+ }
 }

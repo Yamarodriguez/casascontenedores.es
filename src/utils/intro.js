@@ -61,7 +61,9 @@ export function anadirIntro(bloques, { ruta, localidad, titulo, maritimo }) {
   const plantillas = maritimo ? datos.maritimos : datos.casas;
   const n = Math.min(plantillas.length, datos.medir ? plantillas.length : Number(datos.parrafos[ruta] || 0));
   if (!n) return 0;
-  const lugar = localidad || nombreDeTitulo(titulo);
+  const bruto = localidad || nombreDeTitulo(titulo);
+  // con mayuscula: algun nombre del menu de WordPress venia en minuscula
+  const lugar = bruto.charAt(0).toUpperCase() + bruto.slice(1);
   if (!lugar) return 0;
   const seccion = bloques.slice(0, 4).find((s) => s?.t === 'seccion' && (s.columnas || []).length === 2
     && s.columnas.some((c) => (c.elementos || []).some((e) => e.t === 'formulario')));

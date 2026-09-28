@@ -13,12 +13,20 @@
 import datos from '../data/servicios.json';
 import fotos from '../data/imagenes.json';
 import { aWebp, existe } from '../utils/imagenes.js';
+import { esMaritimos } from '../utils/hero.js';
 
-const { ruta = '/' } = Astro.props;
+const { ruta = '/', localidad = '', menu = '' } = Astro.props;
 const enServicios = ruta === '/servicios/';
-// cabecera propia de la pagina si la tiene (servicios.json -> cabeceras), si no
-// la de /servicios/ (sin entradilla) o la de la portada
-const cabecera = datos.cabeceras?.[ruta] || (enServicios ? datos.servicios : datos.home);
+// cabecera: la propia de la pagina si la tiene (servicios.json -> cabeceras),
+// la de /servicios/ o la de la portada; en el resto, una por tipo de pagina
+// (casas, contenedores maritimos o pagina de un servicio), con la localidad
+// en el h2 de las de ciudad
+const generica = datos.tarjetas.some((t) => t.ruta === ruta) ? datos.generica.servicio
+  : esMaritimos(ruta, menu) ? datos.generica.maritimos : datos.generica.casas;
+const base = datos.cabeceras?.[ruta] || (enServicios ? datos.servicios : ruta === '/' ? datos.home : generica);
+// (con mayuscula: algun nombre del menu de WordPress venia en minuscula)
+const lugar = localidad ? localidad.charAt(0).toUpperCase() + localidad.slice(1) : '';
+const cabecera = { ...base, h2: base.h2.replace('{en L}', lugar ? ` en ${lugar}` : '') };
 // un producto sobre fondo blanco se enseña entero; una foto se recorta (con
 // su punto de recorte si lo trae)
 // fuera la tarjeta de la propia pagina y las que la cabecera excluya
@@ -35,6 +43,8 @@ const tarjetas = datos.tarjetas
 const cierre = enServicios
   ? { titulo: '¿Necesitas varios servicios a la vez?', texto: 'Cuéntanos qué le hace falta a tu contenedor y te preparamos un presupuesto a medida antes de empezar.', enlace: 'Pedir presupuesto', url: '/presupuesto-casas-contenedores/' }
   : { titulo: 'Todos los servicios para contenedores', texto: 'Consulta cada servicio con detalle y pide un presupuesto a medida para tu contenedor.', enlace: 'Ver todos los servicios', url: '/servicios/' };
+// la tarjeta de cierre ocupa lo que le falte a la ultima fila de 3 columnas
+const huecos = 3 - (tarjetas.length % 3);
 ---
 
 <section class="servicios-cont" aria-labelledby="servicios-cont-titulo">
@@ -57,7 +67,7 @@ const cierre = enServicios
         </div>
       </li>
     ))}
-    <li class="servicios-cont__tarjeta servicios-cont__tarjeta--cierre">
+    <li class="servicios-cont__tarjeta servicios-cont__tarjeta--cierre" style={`--huecos:${huecos}`}>
       <div class="servicios-cont__cuerpo">
         <p class="servicios-cont__cierre-titulo">{cierre.titulo}</p>
         <p class="servicios-cont__cierre-texto">{cierre.texto}</p>
@@ -115,6 +125,7 @@ const cierre = enServicios
     background: #fff; color: var(--verde-osc); font-weight: 700; font-size: 14px; text-decoration: none;
   }
   .servicios-cont__boton:hover { background: var(--papel-2, #f3f5f4); }
+  @media (min-width: 861px) { .servicios-cont__tarjeta--cierre { grid-column: span var(--huecos, 1); } }
   @media (max-width: 860px) { .servicios-cont__lista { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
   @media (max-width: 560px) { .servicios-cont__lista { grid-template-columns: 1fr; } }
 </style>

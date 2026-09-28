@@ -43,6 +43,8 @@ export async function getStaticPaths() {
 }
 
 const { pagina } = Astro.props;
+// las 4 legales van como texto corrido, sin arbol de bloques
+const hayArbolOriginal = (p) => (p.bloques || []).length > 0;
 
 // los rotulos "30 m2 / 90 m2" solo enlazan (y se pintan como tarjeta) si la
 // pagina de ese modelo existe de verdad
@@ -94,6 +96,13 @@ const conAcordeon = tieneFaq(bloques) || ciudad;
 // (copia: los renombres del paso 4 no deben tocar el JSON importado)
 const ampliacion = seccionAmpliacion(pagina.ampliacion && structuredClone(pagina.ampliacion), { sinFaq: conAcordeon });
 if (ampliacion?.seccion) bloques.push(ampliacion.seccion);
+// la rejilla de servicios con foto en todas las paginas (menos las legales y
+// las que ya la colocan ellas mismas: portada, /servicios/, la central de
+// contenedores), detras de la ampliacion
+const conServicios = JSON.stringify(pagina.bloques || []).includes('"servicios-contenedores"');
+if (!conServicios && !pagina.noindex && hayArbolOriginal(pagina)) {
+  bloques.push({ t: 'seccion', id: 'servicios-auto', columnas: [{ ancho: 100, elementos: [{ t: 'componente', nombre: 'servicios-contenedores' }] }] });
+}
 // las demás zonas de la misma provincia (o las provincias, si es una comunidad)
 anadirZonas(bloques, pagina.ruta, titulos);
 anadirFaq(bloques, conAcordeon ? ampliacion?.faq || [] : [], { conPortada: ciudad });
@@ -142,7 +151,7 @@ for (let i = 0; i < partes.length; i += 3) {
   {trozos.map(({ html: trozo, tras: Componente }) => (
     <>
       <Fragment set:html={trozo} />
-      {Componente && <Componente ruta={pagina.ruta} />}
+      {Componente && <Componente ruta={pagina.ruta} localidad={localidad} menu={pagina.menu} />}
     </>
   ))}
 </Base>
