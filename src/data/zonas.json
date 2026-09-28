@@ -1,0 +1,699 @@
+{
+ "provincias": {
+  "alava": {
+   "nombre": "Álava",
+   "comunidad": "País Vasco",
+   "casas": [
+    "/alava/",
+    "/vitoria-gasteiz/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-alava/"
+   ]
+  },
+  "albacete": {
+   "nombre": "Albacete",
+   "comunidad": "Castilla-La Mancha",
+   "casas": [
+    "/albacete/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-albacete/"
+   ]
+  },
+  "alicante": {
+   "nombre": "Alicante",
+   "comunidad": "Comunitat Valenciana",
+   "casas": [
+    "/alicante/",
+    "/crevillente/",
+    "/elche/",
+    "/orihuela/",
+    "/torrevieja/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-alicante/",
+    "/contenedores-maritimos-crevillente/"
+   ]
+  },
+  "almeria": {
+   "nombre": "Almería",
+   "comunidad": "Andalucía",
+   "casas": [
+    "/almeria/",
+    "/el-ejido/",
+    "/roquetas-de-mar/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-almeria/",
+    "/contenedores-maritimos-roquetas-de-mar/"
+   ]
+  },
+  "asturias": {
+   "nombre": "Asturias",
+   "comunidad": "Asturias",
+   "casas": [
+    "/asturias/",
+    "/aviles/",
+    "/gijon/",
+    "/oviedo/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-asturias/",
+    "/contenedores-maritimos-aviles/"
+   ]
+  },
+  "avila": {
+   "nombre": "Ávila",
+   "comunidad": "Castilla y León",
+   "casas": [
+    "/avila/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-avila/"
+   ]
+  },
+  "badajoz": {
+   "nombre": "Badajoz",
+   "comunidad": "Extremadura",
+   "casas": [
+    "/badajoz/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-badajoz/"
+   ]
+  },
+  "baleares": {
+   "nombre": "Islas Baleares",
+   "comunidad": "Illes Balears",
+   "casas": [
+    "/islas-baleares/",
+    "/mallorca/",
+    "/ibiza/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-baleares/"
+   ]
+  },
+  "barcelona": {
+   "nombre": "Barcelona",
+   "comunidad": "Catalunya",
+   "casas": [
+    "/barcelona/",
+    "/badalona/",
+    "/cornella-de-llobregat/",
+    "/manresa/",
+    "/mataro/",
+    "/rubi/",
+    "/sabadell/",
+    "/san-baudilio-de-llobregat/",
+    "/san-cugat-del-valles/",
+    "/santa-coloma-de-gramanet/",
+    "/terrassa/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-barcelona/",
+    "/contenedores-maritimos-badalona/",
+    "/contenedores-maritimos-mataro/",
+    "/contenedores-maritimos-sabadell/",
+    "/contenedores-maritimos-santa-coloma-de-gramanet/",
+    "/contenedores-cornella-de-llobregat/",
+    "/contenedores-san-cugat-del-valles/"
+   ]
+  },
+  "burgos": {
+   "nombre": "Burgos",
+   "comunidad": "Castilla y León",
+   "casas": [
+    "/burgos/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-burgos/"
+   ]
+  },
+  "caceres": {
+   "nombre": "Cáceres",
+   "comunidad": "Extremadura",
+   "casas": [
+    "/casas-contenedores-caceres/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-caceres/"
+   ]
+  },
+  "cadiz": {
+   "nombre": "Cádiz",
+   "comunidad": "Andalucía",
+   "casas": [
+    "/cadiz/",
+    "/algeciras/",
+    "/chiclana-de-la-frontera/",
+    "/el-puerto-de-santa-maria/",
+    "/jerez-de-la-frontera/",
+    "/san-fernando/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-cadiz/",
+    "/contenedores-maritimos-algeciras/",
+    "/contenedores-san-fernando/"
+   ]
+  },
+  "cantabria": {
+   "nombre": "Cantabria",
+   "comunidad": "Cantabria",
+   "casas": [
+    "/cantabria/",
+    "/santander/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-cantabria/"
+   ]
+  },
+  "castellon": {
+   "nombre": "Castellón",
+   "comunidad": "Comunitat Valenciana",
+   "casas": [
+    "/castellon/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-castellon/"
+   ]
+  },
+  "ceuta": {
+   "nombre": "Ceuta",
+   "comunidad": "Ceuta",
+   "casas": [
+    "/ceuta/"
+   ],
+   "maritimos": []
+  },
+  "ciudad-real": {
+   "nombre": "Ciudad Real",
+   "comunidad": "Castilla-La Mancha",
+   "casas": [
+    "/ciudad-real/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-ciudad-real/"
+   ]
+  },
+  "cordoba": {
+   "nombre": "Córdoba",
+   "comunidad": "Andalucía",
+   "casas": [
+    "/cordoba/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-cordoba/"
+   ]
+  },
+  "cuenca": {
+   "nombre": "Cuenca",
+   "comunidad": "Castilla-La Mancha",
+   "casas": [
+    "/cuenca/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-cuenca/",
+    "/contenedores-maritimos-alarcon/"
+   ]
+  },
+  "gipuzkoa": {
+   "nombre": "Gipuzkoa",
+   "comunidad": "País Vasco",
+   "casas": [
+    "/gipuzkoa/",
+    "/donostia-san-sebastian/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-gipuzkoa/"
+   ]
+  },
+  "girona": {
+   "nombre": "Girona",
+   "comunidad": "Catalunya",
+   "casas": [
+    "/girona/",
+    "/figueres/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-girona/"
+   ]
+  },
+  "granada": {
+   "nombre": "Granada",
+   "comunidad": "Andalucía",
+   "casas": [
+    "/granada/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-granada/"
+   ]
+  },
+  "guadalajara": {
+   "nombre": "Guadalajara",
+   "comunidad": "Castilla-La Mancha",
+   "casas": [
+    "/guadalajara/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-guadalajara/"
+   ]
+  },
+  "huelva": {
+   "nombre": "Huelva",
+   "comunidad": "Andalucía",
+   "casas": [
+    "/huelva/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-huelva/"
+   ]
+  },
+  "huesca": {
+   "nombre": "Huesca",
+   "comunidad": "Aragón",
+   "casas": [
+    "/huesca/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-huesca/"
+   ]
+  },
+  "jaen": {
+   "nombre": "Jaén",
+   "comunidad": "Andalucía",
+   "casas": [
+    "/jaen/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-jaen/"
+   ]
+  },
+  "la-coruna": {
+   "nombre": "La Coruña",
+   "comunidad": "Galicia",
+   "casas": [
+    "/la-coruna/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-la-coruna/"
+   ]
+  },
+  "la-rioja": {
+   "nombre": "La Rioja",
+   "comunidad": "La Rioja",
+   "casas": [
+    "/la-rioja/",
+    "/logrono/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-la-rioja/",
+    "/contenedores-maritimos-logrono/"
+   ]
+  },
+  "las-palmas": {
+   "nombre": "Las Palmas",
+   "comunidad": "Canarias",
+   "casas": [
+    "/las-palmas/",
+    "/telde/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-las-palmas/",
+    "/contenedores-maritimos-telde/"
+   ]
+  },
+  "leon": {
+   "nombre": "León",
+   "comunidad": "Castilla y León",
+   "casas": [
+    "/leon/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-leon/"
+   ]
+  },
+  "lleida": {
+   "nombre": "Lleida",
+   "comunidad": "Catalunya",
+   "casas": [
+    "/lleida/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-lleida/"
+   ]
+  },
+  "lugo": {
+   "nombre": "Lugo",
+   "comunidad": "Galicia",
+   "casas": [
+    "/lugo/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-lugo/"
+   ]
+  },
+  "madrid": {
+   "nombre": "Madrid",
+   "comunidad": "Comunidad de Madrid",
+   "casas": [
+    "/madrid/",
+    "/alcala-de-henares/",
+    "/alcobendas/",
+    "/alcorcon/",
+    "/coslada/",
+    "/fuenlabrada/",
+    "/getafe/",
+    "/las-rozas-de-madrid/",
+    "/leganes/",
+    "/mostoles/",
+    "/parla/",
+    "/pozuelo-de-alarcon/",
+    "/rivas-vaciamadrid/",
+    "/san-sebastian-de-los-reyes/",
+    "/torrejon-de-ardoz/",
+    "/valdemoro/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-madrid/",
+    "/contenedores-maritimos-alcala-de-henares/",
+    "/contenedores-maritimos-fuenlabrada/",
+    "/contenedores-maritimos-getafe/",
+    "/contenedores-maritimos-leganes/",
+    "/contenedores-maritimos-mostoles/",
+    "/contenedores-maritimos-parla/",
+    "/contenedores-maritimos-torrejon-de-ardoz/",
+    "/contenedores-las-rozas-de-madrid/",
+    "/contenedores-rivas-vaciamadrid/",
+    "/contenedores-san-sebastian-de-los-reyes/"
+   ]
+  },
+  "malaga": {
+   "nombre": "Málaga",
+   "comunidad": "Andalucía",
+   "casas": [
+    "/malaga/",
+    "/estepona/",
+    "/fuengirola/",
+    "/marbella/",
+    "/mijas/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-malaga/",
+    "/contenedores-maritimos-marbella/",
+    "/contenedores-mijas/"
+   ]
+  },
+  "melilla": {
+   "nombre": "Melilla",
+   "comunidad": "Melilla",
+   "casas": [
+    "/melilla/"
+   ],
+   "maritimos": []
+  },
+  "murcia": {
+   "nombre": "Murcia",
+   "comunidad": "Región de Murcia",
+   "casas": [
+    "/murcia/",
+    "/cartagena/",
+    "/lorca/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-murcia/",
+    "/contenedores-maritimos-cartagena/"
+   ]
+  },
+  "navarra": {
+   "nombre": "Navarra",
+   "comunidad": "Navarra",
+   "casas": [
+    "/navarra/",
+    "/pamplona/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-navarra/"
+   ]
+  },
+  "ourense": {
+   "nombre": "Ourense",
+   "comunidad": "Galicia",
+   "casas": [
+    "/ourense/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-ourense/"
+   ]
+  },
+  "palencia": {
+   "nombre": "Palencia",
+   "comunidad": "Castilla y León",
+   "casas": [
+    "/palencia/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-palencia/"
+   ]
+  },
+  "pontevedra": {
+   "nombre": "Pontevedra",
+   "comunidad": "Galicia",
+   "casas": [
+    "/pontevedra/",
+    "/vigo/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-pontevedra/"
+   ]
+  },
+  "salamanca": {
+   "nombre": "Salamanca",
+   "comunidad": "Castilla y León",
+   "casas": [
+    "/salamanca/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-salamanca/"
+   ]
+  },
+  "tenerife": {
+   "nombre": "Santa Cruz de Tenerife",
+   "comunidad": "Canarias",
+   "casas": [
+    "/tenerife/",
+    "/san-cristobal-de-la-laguna/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-tenerife/",
+    "/contenedores-maritimos-san-cristobal-de-la-laguna/"
+   ]
+  },
+  "segovia": {
+   "nombre": "Segovia",
+   "comunidad": "Castilla y León",
+   "casas": [
+    "/segovia/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-segovia/"
+   ]
+  },
+  "sevilla": {
+   "nombre": "Sevilla",
+   "comunidad": "Andalucía",
+   "casas": [
+    "/sevilla/",
+    "/alcala-de-guadaira/",
+    "/dos-hermanas/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-sevilla/",
+    "/contenedores-maritimos-dos-hermanas/"
+   ]
+  },
+  "soria": {
+   "nombre": "Soria",
+   "comunidad": "Castilla y León",
+   "casas": [
+    "/soria/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-soria/"
+   ]
+  },
+  "tarragona": {
+   "nombre": "Tarragona",
+   "comunidad": "Catalunya",
+   "casas": [
+    "/tarragona/",
+    "/reus/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-tarragona/",
+    "/contenedores-maritimos-reus/"
+   ]
+  },
+  "teruel": {
+   "nombre": "Teruel",
+   "comunidad": "Aragón",
+   "casas": [
+    "/teruel/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-teruel/"
+   ]
+  },
+  "toledo": {
+   "nombre": "Toledo",
+   "comunidad": "Castilla-La Mancha",
+   "casas": [
+    "/toledo/",
+    "/talavera-de-la-reina/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-toledo/"
+   ]
+  },
+  "valencia": {
+   "nombre": "Valencia",
+   "comunidad": "Comunitat Valenciana",
+   "casas": [
+    "/valencia/",
+    "/gandia/",
+    "/torrente/"
+   ],
+   "maritimos": [
+    "/contenedor-maritimo-valencia/"
+   ]
+  },
+  "valladolid": {
+   "nombre": "Valladolid",
+   "comunidad": "Castilla y León",
+   "casas": [
+    "/valladolid/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-valladolid/"
+   ]
+  },
+  "vizcaya": {
+   "nombre": "Vizcaya",
+   "comunidad": "País Vasco",
+   "casas": [
+    "/vizcaya/",
+    "/baracaldo/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-vizcaya/",
+    "/contenedores-barakaldo/"
+   ]
+  },
+  "zamora": {
+   "nombre": "Zamora",
+   "comunidad": "Castilla y León",
+   "casas": [
+    "/zamora/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-zamora/"
+   ]
+  },
+  "zaragoza": {
+   "nombre": "Zaragoza",
+   "comunidad": "Aragón",
+   "casas": [
+    "/zaragoza/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-zaragoza/"
+   ]
+  },
+  "andorra": {
+   "nombre": "Andorra",
+   "comunidad": "Andorra",
+   "casas": [
+    "/andorra/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-andorra/"
+   ]
+  }
+ },
+ "comunidades": {
+  "andalucia": {
+   "nombre": "Andalucía",
+   "provincias": [
+    "almeria",
+    "cadiz",
+    "cordoba",
+    "granada",
+    "huelva",
+    "jaen",
+    "malaga",
+    "sevilla"
+   ],
+   "casas": [
+    "/andalucia/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-andalucia/"
+   ]
+  },
+  "catalunya": {
+   "nombre": "Catalunya",
+   "provincias": [
+    "barcelona",
+    "girona",
+    "lleida",
+    "tarragona"
+   ],
+   "casas": [
+    "/catalunya/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-catalunya/"
+   ]
+  },
+  "galicia": {
+   "nombre": "Galicia",
+   "provincias": [
+    "la-coruna",
+    "lugo",
+    "ourense",
+    "pontevedra"
+   ],
+   "casas": [
+    "/galicia/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-galicia/"
+   ]
+  },
+  "canarias": {
+   "nombre": "Canarias",
+   "provincias": [
+    "las-palmas",
+    "tenerife"
+   ],
+   "casas": [
+    "/canarias/"
+   ],
+   "maritimos": [
+    "/contenedores-maritimos-canarias/"
+   ]
+  },
+  "extremadura": {
+   "nombre": "Extremadura",
+   "provincias": [
+    "badajoz",
+    "caceres"
+   ],
+   "casas": [
+    "/extremadura/"
+   ],
+   "maritimos": []
+  }
+ }
+}

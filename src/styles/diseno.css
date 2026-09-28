@@ -563,6 +563,10 @@ a.modelo__enlace:hover .modelo__titulo::after { color: var(--verde); transform: 
   transition: border-color .15s ease, background .15s ease, color .15s ease;
 }
 .zonas a:hover { border-color: var(--verde); background: var(--verde-claro); color: var(--verde-osc); }
+/* zonas de la misma provincia al final de cada pagina de localidad */
+.b--texto ul.zonas { margin: .4em 0 0; padding: 0; }
+.b--texto .zonas li::marker { content: ""; }
+.zonas--cercanas { justify-content: flex-start; }
 /* la franja de titulo que va justo antes del directorio (un h3 blanco sobre
    gris oscuro) se queda compacta */
 .bloque--raiz.con-fondo:has(+ .bloque--zonas) { padding: clamp(24px, 3vw, 36px) 0; }

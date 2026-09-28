@@ -1,0 +1,277 @@
+{
+ "slug": "seguridad-contenedores",
+ "ruta": "/seguridad-contenedores/",
+ "titulo": "Seguridad para contenedores",
+ "h1": "Seguridad para contenedores",
+ "tituloSeo": "Seguridad para contenedores: candados, rejas, alarma y cámara",
+ "descripcion": "Seguridad para contenedores: candado con caja antirrobo, cerradura adicional, reja en huecos, anclaje al suelo, alarma y cámara. Qué combinar según el uso.",
+ "palabraClave": "seguridad para contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
+  "alt": "Contenedores marítimos apilados, punto de partida para reforzar su seguridad con candado, reja, alarma y cámara",
+  "ancho": 1024,
+  "alto": 1024
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "seguridad-co-003",
+   "columnas": [
+    {
+     "id": "seguridad-co-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "seguridad-co-001",
+       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
+       "alt": "Contenedores marítimos apilados, punto de partida para reforzar su seguridad con candado, reja, alarma y cámara"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "seguridad-co-008",
+   "columnas": [
+    {
+     "id": "seguridad-co-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "seguridad-co-004",
+       "etiqueta": "h2",
+       "texto": "Seguridad para contenedores: qué combinar según el uso",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "seguridad-co-005",
+       "html": "<p>Un contenedor marítimo aislado en una obra, un almacén, un trastero o una parcela llama la atención por su propio volumen, y eso lo convierte en objetivo fácil si el cierre original es el único punto de defensa. La <strong>seguridad para contenedores</strong> no es un único producto, sino una combinación de capas: un candado de alta seguridad protegido por una caja que le tape el cuerpo, una cerradura adicional por dentro, rejas en los huecos con ventana o puerta, anclaje de la base al suelo, y alarma con cámara y conexión móvil para saber qué pasa aunque no haya nadie cerca. En esta página vemos qué conviene según dónde esté el contenedor y para qué se use, sin instalarlo todo a la vez.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "seguridad-co-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "seguridad-co-028",
+   "columnas": [
+    {
+     "id": "seguridad-co-027",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "seguridad-co-009",
+       "etiqueta": "h2",
+       "texto": "Candado de alta seguridad y caja protectora para el contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "seguridad-co-010",
+       "html": "<p>El punto más débil de un contenedor cerrado con un candado corriente es el propio candado: colgado al aire, queda expuesto a una cizalla o a una palanca. Un <strong>candado de alta seguridad</strong> con arco endurecido complica el corte, pero la mejora real llega con una caja protectora (lockbox) atornillada sobre las argollas, que tapa el cuerpo y deja solo la ranura de la llave accesible. Suele ser el primer paso, tanto en un contenedor recién instalado como en uno con años en la misma parcela.</p><p>La caja se elige según el cierre: las puertas de dos hojas necesitan una caja que cubra las argollas centrales, y el cierre lateral simple admite cajas más compactas. Conviene fijarla con tornillería de cabeza no accesible, para que desatornillarla no sirva de nada.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "seguridad-co-011",
+       "etiqueta": "h2",
+       "texto": "Cerraduras adicionales para reforzar la seguridad de un contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "seguridad-co-012",
+       "html": "<p>Además del candado exterior, una <strong>cerradura adicional</strong> instalada por dentro añade un segundo punto de cierre que no depende de lo que se vea desde fuera. En un contenedor de almacenaje suele ir en la puerta que menos se usa; en una oficina con presencia diaria se combina con un pasador interior.</p><p>Esta capa de <strong>seguridad adicional para contenedores</strong> tiene sentido cuando guarda herramienta o equipos de valor: si el candado exterior falla, la cerradura interior obliga a un segundo esfuerzo, y ese tiempo extra suele decidir si el intento continúa o se abandona.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "seguridad-co-013",
+       "etiqueta": "h3",
+       "texto": "¿Qué diferencia hay entre un candado de alta seguridad y uno normal para el contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "seguridad-co-014",
+       "html": "<p>Un candado de alta seguridad usa un arco más grueso y templado, un cuerpo macizo sin puntos débiles a la vista y un mecanismo resistente al taladro y a la ganzúa, mientras que uno normal prioriza el precio sobre la resistencia al corte o al golpe. La diferencia se nota sobre todo con la caja protectora puesta: sin ella, incluso el candado más resistente sigue expuesto a la palanca.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "seguridad-co-015",
+       "etiqueta": "h2",
+       "texto": "Rejas y puertas reja: seguridad en los huecos del contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "seguridad-co-016",
+       "html": "<p>Cuando el contenedor tiene huecos abiertos —ventanas practicadas en el lateral, o un escaparate en un contenedor comercial— el candado y la cerradura ya no bastan, porque el acceso no pasa por ahí. La <strong>reja para contenedores</strong> se fabrica a medida del hueco y se ancla al marco que sujeta la carpintería, nunca perforando la chapa corrugada, para no abrir una vía de entrada de humedad que comprometa el sellado que exige el DB-HS del CTE.</p><p>En huecos de paso, como una puerta lateral añadida, la solución habitual es una <strong>puerta reja</strong> abatible con su propia cerradura, que se cierra por fuera del cerramiento original y deja este último como segunda barrera. Se repite en almacenes y trasteros de contenedores situados en polígonos con poca vigilancia directa.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "seguridad-co-017",
+       "etiqueta": "h3",
+       "texto": "¿Se puede poner una reja de seguridad en el contenedor sin dañar su estructura?"
+      },
+      {
+       "t": "texto",
+       "id": "seguridad-co-018",
+       "html": "<p>Sí: la reja se suelda o se atornilla al cerco metálico que ya lleva el hueco, la pieza pensada para recibir carga, y no directamente sobre el panel corrugado. Así, el herraje añade resistencia sin abrir puntos nuevos de entrada de agua ni afectar al aislamiento del módulo.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "seguridad-co-019",
+       "etiqueta": "h2",
+       "texto": "Anclaje al suelo: la seguridad para contenedores frente al robo del módulo entero"
+      },
+      {
+       "t": "texto",
+       "id": "seguridad-co-020",
+       "html": "<p>Un contenedor sin anclar es vulnerable más allá de sus puertas: sin fijación a la base, se puede enganchar y cargar con una grúa o un camión pluma en el mismo tiempo que se tarda en instalarlo. El <strong>anclaje al suelo</strong> usa las esquineras normalizadas por la ISO 668 para fijar la base a una losa de hormigón o a zapatas, de modo que moverlo exige desmontar antes esa fijación.</p><p>Es recomendable en parcelas sin vallado perimetral, en solares de obra sin vigilancia los fines de semana, y en cualquier <a href=\"/casa-contenedor-suelo-rustico/\">vivienda en suelo rústico</a> alejada de núcleos habitados.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "seguridad-co-021",
+       "etiqueta": "h2",
+       "texto": "Alarma y cámara con conexión móvil: vigilancia del contenedor a distancia"
+      },
+      {
+       "t": "texto",
+       "id": "seguridad-co-022",
+       "html": "<p>Las capas físicas —candado, caja, cerradura, reja y anclaje— retrasan un intento de acceso, pero no avisan de que está ocurriendo. Una <strong>alarma para contenedores</strong> con sensores de apertura y movimiento, combinada con una cámara con conexión móvil, cierra ese hueco: el propietario recibe el aviso en el teléfono en cuanto se abre una puerta o hay movimiento junto al contenedor.</p><p>En parcelas sin suministro eléctrico cercano, la alarma y la cámara pueden montarse con batería y placa solar propia. En un contenedor ya conectado conviene integrarlas en la <a href=\"/electricidad-contenedores/\">instalación eléctrica</a> del módulo, cuyo cableado debe seguir el Reglamento Electrotécnico de Baja Tensión (REBT).</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "seguridad-co-023",
+       "etiqueta": "h3",
+       "texto": "¿Qué aporta la iluminación a la seguridad para contenedores?"
+      },
+      {
+       "t": "texto",
+       "id": "seguridad-co-024",
+       "html": "<p>La iluminación exterior, orientada a las puertas y a los huecos con reja, reduce el tiempo que un intruso puede actuar sin ser visto y mejora la imagen que capta la cámara durante la noche, que es cuando se concentran la mayoría de los intentos de acceso a naves y almacenes aislados. Un foco con detector de movimiento junto a cada acceso suele bastar para complementar el resto de medidas del contenedor.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "seguridad-co-025",
+       "etiqueta": "h2",
+       "texto": "Qué combinación de seguridad para contenedores conviene según el uso"
+      },
+      {
+       "t": "texto",
+       "id": "seguridad-co-026",
+       "html": "<p>No todos los contenedores necesitan el mismo nivel de protección. Un <strong>trastero o almacén</strong> sin presencia diaria se beneficia del candado con caja, el anclaje al suelo y una alarma autónoma; con ventanas o acceso lateral, se suma la reja. Una oficina con uso diario prioriza la cerradura interior y la cámara. Un contenedor de obra o alquiler temporal necesita toda la combinación, porque cambia de ubicación y pasa temporadas sin vigilancia.</p><table><thead><tr><th>Uso del contenedor</th><th>Medidas de seguridad prioritarias</th></tr></thead><tbody><tr><td>Trastero o almacén sin presencia diaria</td><td>Candado con caja, anclaje al suelo, alarma autónoma</td></tr><tr><td>Oficina con uso diario</td><td>Cerradura interior, cámara, reja en huecos de planta baja</td></tr><tr><td>Contenedor de obra o alquiler temporal</td><td>Candado con caja, cerradura, reja, anclaje, alarma y cámara</td></tr></tbody></table><p>Cuéntanos el uso del contenedor, dónde está ubicado y si ya cuenta con <a href=\"/electricidad-contenedores/\">electricidad</a>, y valoramos qué combinación tiene sentido. Si aún no está en su ubicación definitiva, revisa el <a href=\"/estudio-de-parcela/\">estudio de parcela</a> y, si va a moverse más adelante, el <a href=\"/traslado-contenedores/\">traslado de contenedores</a>, porque el anclaje condiciona ese trabajo futuro. Puedes ver el resto de <a href=\"/servicios/\">servicios</a> o resolver dudas en las <a href=\"/preguntas-frecuentes/\">preguntas frecuentes</a>.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "seguridad-co-031",
+   "columnas": [
+    {
+     "id": "seguridad-co-030",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "seguridad-co-029",
+       "nombre": "formulario-pasos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "contenedores-maritimos",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre seguridad para contenedores",
+   "items": [
+    {
+     "pregunta": "¿Sirve un candado normal para un contenedor marítimo?",
+     "respuesta": "Un candado corriente colgado al aire se puede forzar con una cizalla en segundos, porque queda expuesto al arco y a las palancas. Para que el cierre aguante conviene un candado de alta seguridad protegido por una caja que le tape el cuerpo, dejando solo la rendija de la llave accesible, y combinarlo con una cerradura interior en la puerta menos usada."
+    },
+    {
+     "pregunta": "¿Puedo poner rejas en un contenedor sin perder la garantía de estanqueidad?",
+     "respuesta": "Sí, siempre que la reja se ancle al marco del hueco y no perfore la chapa fuera de los puntos ya preparados para ventanas y puertas. El herraje se suelda o atornilla al cerco, no al panel corrugado, para mantener el sellado que exige el DB-HS del CTE."
+    },
+    {
+     "pregunta": "¿Necesito permiso para instalar alarma y cámara en un contenedor?",
+     "respuesta": "La instalación en sí no suele requerir licencia porque no altera la estructura, pero si el contenedor está en parcela urbana conviene revisar la normativa municipal sobre videovigilancia orientada a la vía pública o a parcelas vecinas. La instalación eléctrica de estos equipos sí debe seguir el Reglamento Electrotécnico de Baja Tensión."
+    },
+    {
+     "pregunta": "¿Qué seguridad necesita un contenedor usado como trastero frente a uno usado como oficina?",
+     "respuesta": "El trastero pasa la mayor parte del tiempo sin nadie dentro, así que prioriza el candado con caja antirrobo, el anclaje al suelo y una alarma autónoma con batería. La oficina, con presencia diaria, se apoya más en la cerradura interior y la cámara, y reserva la reja solo para los huecos de planta baja."
+    },
+    {
+     "pregunta": "¿El anclaje al suelo evita que roben el contenedor entero?",
+     "respuesta": "Ese es su objetivo: sin anclaje, un contenedor vacío se puede enganchar y cargar con una grúa o un camión pluma en pocos minutos, igual que al instalarlo o trasladarlo. El anclaje usa los mismos puntos normalizados por la ISO 668 para fijar la base a una losa o a zapatas, y obliga a desmontarlo antes de poder moverlo."
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,271 @@
+{
+ "slug": "servicios",
+ "ruta": "/servicios/",
+ "titulo": "Servicios para Contenedores",
+ "h1": "Servicios para Contenedores",
+ "tituloSeo": "Servicios para Contenedores: Guía Completa y Presupuesto",
+ "descripcion": "Pintura, aislamiento, electricidad, seguridad, reparación, transformación y tasación de contenedores: qué incluye cada servicio y cómo pedir presupuesto.",
+ "palabraClave": "servicios para contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2023/08/casas-contenedores-permisos-1024x379.jpg",
+  "alt": "Servicios para contenedores marítimos en toda España",
+  "ancho": 1024,
+  "alto": 379
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "servicios-003",
+   "columnas": [
+    {
+     "id": "servicios-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "servicios-001",
+       "src": "/wp-content/uploads/2023/08/casas-contenedores-permisos-1024x379.jpg",
+       "alt": "Servicios para contenedores marítimos en toda España"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "servicios-008",
+   "columnas": [
+    {
+     "id": "servicios-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "servicios-004",
+       "etiqueta": "h2",
+       "texto": "Qué servicios para contenedores ofrecemos en casascontenedores.es",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-005",
+       "html": "<p>Reunimos aquí los servicios para contenedores marítimos que puedes contratar por separado, tengas ya tu contenedor o quieras comprarlo, alquilarlo o convertirlo en vivienda. Cada uno se presta con <strong>presupuesto a medida</strong>, ajustado al contenedor concreto, al uso que le vas a dar y a la parcela donde vas a trabajar.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "servicios-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "servicios-030",
+   "columnas": [
+    {
+     "id": "servicios-029",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "servicios-009",
+       "etiqueta": "h2",
+       "texto": "Servicio de pintura y aislamiento para contenedores marítimos"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-010",
+       "html": "<p>La pintura revisa antes el estado del acero corten: se lija y se trata el óxido en cortes y soldaduras, se aplica una capa de <strong>tratamiento anticorrosivo</strong> y el acabado final, y se repite en las zonas donde el uso o la intemperie desgastan la protección exterior. Consulta el proceso completo en <a href=\"/pintura-contenedores/\">pintura de contenedores</a>.</p><p>El <strong>aislamiento térmico</strong> se dimensiona según el DB-HE del CTE, combinando paneles interiores o exteriores con barrera de vapor para evitar condensaciones sobre el acero. Revisa qué opción encaja con tu proyecto en <a href=\"/aislamiento-contenedores/\">aislamiento de contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "servicios-011",
+       "etiqueta": "h2",
+       "texto": "Servicio de electricidad y energía solar para contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-012",
+       "html": "<p>La instalación eléctrica de un contenedor se proyecta conforme al REBT (Reglamento Electrotécnico de Baja Tensión), con el cuadro de protecciones y las tomas necesarias según el uso residencial o de obra. Junto a la red convencional valoramos <strong>paneles solares</strong> como apoyo cuando la parcela no tiene un punto de suministro cercano. Amplía el detalle en <a href=\"/electricidad-contenedores/\">electricidad para contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "servicios-013",
+       "etiqueta": "h3",
+       "texto": "¿Qué necesita el servicio de electricidad para contenedores antes de dar de alta la luz?"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-014",
+       "html": "<p>Necesita un boletín eléctrico firmado por un instalador autorizado conforme al REBT, que certifique que el cuadro, la toma de tierra y el cableado cumplen la normativa antes de solicitar el alta del suministro a la compañía. Sin ese boletín no se puede dar de alta la luz, tanto si el contenedor se conecta a la red general como si además incorpora paneles solares de apoyo.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "servicios-015",
+       "etiqueta": "h2",
+       "texto": "Servicios para contenedores marítimos: seguridad frente a robos"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-016",
+       "html": "<p>Un contenedor aislado en una parcela o en una nave es un objetivo frecuente de robo, así que reforzamos su seguridad con varias capas independientes: <strong>cerraduras antirrobo</strong> que sustituyen el pestillo original de las puertas, rejas en huecos de ventanas y accesos, y sistemas de alarma con cámara conectados a tu móvil. Revisa las opciones en <a href=\"/seguridad-contenedores/\">seguridad para contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "servicios-017",
+       "etiqueta": "h3",
+       "texto": "¿Qué sistemas incluye el servicio de seguridad para contenedores frente a robos?"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-018",
+       "html": "<p>Incluye cerraduras antirrobo que sustituyen el pestillo original de las puertas, rejas en ventanas o en huecos abiertos en la chapa, y una alarma con cámara 4G que avisa al móvil sin depender del wifi de la parcela. Cada capa cubre un punto distinto: la cerradura retrasa la entrada, la reja refuerza el hueco más débil y la cámara documenta lo ocurrido si la primera barrera falla.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "servicios-019",
+       "etiqueta": "h2",
+       "texto": "Servicio de reparación, transformación y traslado de contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-020",
+       "html": "<p>La <strong>reparación estructural</strong> trata golpes, perforaciones y corrosión avanzada en el acero corten, sustituyendo chapa cuando el espesor original se ha perdido y comprobando que el suelo de contrachapado marino siga firme. Consulta el alcance en <a href=\"/reparacion-contenedores/\">reparación de contenedores</a>.</p><p>Si ya tienes un contenedor y quieres darle otro uso, la <strong>transformación del contenedor</strong> abre huecos reforzando el marco, distribuye tabiques interiores y lo prepara para instalaciones, sin necesidad de comprar una unidad nueva; cuando el uso final es residencial, el proyecto sigue sujeto al mismo CTE y a la misma licencia de obra que una vivienda convencional. Revisa el proceso en <a href=\"/transformacion-contenedores/\">transformación de contenedores</a>.</p><p>El <strong>traslado entre parcelas</strong> mueve el contenedor ya instalado hasta su ubicación definitiva con camión pluma o grúa, según el acceso del terreno, algo distinto del transporte desde el depósito de origen. Amplía el detalle en <a href=\"/traslado-contenedores/\">traslado de contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "servicios-021",
+       "etiqueta": "h3",
+       "texto": "¿Qué diferencia hay entre el servicio de transformación y el de traslado de contenedores?"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-022",
+       "html": "<p>La transformación cambia el uso del contenedor abriendo huecos y preparando instalaciones, mientras que el traslado solo cambia su ubicación de una parcela a otra sin tocar la estructura. Puedes pedir uno, el otro o los dos servicios encadenados, según si el contenedor ya está donde lo necesitas o hay que moverlo antes de intervenir en él.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "servicios-023",
+       "etiqueta": "h2",
+       "texto": "Servicio de tasación y estudio de parcela para contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-024",
+       "html": "<p>La <strong>tasación de contenedores usados</strong> valora el estado de la estructura, la placa CSC, el suelo y la estanqueidad antes de venderlo, comprarlo de segunda mano o usarlo como garantía de una operación. Consulta cómo se hace en <a href=\"/tasacion-contenedores/\">tasación de contenedores</a>.</p><p>El <strong>estudio de parcela</strong> revisa el acceso para el camión y la grúa, la pendiente y la orientación del terreno, y las restricciones urbanísticas antes de decidir dónde colocar el contenedor, un paso previo que conviene resolver junto con los permisos municipales.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "servicios-025",
+       "etiqueta": "h3",
+       "texto": "¿Qué revisa el servicio de tasación para contenedores marítimos usados?"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-026",
+       "html": "<p>Revisa la placa CSC y el número de serie, el estado del suelo de contrachapado marino, la estanqueidad de paredes y techo, y si hay corrosión que afecte a la estructura portante en las cantoneras. Con esos datos se fija un valor realista, tanto si vas a comprar como si vas a vender la unidad.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "servicios-027",
+       "etiqueta": "h2",
+       "texto": "Otros servicios de contenedores y cómo pedir presupuesto"
+      },
+      {
+       "t": "texto",
+       "id": "servicios-028",
+       "html": "<p>Además de estos servicios, seguimos ofreciendo el transporte del contenedor hasta tu parcela, el alquiler para necesidades temporales, la compraventa de unidades nuevas y usadas, los planos y renders para visualizar el proyecto, y la <strong>gestión de permisos</strong> ante el ayuntamiento. Cada uno mantiene su propia ficha, sin cambios respecto a lo que ya conocías.</p><p>Para pedir presupuesto de cualquiera de estos servicios, indícanos el contenedor de partida (medida, estado y si ya lo tienes o hay que comprarlo), la dirección donde vas a trabajar y el uso final que le vas a dar. Con esos datos ajustamos el alcance del servicio, qué se revisa antes de empezar y cómo se coordina con el resto de la obra si hay varios servicios encadenados.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  }
+ ],
+ "menu": "contenedores-maritimos",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre los servicios para contenedores",
+   "items": [
+    {
+     "pregunta": "¿Puedo contratar solo un servicio para contenedores o hay que encargar el proyecto completo?",
+     "respuesta": "Puedes contratar cada servicio por separado, sin necesidad de encargar una casa contenedor completa: por ejemplo, pintar y reforzar la seguridad de un contenedor que ya usas como trastero, sin tocar nada más. Indícanos qué necesitas al pedir presupuesto y ajustamos el alcance solo a ese servicio, sin añadir trabajos que no has pedido."
+    },
+    {
+     "pregunta": "¿Los servicios para contenedores se prestan en toda España?",
+     "respuesta": "Sí, trabajamos en toda España, aunque el alcance concreto de cada servicio depende del acceso a la parcela y de la distancia hasta el punto donde está el contenedor. Indícanos la ubicación exacta al pedir presupuesto para que el precio puesto en destino incluya el desplazamiento necesario, sin sorpresas el día del trabajo."
+    },
+    {
+     "pregunta": "¿Hace falta permiso municipal para reparar, pintar o transformar un contenedor ya instalado?",
+     "respuesta": "Depende del alcance: repintar o reparar daños puntuales suele ser mantenimiento y no exige trámite adicional, pero si la transformación cambia el uso o añade huecos estructurales conviene consultarlo con el ayuntamiento antes de empezar, igual que para cualquier instalación permanente en la parcela."
+    },
+    {
+     "pregunta": "¿Puedo pedir varios servicios para contenedores a la vez, como traslado y transformación?",
+     "respuesta": "Sí, es habitual encadenar varios servicios en un mismo proyecto, por ejemplo trasladar el contenedor a la parcela definitiva y después transformarlo o reforzar su seguridad. Coordinamos el orden de los trabajos para que cada uno se haga sobre una base ya resuelta, sin repetir desplazamientos ni intervenciones que se pisen entre sí."
+    },
+    {
+     "pregunta": "¿Qué pasa si el contenedor tiene daños que no se ven bien en las fotos?",
+     "respuesta": "Antes de dar un presupuesto cerrado para reparación o transformación, revisamos el estado real del contenedor: estructura, suelo y estanqueidad, no solo las fotos que nos envíes. Si aparecen daños no previstos al empezar el trabajo, te lo comunicamos antes de continuar, para que decidas si sigues adelante con el alcance ampliado."
+    }
+   ]
+  }
+ }
+}

@@ -161,6 +161,23 @@
   },
   {
    "t": "seccion",
+   "id": "componente-catalogo-modelos",
+   "columnas": [
+    {
+     "id": "componente-catalogo-modelos-col",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "componente-catalogo-modelos-el",
+       "nombre": "catalogo-modelos"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
    "id": "9c804bd",
    "disposicion": "boxed",
    "columnas": [

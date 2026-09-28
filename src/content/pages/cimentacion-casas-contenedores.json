@@ -1,0 +1,260 @@
+{
+ "slug": "cimentacion-casas-contenedores",
+ "ruta": "/cimentacion-casas-contenedores/",
+ "titulo": "Cimentación de casas contenedores",
+ "h1": "Cimentación de casas contenedores",
+ "tituloSeo": "Cimentación de casas contenedores: tipos y claves",
+ "descripcion": "Guía técnica de la cimentación de casas contenedores: apoyo en las esquinas, tipos según el terreno, estudio geotécnico y separación frente a la humedad.",
+ "palabraClave": "cimentación de casas contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2021/07/casas-prefabricadas-de-contenedores-permanente.jpg",
+  "alt": "cimentación de casas contenedores sobre terreno preparado",
+  "ancho": 1500,
+  "alto": 1000
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "cimentacion--003",
+   "columnas": [
+    {
+     "id": "cimentacion--002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "cimentacion--001",
+       "src": "/wp-content/uploads/2021/07/casas-prefabricadas-de-contenedores-permanente.jpg",
+       "alt": "cimentación de casas contenedores sobre terreno preparado"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "cimentacion--008",
+   "columnas": [
+    {
+     "id": "cimentacion--006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "cimentacion--004",
+       "etiqueta": "h2",
+       "texto": "Cimentación de contenedores marítimos: por dónde empieza la obra",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "cimentacion--005",
+       "html": "<p>La <strong>cimentación de una casa contenedor</strong> reparte el peso de los módulos sobre el terreno y evita asentamientos irregulares con el tiempo. No es un capricho técnico: un contenedor marítimo transmite su carga a través de sus esquineras inferiores, y si esos puntos no se apoyan sobre una base calculada para el terreno donde vas a construir, la vivienda puede sufrir grietas, puertas que dejan de cerrar bien o humedad que sube desde el suelo. Esta guía explica en qué se apoya el contenedor, qué tipos de cimentación existen según el terreno y qué factores cambian el proyecto de una parcela a otra.</p><p>Si todavía no has decidido el tipo de suelo, conviene leer antes nuestra página sobre <a href=\"/casa-contenedor-suelo-rustico/\">suelo rústico</a>, porque la calificación del terreno condiciona tanto los permisos como el tipo de cimentación que se puede ejecutar.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "cimentacion--007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "cimentacion--028",
+   "columnas": [
+    {
+     "id": "cimentacion--027",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "cimentacion--009",
+       "etiqueta": "h2",
+       "texto": "Por qué la cimentación se concentra en las esquinas del contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "cimentacion--010",
+       "html": "<p>Un contenedor marítimo está diseñado para apilarse y transportarse sujeto por sus <strong>cantoneras de acero</strong>, las piezas de las esquinas que concentran toda la resistencia estructural del cajón. Por eso, en una vivienda, la cimentación no tiene que cubrir toda la superficie del contenedor: basta con crear un apoyo firme justo debajo de cada cantonera, porque es ahí donde se transmite el peso real de la estructura al terreno. Cuando la casa se compone de varios módulos, aparecen además esquinas intermedias donde dos contenedores se apoyan uno junto a otro, y esos puntos también necesitan su propio apoyo calculado.</p><p>Esta forma de trabajar es distinta a la de una vivienda tradicional, donde el muro de carga se apoya de forma continua sobre una zapata corrida o una losa completa. Aquí el <strong>peso se concentra</strong> en puntos concretos, según el número de módulos, lo que permite ejecutar cimentaciones más ligeras sin renunciar a la seguridad, siempre que el cálculo lo haga un técnico competente conforme al CTE DB-SE.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "cimentacion--011",
+       "etiqueta": "h3",
+       "texto": "¿Por qué la cimentación no cubre toda la base del contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "cimentacion--012",
+       "html": "<p>Porque el contenedor no necesita apoyo continuo: su resistencia se concentra en las esquinas inferiores, así que cubrir toda la planta con hormigón sería un gasto de material sin beneficio estructural. Cubrir solo las esquinas exige que el estudio geotécnico confirme que el terreno bajo cada punto de apoyo tiene capacidad suficiente, porque un fallo puntual en una sola esquina puede desnivelar todo el módulo.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "cimentacion--013",
+       "etiqueta": "h2",
+       "texto": "Tipos de cimentación según el terreno de tu contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "cimentacion--014",
+       "html": "<p>No existe una única solución válida para todos los terrenos: el tipo de cimentación se elige según la capacidad portante del suelo, la pendiente de la parcela y el número de módulos. Estas son las soluciones más habituales:</p><table><thead><tr><th>Tipo de cimentación</th><th>Cuándo se usa</th></tr></thead><tbody><tr><td><strong>Zapatas aisladas</strong></td><td>Bajo cada cantonera, en terrenos firmes y homogéneos; es la solución más frecuente en construcciones sencillas.</td></tr><tr><td>Zapatas corridas</td><td>Uniendo varias zapatas aisladas en línea, cuando el terreno pide repartir mejor la carga entre esquinas contiguas.</td></tr><tr><td>Losa de hormigón</td><td>Cuando el terreno tiene poca capacidad portante o hay riesgo de asientos diferenciales entre puntos de apoyo.</td></tr><tr><td>Pilotes o tornillos helicoidales</td><td>En terrenos malos, con relleno, humedad freática alta o pendiente, y también cuando se busca una base reversible.</td></tr><tr><td>Solera</td><td>Como acabado sobre el terreno ya cimentado, para cerrar la zona entre esquineras y evitar el paso de humedad y de insectos.</td></tr></tbody></table><p>La elección final la marca siempre el <strong>estudio geotécnico</strong>, no una preferencia estética, porque cada tipo de terreno reacciona de forma distinta al peso puntual que transmite un contenedor.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "cimentacion--015",
+       "etiqueta": "h3",
+       "texto": "¿Cuándo conviene una cimentación con pilotes o tornillos helicoidales?"
+      },
+      {
+       "t": "texto",
+       "id": "cimentacion--016",
+       "html": "<p>Conviene una cimentación con pilotes o tornillos helicoidales cuando el terreno tiene poca capacidad portante, mucha humedad, relleno no compactado o una pendiente que dificulta excavar zapatas o una losa uniforme. Los tornillos helicoidales, además, se pueden retirar si la casa contenedor se traslada a otra parcela más adelante, algo que interesa sobre todo en construcciones planteadas como <strong>vivienda temporal</strong> y no como bien inmueble fijo.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "cimentacion--017",
+       "etiqueta": "h2",
+       "texto": "El estudio geotécnico antes de la cimentación"
+      },
+      {
+       "t": "texto",
+       "id": "cimentacion--018",
+       "html": "<p>El <strong>estudio geotécnico</strong> es el documento técnico que determina qué tipo de cimentación puede soportar el terreno donde se va a levantar la casa contenedor. Un técnico especializado toma muestras del suelo, analiza su capacidad portante y comprueba si existe nivel freático cerca de la superficie o riesgo de asientos. Con esos datos, el arquitecto o ingeniero calcula el tipo de zapata, losa o pilotaje adecuado, conforme al CTE DB-SE-C sobre cimentaciones. Puedes ampliar cómo se organiza ese análisis en <a href=\"/estudio-de-parcela/\">estudio de parcela</a>.</p><p>Saltarse este paso para ahorrar tiempo es el error más caro de la obra: una cimentación mal dimensionada no se corrige después sin levantar de nuevo los módulos.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "cimentacion--019",
+       "etiqueta": "h3",
+       "texto": "¿Es obligatorio el estudio geotécnico antes de cimentar un contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "cimentacion--020",
+       "html": "<p>Sí, es obligatorio siempre que la vivienda se considere bien inmueble, porque el CTE exige justificar el tipo de cimentación con datos reales del terreno, no con una estimación genérica. En construcciones planteadas como bien mueble o vivienda temporal la exigencia formal puede variar según el ayuntamiento; consulta qué trámites aplican en <a href=\"/permisos/\">permisos de casas con contenedores</a>, pero el <strong>estudio geotécnico</strong> sigue siendo la única forma de saber si el terreno aguanta el peso de los módulos sin asientos.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "cimentacion--021",
+       "etiqueta": "h2",
+       "texto": "Nivelación y anclaje de las cantoneras a la cimentación"
+      },
+      {
+       "t": "texto",
+       "id": "cimentacion--022",
+       "html": "<p>Antes de colocar el contenedor, cada punto de apoyo se nivela con precisión: un desnivel entre esquinas, aunque sea pequeño, se traduce en tensiones que la estructura de acero transmite a puertas, ventanas y tabiques. Una vez nivelada la base, las <strong>cantoneras se anclan</strong> a la cimentación con placas metálicas y pernos, siguiendo el mismo criterio que exige el Convenio CSC para izar el contenedor sin dañarlo: los puntos de anclaje son los mismos que ya lleva de fábrica, reforzados para trabajar ahora como apoyo fijo en vez de punto de izado.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "cimentacion--023",
+       "etiqueta": "h2",
+       "texto": "Separación del terreno frente a la humedad en la cimentación"
+      },
+      {
+       "t": "texto",
+       "id": "cimentacion--024",
+       "html": "<p>El acero del contenedor no puede quedar en contacto directo y permanente con el suelo húmedo, así que la cimentación también cumple una función que no es solo estructural: crea una <strong>separación física</strong> entre la chapa y el terreno. Esa cámara de aire o la solera perimetral evita que la condensación y el agua de lluvia suban por capilaridad hasta la base del acero, un punto crítico para la durabilidad de la vivienda según el CTE DB-HS sobre salubridad. Sellar bien esa junta evita también la entrada de insectos entre el contenedor y la cimentación.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "cimentacion--025",
+       "etiqueta": "h2",
+       "texto": "Qué factores cambian el coste de la cimentación de una casa contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "cimentacion--026",
+       "html": "<p>El precio de la cimentación no depende de una tarifa fija, sino de varias variables que se valoran caso por caso en el presupuesto. El tipo de terreno es la primera: un suelo firme y homogéneo permite zapatas sencillas, mientras que uno con mala capacidad portante obliga a losa o pilotaje, con más material y horas de ejecución. La pendiente influye igual, porque un terreno inclinado exige movimiento de tierras antes de nivelar cualquier apoyo.</p><p>El número de módulos también pesa en el cálculo: cada contenedor añade sus propias esquineras y sus esquinas intermedias, que también hay que calcular. El <strong>acceso de la hormigonera</strong> a la parcela es otro factor que se suele pasar por alto: si el camión no llega hasta el punto de vertido, hace falta bombeo u otro transporte del hormigón, y eso se refleja en el presupuesto. Amplía el proceso completo en <a href=\"/casa-container-paso-a-paso/\">casa container paso a paso</a> y compara plazos en <a href=\"/tiempos-de-construccion-de-casas-con-contenedores/\">tiempos de construcción</a>. Para una referencia orientativa del coste por metro cuadrado, consulta <a href=\"/precios/\">precios</a>.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  }
+ ],
+ "menu": "menu-principal",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre la cimentación de un contenedor",
+   "items": [
+    {
+     "pregunta": "¿Qué pasa si no se hace un estudio geotécnico antes de cimentar la casa contenedor?",
+     "respuesta": "Sin estudio geotécnico, la cimentación se calcula a ciegas, y el terreno puede no soportar igual el peso en todas las esquinas: aparecen asientos diferenciales que se notan en grietas, puertas que no cierran bien o desniveles en el suelo. Corregirlo implica levantar los módulos y rehacer los apoyos, mucho más costoso que hacer el estudio antes de empezar la obra."
+    },
+    {
+     "pregunta": "¿Se puede apoyar una casa contenedor sobre una losa de hormigón ya existente?",
+     "respuesta": "Depende de si esa losa se calculó para el peso y la posición de las esquineras del contenedor. Una solera pensada para otro uso, como un garaje o un almacén, no siempre reparte la carga en los puntos correctos, así que conviene que un técnico revise su capacidad antes de dar por hecho que sirve para apoyar la vivienda."
+    },
+    {
+     "pregunta": "¿Quién calcula la cimentación de una casa contenedor?",
+     "respuesta": "El cálculo lo firma un arquitecto o un ingeniero, apoyado en los datos del estudio geotécnico del terreno. Es un cálculo estructural sujeto al Código Técnico de la Edificación, no una estimación aproximada, porque de él depende que cada esquinera tenga un apoyo con la resistencia adecuada. Coordinamos ese cálculo dentro del proyecto a medida."
+    },
+    {
+     "pregunta": "¿La cimentación es distinta si la vivienda contenedor es temporal o fija?",
+     "respuesta": "Sí. Si la vivienda se plantea como bien mueble y transportable, se suelen preferir soluciones reversibles como los tornillos helicoidales, que permiten retirar la base sin dejarla enterrada. Si es una vivienda fija sobre suelo urbanizable, la cimentación se ejecuta como elemento permanente, con zapatas o losa, igual que en cualquier construcción in situ."
+    },
+    {
+     "pregunta": "¿Hace falta una cimentación distinta si la vivienda tiene varios contenedores?",
+     "respuesta": "Sí, porque cuantos más módulos tenga la vivienda, más puntos de apoyo aparecen: no solo las esquinas exteriores, sino también las intermedias donde dos contenedores se tocan. Eso no cambia el tipo de solución, zapatas, losa o pilotes, pero sí el número de puntos que hay que calcular y ejecutar, y por tanto el volumen de trabajo en esa fase de la obra."
+    }
+   ]
+  }
+ }
+}

@@ -1660,7 +1660,7 @@
    "items": [
     {
      "pregunta": "¿Puedo mover el contenedor más adelante?",
-     "respuesta": "Sí. Un contenedor marítimo no queda anclado a la parcela como una cimentación tradicional, así que se puede volver a cargar y llevar a otra ubicación siguiendo el mismo proceso de transporte: camión con pluma o grúa, según la medida. Si el contenedor se ha usado como vivienda o local, conviene revisar antes su estructura y desconectar las instalaciones."
+     "respuesta": "Sí. Un contenedor marítimo no queda anclado a la parcela como una cimentación tradicional, así que se puede volver a cargar y llevar a otra ubicación con camión pluma o grúa, según la medida. Si el contenedor ya está instalado, con acometidas dadas de alta o transformado en vivienda o local, ese trabajo de desanclaje, desconexión y nueva colocación lo cubre el <a href=\"/traslado-contenedores/\">traslado de contenedores</a>, no el transporte de uno nuevo."
     },
     {
      "pregunta": "¿Tengo que estar en la entrega?",

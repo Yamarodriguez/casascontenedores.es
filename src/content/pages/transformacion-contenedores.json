@@ -1,0 +1,310 @@
+{
+ "slug": "transformacion-contenedores",
+ "ruta": "/transformacion-contenedores/",
+ "titulo": "Transformación de Contenedores",
+ "h1": "Transformación de Contenedores",
+ "tituloSeo": "Transformación de Contenedores: Reforma tu Container",
+ "descripcion": "Transformación de contenedores que ya tienes: huecos con refuerzo, aislamiento, instalaciones y acabados para oficina, local, bar o vivienda.",
+ "palabraClave": "transformación de contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2023/08/interior-casa-contenedor-1024x576.jpg",
+  "alt": "interior de un contenedor marítimo transformado con aislamiento y acabados",
+  "ancho": 1024,
+  "alto": 576
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "transformaci-003",
+   "columnas": [
+    {
+     "id": "transformaci-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "transformaci-001",
+       "src": "/wp-content/uploads/2023/08/interior-casa-contenedor-1024x576.jpg",
+       "alt": "interior de un contenedor marítimo transformado con aislamiento y acabados"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "transformaci-008",
+   "columnas": [
+    {
+     "id": "transformaci-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "transformaci-004",
+       "etiqueta": "h2",
+       "texto": "Transformación de contenedores: dale otro uso al que ya tienes",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-005",
+       "html": "<p>Si ya tienes un contenedor marítimo parado en una parcela, un patio o un almacén, esta transformación consiste en abrir sus huecos de puerta y ventana con el refuerzo estructural correspondiente, aislarlo, meter las instalaciones y rematar los acabados por dentro y por fuera, para convertirlo en oficina, local, bar, taller, trastero equipado o, con proyecto y licencia, en vivienda. No partimos de un contenedor nuevo que vendemos nosotros: trabajamos sobre <strong>el contenedor que ya tienes</strong>, revisando antes su estado y ajustando el proyecto al uso que le vas a dar.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "transformaci-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "transformaci-034",
+   "columnas": [
+    {
+     "id": "transformaci-033",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "transformaci-009",
+       "etiqueta": "h2",
+       "texto": "Qué revisar antes de la transformación de tu contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-010",
+       "html": "<p>Antes de encargar la transformación conviene revisar el estado real del contenedor: la estructura depende de la chapa corrugada y de las cantoneras, así que cualquier <strong>corrosión pasante en las esquinas</strong> resta la rigidez que luego necesitan los huecos de puerta y ventana.</p><p>También hay que mirar si el contenedor conserva la <strong>placa del Convenio CSC</strong>, el documento que certifica que la estructura es segura para su uso, y si el suelo de madera tratada sigue firme o hay que sustituirlo.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-011",
+       "etiqueta": "h3",
+       "texto": "¿Qué contenedor no sirve para una transformación?"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-012",
+       "html": "<p>Un contenedor con corrosión perforante en las esquinas, con la base deformada o sin la placa del Convenio CSC no sirve de base segura para una transformación, porque esos tres puntos son los que aportan la <strong>rigidez estructural</strong> del contenedor. Tampoco conviene partir de uno con humedad acumulada bajo el suelo, porque el aislamiento posterior la dejaría atrapada dentro del cerramiento.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-013",
+       "etiqueta": "h2",
+       "texto": "Transformación de contenedores para oficina, local, bar o taller"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-014",
+       "html": "<p>Cuando el destino es un uso comercial o de trabajo, este servicio incluye abrir los huecos de puerta y ventana con su <strong>marco de refuerzo metálico</strong>, aislar por dentro con panel sándwich o proyectado según el CTE DB-HE, tender la instalación eléctrica conforme al REBT y rematar suelo, paredes y fachada tanto por dentro como por fuera.</p><p>Si vas a fijar el contenedor de forma permanente para convertirlo en <a href=\"/oficinas-contenedores/\">oficina</a>, <a href=\"/local-containers/\">local</a> o <a href=\"/bar-contenedor/\">bar</a>, el ayuntamiento lo trata como cualquier obra: exige <strong>proyecto visado</strong> antes de la licencia de obra mayor, y si vas a abrir al público hace falta además la licencia de actividad. Para un taller que no se fija de forma permanente el trámite suele ser más ligero, pero conviene consultarlo antes de empezar.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-015",
+       "etiqueta": "h3",
+       "texto": "¿Necesito licencia para transformar un contenedor en oficina o local?"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-016",
+       "html": "<p>Sí: si el contenedor transformado se va a fijar de forma permanente como oficina o local, el ayuntamiento exige tramitar primero la <strong>licencia de obra mayor</strong> con un proyecto visado por técnico competente, y si el negocio abre al público hay que sumar la licencia de actividad antes de empezar a funcionar.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-017",
+       "etiqueta": "h3",
+       "texto": "Qué incluye la mano de obra de esta transformación"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-018",
+       "html": "<p>La mano de obra de este servicio cubre la <strong>apertura de huecos con refuerzo</strong> en la chapa donde van la puerta y las ventanas, el aislamiento y el trasdosado interior, la instalación eléctrica y de fontanería previa, y la pintura de acabado tanto interior como exterior. Los materiales concretos, como el tipo de puerta o el revestimiento, se fijan en el presupuesto según el uso final.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-019",
+       "etiqueta": "h2",
+       "texto": "Transformar un contenedor en trastero equipado"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-020",
+       "html": "<p>Para un trastero, la transformación se queda en un nivel más sencillo: un par de huecos de ventilación, quizá una puerta peatonal junto a la de carga, una capa de <strong>aislamiento ligero</strong> si vas a guardar algo sensible a la temperatura, y una instalación eléctrica básica para iluminación. Al no tratarse de un uso habitable ni de un negocio abierto al público, el trámite municipal suele ser menor que el de una oficina o un local, aunque conviene confirmarlo antes de instalarlo en tu parcela.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-021",
+       "etiqueta": "h2",
+       "texto": "Transformación de contenedores en vivienda: proyecto y licencia"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-022",
+       "html": "<p>Cuando el encargo es convertir el contenedor en vivienda, esta transformación ya no se resuelve solo con mano de obra: entra en juego la Ley de Ordenación de la Edificación (LOE) y hace falta un <strong>proyecto firmado por técnico competente</strong>, con su cálculo estructural, su memoria de instalaciones y la tramitación de la <a href=\"/permisos/\">licencia de obra mayor</a> ante el ayuntamiento. El aislamiento, la ventilación y la protección contra incendios deben cumplir el CTE (DB-HE, DB-HS, DB-SI), igual que en cualquier vivienda nueva. Puedes ver la distribución posible en los <a href=\"/planos/\">planos de casas contenedor</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-023",
+       "etiqueta": "h3",
+       "texto": "¿Necesita licencia una transformación de contenedores para vivienda?"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-024",
+       "html": "<p>Sí, siempre: convertir un contenedor en vivienda exige un <strong>proyecto básico y de ejecución</strong> visados, más la licencia de obra mayor del ayuntamiento, sin excepción por tratarse de un contenedor reutilizado. No existe una vía simplificada solo por partir de un contenedor que ya tienes en propiedad.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-025",
+       "etiqueta": "h2",
+       "texto": "En taller o en tu parcela: dónde se hace la transformación"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-026",
+       "html": "<p>Parte de esta transformación puede hacerse en un <strong>taller propio</strong>, donde el contenedor se trabaja tumbado y protegido de la lluvia y el corte de chapa es más preciso, y parte se resuelve mejor ya colocado en tu parcela, sobre todo la conexión a las acometidas de agua y electricidad y los acabados de fachada que dependen del terreno. Lo habitual es combinar ambas fases: refuerzo de huecos, aislamiento e instalación eléctrica en taller, y montaje final, fontanería de conexión y pintura de remate una vez el contenedor está en su ubicación definitiva.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-027",
+       "etiqueta": "h3",
+       "texto": "Ventajas de transformar en taller frente a hacerlo en la parcela"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-028",
+       "html": "<p>Trabajar la transformación en taller permite controlar mejor la humedad y la limpieza durante el corte y el aislamiento, mientras que hacerlo directamente en la parcela evita un transporte adicional del contenedor ya reformado, que pesa más y es más delicado de mover que uno vacío. La opción depende del acceso que tenga tu parcela para la grúa y de si el contenedor va a moverse una sola vez o varias.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-029",
+       "etiqueta": "h2",
+       "texto": "Presupuesto de la transformación de tu contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-030",
+       "html": "<p>El presupuesto se calcula por <strong>visita a la parcela</strong> o, si no es posible, con fotos del contenedor por dentro y por fuera (esquinas, base, placa del Convenio CSC) y un plano o boceto del uso que quieres darle: número y posición de huecos, si necesitas <a href=\"/aislamiento-contenedores/\">aislamiento</a>, qué instalación eléctrica hace falta y qué acabados quieres.</p><p>Con esos datos ajustamos la transformación a tu caso, sin partir de un precio cerrado que no tenga en cuenta el estado real del contenedor. Si el proyecto incluye electricidad completa lo enlazamos con nuestra página de <a href=\"/electricidad-contenedores/\">electricidad para contenedores</a>, y si buscas cifras generales de construcción puedes consultarlas en <a href=\"/presupuesto-casas-contenedores/\">presupuesto de casas contenedor</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "transformaci-031",
+       "etiqueta": "h3",
+       "texto": "¿Cómo se presupuesta la transformación de un contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "transformaci-032",
+       "html": "<p>Se presupuesta con una <strong>visita técnica</strong> siempre que sea posible, o con fotos detalladas y las medidas del contenedor cuando la visita no es viable, más un plano simple del uso que le vas a dar: dónde quieres cada hueco, qué instalaciones necesitas y qué acabado buscas. Cuantos más datos aportes sobre el estado del contenedor, más ajustado sale el presupuesto final.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "transformaci-037",
+   "columnas": [
+    {
+     "id": "transformaci-036",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "transformaci-035",
+       "nombre": "formulario-pasos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "contenedores-maritimos",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre transformar un contenedor",
+   "items": [
+    {
+     "pregunta": "¿Puedo transformar un contenedor de 20 pies igual que uno de 40 pies?",
+     "respuesta": "Sí, el proceso es el mismo aunque cambien las proporciones: un contenedor de 20 pies mide 6,06 × 2,44 × 2,59 m con unos 13,9 m² interiores, mientras que uno de 40 pies alcanza 12,19 × 2,44 × 2,59 m y ronda los 28,3 m². En el de 20 pies conviene limitar el número de huecos, porque cada apertura reduce más su rigidez relativa que en un módulo más largo."
+    },
+    {
+     "pregunta": "¿Qué pasa si mi contenedor no tiene la placa del Convenio CSC?",
+     "respuesta": "Sin esa placa no podemos garantizar que la estructura conserve su resistencia original, así que la primera revisión se centra en comprobar el estado real del acero: corrosión, deformaciones y la base. Si el contenedor sigue en buen estado se puede transformar igualmente, pero el refuerzo de cada hueco se calcula sin apoyarse en ese certificado."
+    },
+    {
+     "pregunta": "¿La transformación incluye el transporte del contenedor?",
+     "respuesta": "No forma parte del servicio en sí: si el contenedor ya está en tu parcela, trabajamos sobre él en su ubicación; si necesitas moverlo antes o después de la reforma, ese transporte se gestiona como un servicio aparte, con sus propios permisos de carga especial si supera las dimensiones habituales de transporte por carretera."
+    },
+    {
+     "pregunta": "¿Se puede transformar también un contenedor high cube?",
+     "respuesta": "Sí, y suele ser buena idea: un contenedor high cube tiene 2,90 m de altura exterior frente a los 2,59 m habituales, y deja cerca de 2,69 m libres una vez colocado el aislamiento y el falso techo, lo que facilita cumplir la altura mínima de habitabilidad en una vivienda o dar más holgura a un local o un taller."
+    },
+    {
+     "pregunta": "¿Qué documentación debo aportar para empezar la transformación?",
+     "respuesta": "Para un uso comercial o de trabajo basta con la referencia catastral de la parcela y las fotos o la visita del contenedor; para una vivienda hace falta además la nota simple del terreno y la consulta urbanística previa, porque el proyecto que exige la LOE se redacta sobre esos datos concretos."
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,174 @@
+---
+/**
+ * Catalogo filtrable de los modelos por superficie: dormitorios, plantas,
+ * contenedores y superficie. Los datos de cada modelo son los que dice su
+ * propia pagina (casa-contenedor-N-m2.json): no se inventa nada aqui; si se
+ * cambia una ficha, hay que cambiarlo tambien en esta tabla.
+ * Filtra en el navegador; sin JavaScript se ven todos los modelos.
+ */
+import modelosM2 from '../data/modelos-m2.json';
+import { aWebp, existe } from '../utils/imagenes.js';
+
+// dormitorios y banos: [minimo, maximo]; 0 dormitorios = un solo ambiente
+const MODELOS = [
+  { m2: 15, contenedores: 1, composicion: 'Un contenedor de 20 pies', dormitorios: [0, 0], banos: [1, 1], plantas: [1], para: 'Estudio, casa de invitados o alquiler' },
+  { m2: 30, contenedores: 1, composicion: 'Un 40 pies (o dos de 20)', dormitorios: [1, 1], banos: [1, 1], plantas: [1], para: 'Una persona o una pareja' },
+  { m2: 45, contenedores: 2, composicion: 'Un 40 pies y un 20 pies', dormitorios: [2, 2], banos: [1, 1], plantas: [1], para: 'Pareja con despacho o cuarto de invitados' },
+  { m2: 60, contenedores: 2, composicion: 'Dos contenedores de 40 pies', dormitorios: [2, 2], banos: [1, 1], plantas: [1], para: 'Pareja con un hijo' },
+  { m2: 75, contenedores: 3, composicion: 'Dos de 40 pies y uno de 20', dormitorios: [2, 3], banos: [1, 2], plantas: [1], para: 'Pareja con dos hijos' },
+  { m2: 90, contenedores: 3, composicion: 'Tres contenedores de 40 pies', dormitorios: [3, 3], banos: [2, 2], plantas: [1], para: 'Familia con dos o tres hijos' },
+  { m2: 120, contenedores: 4, composicion: 'Cuatro contenedores de 40 pies', dormitorios: [3, 4], banos: [2, 2], plantas: [1, 2], para: 'Familia grande o dos generaciones' },
+]
+  .filter((m) => modelosM2[m.m2])
+  .map((m) => ({ ...m, ...modelosM2[m.m2], foto: existe(modelosM2[m.m2].imagen) ? aWebp(modelosM2[m.m2].imagen) : '' }));
+
+const rango = ([a, b]) => (a === b ? `${a}` : `${a}-${b}`);
+const dorm = (d) => (d[1] === 0 ? 'Un ambiente' : `${rango(d)} dormitorio${d[1] > 1 ? 's' : ''}`);
+const planta = (p) => (p.length > 1 ? '1 o 2 plantas' : '1 planta');
+---
+
+<section class="catalogo-filtro" aria-labelledby="cf-titulo">
+  <p class="catalogo-filtro__antetitulo">Catálogo de modelos</p>
+  <h2 id="cf-titulo" class="catalogo-filtro__titulo">Encuentra tu modelo de casa contenedor</h2>
+
+  <form class="catalogo-filtro__filtros" data-filtros hidden>
+    <label>Dormitorios
+      <select name="dormitorios">
+        <option value="">Cualquiera</option>
+        <option value="0">Un ambiente (estudio)</option>
+        <option value="1">1 dormitorio</option>
+        <option value="2">2 dormitorios</option>
+        <option value="3">3 dormitorios</option>
+        <option value="4">4 dormitorios</option>
+      </select>
+    </label>
+    <label>Plantas
+      <select name="plantas">
+        <option value="">Cualquiera</option>
+        <option value="1">Una planta</option>
+        <option value="2">Dos plantas</option>
+      </select>
+    </label>
+    <label>Contenedores
+      <select name="contenedores">
+        <option value="">Cualquiera</option>
+        <option value="1">1 contenedor</option>
+        <option value="2">2 contenedores</option>
+        <option value="3">3 contenedores</option>
+        <option value="4">4 contenedores</option>
+      </select>
+    </label>
+    <label>Superficie
+      <select name="superficie">
+        <option value="">Cualquiera</option>
+        <option value="0-30">Hasta 30 m²</option>
+        <option value="31-60">De 31 a 60 m²</option>
+        <option value="61-999">Más de 60 m²</option>
+      </select>
+    </label>
+  </form>
+  <p class="catalogo-filtro__cuenta" aria-live="polite" data-cuenta hidden></p>
+
+  <ul class="catalogo-filtro__lista">
+    {MODELOS.map((m) => (
+      <li
+        class="catalogo-filtro__modelo"
+        data-m2={m.m2}
+        data-contenedores={m.contenedores}
+        data-dormitorios={`${m.dormitorios[0]}-${m.dormitorios[1]}`}
+        data-plantas={m.plantas.join(',')}
+      >
+        <a href={m.url}>
+          {m.foto && <img src={m.foto} alt={m.alt} loading="lazy" decoding="async" width="640" height="400" />}
+          <span class="catalogo-filtro__cuerpo">
+            <strong class="catalogo-filtro__nombre">Casa contenedor de {m.m2} m²</strong>
+            <span class="catalogo-filtro__datos">
+              <span>{dorm(m.dormitorios)}</span>
+              <span>{rango(m.banos)} baño{m.banos[1] > 1 ? 's' : ''}</span>
+              <span>{planta(m.plantas)}</span>
+            </span>
+            <span class="catalogo-filtro__composicion">{m.composicion}</span>
+            <span class="catalogo-filtro__para">{m.para}</span>
+          </span>
+        </a>
+      </li>
+    ))}
+  </ul>
+  <p class="catalogo-filtro__nada" data-nada hidden>No hay ningún modelo con esos filtros: todos se pueden adaptar, <a href="/presupuesto-casas-contenedores/">cuéntanos lo que necesitas</a>.</p>
+</section>
+
+<script is:inline>
+  (function () {
+    document.querySelectorAll('.catalogo-filtro').forEach(function (raiz) {
+      var form = raiz.querySelector('[data-filtros]');
+      var items = raiz.querySelectorAll('.catalogo-filtro__modelo');
+      var cuenta = raiz.querySelector('[data-cuenta]');
+      var nada = raiz.querySelector('[data-nada]');
+      form.hidden = false; cuenta.hidden = false;
+      function filtrar() {
+        var f = form.elements, visibles = 0;
+        items.forEach(function (li) {
+          var d = li.dataset.dormitorios.split('-').map(Number);
+          var ok = true;
+          if (f.dormitorios.value !== '') { var v = Number(f.dormitorios.value); ok = ok && v >= d[0] && v <= d[1]; }
+          if (f.plantas.value) ok = ok && li.dataset.plantas.split(',').indexOf(f.plantas.value) !== -1;
+          if (f.contenedores.value) ok = ok && li.dataset.contenedores === f.contenedores.value;
+          if (f.superficie.value) { var r = f.superficie.value.split('-').map(Number), m2 = Number(li.dataset.m2); ok = ok && m2 >= r[0] && m2 <= r[1]; }
+          li.hidden = !ok; if (ok) visibles++;
+        });
+        cuenta.textContent = visibles === 1 ? '1 modelo' : visibles + ' modelos';
+        nada.hidden = visibles !== 0;
+      }
+      form.addEventListener('change', filtrar);
+      filtrar();
+    });
+  })();
+</script>
+
+<style>
+  .catalogo-filtro { margin: 8px 0 32px; }
+  .catalogo-filtro__antetitulo {
+    margin: 0 0 6px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--verde-osc);
+  }
+  .catalogo-filtro__titulo { margin: 0 0 18px; font-size: clamp(22px, 2.6vw, 30px); }
+  .catalogo-filtro__filtros {
+    display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px;
+    padding: 16px; margin-bottom: 12px;
+    background: var(--papel-2); border: 1px solid var(--linea); border-radius: var(--radio-l);
+  }
+  .catalogo-filtro__filtros label {
+    display: flex; flex-direction: column; gap: 6px;
+    font-family: var(--mono); font-size: 11px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--suave);
+  }
+  .catalogo-filtro__filtros select {
+    font-family: var(--cuerpo); font-size: 15px; letter-spacing: normal; text-transform: none; color: var(--texto);
+    padding: 10px 12px; border: 1px solid var(--linea); border-radius: var(--radio); background: #fff;
+  }
+  .catalogo-filtro__filtros select:focus { outline: 0; border-color: var(--verde); box-shadow: 0 0 0 3px var(--verde-claro); }
+  .catalogo-filtro__cuenta { margin: 0 0 14px; font-family: var(--mono); font-size: 12px; color: var(--suave); }
+  .catalogo-filtro__lista {
+    list-style: none; margin: 0; padding: 0;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px;
+  }
+  .catalogo-filtro__modelo[hidden] { display: none; }
+  .catalogo-filtro__modelo a {
+    display: flex; flex-direction: column; height: 100%;
+    background: #fff; border: 1px solid var(--linea); border-radius: var(--radio-l); overflow: hidden;
+    color: inherit; text-decoration: none;
+    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+  }
+  .catalogo-filtro__modelo a:hover { transform: translateY(-2px); box-shadow: var(--sombra-2); border-color: var(--verde); }
+  .catalogo-filtro__modelo img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; display: block; }
+  .catalogo-filtro__cuerpo { display: flex; flex-direction: column; gap: 8px; padding: 14px 16px 16px; }
+  .catalogo-filtro__nombre { font-family: var(--titular); font-size: 18px; color: var(--ink); }
+  .catalogo-filtro__datos { display: flex; flex-wrap: wrap; gap: 6px; }
+  .catalogo-filtro__datos span {
+    padding: 3px 8px; border-radius: 999px; background: var(--verde-claro); color: var(--verde-osc);
+    font-size: 12.5px; font-weight: 600;
+  }
+  .catalogo-filtro__composicion { font-size: 14px; color: var(--texto); }
+  .catalogo-filtro__para { font-size: 13.5px; color: var(--suave); }
+  .catalogo-filtro__nada { margin: 12px 0 0; color: var(--suave); }
+  @media (max-width: 760px) { .catalogo-filtro__filtros { grid-template-columns: 1fr 1fr; } }
+</style>

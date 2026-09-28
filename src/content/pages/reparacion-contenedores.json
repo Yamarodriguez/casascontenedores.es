@@ -1,0 +1,303 @@
+{
+ "slug": "reparacion-contenedores",
+ "ruta": "/reparacion-contenedores/",
+ "titulo": "Reparación de Contenedores",
+ "h1": "Reparación de Contenedores",
+ "tituloSeo": "Reparación de Contenedores Marítimos | Soldadura y Techo",
+ "descripcion": "Reparación de contenedores marítimos: soldadura de óxido pasante, puertas y bisagras, techo con filtraciones, suelo y repintado. Qué revisar y cuándo cambiar.",
+ "palabraClave": "reparación de contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
+  "alt": "contenedores marítimos de segunda mano antes de su reparación",
+  "ancho": 1024,
+  "alto": 1024
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "reparacion-c-003",
+   "columnas": [
+    {
+     "id": "reparacion-c-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "reparacion-c-001",
+       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
+       "alt": "contenedores marítimos de segunda mano antes de su reparación"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "reparacion-c-008",
+   "columnas": [
+    {
+     "id": "reparacion-c-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-004",
+       "etiqueta": "h2",
+       "texto": "Reparación de contenedores marítimos: qué incluye y qué se revisa antes",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-005",
+       "html": "<p>La <strong>reparación de contenedores</strong> marítimos agrupa los trabajos que devuelven a una unidad su estanqueidad y resistencia estructural: soldadura y parches de chapa en zonas con óxido pasante, ajuste de puertas y bisagras, cambio de barras y levas de cierre, juntas de goma, tablas del suelo e impermeabilización del techo cuando acumula agua o filtra. No todos los daños se resuelven igual: uno superficial se lija y repinta, mientras que uno pasante en un punto estructural puede acercarse al límite de lo que compensa arreglar. Conviene pasar antes por una inspección que revise el estado real de la estructura.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "reparacion-c-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "reparacion-c-032",
+   "columnas": [
+    {
+     "id": "reparacion-c-031",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-009",
+       "etiqueta": "h2",
+       "texto": "Soldadura y parches de chapa en la reparación de contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-010",
+       "html": "<p>El óxido de un contenedor marítimo no siempre se comporta igual: uno superficial se queda en la capa de pintura, mientras que el <strong>óxido pasante</strong> perfora la lámina de acero. En el primer caso basta con lijar, tratar el metal y repintar; en el segundo hace falta cortar la zona dañada y soldar un parche de chapa nuevo, del mismo espesor que el original.</p><p>La soldadura se complica cuando el óxido afecta a las <strong>cantoneras y largueros</strong>, los perfiles con los anclajes normalizados por la norma ISO 668: ahí hay que mantener la geometría exacta para seguir izando y apilando la unidad. Si el óxido se limita a chapa lateral, el parche resuelve el problema sin más.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-011",
+       "etiqueta": "h3",
+       "texto": "¿Cuándo hay que soldar al reparar un contenedor y cuándo basta con lijar el óxido?"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-012",
+       "html": "<p>Hay que soldar cuando el óxido ha perforado la chapa de lado a lado; si se queda en la superficie, basta con lijar, tratar el metal y repintar. La diferencia se nota al pasar la mano por la zona: si cede o se atraviesa, ya no es solo estético. Conviene revisar el contenedor con luz interior antes de decidir qué <strong>reparación necesita</strong>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-013",
+       "etiqueta": "h2",
+       "texto": "Reparación de puertas, bisagras y cierres de un contenedor marítimo"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-014",
+       "html": "<p>Las puertas cargan con su propio peso al abrirse y cerrarse, y con el tiempo las <strong>bisagras y los pasadores</strong> pierden holgura o se doblan, así que la puerta baja de posición y deja de sellar en una esquina. La reparación pasa por realinear la puerta y cambiar la pieza dañada.</p><p>Las barras y levas de cierre empujan la puerta contra la junta de goma y la mantienen sellada. Si se doblan o pierden ajuste, la puerta puede parecer cerrada y aun así dejar pasar agua; ajustarlas devuelve la presión necesaria.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-015",
+       "etiqueta": "h3",
+       "texto": "¿Qué se revisa al reparar las bisagras y las levas de cierre de un contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-016",
+       "html": "<p>Se revisa que la puerta cierre en escuadra, que las bisagras no tengan holgura y que las barras y levas empujen la junta de goma con presión uniforme en todo su recorrido. Si alguno de esos puntos falla, la puerta puede parecer cerrada y aun así dejar pasar agua. La <strong>prueba de luz</strong>, con las puertas cerradas desde dentro, sigue siendo la forma más sencilla de comprobarlo.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-017",
+       "etiqueta": "h2",
+       "texto": "Impermeabilización y reparación del techo de un contenedor marítimo"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-018",
+       "html": "<p>El techo es una plancha de acero casi plana, y con el tiempo tiende a formar <strong>pequeños charcos de agua</strong> donde la chapa se ha abombado o una soldadura ha perdido sellado. El agua estancada acelera la corrosión ahí mismo, así que la reparación del techo empieza por localizar dónde se acumula.</p><p>Cuando el techo ya filtra, conviene revisar también los refuerzos bajo la plancha, que la humedad mantenida puede haber afectado.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-019",
+       "etiqueta": "h3",
+       "texto": "¿Por qué el techo de un contenedor acaba necesitando reparación con el tiempo?"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-020",
+       "html": "<p>El techo filtra agua porque su superficie casi plana deja que el agua se quede quieta donde la chapa se ha abombado o una soldadura ha perdido sellado, y ese estancamiento acelera la corrosión hasta perforar el metal. Conviene revisarlo con frecuencia y no esperar a que la filtración sea visible desde dentro.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-021",
+       "etiqueta": "h2",
+       "texto": "Suelo de madera y juntas de goma en la reparación de contenedores marítimos"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-022",
+       "html": "<p>El suelo es de madera tratada, pensada para aguantar la carga durante la navegación, y es de las zonas que más se resiente con la humedad de una junta en mal estado o una filtración del techo. Cuando ceden tablas, la reparación consiste en levantar solo las dañadas.</p><p>Las <strong>juntas de goma</strong> de las puertas sellan el hueco entre la puerta y el marco cuando las barras de cierre hacen presión. Con los años se endurecen o pierden elasticidad, y ahí entra agua aunque la puerta cierre en escuadra.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-023",
+       "etiqueta": "h2",
+       "texto": "Tratamiento del óxido y repintado tras reparar un contenedor marítimo"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-024",
+       "html": "<p>Una vez soldados los parches y resueltas las filtraciones, el tratamiento del óxido y el repintado cierran la reparación: eliminar el óxido suelto, aplicar una <strong>imprimación anticorrosiva</strong> sobre el metal desnudo y terminar con un acabado protector. Este paso no sustituye a la soldadura: pintar sobre una perforación oculta el problema, no lo resuelve.</p><p>Si además quieres cambiar el color del contenedor, revisa el proceso en <a href=\"/pintura-contenedores/\">pintura de contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-025",
+       "etiqueta": "h2",
+       "texto": "Cuándo compensa reparar un contenedor y cuándo compensa cambiarlo"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-026",
+       "html": "<p>Reparar tiene sentido cuando el daño se limita a chapa, puertas, juntas, suelo o techo, y la <strong>estructura portante</strong> -cantoneras, largueros, esquineras- sigue sana. Cambiar de contenedor compensa cuando el óxido afecta a varios de esos puntos a la vez: la reparación deja de ser un arreglo puntual y pasa a ser una intervención sobre la propia estructura.</p><p>Antes de decidir, compara el estado del contenedor con lo que ofrece el mercado de <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores marítimos de segunda mano</a>, donde los grados -wind &amp; watertight, cargo worthy, one trip- ya indican el nivel de conservación de cada unidad.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-027",
+       "etiqueta": "h3",
+       "texto": "¿Compensa siempre reparar un contenedor o hay casos en que es mejor cambiarlo?"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-028",
+       "html": "<p>No siempre compensa reparar: cuando el óxido pasante afecta a la vez a cantoneras, largueros o varias esquineras, la estructura portante ya está comprometida y cambiar de unidad da un resultado más fiable que intervenir sobre esos puntos. Si el daño se limita a chapa, puertas, juntas o techo, la reparación resuelve el problema sin sustituir el contenedor completo.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "reparacion-c-029",
+       "etiqueta": "h2",
+       "texto": "Qué se revisa en una inspección antes de la reparación de un contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "reparacion-c-030",
+       "html": "<p>Antes de encargar el trabajo, una inspección revisa el estado real del contenedor:</p><ul><li>Chapa lateral y techo: óxido superficial frente a óxido pasante.</li><li>Cantoneras, largueros y esquineras: si mantienen su geometría original.</li><li>Puertas: alineación, bisagras, pasadores y barras de cierre.</li><li>Juntas de goma: si conservan elasticidad o están agrietadas.</li><li>Suelo: zonas blandas o tablas que ceden al pisar.</li><li>Placa CSC y placa de identificación, si el contenedor las conserva.</li></ul><p>Esta revisión es la misma tanto si el contenedor va a seguir vacío como si está pensado para una <a href=\"/transformacion-contenedores/\">transformación</a> en vivienda, oficina o local. Si además hay que moverlo tras la reparación, revisa las condiciones del <a href=\"/traslado-contenedores/\">traslado de contenedores</a> antes de fijar la fecha.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "reparacion-c-035",
+   "columnas": [
+    {
+     "id": "reparacion-c-034",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "reparacion-c-033",
+       "nombre": "formulario-pasos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "contenedores-maritimos",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre la reparación de contenedores",
+   "items": [
+    {
+     "pregunta": "¿Se puede reparar un contenedor sin moverlo de la parcela?",
+     "respuesta": "Sí, casi todos los trabajos de soldadura, puertas, juntas y techo se hacen con el contenedor en su emplazamiento, siempre que haya espacio alrededor y, si hace falta, se pueda apoyar un andamio para llegar al techo. Solo si la reparación exige acceder a una zona muy concreta se plantea moverlo dentro de la parcela."
+    },
+    {
+     "pregunta": "¿La reparación deja el contenedor tan estanco como uno nuevo?",
+     "respuesta": "Una reparación bien hecha -soldadura correcta, juntas nuevas y techo sellado- devuelve la estanqueidad al punto tratado, pero no convierte todo el contenedor en una unidad de fábrica: el resto de la estructura conserva el desgaste propio de los años que lleva instalado."
+    },
+    {
+     "pregunta": "¿Hace falta vaciar el contenedor por dentro para reparar el techo?",
+     "respuesta": "Depende del daño: si la filtración solo afecta a la chapa exterior, se trabaja desde fuera sin tocar el interior. Si el agua ya ha llegado a los refuerzos bajo el techo o al aislamiento de un contenedor transformado, hace falta acceder también por dentro para ver hasta dónde llegó la humedad."
+    },
+    {
+     "pregunta": "¿Se puede pedir presupuesto de reparación enviando fotos del contenedor?",
+     "respuesta": "Sí, cuéntanos el tipo de contenedor, dónde está y qué daños ves -óxido, puertas que no cierran, manchas de humedad en el techo- y envía fotos de esos puntos. Con esa información preparamos un presupuesto a medida, aunque a veces hace falta una visita previa."
+    },
+    {
+     "pregunta": "¿La reparación afecta a la placa CSC del contenedor?",
+     "respuesta": "Si el contenedor todavía navega y conserva la placa CSC, cualquier reparación sobre cantoneras, largueros o esquineras debe respetar la geometría que exige esa certificación. En unidades que ya no navegan y se usan en tierra, la placa deja de ser obligatoria, aunque conviene conservarla como referencia del fabricante y el año."
+    },
+    {
+     "pregunta": "¿Se pueden reparar varios contenedores de un mismo proyecto a la vez?",
+     "respuesta": "Sí, es habitual agrupar la reparación de varias unidades de un mismo proyecto en una sola visita, sobre todo cuando comparten el mismo tipo de daño, como el óxido del techo o el desgaste de las juntas. Indícanoslo al pedir presupuesto."
+    }
+   ]
+  }
+ }
+}

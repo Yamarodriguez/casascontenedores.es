@@ -1,0 +1,266 @@
+{
+ "slug": "tasacion-contenedores",
+ "ruta": "/tasacion-contenedores/",
+ "titulo": "Tasación de contenedores usados",
+ "h1": "Tasación de contenedores usados",
+ "tituloSeo": "Tasación de contenedores usados: guía de valoración",
+ "descripcion": "Tasación de contenedores usados para vender, comprar o asegurar: qué se revisa (placa CSC, cantoneras, óxido), categorías de mercado y qué fotos enviar.",
+ "palabraClave": "tasación de contenedores usados",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
+  "alt": "Contenedor marítimo usado listo para su tasación",
+  "ancho": 1024,
+  "alto": 1024
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "tasacion-con-003",
+   "columnas": [
+    {
+     "id": "tasacion-con-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "tasacion-con-001",
+       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
+       "alt": "Contenedor marítimo usado listo para su tasación"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "tasacion-con-008",
+   "columnas": [
+    {
+     "id": "tasacion-con-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "tasacion-con-004",
+       "etiqueta": "h2",
+       "texto": "Qué es la tasación de contenedores usados y cuándo pedirla",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "tasacion-con-005",
+       "html": "<p>La <strong>tasación de contenedores usados</strong> es la revisión técnica que determina el estado real de una unidad y en qué categoría de mercado encaja, ya sea para venderla, comprarla o asegurarla. No es una simple mirada por fuera: se comprueba la placa CSC, la estructura, el suelo y la estanqueidad, y con esos datos se sitúa el contenedor en uno de los grados que maneja el sector. Si vas a <a href=\"/venta-contenedores-maritimos/\">vender tu contenedor</a> o vas a <a href=\"/comprar-contenedores-maritimos/\">comprar uno de segunda mano</a>, esta valoración es el paso previo que evita sorpresas cuando la unidad llega a destino.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "tasacion-con-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "tasacion-con-026",
+   "columnas": [
+    {
+     "id": "tasacion-con-025",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "tasacion-con-009",
+       "etiqueta": "h2",
+       "texto": "Qué se revisa en la tasación de contenedores usados"
+      },
+      {
+       "t": "texto",
+       "id": "tasacion-con-010",
+       "html": "<p>Antes de dar una valoración, revisamos punto por punto la unidad:</p><ul><li><strong>Placa CSC y su vigencia</strong>: certifica, según el Convenio CSC, que el contenedor puede seguir apilándose y transportándose por vía marítima con garantías estructurales.</li><li><strong>Cantoneras y largueros</strong>: son los puntos que reparten la carga y el apilamiento; una abolladura o un corte aquí compromete la resistencia de toda la unidad.</li><li><strong>Óxido superficial y estructural</strong>: el primero se lija y se pinta sin problema; el segundo perfora la chapa y reduce el valor porque afecta a la estructura.</li><li>Suelo: que no ceda ni tenga zonas blandas por humedad acumulada.</li><li>Puertas y juntas: que cierren sin rendijas y mantengan la estanqueidad.</li></ul><p>Con esta revisión clasificamos la unidad en la categoría de mercado que le corresponde y detectamos qué reparaciones, si las hay, mejorarían el resultado antes de <a href=\"/transformacion-contenedores/\">transformar el contenedor</a> o venderlo tal cual.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "tasacion-con-011",
+       "etiqueta": "h3",
+       "texto": "¿Qué papel tiene la placa CSC al tasar un contenedor usado?"
+      },
+      {
+       "t": "texto",
+       "id": "tasacion-con-012",
+       "html": "<p>La placa CSC certifica, según el <strong>Convenio CSC</strong>, que el contenedor está apto para transportarse y apilarse por vía marítima con garantías estructurales; si sigue en vigor, es el dato que más pesa a favor del valor de la unidad. Cuando la fecha de revisión que marca la placa ha vencido, el contenedor no puede volver al transporte internacional hasta que pase una nueva inspección, y eso le resta valor de mercado, aunque siga siendo perfectamente aprovechable para un uso fijo en tierra, como base de una construcción o de un módulo. En la tasación anotamos si la placa está vigente, caducada o directamente ausente, porque cada situación sitúa la unidad en un rango distinto.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "tasacion-con-013",
+       "etiqueta": "h2",
+       "texto": "Categorías de mercado para valorar un contenedor usado"
+      },
+      {
+       "t": "texto",
+       "id": "tasacion-con-014",
+       "html": "<p>El sector clasifica los contenedores usados en categorías orientativas que resumen su estado sin necesidad de inspeccionar cada pieza por separado:</p><table><thead><tr><th>Categoría</th><th>Qué significa</th></tr></thead><tbody><tr><td>Cargo worthy</td><td>Apto para carga: pasa la inspección y sigue siendo apto para navegar.</td></tr><tr><td>Wind and water tight</td><td>Estanco: ya no navega, pero cierra bien y no filtra agua ni aire.</td></tr><tr><td>As is</td><td>Tal cual está, sin garantía de estanqueidad ni estructural; conviene revisarlo en persona o con fotos detalladas.</td></tr></tbody></table><p>Estas tres categorías son el punto de partida de cualquier valoración; a partir de ahí, el estado concreto de cada unidad (óxido, suelo, puertas) matiza el resultado dentro de su categoría.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "tasacion-con-015",
+       "etiqueta": "h3",
+       "texto": "¿Qué diferencia hay entre cargo worthy y wind and water tight al tasar un contenedor usado?"
+      },
+      {
+       "t": "texto",
+       "id": "tasacion-con-016",
+       "html": "<p>La diferencia está en si el contenedor puede seguir navegando o no: un <strong>cargo worthy</strong> mantiene la aptitud para el transporte marítimo, mientras que un wind and water tight ya no se destina a esa función pero conserva la estructura sana y queda estanco al aire y al agua. Para un uso en tierra, como almacén, obra o base de una vivienda modular, el grado wind and water tight suele ser suficiente y es el más habitual en la <a href=\"/contenedores-maritimos-segunda-mano/\">oferta de segunda mano</a>; el grado cargo worthy interesa sobre todo a quien necesita seguir moviendo carga por barco.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "tasacion-con-017",
+       "etiqueta": "h2",
+       "texto": "Qué hace subir o bajar el valor al tasar un contenedor usado"
+      },
+      {
+       "t": "texto",
+       "id": "tasacion-con-018",
+       "html": "<p>Además de la categoría de mercado, varios factores mueven el resultado de la tasación en un sentido u otro:</p><ul><li><strong>Tipo de contenedor</strong>: un dry van estándar, un High Cube o uno especial (refrigerado, open side, flat rack) no se valoran igual, porque su demanda y su coste de fabricación de origen son distintos.</li><li><strong>La altura</strong>: un High Cube, con 2,90 m de exterior frente a los 2,59 m del estándar, suele partir con una valoración algo mayor porque ofrece más volumen aprovechable, tanto para carga como para un uso habitable.</li><li><strong>Estado estructural</strong>: cantoneras dobladas, largueros con óxido perforante o un suelo hundido bajan el resultado aunque la categoría de mercado sea buena.</li><li><strong>Transformaciones ya realizadas</strong>: puertas, ventanas o cortes en los laterales pueden sumar valor si están bien ejecutados y con refuerzo estructural, o restarlo si comprometen la resistencia original.</li></ul><p>Por eso dos unidades del mismo tipo y la misma categoría de mercado pueden recibir tasaciones distintas: lo que cambia es el estado real de cada una, no solo su ficha técnica.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "tasacion-con-019",
+       "etiqueta": "h3",
+       "texto": "¿Las transformaciones suben o bajan el valor al tasar un contenedor usado?"
+      },
+      {
+       "t": "texto",
+       "id": "tasacion-con-020",
+       "html": "<p>Depende de cómo estén ejecutadas: una transformación con <a href=\"/reparacion-contenedores/\">reparación estructural</a> bien resuelta, cortes reforzados y sellado correcto puede sumar valor porque adelanta trabajo a quien compra la unidad. Una transformación mal resuelta, con cortes sin refuerzo, óxido bajo la pintura nueva o juntas mal selladas, resta valor porque obliga a corregir antes de poder usarla, y esos defectos no siempre se ven a simple vista en las fotos.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "tasacion-con-021",
+       "etiqueta": "h2",
+       "texto": "Qué datos y fotos enviar para tasar un contenedor usado"
+      },
+      {
+       "t": "texto",
+       "id": "tasacion-con-022",
+       "html": "<p>Para dar una valoración fiable a distancia necesitamos datos concretos, no solo una descripción general:</p><ul><li>Medida y tipo: 20 o 40 pies, estándar o High Cube.</li><li>Año de fabricación y número de placa CSC, si la tiene.</li><li>Ubicación actual de la unidad.</li><li>Fotos de las cuatro esquinas exteriores, el suelo, el interior de las puertas y cualquier zona con óxido o abolladura visible.</li><li>Si hubo transformaciones: fotos de los cortes, refuerzos y sellado.</li></ul><p>Con esos datos y fotos podemos avanzar una primera valoración; una inspección presencial confirma el resultado cuando la operación lo requiere, sobre todo si vas a <a href=\"/venta-contenedores-maritimos/\">vendernos tu contenedor</a> o necesitas la tasación para un seguro.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "tasacion-con-023",
+       "etiqueta": "h2",
+       "texto": "Cuándo pedir una tasación de un contenedor usado: vender, comprar o asegurar"
+      },
+      {
+       "t": "texto",
+       "id": "tasacion-con-024",
+       "html": "<p>La tasación cambia de enfoque según para qué la necesites:</p><ul><li><strong>Para vender</strong>: sitúa tu contenedor en su categoría de mercado real antes de ofrecerlo, evitando pedir un precio que no se sostiene con el estado de la unidad.</li><li><strong>Para comprar</strong>: confirma que lo que vas a pagar corresponde al estado que te han descrito, antes de que el contenedor llegue a tu parcela.</li><li><strong>Para asegurar</strong>: deja constancia documentada del estado y el valor de la unidad en el momento de contratar la póliza, un dato que la aseguradora suele pedir.</li></ul><p>Si el resultado de la tasación es bajo por óxido estructural, suelo hundido o falta de estanqueidad, puedes valorar una <a href=\"/reparacion-contenedores/\">reparación</a> antes de vender, o descontar ese trabajo del precio si compras la unidad tal cual.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "tasacion-con-029",
+   "columnas": [
+    {
+     "id": "tasacion-con-028",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "tasacion-con-027",
+       "nombre": "formulario-pasos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "contenedores-maritimos",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre cómo tasar contenedores usados",
+   "items": [
+    {
+     "pregunta": "¿Necesito la placa CSC en vigor para pedir una tasación de contenedores usados?",
+     "respuesta": "No es imprescindible: puedes pedirla aunque la placa haya caducado o el contenedor ya no la tenga. Lo que cambia es el resultado, porque una unidad sin placa CSC vigente pierde valor de mercado frente a otra que la conserva, aunque siga siendo válida para un uso fijo en tierra. Indícanos su situación real y la reflejamos en la valoración."
+    },
+    {
+     "pregunta": "¿Tasar un contenedor usado tiene coste?",
+     "respuesta": "Se resuelve con un presupuesto a medida según el tipo de contenedor, su ubicación y si hace falta una inspección presencial o basta con los datos y fotos que nos envíes. Cuéntanos tu caso por teléfono o WhatsApp y te decimos qué necesitamos y cómo seguimos, sin ningún compromiso por tu parte."
+    },
+    {
+     "pregunta": "¿Puedo tasar un contenedor que ya tiene transformaciones o reformas hechas?",
+     "respuesta": "Sí, de hecho es habitual: envíanos fotos de los cortes, puertas o ventanas añadidas y del refuerzo estructural que se hizo en cada uno. La tasación tiene en cuenta tanto el estado original del contenedor como la calidad de la transformación, porque una reforma bien resuelta puede sumar valor y una mal ejecutada puede restarlo."
+    },
+    {
+     "pregunta": "¿Sirve tasar un contenedor usado que ya está instalado como vivienda?",
+     "respuesta": "Sí, aunque el contenedor forme ya parte de una construcción, podemos valorar el estado de la estructura metálica de origen a partir de fotos y de los datos que conserves de la unidad. Es útil si vas a vender la construcción completa o necesitas documentar su estado para una aseguradora."
+    },
+    {
+     "pregunta": "¿Qué diferencia hay entre una tasación y un presupuesto de compra?",
+     "respuesta": "El presupuesto de compra es lo que te cobramos por adquirir un contenedor concreto; la tasación es la valoración técnica de una unidad que ya tienes, pensada para vender, comprar a un tercero o documentar ante un seguro. Ambos procesos comparten la revisión del estado, pero responden a preguntas distintas."
+    }
+   ]
+  }
+ }
+}

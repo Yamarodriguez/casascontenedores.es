@@ -12,7 +12,7 @@
  * pase los números reales.
  */
 import site from '../data/site.json';
-import { fotoHero, esMaritimos } from '../utils/hero.js';
+import { fotoHero, esMaritimos, esServicio } from '../utils/hero.js';
 
 /* El titular del heroe es el <h1> de la pagina: su titulo propio ("Casas
  * Contenedores Madrid", "Casa con un Contenedor"…), asi cambia en cada
@@ -22,19 +22,25 @@ const { titulo = '', ruta = '', localidad = '' } = Astro.props;
 // La foto es siempre una limpia elegida a mano (ver src/utils/hero.js).
 const foto = fotoHero(ruta);
 const maritimos = esMaritimos(ruta);
+// las paginas de servicios para contenedores (pintura, aislamiento…)
+const servicio = esServicio(ruta);
 
-const antetitulo = maritimos
+const antetitulo = servicio ? 'Servicios para contenedores · Toda España' : maritimos
   ? (localidad ? `Contenedores marítimos · ${localidad}` : 'Venta y alquiler · Toda España')
   : (localidad ? `Llave en mano · ${localidad}` : 'Llave en mano · Toda España');
 
-const entradilla = maritimos
+const entradilla = servicio
+  ? 'Pintura, aislamiento, instalaciones, seguridad, reparación y traslado para tu contenedor. Cuéntanos qué necesitas y te preparamos un presupuesto a medida antes de empezar.'
+  : maritimos
   ? 'Contenedores marítimos nuevos y usados, con transporte y colocación en tu parcela. Te decimos el precio y el plazo antes de que te comprometas a nada.'
   : 'Diseñamos, fabricamos en taller y montamos tu vivienda en la parcela. Te decimos qué entra en el precio, qué va aparte y cuánto tarda, antes de que te comprometas a nada.';
 
 const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto || 'Hola, quiero información sobre casas contenedores')}`;
 
 /* Tres datos que NO son cifras: se pueden afirmar sin inventar nada. */
-const fichas = maritimos
+const fichas = servicio
+  ? [['Contenedores', 'Nuevos, usados y transformados'], ['Presupuesto', 'A medida, antes de empezar'], ['Cobertura', 'Toda España']]
+  : maritimos
   ? [['Entrega', 'En tu parcela'], ['Estado', 'Nuevos y usados'], ['Cobertura', 'Toda España']]
   : [['Proyecto y licencia', 'Los tramitamos nosotros'], ['Presupuesto', 'Cerrado antes de empezar'], ['Montaje', 'En tu parcela']];
 ---
@@ -55,7 +61,9 @@ const fichas = maritimos
     <p class="hero-sub">{entradilla}</p>
     <div class="hero-botones">
       <a class="hero-boton" href={wa} rel="nofollow">Pedir presupuesto</a>
-      <a class="hero-boton hero-boton--s" href="/precios/">Ver precios</a>
+      {servicio
+        ? <a class="hero-boton hero-boton--s" href="/servicios/">Todos los servicios</a>
+        : <a class="hero-boton hero-boton--s" href="/precios/">Ver precios</a>}
     </div>
     <ul class="hero-fichas">
       {fichas.map(([k, v]) => (

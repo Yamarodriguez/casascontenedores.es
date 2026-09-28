@@ -1,0 +1,277 @@
+{
+ "slug": "traslado-contenedores",
+ "ruta": "/traslado-contenedores/",
+ "titulo": "Traslado de Contenedores",
+ "h1": "Traslado de Contenedores",
+ "tituloSeo": "Traslado de Contenedores | Reubicación de contenedores",
+ "descripcion": "Traslado de contenedores ya instalados: desanclaje, grúa, transporte, nuevo apoyo y reconexión. Qué datos necesitamos para darte presupuesto.",
+ "palabraClave": "traslado de contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2021/08/transporte-de-contenedor-maritimo-1024x1024.jpg",
+  "alt": "traslado-de-contenedores",
+  "ancho": 1024,
+  "alto": 1024
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "traslado-con-003",
+   "columnas": [
+    {
+     "id": "traslado-con-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "traslado-con-001",
+       "src": "/wp-content/uploads/2021/08/transporte-de-contenedor-maritimo-1024x1024.jpg",
+       "alt": "traslado-de-contenedores"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "traslado-con-008",
+   "columnas": [
+    {
+     "id": "traslado-con-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "traslado-con-004",
+       "etiqueta": "h2",
+       "texto": "Traslado de contenedores: qué incluye el servicio",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "traslado-con-005",
+       "html": "<p>El <strong>traslado de contenedores</strong> es el servicio que necesitas cuando un contenedor marítimo ya instalado —vacío o transformado en vivienda, oficina o trastero— tiene que cambiar de sitio, dentro de la misma parcela o hacia otra ubicación. No es lo mismo que comprar un contenedor nuevo y que te lo traigan desde el puerto: aquí el punto de partida es un contenedor que ya está anclado al suelo, con sus acometidas dadas de alta y, muchas veces, con tabiques y aislamiento por dentro. El trabajo empieza por vaciarlo y desconectar los suministros, sigue con el desanclaje y la elevación con grúa o camión pluma, continúa con el transporte hasta el nuevo emplazamiento y termina con el apoyo, la nivelación y la reconexión.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "traslado-con-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "traslado-con-028",
+   "columnas": [
+    {
+     "id": "traslado-con-027",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "traslado-con-009",
+       "etiqueta": "h2",
+       "texto": "Cómo se organiza el traslado de un contenedor marítimo paso a paso"
+      },
+      {
+       "t": "texto",
+       "id": "traslado-con-010",
+       "html": "<p>El traslado de un <strong>contenedor ya instalado</strong> sigue casi siempre el mismo orden de trabajo, tanto si se queda en la misma parcela como si va a otro terreno. Los contenedores marítimos llevan sus esquineras y anclajes normalizados según el Convenio CSC, pensados para izarlos con grúa sin dañar la estructura, así que el traslado aprovecha esos mismos puntos de enganche en vez de improvisar otros.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "traslado-con-011",
+       "etiqueta": "h3",
+       "texto": "¿Qué trabajos incluye el traslado de un contenedor ya instalado?"
+      },
+      {
+       "t": "texto",
+       "id": "traslado-con-012",
+       "html": "<p>El traslado de un contenedor ya instalado incluye el vaciado, el desanclaje, la elevación, el transporte y la nueva colocación en destino, con la reconexión de los suministros al final. En orden:</p><ul><li>Vaciado completo y protección de puertas y esquinas para el transporte.</li><li>Desconexión de las acometidas de agua, electricidad y saneamiento.</li><li>Desanclaje de la base y comprobación del estado de la estructura.</li><li>Elevación con grúa o camión pluma y sujeción para el trayecto.</li><li><strong>Nuevo apoyo y nivelación</strong> en el emplazamiento de destino.</li><li>Reconexión de los suministros, con la instalación eléctrica <strong>ajustada al REBT</strong> igual que en el emplazamiento anterior.</li></ul><p>Un contenedor de 20 pies vacío ronda los <strong>2,2 toneladas de tara</strong>, y uno de 40 pies, los 3,7 toneladas; ese peso, y no solo el tamaño, es lo que determina qué grúa hace falta.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "traslado-con-013",
+       "etiqueta": "h2",
+       "texto": "Qué información hace falta para presupuestar el traslado de un contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "traslado-con-014",
+       "html": "<p>Para dar un <strong>presupuesto de traslado de contenedores</strong> ajustado necesitamos que nos cuentes, como mínimo, el tipo de contenedor —20 o 40 pies, estándar o high cube— y su estado actual: si sigue vacío o si ya está transformado por dentro, con tabiques, instalación eléctrica o aislamiento. Si el contenedor está transformado en vivienda u oficina, conviene revisar antes su ficha en <a href=\"/transformacion-contenedores/\">transformación de contenedores</a>, porque el peso y la fragilidad de los acabados interiores condicionan el tipo de grúa y el amarre que se usa durante el transporte.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "traslado-con-015",
+       "etiqueta": "h3",
+       "texto": "¿Qué datos necesitamos para dar presupuesto de trasladar un contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "traslado-con-016",
+       "html": "<p>Necesitamos el tipo y el estado del contenedor, cómo son los accesos en origen y en destino, y la distancia entre ambos puntos. La <strong>anchura de los accesos</strong> importa tanto como la distancia: un camión pluma necesita espacio para maniobrar y izar, y un desnivel, un muro estrecho o unos cables bajos pueden obligar a usar una grúa distinta o a preparar el paso antes del día del traslado. Cuéntanos también si hay que atravesar otra parcela o vía pública para llegar al punto de descarga.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "traslado-con-017",
+       "etiqueta": "h2",
+       "texto": "Trasladar un contenedor dentro de la misma parcela o a otra ubicación"
+      },
+      {
+       "t": "texto",
+       "id": "traslado-con-018",
+       "html": "<p>Dentro de la misma parcela, este servicio suele resolverse con una grúa autocargante que levanta el contenedor y lo deposita unos metros más allá, sin transporte por carretera de por medio. Cuando el destino es otro terreno, el trabajo suma el trayecto en plataforma y, si el contenedor está transformado, la comprobación de que el nuevo emplazamiento ofrece lo mismo que el anterior: apoyo firme y acometidas disponibles.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "traslado-con-019",
+       "etiqueta": "h3",
+       "texto": "¿Es igual trasladar un contenedor dentro de la parcela que llevarlo a otro terreno?"
+      },
+      {
+       "t": "texto",
+       "id": "traslado-con-020",
+       "html": "<p>No, porque cambiar de parcela suma un trayecto por carretera y obliga a revisar el terreno de llegada antes de fijar la fecha. Conviene comprobar la <strong>capacidad portante del terreno</strong> de destino en <a href=\"/estudio-de-parcela/\">estudio de parcela</a> y consultar qué autorización pide el ayuntamiento en <a href=\"/permisos/\">permisos de casas contenedor</a>, porque el nuevo emplazamiento puede estar sujeto a restricciones urbanísticas distintas a las del punto de partida.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "traslado-con-021",
+       "etiqueta": "h2",
+       "texto": "Diferencia entre el traslado de contenedores y el transporte de un contenedor nuevo"
+      },
+      {
+       "t": "texto",
+       "id": "traslado-con-022",
+       "html": "<p>Este servicio no es lo mismo que el <a href=\"/transporte-contenedores-maritimos/\">transporte de un contenedor marítimo</a> recién comprado. En el transporte de un contenedor nuevo, el punto de partida es el puerto o el almacén del proveedor, el contenedor va vacío y sin ninguna instalación, y el trabajo se limita a la carga, el trayecto y la descarga en el punto que indiques. En el traslado de uno ya instalado, en cambio, hay que <strong>desmontar lo instalado</strong> antes de levantarlo —anclajes, acometidas, a veces tabiquería— y volver a montarlo en destino, así que el trabajo previo y posterior pesa tanto como el trayecto.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "traslado-con-023",
+       "etiqueta": "h2",
+       "texto": "Traslado de un contenedor transformado en vivienda, oficina o trastero"
+      },
+      {
+       "t": "texto",
+       "id": "traslado-con-024",
+       "html": "<p>Trasladar un contenedor transformado exige más cuidado que uno vacío: el peso aumenta con el aislamiento, la tabiquería y los acabados interiores, y la elevación debe repartir la carga en los puntos de la estructura pensados para ello, no en cualquier zona de la chapa. Antes de decidirte, puede compensar valorar si es mejor tasarlo donde está que trasladarlo; compara ambas opciones en <a href=\"/tasacion-contenedores/\">tasación de contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "traslado-con-025",
+       "etiqueta": "h3",
+       "texto": "¿Se puede trasladar un contenedor que ya funciona como vivienda u oficina?"
+      },
+      {
+       "t": "texto",
+       "id": "traslado-con-026",
+       "html": "<p>Sí, aunque conviene documentar antes su estado con fotografías, porque el traslado puede marcar puertas, juntas o revestimiento durante la elevación y el transporte. Si aparece algún desperfecto al llegar a destino, revisa qué cubre <a href=\"/reparacion-contenedores/\">reparación de contenedores</a> antes de dar el emplazamiento por cerrado, y deja tiempo tras la reconexión para comprobar que agua, electricidad y saneamiento funcionan igual que antes del traslado.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "traslado-con-031",
+   "columnas": [
+    {
+     "id": "traslado-con-030",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "traslado-con-029",
+       "nombre": "formulario-pasos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "contenedores-maritimos",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre el traslado de un contenedor",
+   "items": [
+    {
+     "pregunta": "¿Cuánto pesa un contenedor a la hora de trasladarlo?",
+     "respuesta": "Un contenedor de 20 pies vacío ronda los 2,2 toneladas de tara, y uno de 40 pies, los 3,7 toneladas; si está transformado, con tabiques, aislamiento o instalaciones, el peso final es mayor. Ese dato condiciona qué grúa o camión pluma hace falta, así que conviene indicarlo al pedir presupuesto, junto con el tipo de contenedor y su estado actual."
+    },
+    {
+     "pregunta": "¿Hace falta grúa siempre para trasladar un contenedor?",
+     "respuesta": "Casi siempre, porque un contenedor pesa entre 2,2 y 3,7 toneladas vacío y no se puede levantar a mano. La grúa se engancha en las esquineras normalizadas del contenedor, pensadas para izarlo sin dañar la estructura. Solo en traslados muy cortos y con acceso directo se valora otro sistema, y aun así conviene confirmarlo antes con quien vaya a hacer el trabajo."
+    },
+    {
+     "pregunta": "¿Quién tramita el permiso si el contenedor ocupa la vía pública durante el traslado?",
+     "respuesta": "El permiso de ocupación de vía pública, si hace falta, lo solicita quien encarga el traslado ante el ayuntamiento correspondiente, con la fecha y las horas previstas para la maniobra. Conviene pedirlo con margen, porque el plazo de resolución depende de cada consistorio y la grúa necesita el corte o la reserva de espacio confirmados antes de acudir."
+    },
+    {
+     "pregunta": "¿El traslado incluye desmontar el interior si el contenedor está transformado?",
+     "respuesta": "No por defecto: el traslado se centra en desanclar, izar, transportar y volver a colocar el contenedor, no en desmontar tabiques ni instalaciones interiores. Si el estado de los acabados o el peso lo requieren, se valora caso por caso qué elementos conviene retirar antes del izado y reponer después, y eso se refleja en el presupuesto."
+    },
+    {
+     "pregunta": "¿Se puede trasladar un contenedor que tengo en alquiler?",
+     "respuesta": "Depende del contrato de alquiler: algunos permiten cambiar el contenedor de ubicación durante el periodo contratado, avisando antes y cumpliendo las condiciones de acceso del nuevo emplazamiento. Consulta las condiciones en <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a> antes de organizar el traslado, para evitar penalizaciones por incumplir lo pactado."
+    }
+   ]
+  }
+ }
+}

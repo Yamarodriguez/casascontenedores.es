@@ -12,10 +12,18 @@ import { aWebp, existe } from './imagenes.js';
 const FOTO_CASAS = '/wp-content/uploads/2022/02/RENDER-3A-1-2048x1152.jpg';
 const FOTO_MARITIMOS = '/wp-content/uploads/2021/09/contenedores-maritimos.png';
 
-export const esMaritimos = (ruta) => /^\/contenedor(es)?-maritimo/.test(ruta || '');
+export const esMaritimos = (ruta) => /^\/contenedor(es)?-maritimo/.test(ruta || '') || ruta === '/comprar-contenedor-sin-estafas/';
+
+/** Paginas de servicios para contenedores: su propio antetitulo y entradilla. */
+const SERVICIOS = new Set([
+  '/servicios/', '/pintura-contenedores/', '/aislamiento-contenedores/', '/electricidad-contenedores/',
+  '/seguridad-contenedores/', '/reparacion-contenedores/', '/transformacion-contenedores/',
+  '/traslado-contenedores/', '/tasacion-contenedores/',
+]);
+export const esServicio = (ruta) => SERVICIOS.has(ruta);
 
 /** Ruta de la foto del héroe para una página (o '' si no está en public/). */
 export function fotoHero(ruta) {
-  const elegida = esMaritimos(ruta) && existe(FOTO_MARITIMOS) ? FOTO_MARITIMOS : FOTO_CASAS;
+  const elegida = (esMaritimos(ruta) || esServicio(ruta)) && existe(FOTO_MARITIMOS) ? FOTO_MARITIMOS : FOTO_CASAS;
   return existe(elegida) ? aWebp(elegida) : '';
 }

@@ -1,0 +1,277 @@
+{
+ "slug": "casas-modulares",
+ "ruta": "/casas-modulares/",
+ "titulo": "Casas Modulares con Contenedores",
+ "h1": "Casas Modulares con Contenedores",
+ "tituloSeo": "Casas Modulares: Qué Son y Cómo Elegir la Tuya",
+ "descripcion": "Qué es una casa modular, en qué se diferencia de una prefabricada o de obra tradicional, sistemas con contenedor marítimo, normativa y cómo elegir la tuya.",
+ "palabraClave": "casas modulares",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2021/07/casas-prefabricadas-de-contenedores-permanente.jpg",
+  "alt": "Casa modular construida con contenedores marítimos ya montada en parcela",
+  "ancho": 1500,
+  "alto": 1000
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "casas-modula-003",
+   "columnas": [
+    {
+     "id": "casas-modula-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "casas-modula-001",
+       "src": "/wp-content/uploads/2021/07/casas-prefabricadas-de-contenedores-permanente.jpg",
+       "alt": "Casa modular construida con contenedores marítimos ya montada en parcela"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "casas-modula-008",
+   "columnas": [
+    {
+     "id": "casas-modula-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "casas-modula-004",
+       "etiqueta": "h2",
+       "texto": "Casas modulares con contenedores: qué son y cómo se construyen",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "casas-modula-005",
+       "html": "<p>Una <strong>casa modular</strong> es una vivienda que se fabrica por módulos completos en una nave industrial y se traslada, ya casi terminada, hasta la parcela, donde solo queda unir los módulos entre sí, conectarlos a los suministros y rematar los acabados.</p><p>Dentro de las casas modulares, el contenedor marítimo es uno de los sistemas más usados porque parte de una <strong>estructura de acero</strong> ya fabricada, con medidas fijadas por la norma ISO 668: un contenedor de 20 pies mide 6,06 × 2,44 × 2,59 m y ofrece unos 13,9 m² interiores, y uno de 40 pies llega a los 28,3 m². En esta guía vemos en qué se diferencia una casa modular de una prefabricada por paneles y de una obra tradicional, qué sistemas se usan, qué normativa se aplica y cómo elegir tu modelo por número de contenedores o por superficie.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "casas-modula-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "casas-modula-028",
+   "columnas": [
+    {
+     "id": "casas-modula-027",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "casas-modula-009",
+       "etiqueta": "h2",
+       "texto": "Diferencia entre casa modular, prefabricada y obra tradicional"
+      },
+      {
+       "t": "texto",
+       "id": "casas-modula-010",
+       "html": "<p>La diferencia entre una <strong>casa modular</strong> y una casa tradicional está en dónde se hace el trabajo pesado: en la modular, la estructura, las instalaciones y buena parte de los acabados se ejecutan en taller, bajo cubierta y con controles de calidad repetibles, y en la parcela solo quedan la cimentación, el transporte, la grúa y las conexiones finales.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casas-modula-011",
+       "etiqueta": "h3",
+       "texto": "¿En qué se diferencia una casa modular de una casa prefabricada de paneles?"
+      },
+      {
+       "t": "texto",
+       "id": "casas-modula-012",
+       "html": "<p>Se diferencia en que la casa modular llega dividida en <strong>volúmenes tridimensionales</strong> ya cerrados, con paredes, suelo y techo de fábrica, mientras que una prefabricada de paneles se monta en la parcela a partir de placas planas que se levantan y unen in situ. El resultado final puede parecerse, pero el reparto entre taller y obra es distinto: cuanto más se fabrica en taller, menos tiempo de montaje hace falta en el terreno.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casas-modula-013",
+       "etiqueta": "h2",
+       "texto": "Sistemas constructivos de la casa modular: contenedor, madera, acero ligero y hormigón"
+      },
+      {
+       "t": "texto",
+       "id": "casas-modula-014",
+       "html": "<p>No todas las casas modulares se construyen igual. Los sistemas más habituales en España son cuatro: el <strong>acero de contenedor marítimo</strong>, que reutiliza la estructura del contenedor; la madera, en paneles de entramado o CLT; el acero ligero, con perfiles conformados en frío tipo steel frame; y el hormigón, en paneles prefabricados o módulos de hormigón armado.</p><p>Cada sistema reparte de forma distinta el peso, el aislamiento de partida y el tiempo de fabricación en taller, pero los cuatro comparten la misma lógica modular: se fabrica por partes cerradas y se ensamblan después en la parcela.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casas-modula-015",
+       "etiqueta": "h2",
+       "texto": "El contenedor marítimo, un módulo de casa modular ya fabricado"
+      },
+      {
+       "t": "texto",
+       "id": "casas-modula-016",
+       "html": "<p>El contenedor marítimo aporta algo que ningún otro sistema modular tiene de fábrica: una <strong>caja estructural completa</strong>, soldada y calculada para apilarse y soportar cargas en barco, tren y camión, que ya cumple la norma ISO 668 de dimensiones y la ISO 6346 de codificación.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casas-modula-017",
+       "etiqueta": "h3",
+       "texto": "¿Por qué el contenedor marítimo es un módulo de casa modular ya hecho?"
+      },
+      {
+       "t": "texto",
+       "id": "casas-modula-018",
+       "html": "<p>Porque llega de fábrica con una <strong>estructura de acero soldada</strong> y con la placa CSC que certifica, según el Convenio Internacional sobre la Seguridad de los Contenedores, que ha superado los controles de resistencia para el transporte marítimo. Sobre esa base solo hace falta aislar, abrir huecos, revestir y conectar las instalaciones, en lugar de levantar la estructura desde cero.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casas-modula-019",
+       "etiqueta": "h2",
+       "texto": "Normativa de las casas modulares: la misma que en la obra tradicional"
+      },
+      {
+       "t": "texto",
+       "id": "casas-modula-020",
+       "html": "<p>La normativa de las casas modulares no cambia por venir de fábrica: se le aplica el mismo <strong>Código Técnico de la Edificación</strong>, con sus documentos básicos de seguridad estructural (DB-SE), seguridad en caso de incendio (DB-SI), salubridad (DB-HS), ahorro de energía (DB-HE) y protección frente al ruido (DB-HR).</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casas-modula-021",
+       "etiqueta": "h3",
+       "texto": "¿Necesita licencia una casa modular de contenedores?"
+      },
+      {
+       "t": "texto",
+       "id": "casas-modula-022",
+       "html": "<p>Sí, necesita el mismo proyecto técnico y la misma licencia municipal que una vivienda de ladrillo, porque la vivienda se clasifica como bien inmueble desde el momento en que se ancla al terreno. El proyecto lo firma un arquitecto y debe cumplir la <strong>Ley de Ordenación</strong> de la Edificación (Ley 38/1999).</p><p>La instalación eléctrica se rige, además, por el <strong>Reglamento Electrotécnico</strong> de Baja Tensión (REBT), con sus propias inspecciones y boletines.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casas-modula-023",
+       "etiqueta": "h2",
+       "texto": "Ventajas y límites de la casa modular en contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "casas-modula-024",
+       "html": "<p>Entre las ventajas, la casa modular en contenedores permite acortar el tiempo en la parcela porque gran parte del trabajo se hace en taller, reduce los residuos de construcción al partir de medidas cerradas y facilita el traslado de contenedores hasta parcelas con acceso complicado.</p><ul><li>Menos tiempo de obra en la parcela, porque la <strong>estructura llega terminada</strong>.</li><li>Menor dependencia del clima durante la fabricación, al hacerse bajo cubierta.</li><li>Posibilidad de sumar módulos y ampliar la vivienda por fases.</li></ul><p>Entre los límites está el <strong>ancho interior fijo</strong> del contenedor, de 2,35 m, que obliga a unir varios módulos en anchura para conseguir salones o dormitorios más amplios; el transporte hasta parcelas de difícil acceso, que puede exigir grúas de gran tonelaje; y la necesidad de aislar bien el acero para evitar puentes térmicos y condensaciones.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casas-modula-025",
+       "etiqueta": "h2",
+       "texto": "Cómo elegir tu casa modular: contenedores y superficie"
+      },
+      {
+       "t": "texto",
+       "id": "casas-modula-026",
+       "html": "<p>Para elegir tu casa modular en contenedores conviene partir de dos datos: cuántos contenedores necesitas y qué superficie interior buscas. Un contenedor de 20 pies aporta unos 13,9 m² y uno de 40 pies unos 28,3 m², así que combinar varios módulos es la forma habitual de crecer en metros sin renunciar a la estructura de acero ya fabricada.</p><p>Puedes revisar nuestros modelos por número de módulos en <a href=\"/casa-con-un-contenedor/\">casa de un contenedor</a>, <a href=\"/casa-con-dos-contenedores/\">casa con dos contenedores</a>, <a href=\"/casa-con-tres-contenedores/\">casa con tres contenedores</a> y <a href=\"/casa-con-cuatro-contenedores/\">casa de cuatro contenedores</a>, o consultar el <a href=\"/modelos/\">catálogo completo por superficie</a>. Si quieres comparar con otros sistemas de fabricación en taller, tenemos también una guía de <a href=\"/casas-prefabricadas/\">casas prefabricadas</a>.</p><p>Antes de decidir el modelo conviene revisar cómo se apoya la vivienda en el terreno, en nuestra guía de <a href=\"/cimentacion-casas-contenedores/\">cimentación para casas contenedor</a>, y tener en cuenta que los precios por metro cuadrado que orientamos en <a href=\"/precios/\">precios de casas contenedores</a> (entre 600 y 800 euros el metro cuadrado) son solo un punto de partida: cada proyecto de casa modular se presupuesta a medida según el terreno, el sistema elegido y los acabados.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "casas-modula-031",
+   "columnas": [
+    {
+     "id": "casas-modula-030",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "casas-modula-029",
+       "nombre": "catalogo-modelos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "menu-principal",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre casas modulares",
+   "items": [
+    {
+     "pregunta": "¿Qué tipos de casas modulares existen además del contenedor marítimo?",
+     "respuesta": "Además del contenedor, las casas modulares se construyen en madera (paneles de entramado o CLT), en acero ligero tipo steel frame y en hormigón prefabricado. Los cuatro sistemas se fabrican por módulos cerrados en taller y se trasladan casi terminados a la parcela; lo que cambia entre ellos es el peso, el aislamiento de partida y el tiempo de montaje en obra."
+    },
+    {
+     "pregunta": "¿Una casa modular es lo mismo que una casa contenedor?",
+     "respuesta": "No exactamente. Casa modular describe el método de fabricación por módulos completos en taller, mientras que casa contenedor concreta qué módulo se usa: un contenedor marítimo. Toda casa contenedor es una casa modular, pero no toda casa modular se hace con contenedores; también las hay en madera, acero ligero u hormigón."
+    },
+    {
+     "pregunta": "¿Una casa modular en contenedores se puede ampliar más adelante?",
+     "respuesta": "Sí. Al estar formada por módulos independientes, es habitual dejar previsto dónde se podría sumar otro contenedor en el futuro: una segunda planta, una ampliación lateral o un módulo aparte para invitados. Conviene decidirlo en el proyecto inicial para que la cimentación y las instalaciones queden preparadas desde el principio."
+    },
+    {
+     "pregunta": "¿Cuánto pesa una casa modular hecha con contenedores?",
+     "respuesta": "El peso de partida lo marca la tara de cada contenedor: unos 2,2 toneladas en uno de 20 pies y unos 3,7 toneladas en uno de 40 pies, antes de sumar el aislamiento, los revestimientos y las instalaciones. Ese peso en vacío es menor que el de una vivienda de obra equivalente, aunque el conjunto terminado se acerca más a esa cifra."
+    },
+    {
+     "pregunta": "¿Se puede financiar la compra de una casa modular?",
+     "respuesta": "Sí, es habitual acudir a un préstamo o una hipoteca para financiar una casa modular, igual que para una vivienda tradicional; lo que cambia es la documentación que pide el banco, porque necesita el proyecto técnico, la licencia y una valoración de la vivienda terminada. Te explicamos el proceso con más detalle en nuestra guía de financiación de casas contenedores."
+    }
+   ]
+  }
+ }
+}

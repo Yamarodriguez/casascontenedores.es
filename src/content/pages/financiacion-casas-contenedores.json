@@ -1,0 +1,305 @@
+{
+ "slug": "financiacion-casas-contenedores",
+ "ruta": "/financiacion-casas-contenedores/",
+ "titulo": "Financiación casas contenedores",
+ "h1": "Financiación casas contenedores",
+ "tituloSeo": "Financiación casas contenedores: hipoteca y préstamo",
+ "descripcion": "Cómo financiar una casa contenedor en España: hipoteca de autopromoción, hipoteca sobre la vivienda terminada, préstamo personal o renting para empresas.",
+ "palabraClave": "financiación casas contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2021/06/casas-contenedores-permisos-scaled.jpg",
+  "alt": "Documentación de proyecto y licencia necesaria para financiar una casa contenedor",
+  "ancho": 2560,
+  "alto": 1708
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "financiacion-003",
+   "columnas": [
+    {
+     "id": "financiacion-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "financiacion-001",
+       "src": "/wp-content/uploads/2021/06/casas-contenedores-permisos-scaled.jpg",
+       "alt": "Documentación de proyecto y licencia necesaria para financiar una casa contenedor"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "financiacion-008",
+   "columnas": [
+    {
+     "id": "financiacion-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "financiacion-004",
+       "etiqueta": "h2",
+       "texto": "Financiación casas contenedores: primero decide cómo vas a construir",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-005",
+       "html": "<p>La financiación de una casa contenedor no es distinta de la de cualquier vivienda: lo que cambia es la fase en la que llega el dinero según construyas desde cero, compres la casa ya acabada o necesites el módulo para un negocio. Con un <a href=\"/permisos/\">proyecto visado y licencia</a>, un banco trata tu casa contenedor como cualquier otra vivienda hipotecable, y la <strong>financiación casas contenedores</strong> se resuelve con hipoteca de autopromoción, hipoteca sobre la vivienda terminada, préstamo personal o, para empresas, renting o leasing de los módulos.</p><p>Debajo de esta introducción tienes una <strong>calculadora de cuota hipotecaria</strong>: mete el precio de la vivienda, la entrada de la que dispones, el tipo de interés y el plazo, y calcula tu cuota orientativa al momento. Más abajo te explicamos qué diferencia hay entre tipo fijo y variable, qué es la TAE y qué gastos quedan fuera de esa cuota.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "financiacion-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "financiacion-011",
+   "columnas": [
+    {
+     "id": "financiacion-010",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "financiacion-009",
+       "nombre": "calculadora-hipoteca"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "financiacion-033",
+   "columnas": [
+    {
+     "id": "financiacion-032",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "financiacion-012",
+       "etiqueta": "h2",
+       "texto": "Hipoteca de autopromoción para financiar una casa contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-013",
+       "html": "<p>La <strong>hipoteca de autopromoción</strong> es la vía más habitual cuando construyes tu casa contenedor desde cero en un terreno propio. El banco no entrega el dinero de golpe: lo libera por disposiciones ligadas a certificaciones de obra, conforme el arquitecto o el aparejador certifica que cada fase, cimentación, colocación de los módulos, instalaciones y acabados, está realmente ejecutada.</p><p>Mientras la vivienda no está terminada sueles pagar solo los intereses de lo ya dispuesto, y la cuota completa arranca cuando se firma la escritura con la casa contenedor acabada. Este sistema encaja bien con la construcción modular porque el proceso se divide en fases claras: la <a href=\"/cimentacion-casas-contenedores/\">cimentación</a>, el transporte y montaje del módulo, y el remate de instalaciones y acabados.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "financiacion-014",
+       "etiqueta": "h3",
+       "texto": "¿Qué es la hipoteca de autopromoción para financiar tu casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-015",
+       "html": "<p>Es una hipoteca en la que el banco no entrega todo el capital al firmar, sino que lo va desembolsando por fases a medida que la obra avanza y se certifica. En una casa contenedor, esas fases suelen coincidir con la cimentación, la llegada y montaje de los módulos, y los acabados finales, cada una respaldada por el <strong>certificado del técnico</strong> director de obra.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "financiacion-016",
+       "etiqueta": "h2",
+       "texto": "Hipoteca para financiar una casa contenedor ya terminada"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-017",
+       "html": "<p>Si compras una casa contenedor ya construida y con la tasación hecha, la operación se parece a la compra de cualquier vivienda de obra nueva entregada: el banco concede la hipoteca sobre el inmueble terminado, sin disposiciones por fases. Necesita la <strong>cédula de habitabilidad</strong> o la licencia de primera ocupación que corresponda, que acredita que la vivienda cumple las condiciones para ser habitada.</p><p>Esta opción también sirve cuando el vendedor entrega la casa contenedor lista para conectar en la parcela: para el banco, lo relevante es que exista una vivienda terminada, con proyecto, licencia y tasación, no el material con el que está construida.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "financiacion-018",
+       "etiqueta": "h2",
+       "texto": "Préstamo personal para financiar una casa contenedor pequeña"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-019",
+       "html": "<p>Para módulos pequeños o construcciones que no se inscriben como bien inmueble, un <strong>préstamo personal</strong> puede sustituir a la hipoteca. No exige poner el terreno o la vivienda como garantía, y su tramitación suele ser más rápida porque no depende de tasación ni de certificaciones de obra, aunque el banco valora sobre todo tu capacidad de pago.</p><p>Es una opción habitual cuando la casa contenedor se plantea como bien mueble transportable, un anexo a la vivienda principal, o un módulo que se financia aparte del terreno.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "financiacion-020",
+       "etiqueta": "h2",
+       "texto": "Renting y leasing: financiación de casas contenedores para empresa"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-021",
+       "html": "<p>Cuando el contenedor se destina a una oficina, un almacén o cualquier otro uso de empresa, el <strong>renting o leasing</strong> sustituye a la hipoteca. Una entidad financiera es propietaria del módulo mientras dura el contrato y la empresa paga una cuota periódica por su uso; la diferencia está en qué ocurre al terminar el contrato y en cómo se contabiliza el gasto.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "financiacion-022",
+       "etiqueta": "h3",
+       "texto": "¿Qué diferencia hay entre renting y leasing al financiar una casa contenedor de empresa?"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-023",
+       "html": "<p>En el leasing, la empresa suele tener la opción de comprar el módulo al terminar el contrato pagando el valor residual; en el renting, el contenedor vuelve a la entidad y no hay opción de compra pactada de antemano. El renting suele incluir además <strong>servicios asociados al módulo</strong>, mientras que el leasing se centra solo en la financiación del bien.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "financiacion-024",
+       "etiqueta": "h2",
+       "texto": "Qué pide el banco para financiar una casa contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-025",
+       "html": "<p>Antes de conceder cualquiera de estas opciones, el banco pide la misma documentación que para una vivienda tradicional: el <strong>proyecto visado por un arquitecto</strong>, la licencia de obra mayor del ayuntamiento, la acreditación de que el <a href=\"/casa-contenedor-suelo-rustico/\">suelo es edificable</a>, y la tasación de la vivienda o del proyecto.</p><p>Esta documentación es la misma tanto si la casa se construye con ladrillo como con contenedores marítimos: lo que hipoteca el banco es el inmueble resultante, con su proyecto y su licencia, no el material de la estructura.</p><p>Para hacerte una idea del importe que vas a necesitar financiar, en nuestra página de <a href=\"/precios/\">precios</a> indicamos que el coste de una casa contenedor puede oscilar entre 600 € y 800 € el metro cuadrado; son cifras orientativas, no un presupuesto cerrado, así que conviene pedir un <a href=\"/presupuesto-casas-contenedores/\">presupuesto</a> a medida antes de solicitar la hipoteca.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "financiacion-026",
+       "etiqueta": "h3",
+       "texto": "¿Por qué puedes financiar una casa contenedor con proyecto y licencia igual que cualquier vivienda?"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-027",
+       "html": "<p>Porque, en cuanto tiene proyecto visado, licencia de obra mayor y suelo edificable, se registra igual que cualquier vivienda: como <strong>bien inmueble</strong> con su referencia catastral y su escritura. El banco no distingue entre una vivienda de ladrillo y una de contenedores marítimos a la hora de tasarla o hipotecarla; distingue entre una vivienda con papeles en regla y una que no los tiene.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "financiacion-028",
+       "etiqueta": "h2",
+       "texto": "Tipo fijo, tipo variable y TAE en la financiación de una casa contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-029",
+       "html": "<p>El <strong>tipo de interés fijo</strong> mantiene la misma cuota durante toda la vida del préstamo, con independencia de cómo se mueva el mercado; el tipo variable se revisa periódicamente según un índice de referencia, así que la cuota puede subir o bajar en cada revisión. Algunas entidades ofrecen también un tipo mixto, con un primer tramo fijo y el resto variable.</p><p>La <strong>Tasa Anual Equivalente</strong> (TAE) es el dato que permite comparar ofertas entre sí, porque incluye el interés y las comisiones asociadas al préstamo en una sola cifra anual; el tipo de interés nominal, en cambio, no recoge esas comisiones.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "financiacion-030",
+       "etiqueta": "h3",
+       "texto": "¿Qué gastos no entran en la cuota de financiación de una casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "financiacion-031",
+       "html": "<p>La cuota que da la calculadora solo tiene en cuenta el capital y los intereses; quedan fuera la tasación de la vivienda, la gestoría, la notaría y el registro de la escritura, el impuesto que corresponda a la operación, y los <strong>seguros vinculados al préstamo</strong>, como el seguro de hogar y, en muchos casos, el de vida. Conviene sumarlos antes de decidir cuánto pedir.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "financiacion-036",
+   "columnas": [
+    {
+     "id": "financiacion-035",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "financiacion-034",
+       "nombre": "formulario-pasos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "menu-principal",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre financiación de casas contenedores",
+   "items": [
+    {
+     "pregunta": "¿El banco financia el precio completo de una casa contenedor o solo parte?",
+     "respuesta": "Depende de la entidad y de tus garantías: la práctica habitual es financiar una parte del valor de tasación y que tú aportes el resto como entrada, igual que en cualquier hipoteca. Cuanta más entrada aportes, más fácil suele ser conseguir mejores condiciones. Pide una simulación personalizada a tu banco antes de firmar ningún presupuesto."
+    },
+    {
+     "pregunta": "¿Puedo financiar el terreno y la casa contenedor en operaciones separadas?",
+     "respuesta": "Sí, aunque lo más común es una hipoteca combinada que cubra terreno y construcción a la vez, sobre todo si compras el suelo y construyes en la misma operación. Si ya eres propietario del terreno, algunas entidades aceptan financiar solo la construcción, tomando el suelo como parte de la garantía. Consulta las condiciones de cada banco."
+    },
+    {
+     "pregunta": "¿Cambia la financiación si la casa contenedor va en suelo rústico?",
+     "respuesta": "Sí: en suelo rústico una vivienda permanente solo es posible en los supuestos que admite cada ley autonómica, y siempre con <a href=\"/casa-contenedor-suelo-rustico/\">licencia municipal</a>; sin licencia no hay proyecto visado ni tasación, así que tampoco hay hipoteca posible. Antes de comprar, comprueba qué usos admite tu parcela y qué autorización necesitas."
+    },
+    {
+     "pregunta": "¿Qué pasa con la hipoteca de autopromoción si cambio de banco a mitad de obra?",
+     "respuesta": "Es posible subrogar o cancelar la hipoteca de autopromoción y contratar otra en una entidad distinta, pero conviene hacerlo antes de que se acumulen muchas disposiciones, porque cada certificación de obra ya liberada forma parte del capital pendiente. Revisa antes las comisiones de cancelación y subrogación de tu contrato."
+    },
+    {
+     "pregunta": "¿Necesito un seguro concreto para financiar una casa contenedor?",
+     "respuesta": "El banco suele exigir un seguro de hogar sobre la vivienda como condición del préstamo, y en muchos casos también un seguro de vida vinculado al titular de la hipoteca. Ninguno de los dos es exclusivo de las casas contenedores: se piden igual en cualquier vivienda financiada con hipoteca, tradicional o modular."
+    }
+   ]
+  }
+ }
+}

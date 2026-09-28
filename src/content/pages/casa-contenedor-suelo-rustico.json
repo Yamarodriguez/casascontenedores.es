@@ -1,0 +1,271 @@
+{
+ "slug": "casa-contenedor-suelo-rustico",
+ "ruta": "/casa-contenedor-suelo-rustico/",
+ "titulo": "Casa contenedor en suelo rústico",
+ "h1": "Casa contenedor en suelo rústico",
+ "tituloSeo": "Casa contenedor en suelo rústico: guía legal completa",
+ "descripcion": "Casa contenedor en suelo rústico: qué admite cada comunidad, qué pasa sin licencia, cuándo se puede legalizar y cómo comprobarlo antes de comprar la parcela.",
+ "palabraClave": "casa contenedor en suelo rústico",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2021/06/casas-contenedores-permisos-scaled.jpg",
+  "alt": "casa contenedor instalada en una parcela de suelo rústico",
+  "ancho": 2560,
+  "alto": 1708
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "casa-contene-003",
+   "columnas": [
+    {
+     "id": "casa-contene-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "casa-contene-001",
+       "src": "/wp-content/uploads/2021/06/casas-contenedores-permisos-scaled.jpg",
+       "alt": "casa contenedor instalada en una parcela de suelo rústico"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "casa-contene-008",
+   "columnas": [
+    {
+     "id": "casa-contene-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "casa-contene-004",
+       "etiqueta": "h2",
+       "texto": "Casa contenedor en suelo rústico: lo primero que debes comprobar",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-005",
+       "html": "<p>Una <strong>casa contenedor en suelo rústico</strong> no deja de ser una edificación a ojos del ayuntamiento, aunque no lleve zapatas de hormigón: la Ley de Ordenación de la Edificación (LOE) y el Código Técnico se aplican por el uso residencial, no por el sistema de apoyo. Antes de comprar la parcela conviene tener claro qué admite tu comunidad autónoma en <a href=\"/estudio-de-parcela/\">suelo rústico o no urbanizable</a>, porque las opciones son pocas: vivienda vinculada a una explotación agraria, alguna actuación de interés público concreta o, casi siempre, ningún uso residencial. Esta guía repasa esas opciones, qué ocurre sin licencia -consulta también <a href=\"/permisos/\">qué permisos necesita una casa contenedor</a>- y cómo comprobarlo antes de firmar.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "casa-contene-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "casa-contene-030",
+   "columnas": [
+    {
+     "id": "casa-contene-029",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "casa-contene-009",
+       "etiqueta": "h2",
+       "texto": "Por qué la ley trata una casa de contenedores en suelo rústico como una edificación"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-010",
+       "html": "<p>Que una vivienda contenedor en suelo rústico no tenga cimentación tradicional no la saca del concepto legal de edificación: la LOE la define por el resultado -una construcción con uso residencial- y no por la técnica constructiva. Por eso el ayuntamiento exige el mismo trámite que a una vivienda con zapatas: licencia, proyecto visado cuando corresponde y cumplimiento del <strong>Código Técnico de la Edificación</strong> en seguridad estructural, incendio, salubridad y energía. Distinto es el caso de una instalación temporal o desmontable (bien mueble), que tiene su propio régimen y también exige autorización municipal. La ausencia de cimentación afecta al sistema de apoyo, algo que se define en <a href=\"/planos/\">el proyecto y los planos de la vivienda</a>, pero no cambia la naturaleza jurídica ni exime de licencia.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casa-contene-011",
+       "etiqueta": "h2",
+       "texto": "Qué admite cada ley autonómica para una casa contenedor en suelo rústico"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-012",
+       "html": "<p>Cada comunidad autónoma regula el suelo rústico con su propia ley del suelo, así que esto es una foto general y no sustituye la consulta al ayuntamiento. La normativa autonómica admite en general dos vías: la <strong>vivienda vinculada a explotación agraria</strong>, ganadera o forestal en activo; y las actuaciones de interés público o social, reservadas a usos muy tasados. Fuera de esos supuestos, la vivienda aislada en rústico común suele estar descartada, y en el protegido el margen se reduce todavía más.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casa-contene-013",
+       "etiqueta": "h3",
+       "texto": "¿Se puede vincular una vivienda contenedor a una explotación agraria en suelo rústico?"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-014",
+       "html": "<p>Sí, es la vía más habitual: la normativa admite una vivienda ligada a una explotación agraria, ganadera o forestal en activo, siempre que el titular acredite esa actividad. No sirve declararla de forma simbólica para justificar una vivienda de ocio: el ayuntamiento revisa que sea real antes de conceder la licencia. La parcela mínima exigida también varía entre comunidades, así que conviene <a href=\"/estudio-de-parcela/\">revisar la parcela y el planeamiento</a> antes de avanzar.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casa-contene-015",
+       "etiqueta": "h2",
+       "texto": "Actuaciones de interés público y riesgo de núcleo de población para una vivienda contenedor en terreno rústico"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-016",
+       "html": "<p>Además de la vivienda vinculada a explotación agraria, algunas leyes autonómicas permiten en suelo rústico actuaciones de interés público o social -equipamientos o usos rurales tasados-, pero encajar ahí una vivienda contenedor de uso particular es la excepción. El segundo límite que suele aparecer es el <strong>riesgo de núcleo de población</strong>: si varias parcelas próximas concentran construcciones aisladas, el planeamiento puede entender que se urbaniza de facto un suelo que no lo es, y eso basta para denegar la licencia aunque tu parcela cumpla la superficie mínima.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casa-contene-017",
+       "etiqueta": "h2",
+       "texto": "Qué ocurre si instalas sin licencia una casa de contenedores en suelo rústico"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-018",
+       "html": "<p>Instalar una casa de contenedores en suelo rústico sin licencia abre un <strong>expediente de disciplina urbanística</strong> en cuanto el ayuntamiento detecta la obra, ya sea por inspección, denuncia vecinal u ortofoto. El expediente suele derivar en una orden de reposición de la legalidad: paralización si la obra sigue en marcha y, si ya está terminada, un plazo para legalizar o para la demolición por cuenta del propietario. A eso se suman las multas que fija cada ordenanza, que pueden repetirse mientras la situación irregular se mantenga. Nada de esto depende de que la vivienda tenga cimentación.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casa-contene-019",
+       "etiqueta": "h3",
+       "texto": "¿Cuánto tarda un ayuntamiento en actuar contra una casa contenedor sin licencia en suelo rústico?"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-020",
+       "html": "<p>No hay un plazo único: depende de cuándo se detecte la obra y de los plazos de tramitación y de prescripción que fije cada comunidad autónoma, que varían de una región a otra y no se pueden generalizar. Lo que sí es común es que, mientras el expediente esté abierto, el ayuntamiento puede ordenar la paralización de la obra sin esperar a que pase ningún plazo. Por eso no conviene construir confiando en que no van a enterarse.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casa-contene-021",
+       "etiqueta": "h2",
+       "texto": "Cuándo se puede legalizar una casa contenedor construida en suelo rústico"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-022",
+       "html": "<p>Una casa contenedor construida en suelo rústico sin licencia solo se puede legalizar si encaja en alguno de los usos que admite el planeamiento vigente: vivienda vinculada a una explotación agraria acreditada o una actuación de interés público de las que enumera la ley. Si no encaja en ninguno -por ejemplo, una vivienda de ocio sin actividad agraria detrás-, no existe legalización posible por mucho tiempo que lleve construida, y el expediente termina en demolición. Cuando sí cabe, el propietario tiene que presentar <strong>proyecto visado</strong> y ajustar la construcción a lo que exige el Código Técnico, como si tramitara la licencia desde el principio.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casa-contene-023",
+       "etiqueta": "h3",
+       "texto": "¿Los plazos para legalizar una vivienda contenedor en terreno rústico son iguales en toda España?"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-024",
+       "html": "<p>No: los plazos de prescripción para actuar contra una obra sin licencia, y los plazos para solicitar la legalización, dependen de la ley del suelo de cada comunidad autónoma, y algunas los cuentan de forma distinta según el tipo de suelo. No existe un plazo único aplicable a toda España, así que conviene preguntar en el propio ayuntamiento antes de dar nada por prescrito.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casa-contene-025",
+       "etiqueta": "h2",
+       "texto": "Cómo comprobar antes de comprar si tu parcela admite una vivienda contenedor en terreno rústico"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-026",
+       "html": "<p>Antes de firmar por una parcela rústica, pide en el ayuntamiento la <strong>cédula o el informe urbanístico</strong> de la finca: indica la clasificación del suelo, la categoría dentro del rústico y los usos que admite el planeamiento vigente. Si el vendedor no lo facilita, solicítalo tú mismo o mediante una consulta urbanística previa, que resuelve por escrito si tu proyecto encajaría en esa parcela. Contrasta esta información con <a href=\"/comprar-contenedor-sin-estafas/\">las comprobaciones básicas antes de comprar contenedores</a> y con <a href=\"/presupuesto-casas-contenedores/\">el presupuesto real de la obra</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "casa-contene-027",
+       "etiqueta": "h3",
+       "texto": "¿Qué diferencia hay entre la cédula urbanística y la consulta previa para una vivienda contenedor en terreno rústico?"
+      },
+      {
+       "t": "texto",
+       "id": "casa-contene-028",
+       "html": "<p>La cédula o el informe urbanístico certifica, con la parcela ya identificada, la clasificación del suelo y los parámetros urbanísticos aplicables; la consulta previa, en cambio, es una pregunta concreta que planteas al ayuntamiento sobre un proyecto específico -por ejemplo, si admite una vivienda vinculada a una explotación agraria- y que se responde por escrito. Para decidir si compras la parcela conviene pedir la cédula; para plantear el proyecto de <a href=\"/casas-prefabricadas/\">vivienda permanente o temporal</a>, conviene además la consulta previa.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  }
+ ],
+ "menu": "menu-principal",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre la casa contenedor en suelo rústico",
+   "items": [
+    {
+     "pregunta": "¿Necesito arquitecto para un proyecto de casa contenedor en suelo rústico?",
+     "respuesta": "Sí, casi siempre: salvo excepciones muy tasadas para casetas agrícolas sin uso residencial, un proyecto de vivienda necesita firma de arquitecto y visado colegial, igual que cualquier construcción sujeta a la LOE y al Código Técnico. El arquitecto es además quien justifica ante el ayuntamiento que la parcela y el uso encajan en la normativa de suelo rústico aplicable."
+    },
+    {
+     "pregunta": "¿Es lo mismo suelo rústico que suelo no urbanizable?",
+     "respuesta": "En la práctica, sí: la mayoría de leyes autonómicas usan ambos términos como sinónimos para el suelo excluido del proceso urbanizador y reservado a usos agrarios, forestales o naturales. Dentro de esa categoría, cada ley distingue subtipos -rústico común y protegido-, y esa distinción condiciona qué construcciones admite cada parcela."
+    },
+    {
+     "pregunta": "¿Puedo poner un contenedor como caseta de aperos sin licencia en suelo rústico?",
+     "respuesta": "Depende de cada ayuntamiento: algunas eximen de licencia -o piden solo declaración responsable- las casetas de aperos sin uso residencial vinculadas a una explotación agraria real, pero ninguna exime de acreditar esa actividad. Si el contenedor va a tener cocina, baño o se va a habitar, deja de ser una caseta de aperos a ojos de la normativa."
+    },
+    {
+     "pregunta": "¿Qué pasa si compro una parcela rústica creyendo que admite vivienda y no es así?",
+     "respuesta": "Si no pediste la cédula o la consulta urbanística antes de comprar, asumes tú el riesgo: el vendedor no está obligado a garantizarte que tu proyecto de vivienda encaje en el planeamiento. Por eso conviene pedir ese informe antes de firmar, no después, y dejar la compra condicionada por escrito a que el ayuntamiento confirme que la parcela admite el uso residencial que buscas."
+    },
+    {
+     "pregunta": "¿Una vivienda contenedor en suelo rústico paga los mismos impuestos que en suelo urbano?",
+     "respuesta": "Los tributos de la construcción, como el ICIO o el IVA o ITP, se aplican igual haya o no licencia; lo que cambia con el suelo rústico es la disponibilidad de licencia, no la obligación fiscal. Regularizar el impuesto no legaliza la construcción: son trámites independientes."
+    }
+   ]
+  }
+ }
+}

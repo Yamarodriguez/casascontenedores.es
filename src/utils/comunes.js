@@ -17,6 +17,7 @@
  *    que no haya dos h2 de "Preguntas frecuentes" en la misma pagina.
  */
 import portada from '../content/pages/casas-contenedores.json';
+import zonas from '../data/zonas.json';
 
 const textoDe = (e) => String(e?.texto ?? '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 const clonar = (x) => JSON.parse(JSON.stringify(x));
@@ -86,7 +87,9 @@ function bloqueFaq(bloques) {
  *  elementos donde esta, para meter las preguntas nuevas debajo. */
 function encabezadoFaq(bloques) {
   for (const s of bloques || []) {
-    if (s?.t !== 'seccion' || s.ampliacion) continue;
+    // (las secciones "libre" son de paginas nuevas: sus h2 de preguntas por
+    // temas no son un bloque de FAQ, la suya va al final en la ampliacion)
+    if (s?.t !== 'seccion' || s.ampliacion || s.libre) continue;
     for (const c of s.columnas || []) {
       const lista = c.elementos || [];
       const i = lista.findIndex((e) => esEncabezado(e, /preguntas frecuentes/i));
@@ -242,4 +245,57 @@ export function anadirFaq(bloques, nuevas = [], { conPortada = false } = {}) {
   }
   bloques.push(seccion);
   return true;
+}
+
+/* ------------------------------------------------ zonas de la misma provincia
+   Cada pagina de localidad enlaza las demas de su provincia (de casas y de
+   contenedores maritimos) y la de su comunidad si tiene; las de comunidad
+   enlazan sus provincias. La tabla la genera scripts/zonas.mjs. */
+
+function zonaDe(ruta) {
+  for (const [clave, p] of Object.entries(zonas.provincias)) {
+    if (p.casas.includes(ruta) || p.maritimos.includes(ruta)) return { tipo: 'provincia', clave, ...p };
+  }
+  for (const [clave, c] of Object.entries(zonas.comunidades)) {
+    if (c.casas.includes(ruta) || c.maritimos.includes(ruta)) return { tipo: 'comunidad', clave, ...c };
+  }
+  return null;
+}
+
+/**
+ * Anade al final de una pagina de localidad el bloque "Casas contenedores en
+ * otras zonas de X". `titulos` es ruta -> titulo de cada pagina (el rotulo
+ * de cada enlace). Devuelve cuantos enlaces pone.
+ */
+export function anadirZonas(bloques, ruta, titulos) {
+  const z = zonaDe(ruta);
+  if (!z) return 0;
+  const maritima = z.maritimos.includes(ruta);
+  let enlaces = [];
+  if (z.tipo === 'provincia') {
+    enlaces = [...(maritima ? z.maritimos : z.casas), ...(maritima ? z.casas : z.maritimos)];
+    const comunidad = Object.values(zonas.comunidades).find((c) => c.provincias.includes(z.clave));
+    if (comunidad) enlaces.push(...(maritima ? comunidad.maritimos : comunidad.casas));
+  } else {
+    for (const clave of z.provincias) {
+      const p = zonas.provincias[clave];
+      if (p) enlaces.push(p[maritima ? 'maritimos' : 'casas'][0], p[maritima ? 'casas' : 'maritimos'][0]);
+    }
+    enlaces.push(...(maritima ? z.casas : z.maritimos));
+  }
+  enlaces = [...new Set(enlaces.filter((r) => r && r !== ruta && titulos[r]))];
+  if (!enlaces.length) return 0;
+
+  const titulo = z.tipo === 'comunidad'
+    ? `${maritima ? 'Contenedores marítimos' : 'Casas contenedores'} en ${z.nombre}, por provincias`
+    : `${maritima ? 'Contenedores marítimos' : 'Casas contenedores'} en otras zonas de ${z.nombre}`;
+  const lista = enlaces.map((r) => `<li><a href="${r}">${titulos[r]}</a></li>`).join('');
+  bloques.push({
+    t: 'seccion', id: 'zonas-cercanas', zonasCercanas: true,
+    columnas: [{ id: 'zonas-cercanas-col', ancho: 100, elementos: [
+      { t: 'encabezado', id: 'zonas-cercanas-tit', etiqueta: 'h2', texto: titulo },
+      { t: 'texto', id: 'zonas-cercanas-lista', html: `<ul class="zonas zonas--cercanas">${lista}</ul>` },
+    ] }],
+  });
+  return enlaces.length;
 }

@@ -1,0 +1,495 @@
+{
+ "slug": "preguntas-frecuentes",
+ "ruta": "/preguntas-frecuentes/",
+ "titulo": "Preguntas Frecuentes Casas Contenedores",
+ "h1": "Preguntas Frecuentes Casas Contenedores",
+ "tituloSeo": "Preguntas Frecuentes Casas Contenedores | Guía por Temas",
+ "descripcion": "Resolvemos las dudas más buscadas sobre casas contenedores: precio, permisos, plazos, aislamiento y contenedores marítimos, con enlaces a cada guía.",
+ "palabraClave": "preguntas frecuentes casas contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2022/02/Diseno-de-casas-contenedores.jpg",
+  "alt": "preguntas-frecuentes-casas-contenedores",
+  "ancho": 1350,
+  "alto": 500
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "preguntas-fr-003",
+   "columnas": [
+    {
+     "id": "preguntas-fr-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "preguntas-fr-001",
+       "src": "/wp-content/uploads/2022/02/Diseno-de-casas-contenedores.jpg",
+       "alt": "preguntas-frecuentes-casas-contenedores"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "preguntas-fr-008",
+   "columnas": [
+    {
+     "id": "preguntas-fr-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-004",
+       "etiqueta": "h2",
+       "texto": "Todas tus dudas sobre casas contenedores en un solo sitio",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-005",
+       "html": "<p>Reunimos aquí las preguntas frecuentes casas contenedores más habituales, agrupadas por tema para que encuentres la respuesta en segundos: precio y financiación, permisos y suelo, diseño y planos, construcción y plazos, aislamiento y mantenimiento, y compra, alquiler y transporte de contenedores marítimos. Cada respuesta breve enlaza a la <strong>página que la desarrolla</strong> con más detalle.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "preguntas-fr-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "preguntas-fr-070",
+   "columnas": [
+    {
+     "id": "preguntas-fr-069",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-009",
+       "etiqueta": "h2",
+       "texto": "Preguntas frecuentes casas contenedores: precio y financiación"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-010",
+       "html": "<p>El precio es la duda más repetida, seguida de cómo pagarlo. Estas son las preguntas frecuentes sobre el coste y la financiación de una casa contenedor.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-011",
+       "etiqueta": "h3",
+       "texto": "¿Cuánto cuesta una casa contenedor por metro cuadrado?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-012",
+       "html": "<p>Como orientación de nuestra página de precios, una casa contenedor puede oscilar entre <strong>600 € y 800 €</strong> el metro cuadrado. El importe final depende de la superficie, los acabados elegidos y el proyecto técnico firmado por el arquitecto. Puedes consultar el desglose completo en <a href=\"/precios/\">precios de casas contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-013",
+       "etiqueta": "h3",
+       "texto": "¿Qué incluye el presupuesto de una casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-014",
+       "html": "<p>Un presupuesto serio detalla la superficie, la distribución, los acabados interiores y exteriores, el transporte del contenedor y la instalación en la parcela. También indica si el precio incluye o no el <strong>proyecto técnico</strong> firmado por el arquitecto, necesario para tramitar la licencia. Puedes pedir el tuyo sin compromiso en <a href=\"/presupuesto-casas-contenedores/\">presupuesto de casas contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-015",
+       "etiqueta": "h3",
+       "texto": "¿Se puede financiar una casa contenedor con una hipoteca?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-016",
+       "html": "<p>Sí, una casa contenedor puede financiarse igual que cualquier vivienda, siempre que cuente con proyecto visado y cumpla la normativa de edificación. Los bancos valoran el proyecto, el terreno y la tasación de la vivienda terminada, no el hecho de que esté construida con contenedores marítimos. Te explicamos cómo plantearlo en <a href=\"/financiacion-casas-contenedores/\">financiación de casas contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-017",
+       "etiqueta": "h3",
+       "texto": "¿Por qué varía tanto el precio de una casa contenedor según el proyecto?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-018",
+       "html": "<p>El precio cambia según el número de contenedores, si son nuevos o usados, la superficie construida, el tipo de aislamiento, las instalaciones y la dificultad de acceso a la parcela. Dos proyectos con la misma superficie pueden tener presupuestos distintos por estos factores. Revisa ejemplos por metros cuadrados en <a href=\"/precios/\">precios de casas contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-019",
+       "etiqueta": "h2",
+       "texto": "Preguntas frecuentes sobre permisos y suelo para casas contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-020",
+       "html": "<p>La construcción de casas contenedor depende del tipo de suelo y de si la vivienda es permanente o temporal. Resolvemos las dudas más buscadas sobre licencias y terrenos.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-021",
+       "etiqueta": "h3",
+       "texto": "¿Qué permisos necesita una casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-022",
+       "html": "<p>Una casa contenedor pensada como vivienda permanente se tramita como cualquier bien inmueble: necesita licencia de obra, un proyecto visado por arquitecto que cumpla la <strong>Ley de Ordenación</strong> de la Edificación y el Código Técnico de la Edificación, y la cédula de habitabilidad al terminar la obra. Todos los pasos, en <a href=\"/permisos/\">permisos de casas contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-023",
+       "etiqueta": "h3",
+       "texto": "¿Se puede poner una casa contenedor en suelo rústico?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-024",
+       "html": "<p>El criterio no es si la construcción es fija o desmontable, sino el uso: una casa contenedor destinada a vivienda permanente se considera edificación aunque no lleve cimentación, así que en suelo rústico solo cabe si encaja en los usos tasados por la normativa autonómica -vivienda vinculada a una explotación agraria o alguna actuación de interés público-, siempre con licencia municipal. Fuera de esos supuestos, el uso residencial en suelo rústico está casi siempre descartado, sea o no transportable la construcción. Ampliamos el tema en <a href=\"/casa-contenedor-suelo-rustico/\">casa contenedor en suelo rústico</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-025",
+       "etiqueta": "h3",
+       "texto": "¿Es lo mismo tramitar una casa contenedor permanente que una temporal?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-026",
+       "html": "<p>No siempre. La vivienda permanente se tramita como cualquier bien inmueble -proyecto visado, licencia de obra y cédula de habitabilidad-, tenga o no cimentación tradicional, porque lo que la define es el uso residencial. Una construcción temporal y transportable solo se libra de esos trámites si el uso que le das no es residencial y encaja en lo que permite el planeamiento; el ayuntamiento es quien confirma qué corresponde en cada caso antes de instalarla. Más detalle en <a href=\"/permisos/\">permisos de casas contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-027",
+       "etiqueta": "h3",
+       "texto": "¿Qué cimentación necesita una casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-028",
+       "html": "<p>La cimentación depende del terreno y de si la casa contenedor es fija o desmontable: sobre suelo estable suele bastar con zapatas o una losa de hormigón, mientras que un terreno irregular exige un estudio geotécnico previo para definir el refuerzo necesario. Repasamos las opciones en <a href=\"/cimentacion-casas-contenedores/\">cimentación de casas contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-029",
+       "etiqueta": "h2",
+       "texto": "Preguntas frecuentes sobre diseño, modelos y planos de casas contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-030",
+       "html": "<p>El diseño de una casa contenedor se dibuja sobre las medidas reales del contenedor, no sobre las de una vivienda convencional. Aquí van las dudas más comunes sobre planos y modelos.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-031",
+       "etiqueta": "h3",
+       "texto": "¿Qué medidas tiene un contenedor para diseñar el plano de la casa?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-032",
+       "html": "<p>Un contenedor de 20 pies mide 6,06 × 2,44 × 2,59 m, con unos 13,9 m² interiores, mientras que uno de 40 pies alcanza 12,19 × 2,44 × 2,59 m y unos 28,3 m². El <strong>ancho interior útil</strong> ronda los 2,35 m una vez descontado el aislamiento. Repasamos estos datos en <a href=\"/planos/\">planos de casas contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-033",
+       "etiqueta": "h3",
+       "texto": "¿Puedo personalizar el diseño de mi casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-034",
+       "html": "<p>Sí. Puedes elegir el número de contenedores, la distribución interior, los acabados, las carpinterías y la orientación respecto a tu parcela, siempre dentro de lo que permita el proyecto visado por el arquitecto. Consulta ejemplos de distribución en <a href=\"/modelos/\">modelos de casas contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-035",
+       "etiqueta": "h3",
+       "texto": "¿Cuántos contenedores necesito según los metros cuadrados que quiero construir?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-036",
+       "html": "<p>Un solo contenedor de 40 pies aporta unos 28,3 m² interiores, así que para superficies mayores se combinan varios módulos en línea, en L o en dos plantas. El número exacto depende de la distribución que busques y de los huecos que abras entre módulos. Compara opciones en <a href=\"/modelos/\">modelos de casas contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-037",
+       "etiqueta": "h3",
+       "texto": "¿En qué se diferencia una casa contenedor de una casa modular?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-038",
+       "html": "<p>Ambas se fabrican en planta y se instalan después en la parcela, pero la casa contenedor reutiliza la estructura de acero naval de un contenedor marítimo, mientras que la casa modular convencional se fabrica con paneles y materiales tradicionales sin partir de esa estructura. Ampliamos la comparación en <a href=\"/casas-modulares/\">casas modulares</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-039",
+       "etiqueta": "h2",
+       "texto": "Preguntas frecuentes sobre construcción, plazos y montaje de casas contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-040",
+       "html": "<p>Una vez aprobado el proyecto, empieza la obra. Estas son las dudas más buscadas sobre los tiempos y el proceso de montaje.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-041",
+       "etiqueta": "h3",
+       "texto": "¿Cuánto tarda en construirse una casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-042",
+       "html": "<p>Como referencia orientativa, el plazo estimado de obra ronda los 4 a 7 meses, aunque varía según el número de contenedores, la complejidad del proyecto y los tiempos de tramitación de la licencia en tu ayuntamiento. Revisa cada fase en <a href=\"/tiempos-de-construccion-de-casas-con-contenedores/\">tiempos de construcción</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-043",
+       "etiqueta": "h3",
+       "texto": "¿Cuáles son los pasos para construir una casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-044",
+       "html": "<p>El proceso pasa por el <strong>proyecto y los permisos</strong>, la preparación del terreno y la cimentación, la colocación de los contenedores con grúa, los refuerzos estructurales, el aislamiento y las instalaciones, y por último los acabados. Lo desarrollamos paso a paso en <a href=\"/casa-container-paso-a-paso/\">casa container paso a paso</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-045",
+       "etiqueta": "h3",
+       "texto": "¿Qué inconvenientes tiene construir una casa con contenedores frente a la obra tradicional?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-046",
+       "html": "<p>Construir con contenedores exige calcular bien los refuerzos cuando se abren huecos o se unen varios módulos, resolver el aislamiento térmico del acero y, en algunos casos, adaptar el transporte y el acceso de la grúa a la parcela. Repasamos estos puntos en <a href=\"/inconvenientes-casas-contenedores/\">inconvenientes de las casas contenedor</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-047",
+       "etiqueta": "h3",
+       "texto": "¿Se monta la casa contenedor directamente en mi parcela?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-048",
+       "html": "<p>Sí. Los contenedores se fabrican y preparan en planta y después se trasladan a tu parcela, donde se colocan con grúa sobre la cimentación ya preparada y se completan las instalaciones y los acabados en el propio terreno. El proceso completo está en <a href=\"/casa-container-paso-a-paso/\">casa container paso a paso</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-049",
+       "etiqueta": "h2",
+       "texto": "Preguntas frecuentes sobre aislamiento y mantenimiento de casas contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-050",
+       "html": "<p>El acero del contenedor conduce el calor y el frío, así que el aislamiento es clave. Aquí resolvemos las dudas más habituales sobre este apartado y el mantenimiento posterior.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-051",
+       "etiqueta": "h3",
+       "texto": "¿Qué normativa regula el aislamiento de una casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-052",
+       "html": "<p>El aislamiento térmico se proyecta conforme al <strong>Documento Básico DB-HE</strong> del Código Técnico de la Edificación, que fija las exigencias de eficiencia energética de la vivienda, y se combina con soluciones de salubridad del DB-HS frente a la humedad. Ampliamos el tema en <a href=\"/aislamiento-contenedores/\">aislamiento de contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-053",
+       "etiqueta": "h3",
+       "texto": "¿Qué mantenimiento necesita una casa contenedor con el paso de los años?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-054",
+       "html": "<p>Como cualquier vivienda con estructura metálica, conviene revisar periódicamente la pintura y el tratamiento anticorrosión de las zonas expuestas, los sellados entre módulos y las instalaciones. Cuidar estos puntos ayuda a conservar el aislamiento y evitar humedades. Más información en <a href=\"/reparacion-contenedores/\">reparación de contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-055",
+       "etiqueta": "h3",
+       "texto": "¿Hay que reforzar la instalación eléctrica al aislar un contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-056",
+       "html": "<p>Sí. Al añadir el trasdosado y el aislamiento se pierde espacio en las paredes, por lo que el cableado y los mecanismos deben planificarse antes de cerrar los paneles, siguiendo el Reglamento Electrotécnico de Baja Tensión (REBT). Lo explicamos en <a href=\"/electricidad-contenedores/\">electricidad en contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-057",
+       "etiqueta": "h3",
+       "texto": "¿Qué pasa si el contenedor se oxida o se daña con el paso del tiempo?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-058",
+       "html": "<p>Un contenedor bien tratado y pintado no debería oxidarse con normalidad, pero si aparecen puntos de óxido o daños en la chapa conviene repararlos cuanto antes para no comprometer la estructura ni el aislamiento. Revisa cómo se hace en <a href=\"/reparacion-contenedores/\">reparación de contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-059",
+       "etiqueta": "h2",
+       "texto": "Preguntas frecuentes sobre compra, alquiler y transporte de contenedores marítimos"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-060",
+       "html": "<p>No todo el mundo busca una vivienda completa: muchas dudas llegan sobre contenedores sueltos, su compra segura y su traslado. Las respondemos aquí.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-061",
+       "etiqueta": "h3",
+       "texto": "¿Qué diferencia hay entre comprar y alquilar un contenedor marítimo?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-062",
+       "html": "<p>Comprar tiene sentido si el uso va a ser duradero, mientras que alquilar conviene para necesidades puntuales u obras temporales, ya que evita la gestión de reventa cuando dejas de necesitarlo. En ambos casos hay que revisar el estado y la placa CSC. Más información en <a href=\"/contenedores-maritimos/\">contenedores marítimos</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-063",
+       "etiqueta": "h3",
+       "texto": "¿Cómo evitar estafas al comprar un contenedor marítimo?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-064",
+       "html": "<p>Antes de pagar, comprueba que el vendedor tenga datos de contacto verificables, exige la <strong>placa CSC</strong> y el código ISO 6346 del contenedor, y desconfía de quien solo acepta el pago íntegro por adelantado sin contrato ni factura. Repasamos las señales de alarma en <a href=\"/comprar-contenedor-sin-estafas/\">comprar contenedor sin estafas</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-065",
+       "etiqueta": "h3",
+       "texto": "¿Cómo se transporta un contenedor marítimo hasta la parcela?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-066",
+       "html": "<p>El transporte se realiza en camión, con grúa o pluma según el peso y el acceso disponible, y requiere comprobar antes la anchura del camino y la altura libre hasta el punto de descarga. Los detalles del servicio están en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "preguntas-fr-067",
+       "etiqueta": "h3",
+       "texto": "¿Se puede trasladar una casa contenedor a otro terreno una vez instalada?"
+      },
+      {
+       "t": "texto",
+       "id": "preguntas-fr-068",
+       "html": "<p>Sí, es una de las ventajas frente a la obra tradicional: al no quedar anclado como una cimentación fija, un contenedor transformado en vivienda puede volver a cargarse y trasladarse a otra parcela, revisando antes su estructura y desconectando las instalaciones. Lo explicamos en <a href=\"/traslado-contenedores/\">traslado de contenedores</a>.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  }
+ ],
+ "menu": "menu-principal",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes casas contenedores: lo más buscado",
+   "items": [
+    {
+     "pregunta": "¿Es lo mismo una casa contenedor que una casa prefabricada?",
+     "respuesta": "No exactamente. Las casas prefabricadas se construyen con materiales convencionales fabricados en planta, mientras que las casas contenedor reutilizan la estructura de acero de un contenedor marítimo, lo que les da resistencia, un diseño diferenciado y facilidad de transporte. Ambas se montan más rápido que una obra tradicional, pero cada una parte de una base constructiva distinta."
+    },
+    {
+     "pregunta": "¿Qué tipos de contenedores marítimos se usan para construir una vivienda?",
+     "respuesta": "Los más habituales son el de 20 pies, con 6,06 × 2,44 × 2,59 m y unos 13,9 m² interiores, y el de 40 pies, con 12,19 × 2,44 × 2,59 m y unos 28,3 m². También se usa la versión High Cube, con 2,90 m de altura exterior y cerca de 2,69 m interiores, útil para ganar altura libre dentro de la vivienda."
+    },
+    {
+     "pregunta": "¿Necesito un arquitecto para construir mi casa contenedor?",
+     "respuesta": "Sí. Al tratarse de una edificación, el proyecto debe estar firmado y visado por un arquitecto conforme a la Ley de Ordenación de la Edificación y el Código Técnico de la Edificación, tanto para pedir la licencia de obra como para garantizar que la estructura, el aislamiento y las instalaciones cumplen la normativa vigente."
+    },
+    {
+     "pregunta": "¿Puedo ver modelos y precios de casas contenedores antes de pedir presupuesto?",
+     "respuesta": "Sí. Puedes revisar nuestro <a href=\"/catalogo/\">catálogo</a> con diseños, planos y precios orientativos de distintos modelos, y consultar ejemplos según el número de contenedores y los metros cuadrados que necesites. Aun así, el presupuesto definitivo se ajusta a tu parcela y a las características concretas de tu proyecto."
+    },
+    {
+     "pregunta": "¿Qué complica el acceso de la grúa o el camión con el contenedor a mi parcela?",
+     "respuesta": "Un camino estrecho, poca altura libre bajo cables o ramas, o un firme que no aguanta el peso del vehículo pueden obligar a cambiar de camión, descargar en un punto cercano y trasladar el contenedor después, o recurrir a una autogrúa. Por eso conviene describir bien el acceso al pedir el transporte."
+    },
+    {
+     "pregunta": "¿Puedo alquilar en vez de comprar el contenedor para mi proyecto?",
+     "respuesta": "Sí, ofrecemos alquiler de contenedores marítimos para necesidades temporales u obras puntuales, con la gestión del transporte incluida. Si el proyecto es una vivienda o una construcción permanente, comprar suele salir más a cuenta a medio plazo, pero para usos provisionales el alquiler resulta más flexible y evita la reventa posterior."
+    }
+   ]
+  }
+ }
+}

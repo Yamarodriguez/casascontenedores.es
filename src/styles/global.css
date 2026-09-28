@@ -62,7 +62,7 @@ iframe { max-width: 100%; border: 0; }
 }
 /* la cabecera va algo mas ancha que el texto: el menu de contenedores tiene
    once entradas y con el logo y el boton no cabia en la caja de 1180 */
-.contenedor--ancho { width: min(100% - 2 * var(--margen), 1340px); }
+.contenedor--ancho { width: min(100% - 2 * var(--margen), 1400px); }
 .cabecera__fila {
   position: relative;
   display: flex;
@@ -84,10 +84,10 @@ iframe { max-width: 100%; border: 0; }
 .menu li { position: relative; }
 .menu > ul > li > a {
   display: block;
-  padding: 10px 9px;
+  padding: 10px 8px;
   border-radius: var(--radio);
   font-family: var(--cuerpo);
-  font-size: 14.5px;
+  font-size: 14px;
   font-weight: 500;
   letter-spacing: -.005em;
   color: var(--texto);
@@ -186,6 +186,8 @@ iframe { max-width: 100%; border: 0; }
 }
 .menu__grupo ul { flex-direction: column; gap: 0; }
 .menu .menu__panel--lugares { grid-template-columns: 1fr; }
+/* paneles de dos grupos (Servicios y guias): mas estrechos, bajo su entrada */
+.menu .menu__panel--compacto { left: auto; right: 0; width: min(720px, 100%); grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .menu__panel--lugares .menu__grupo ul {
   display: grid;
   grid-template-columns: repeat(6, minmax(0, 1fr));
@@ -215,13 +217,14 @@ iframe { max-width: 100%; border: 0; }
 /* portatiles: menu mas prieto para que quepan las once entradas de contenedores */
 @media (max-width: 1400px) {
   .cabecera__logo { height: 60px; }
-  .menu > ul > li > a { padding: 10px 6px; font-size: 13.5px; }
+  .menu > ul > li > a { padding: 10px 5px; font-size: 13px; }
   .menu__con-hijos > a { padding-right: 19px; }
   .cabecera__cta { padding: 10px 14px; font-size: 14px; }
 }
 
-/* movil y tableta: el menu se pliega bajo la cabecera */
-@media (max-width: 1200px) {
+/* movil y tableta: el menu se pliega bajo la cabecera (por debajo de 1260 px
+   el menu de contenedores, con doce entradas, ya no cabe en una fila) */
+@media (max-width: 1259px) {
   .cabecera__fila { gap: 12px; min-height: 68px; flex-wrap: wrap; }
   .cabecera__logo { height: 52px; }
   .menu__boton {
@@ -423,6 +426,7 @@ iframe { max-width: 100%; border: 0; }
 .formulario input[type="text"],
 .formulario input[type="email"],
 .formulario input[type="tel"],
+.formulario input[type="number"],
 .formulario textarea,
 .formulario select {
   width: 100%;
@@ -540,7 +544,7 @@ iframe { max-width: 100%; border: 0; }
 .pie__rejilla {
   display: grid;
   gap: 32px 28px;
-  grid-template-columns: 1.6fr repeat(4, 1fr);
+  grid-template-columns: 1.5fr repeat(5, 1fr);
 }
 .pie__marca { max-width: 32ch; }
 .pie__logo {

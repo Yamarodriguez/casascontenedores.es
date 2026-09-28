@@ -1,0 +1,288 @@
+{
+ "slug": "aislamiento-contenedores",
+ "ruta": "/aislamiento-contenedores/",
+ "titulo": "Aislamiento de Contenedores",
+ "h1": "Aislamiento de Contenedores",
+ "tituloSeo": "Aislamiento de Contenedores | Sistemas y Barrera de Vapor",
+ "descripcion": "Aislamiento de contenedores para almacén, taller, oficina o vivienda: sistemas, barrera de vapor, puente térmico y cuándo lo exige el CTE.",
+ "palabraClave": "aislamiento de contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2023/08/interior-casa-contenedor-1024x576.jpg",
+  "alt": "Interior de un contenedor marítimo preparado para el servicio de aislamiento",
+  "ancho": 1024,
+  "alto": 576
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "aislamiento--003",
+   "columnas": [
+    {
+     "id": "aislamiento--002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "aislamiento--001",
+       "src": "/wp-content/uploads/2023/08/interior-casa-contenedor-1024x576.jpg",
+       "alt": "Interior de un contenedor marítimo preparado para el servicio de aislamiento"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "aislamiento--008",
+   "columnas": [
+    {
+     "id": "aislamiento--006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "aislamiento--004",
+       "etiqueta": "h2",
+       "texto": "Aislamiento de contenedores: por qué la chapa no basta por sí sola",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--005",
+       "html": "<p>El <strong>aislamiento de contenedores</strong> es el servicio que convierte una caja de acero en un espacio habitable, ya sea un almacén, un taller, una oficina o una vivienda. La chapa corrugada del contenedor marítimo conduce el calor y el frío con facilidad, no amortigua el ruido y, sin una barrera bien resuelta, acumula humedad por dentro en cuanto cambia la temperatura exterior. Aislar no es solo añadir una capa de material contra las paredes: hay que decidir el sistema, tratar los puentes térmicos de la estructura y resolver el techo y el suelo, que se enfrían y se calientan igual que las paredes. El uso que le vayas a dar al contenedor, guardar mercancía, trabajar unas horas al día o vivir dentro, cambia qué exigencia técnica tiene el proyecto.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "aislamiento--007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "aislamiento--030",
+   "columnas": [
+    {
+     "id": "aislamiento--029",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "aislamiento--009",
+       "etiqueta": "h2",
+       "texto": "Sistemas de aislamiento de contenedores que puedes elegir"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--010",
+       "html": "<p>No existe un único sistema válido para aislar contenedores: la elección depende del uso, del acabado que busques por dentro y de si el contenedor va a quedar visto por fuera. Los cuatro sistemas que más se usan son la espuma proyectada de poliuretano, los paneles sándwich, la lana mineral con trasdosado y el corcho proyectado.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "aislamiento--011",
+       "etiqueta": "h3",
+       "texto": "¿Qué sistema de aislamiento conviene a cada contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--012",
+       "html": "<p>Conviene elegir según el uso: la espuma proyectada para sellar juntas y esquinas sin dejar puentes de aire, los paneles sándwich cuando interesa montar rápido y con un acabado interior ya resuelto, la lana mineral con trasdosado cuando se prioriza el aislamiento acústico además del térmico, y el corcho proyectado cuando se busca un material más natural y transpirable.</p><ul><li>La <strong>espuma proyectada de poliuretano</strong> se aplica directamente sobre la chapa y rellena esquinas y perfiles sin juntas, lo que reduce los puntos donde se cuela el aire.</li><li>Los <strong>paneles sándwich</strong> se atornillan sobre una subestructura y dejan una cámara de aire ventilada entre el panel y el acero, con un acabado interior ya integrado en la propia placa.</li><li>La <strong>lana mineral con trasdosado</strong> se coloca entre una estructura auxiliar y se cierra con placas de yeso laminado o similar, y suma aislamiento acústico al térmico.</li><li>El <strong>corcho proyectado</strong> se aplica en capas sobre la chapa, es transpirable y limita la condensación superficial mejor que otros sistemas cerrados.</li></ul>"
+      },
+      {
+       "t": "encabezado",
+       "id": "aislamiento--013",
+       "etiqueta": "h2",
+       "texto": "La condensación en la chapa, el motivo real para aislar un contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--014",
+       "html": "<p>La chapa de acero es impermeable y muy conductora: cuando el aire caliente y húmedo del interior toca una superficie fría, el vapor de agua se condensa igual que en un vaso con hielo. Sin una <strong>barrera de vapor</strong> bien colocada en la cara caliente del aislamiento, esa agua queda atrapada dentro del cerramiento, moja el aislante y acaba oxidando la chapa desde dentro, donde no se ve hasta que el daño ya está hecho.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "aislamiento--015",
+       "etiqueta": "h3",
+       "texto": "¿Por qué aparece condensación aunque el contenedor ya tenga aislamiento?"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--016",
+       "html": "<p>Aparece cuando la barrera de vapor está mal colocada, tiene huecos o falta directamente, porque el aislante frena el calor pero no detiene el vapor de agua por sí solo. Un aislamiento continuo, sin puentes térmicos y con su barrera de vapor en el lado correcto, es lo que evita que el agua se condense dentro del cerramiento en vez de quedarse fuera.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "aislamiento--017",
+       "etiqueta": "h2",
+       "texto": "El puente térmico en cantoneras y perfiles al aislar contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--018",
+       "html": "<p>Las esquineras y los perfiles de refuerzo del contenedor son de acero macizo y atraviesan el cerramiento de fuera adentro, así que conducen el frío y el calor mucho más rápido que la chapa plana de alrededor. Si el aislamiento se interrumpe justo en esos puntos, algo habitual cuando se rellena solo entre perfiles y no por encima de ellos, aparece un <strong>puente térmico</strong> que se nota como una franja fría o con condensación puntual, aunque el resto del cerramiento esté bien resuelto. Resolverlo exige seguir el sistema de aislamiento por encima de las cantoneras, no solo entre ellas, y es uno de los puntos que más se olvidan cuando el aislamiento se hace deprisa.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "aislamiento--019",
+       "etiqueta": "h2",
+       "texto": "Aislar el techo y el suelo del contenedor, los puntos que más se olvidan"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--020",
+       "html": "<p>El techo recibe sol directo durante horas y se calienta mucho más que las paredes verticales, mientras que el suelo está en contacto con el terreno o con una base de hormigón que roba calor por conducción durante todo el año. Tratar solo las paredes y dejar el techo o el suelo sin resolver anula buena parte del esfuerzo del resto del sistema.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "aislamiento--021",
+       "etiqueta": "h3",
+       "texto": "¿Se debe aislar igual el techo y el suelo que las paredes de un contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--022",
+       "html": "<p>No exactamente igual, porque cada superficie tiene una exigencia distinta: el techo necesita un sistema que resista la radiación solar directa y la humedad de condensación por goteo, y el suelo necesita un aislante que soporte el peso del uso diario sin aplastarse ni perder grosor con el tiempo. En los dos casos el aislamiento se completa por encima de la estructura metálica de fábrica, sin dejar tramos vistos que rompan la continuidad.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "aislamiento--023",
+       "etiqueta": "h2",
+       "texto": "Cuándo el CTE exige calcular el aislamiento térmico de un contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--024",
+       "html": "<p>El CTE, en su <strong>DB-HE del CTE</strong> de ahorro de energía, exige un cálculo justificado de la envolvente térmica cuando el contenedor se transforma en vivienda habitual: hay que demostrar con números que los cerramientos cumplen unos valores mínimos, no basta con decir que lleva aislante. En cambio, cuando el contenedor se usa como almacén, taller o trastero sin uso residencial, el CTE no se aplica de la misma forma y basta con controlar la condensación y proteger la mercancía o el material guardado dentro.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "aislamiento--025",
+       "etiqueta": "h3",
+       "texto": "¿Hace falta un cálculo de aislamiento si el contenedor va a ser vivienda?"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--026",
+       "html": "<p>Sí, si el contenedor va a funcionar como vivienda hace falta el <strong>cálculo de la envolvente térmica</strong> que exige el DB-HE del CTE, normalmente dentro del proyecto que firma un arquitecto. Si el contenedor se queda en almacén, taller u oficina sin residencia permanente, ese cálculo reglado no es obligatorio y el criterio pasa a ser evitar la condensación y mantener una temperatura razonable, sin la misma exigencia normativa que en vivienda.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "aislamiento--027",
+       "etiqueta": "h2",
+       "texto": "Contrata el aislamiento de tu contenedor con presupuesto a medida"
+      },
+      {
+       "t": "texto",
+       "id": "aislamiento--028",
+       "html": "<p>Trabajamos el <strong>aislamiento de contenedores</strong> como servicio suelto, tanto en contenedores nuevos como en los que ya tienes instalados: valoramos el uso que le vas a dar, el estado actual de la chapa y si hace falta resolver primero alguna zona con corrosión antes de aislar. También lo incluimos dentro de proyectos completos de <a href=\"/oficinas-contenedores/\">oficinas en contenedores</a> o de <a href=\"/contenedores-de-almacenamiento/\">contenedores de almacenamiento</a>, y lo coordinamos con la <a href=\"/electricidad-contenedores/\">instalación eléctrica</a> cuando el proyecto lo necesita, porque los pasos de cableado y las cajas empotradas deben decidirse antes de cerrar el trasdosado. Si el contenedor todavía no está colocado, conviene revisar antes la <a href=\"/cimentacion-casas-contenedores/\">cimentación</a>, porque una base mal resuelta también genera humedad por capilaridad que ningún aislamiento interior soluciona. Consulta el resto de <a href=\"/servicios/\">servicios sobre contenedores</a> que ofrecemos, y si el aislamiento forma parte de un proyecto de vivienda revisa también cómo se resuelve el interior en <a href=\"/interior/\">interior de una casa contenedor</a>. Te damos presupuesto a medida según el sistema elegido, la superficie a tratar y el uso final del contenedor.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "aislamiento--033",
+   "columnas": [
+    {
+     "id": "aislamiento--032",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "aislamiento--031",
+       "nombre": "formulario-pasos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "contenedores-maritimos",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas sobre el aislamiento de un contenedor",
+   "items": [
+    {
+     "pregunta": "¿Puedo aislar solo una parte del contenedor, por ejemplo el techo?",
+     "respuesta": "Sí, es habitual cuando el uso no exige más: en un almacén o un taller a veces basta con tratar el techo, que es la superficie que más se calienta con el sol, y dejar las paredes en chapa vista. Para un uso residencial no es recomendable, porque el CTE pide resolver toda la envolvente, no solo un punto concreto del cerramiento."
+    },
+    {
+     "pregunta": "¿El aislamiento cambia si el contenedor es de 20 o de 40 pies?",
+     "respuesta": "El sistema es el mismo, pero cambia la superficie a tratar: un contenedor de 20 pies ronda los 13,9 m² interiores y uno de 40 pies, unos 28,3 m², así que el segundo lleva más material y más horas de trabajo. En los dos casos hay que tratar igual el techo, el suelo y los puntos con perfiles metálicos."
+    },
+    {
+     "pregunta": "¿Se puede aislar un contenedor que ya está oxidado por fuera?",
+     "respuesta": "Depende del estado de la chapa: si la oxidación es superficial, se trata antes de aplicar el sistema elegido; si ha perforado el acero, hay que reparar esa zona primero, porque ningún aislante frena la corrosión que sigue avanzando por debajo. Conviene revisar el estado real de la chapa antes de dar presupuesto de aislamiento."
+    },
+    {
+     "pregunta": "¿Hace falta ventilación además del aislamiento?",
+     "respuesta": "Sí, un contenedor bien aislado necesita renovar el aire igual que cualquier vivienda u oficina cerrada, porque cerrar el cerramiento sin ventilación acumula humedad ambiental aunque la barrera de vapor esté bien resuelta. La ventilación no sustituye al aislamiento ni al revés: son dos soluciones que trabajan juntas, no una alternativa a la otra."
+    },
+    {
+     "pregunta": "¿El aislamiento afecta al ancho interior útil del contenedor?",
+     "respuesta": "Sí, porque el sistema elegido ocupa espacio contra las paredes, el techo y a veces el suelo, y un contenedor parte de 2,35 m de ancho interior de fábrica. Cuanto más grueso sea el sistema o más capas lleve el trasdosado, menos ancho útil queda al final, algo que conviene valorar antes de fijar la distribución interior."
+    }
+   ]
+  }
+ }
+}

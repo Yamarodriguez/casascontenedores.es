@@ -1,0 +1,256 @@
+{
+ "slug": "inconvenientes-casas-contenedores",
+ "ruta": "/inconvenientes-casas-contenedores/",
+ "titulo": "Inconvenientes de las casas contenedor",
+ "h1": "Inconvenientes de las casas contenedor",
+ "tituloSeo": "Inconvenientes de las casas contenedor: la guía honesta",
+ "descripcion": "Los inconvenientes reales de una casa contenedor: ancho interior, puente térmico, corrosión, huecos, suelo original y permisos, explicados sin dramatizar.",
+ "palabraClave": "inconvenientes de las casas contenedor",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2023/08/interior-casa-contenedor-1024x576.jpg",
+  "alt": "Interior de una casa contenedor, ancho útil de 2,35 metros",
+  "ancho": 1024,
+  "alto": 576
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "inconvenient-003",
+   "columnas": [
+    {
+     "id": "inconvenient-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "inconvenient-001",
+       "src": "/wp-content/uploads/2023/08/interior-casa-contenedor-1024x576.jpg",
+       "alt": "Interior de una casa contenedor, ancho útil de 2,35 metros"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "inconvenient-008",
+   "columnas": [
+    {
+     "id": "inconvenient-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "inconvenient-004",
+       "etiqueta": "h2",
+       "texto": "Los inconvenientes de las casas contenedor, explicados con honestidad",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "inconvenient-005",
+       "html": "<p>Toda <strong>construcción modular</strong> tiene puntos fuertes y límites, y los inconvenientes de las casas contenedor no son un secreto que convenga esconder. Antes de decidirte por un módulo contenedor marítimo conviene entender de dónde viene cada limitación y qué solución tiene, para llegar al proyecto con las expectativas ajustadas a la realidad del material.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "inconvenient-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "inconvenient-027",
+   "columnas": [
+    {
+     "id": "inconvenient-026",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "inconvenient-009",
+       "etiqueta": "h2",
+       "texto": "El ancho interior de 2,35 m, el primer inconveniente de una casa contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "inconvenient-010",
+       "html": "<p>El contenedor marítimo estándar mide 2,44 m de ancho exterior, así que el <strong>ancho interior útil</strong> se queda en unos 2,35 m una vez colocados el aislamiento y el acabado interior. Es la medida de fabricación en serie que fija la norma ISO 668, y no se puede ensanchar sin cortar y unir varios módulos entre sí. La solución habitual es unir dos o más contenedores en paralelo, retirando las paredes laterales que quedan enfrentadas, para conseguir estancias de ancho doble sin perder la estructura que aporta cada módulo.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "inconvenient-011",
+       "etiqueta": "h2",
+       "texto": "El puente térmico y la condensación, un inconveniente térmico de las casas contenedor"
+      },
+      {
+       "t": "encabezado",
+       "id": "inconvenient-012",
+       "etiqueta": "h3",
+       "texto": "¿Por qué la condensación es uno de los inconvenientes de las casas contenedor sin aislar?"
+      },
+      {
+       "t": "texto",
+       "id": "inconvenient-013",
+       "html": "<p>La condensación aparece porque el acero conduce el calor y el frío mucho más rápido que un muro de fábrica, generando un <strong>puente térmico</strong> en cada costura y refuerzo de la estructura. Si el aislamiento no cubre toda la superficie de forma continua, la humedad del aire se condensa sobre el metal frío y con el tiempo puede acabar en moho. La solución pasa por un aislamiento continuo por el interior o el exterior del contenedor, resuelto conforme al DB-HE del CTE, el documento que fija las exigencias de ahorro de energía y evita los puentes térmicos sin interrupciones.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "inconvenient-014",
+       "etiqueta": "h2",
+       "texto": "Abrir huecos grandes en el contenedor: la pérdida de rigidez"
+      },
+      {
+       "t": "texto",
+       "id": "inconvenient-015",
+       "html": "<p>El contenedor es rígido porque sus paredes onduladas y sus esquinas trabajan juntas para repartir la carga; cortar una ventana o una puerta grande interrumpe ese reparto y resta rigidez al conjunto. Por eso cada hueco que se abre necesita un <strong>refuerzo estructural</strong>, normalmente un marco metálico soldado, calculado conforme al DB-SE del CTE, el documento que regula la seguridad estructural de cualquier edificación en España, sea con contenedores o con otro sistema constructivo.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "inconvenient-016",
+       "etiqueta": "h2",
+       "texto": "La corrosión y el mantenimiento de la pintura en un contenedor marítimo"
+      },
+      {
+       "t": "encabezado",
+       "id": "inconvenient-017",
+       "etiqueta": "h3",
+       "texto": "¿Es la corrosión un inconveniente grave en las casas contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "inconvenient-018",
+       "html": "<p>Lo es si se descuida, porque el acero cortén con el que se fabrican los contenedores marítimos está pensado para resistir el mar, no para quedar expuesto sin protección durante décadas en tierra. La pintura y el tratamiento anticorrosión se degradan con el sol y la lluvia, y si no se repone a tiempo el óxido avanza igual que en cualquier estructura metálica. El <a href=\"/pintura-contenedores/\">mantenimiento de la pintura</a> es, sencillamente, parte del cuidado de la vivienda, igual que repintar una fachada convencional.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "inconvenient-019",
+       "etiqueta": "h2",
+       "texto": "El suelo original del contenedor, otro inconveniente que conviene resolver"
+      },
+      {
+       "t": "texto",
+       "id": "inconvenient-020",
+       "html": "<p>De fábrica, el contenedor lleva un suelo de madera tratada con productos pensados para el transporte marítimo de mercancías, no para el uso doméstico continuo. En una vivienda conviene sustituirlo por un suelo nuevo sobre la base metálica, resuelto conforme al <strong>DB-HS del CTE</strong>, el documento que regula la salubridad de los espacios habitables. Es un paso más dentro del acondicionamiento en taller, no un extra opcional.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "inconvenient-021",
+       "etiqueta": "h2",
+       "texto": "Permisos y transporte: inconvenientes de una casa contenedor que pocos anticipan"
+      },
+      {
+       "t": "encabezado",
+       "id": "inconvenient-022",
+       "etiqueta": "h3",
+       "texto": "¿Hacen falta más permisos para resolver los inconvenientes de una casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "inconvenient-023",
+       "html": "<p>No hacen falta más permisos que para una vivienda convencional: una casa contenedor con uso residencial permanente es una <strong>edificación completa</strong> a ojos del ayuntamiento y necesita el mismo <a href=\"/permisos/\">proyecto visado y licencia</a> que cualquier otra construcción, conforme a la LOE y al Código Técnico de la Edificación, tenga o no cimentación tradicional. A eso se suma un inconveniente logístico propio del material: el transporte del módulo completo con grúa exige comprobar antes el <a href=\"/estudio-de-parcela/\">acceso a la parcela</a>, con la anchura del camino, los giros, las líneas eléctricas y el espacio para maniobrar, porque un contenedor no se transporta por partes.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "inconvenient-024",
+       "etiqueta": "h2",
+       "texto": "La tasación bancaria y la reventa, dos inconvenientes de las casas contenedor poco comentados"
+      },
+      {
+       "t": "texto",
+       "id": "inconvenient-025",
+       "html": "<p>Es uno de los inconvenientes menos comentados de las casas contenedor: algunos bancos todavía tasan con menos referencias una vivienda de contenedores que una de obra tradicional, lo que puede complicar la <a href=\"/tasacion-contenedores/\">tasación</a> y la hipoteca si el proyecto no queda bien documentado. La reventa, además, depende de que el comprador entienda el sistema constructivo, así que un proyecto visado y una instalación eléctrica conforme al REBT ayudan a <strong>defender el valor</strong> de la vivienda. Conviene desmontar de una vez la idea de que una casa contenedor es barata y no necesita licencia: exige los mismos trámites que cualquier vivienda, y su coste orientativo, según nuestra página de <a href=\"/precios/\">precios</a>, ronda entre 600 € y 800 € el metro cuadrado.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  }
+ ],
+ "menu": "menu-principal",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre los inconvenientes de las casas contenedor",
+   "items": [
+    {
+     "pregunta": "¿Cuáles son los principales inconvenientes de las casas contenedor?",
+     "respuesta": "El ancho interior limitado a unos 2,35 m, el puente térmico que exige un aislamiento continuo, la pérdida de rigidez al abrir huecos grandes, la corrosión si se descuida la pintura y el suelo de madera original, que conviene sustituir en una vivienda. Ninguno impide construir; cada uno tiene una solución técnica conocida y aplicada desde el proyecto."
+    },
+    {
+     "pregunta": "¿Es buena idea abrir muchas ventanas en un contenedor marítimo?",
+     "respuesta": "Cada hueco grande reduce la rigidez del módulo porque interrumpe el reparto de cargas de las paredes onduladas, así que hay que compensarlo con un refuerzo estructural calculado según el CTE. No es un límite que impida diseñar huecos amplios, pero cada uno debe pasar por el cálculo estructural del proyecto, no improvisarse en obra."
+    },
+    {
+     "pregunta": "¿Hay que cambiar el suelo de un contenedor para vivir en él?",
+     "respuesta": "Sí, en una vivienda conviene retirar el suelo de madera original, tratado para el transporte marítimo de mercancías, y sustituirlo por un suelo nuevo sobre la base metálica. Es un paso habitual del acondicionamiento en taller, resuelto junto con el aislamiento y las instalaciones antes de entregar el módulo."
+    },
+    {
+     "pregunta": "¿Compensa comprar una casa contenedor pensando en la reventa?",
+     "respuesta": "Compensa si el proyecto queda bien documentado: proyecto visado, licencia y una instalación eléctrica conforme al REBT ayudan a que un banco tase la vivienda con normalidad y a que un futuro comprador entienda el sistema constructivo. La reventa depende más de esa documentación que del material de la estructura."
+    },
+    {
+     "pregunta": "¿Necesita más mantenimiento una casa contenedor que una vivienda tradicional?",
+     "respuesta": "El mantenimiento distinto es el de la pintura y el tratamiento anticorrosión del acero, que hay que revisar y reponer con el tiempo igual que se repinta una fachada convencional. El resto de instalaciones y acabados se mantienen como en cualquier vivienda, sin tareas adicionales por estar hecha con contenedores."
+    }
+   ]
+  }
+ }
+}

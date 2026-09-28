@@ -1,0 +1,277 @@
+{
+ "slug": "estudio-de-parcela",
+ "ruta": "/estudio-de-parcela/",
+ "titulo": "Estudio de Parcela para Casa Contenedor",
+ "h1": "Estudio de Parcela para Casa Contenedor",
+ "tituloSeo": "Estudio de Parcela para Casa Contenedor | Qué Revisar Antes",
+ "descripcion": "Estudio de la parcela para tu casa contenedor: suelo, edificabilidad, acceso de grúa, acometidas, geotécnico y qué pedir antes de comprar.",
+ "palabraClave": "estudio de parcela para casa contenedor",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2021/06/casas-contenedores-planos.jpg",
+  "alt": "Estudio de parcela para casa contenedor: plano de terreno antes de construir",
+  "ancho": 1000,
+  "alto": 800
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "estudio-de-p-003",
+   "columnas": [
+    {
+     "id": "estudio-de-p-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "estudio-de-p-001",
+       "src": "/wp-content/uploads/2021/06/casas-contenedores-planos.jpg",
+       "alt": "Estudio de parcela para casa contenedor: plano de terreno antes de construir"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "estudio-de-p-008",
+   "columnas": [
+    {
+     "id": "estudio-de-p-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "estudio-de-p-004",
+       "etiqueta": "h2",
+       "texto": "Qué es el estudio de parcela para casa contenedor y cuándo pedirlo",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "estudio-de-p-005",
+       "html": "<p>El estudio de parcela para casa contenedor es la revisión que conviene hacer antes de comprar un terreno o de encargar tu casa, para saber si esa parcela admite el proyecto que tienes en mente. No es lo mismo tener sobre el papel unos metros disponibles que poder construir en ellos: la clasificación del suelo, la edificabilidad, el acceso para un camión con grúa y las acometidas de agua, luz y saneamiento condicionan tanto el diseño como el <strong>presupuesto final</strong>. Pedirlo antes de firmar evita descubrir después que la parcela no permite lo que se había planeado.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "estudio-de-p-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "estudio-de-p-028",
+   "columnas": [
+    {
+     "id": "estudio-de-p-027",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "estudio-de-p-009",
+       "etiqueta": "h2",
+       "texto": "Qué incluye el estudio de parcela para casa contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "estudio-de-p-010",
+       "html": "<p>Este estudio de la parcela para tu casa contenedor reúne la clasificación del suelo, la ordenanza municipal que aplica, la edificabilidad disponible, el acceso para camión y grúa, las acometidas o la fosa homologada que hacen falta, y un estudio geotécnico básico del terreno. El objetivo es tener, antes de comprar o de encargar la casa, una foto completa de lo que esa parcela concreta permite y de lo que exige el ayuntamiento correspondiente.</p><ul><li>Clasificación del suelo (urbano, urbanizable o rústico) y ordenanza que le aplica.</li><li>Edificabilidad, retranqueos y altura máxima permitida.</li><li>Acceso disponible para camión y grúa hasta el punto de descarga.</li><li>Acometidas de agua, luz y saneamiento, o alternativa con fosa homologada.</li><li>Pendiente del terreno y capacidad portante según el estudio geotécnico.</li></ul>"
+      },
+      {
+       "t": "encabezado",
+       "id": "estudio-de-p-011",
+       "etiqueta": "h3",
+       "texto": "¿Qué documento urbanístico pedir en el ayuntamiento para el estudio de parcela?"
+      },
+      {
+       "t": "texto",
+       "id": "estudio-de-p-012",
+       "html": "<p>Conviene pedir la <strong>cédula urbanística</strong> o, si el municipio no la emite, un informe urbanístico específico para esa referencia catastral. Ese documento certifica la clasificación del suelo, la ordenanza aplicable y si el uso residencial está permitido en la parcela, algo imprescindible antes de avanzar con cualquier trámite de permisos para la casa contenedor.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "estudio-de-p-013",
+       "etiqueta": "h2",
+       "texto": "Edificabilidad, retranqueos y altura al estudiar la parcela de tu casa contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "estudio-de-p-014",
+       "html": "<p>La edificabilidad marca el metro cuadrado construible sobre la superficie total de la parcela, y suele venir fijada en la ordenanza junto con la altura máxima y el número de plantas permitidas. A eso se suman los <strong>retranqueos obligatorios</strong>, la distancia mínima que debe guardar la casa respecto a linderos, calle y otras edificaciones; ambos datos determinan cuánta casa contenedor cabe realmente en ese terreno, más allá de la superficie que aparezca en la escritura.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "estudio-de-p-015",
+       "etiqueta": "h2",
+       "texto": "Acceso para camión y grúa: el estudio de parcela para casa contenedor lo revisa antes de construir"
+      },
+      {
+       "t": "texto",
+       "id": "estudio-de-p-016",
+       "html": "<p>Un contenedor marítimo llega en camión y se descarga con grúa o camión pluma, así que el acceso hasta la parcela es un punto que conviene comprobar antes de comprar, no el día de la entrega. Un camino estrecho, un desnivel pronunciado, cables bajos o un giro cerrado pueden obligar a otro tipo de grúa o incluso a descartar el terreno si no hay forma de solucionarlo.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "estudio-de-p-017",
+       "etiqueta": "h3",
+       "texto": "¿Qué anchura de acceso exige el estudio de parcela para un contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "estudio-de-p-018",
+       "html": "<p>Un contenedor de 20 pies mide 6,06 metros de largo por 2,44 metros de ancho, y uno de 40 pies llega a 12,19 metros de largo, así que el camino de acceso necesita anchura y radio de giro suficientes para maniobrar con esas dimensiones y con el brazo de la grúa desplegado. Este dato se revisa en el mismo estudio de parcela, junto con el estado del firme y la presencia de obstáculos aéreos.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "estudio-de-p-019",
+       "etiqueta": "h2",
+       "texto": "Acometidas y fosa homologada en el estudio de parcela para casa contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "estudio-de-p-020",
+       "html": "<p>Si la parcela ya tiene acometidas de agua, electricidad y saneamiento en la calle, el estudio comprueba su ubicación exacta y su capacidad para dar servicio a la casa. Cuando no hay red de saneamiento cercana, la alternativa habitual es instalar una <strong>fosa homologada</strong>, y la instalación eléctrica final tiene que ajustarse en cualquier caso al REBT; puedes ver cómo se organiza esa parte en <a href=\"/electricidad-contenedores/\">electricidad de contenedores</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "estudio-de-p-021",
+       "etiqueta": "h2",
+       "texto": "Estudio geotécnico, pendiente y preparación de la parcela para tu casa contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "estudio-de-p-022",
+       "html": "<p>El estudio geotécnico revisa cómo se comporta el terreno bajo carga: tipo de suelo, capacidad portante y presencia de agua o de capas blandas, datos que condicionan directamente el tipo de cimentación que necesita la casa. La pendiente de la parcela influye igual, porque un terreno inclinado exige más trabajo de explanación antes de apoyar la estructura; puedes ver cómo se traduce esto en la obra en <a href=\"/cimentacion-casas-contenedores/\">cimentación de casas contenedor</a>. Si la parcela es de <strong>suelo rústico</strong>, además hay que revisar qué construcciones admite ese tipo de terreno antes de dar el estudio por cerrado, algo que ampliamos en <a href=\"/casa-contenedor-suelo-rustico/\">casa contenedor en suelo rústico</a>.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "estudio-de-p-023",
+       "etiqueta": "h3",
+       "texto": "¿Qué recoge el estudio geotécnico de la parcela para casa contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "estudio-de-p-024",
+       "html": "<p>Recoge el tipo de suelo, su capacidad portante, la profundidad del nivel freático si lo hay y la pendiente real del terreno, normalmente a partir de catas o sondeos puntuales. Con esos datos se decide si hace falta una cimentación más profunda o un refuerzo concreto, y también qué trabajo previo de desbroce, limpieza o explanación necesita el terreno antes de empezar la obra.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "estudio-de-p-025",
+       "etiqueta": "h2",
+       "texto": "Documentos que pedir al vendedor y al ayuntamiento antes del estudio de parcela para casa contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "estudio-de-p-026",
+       "html": "<p>Al vendedor conviene pedirle la <strong>nota simple actualizada</strong> del terreno, la referencia catastral y, si existe, cualquier informe urbanístico o geotécnico previo que ya tenga la parcela. Comprobar estos papeles antes de pagar ninguna señal es la misma precaución que recomendamos en <a href=\"/comprar-contenedor-sin-estafas/\">comprar sin estafas</a>, aplicada ahora al terreno en lugar de al contenedor. Al ayuntamiento se le pide la cédula o el informe urbanístico, y conviene reunir toda esta documentación en la misma fase en la que se revisa el <a href=\"/presupuesto-casas-contenedores/\">presupuesto de la casa contenedor</a>, antes de comprometerte con el terreno o con el proyecto.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "estudio-de-p-031",
+   "columnas": [
+    {
+     "id": "estudio-de-p-030",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "estudio-de-p-029",
+       "nombre": "formulario-pasos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "menu-principal",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre la parcela para tu casa contenedor",
+   "items": [
+    {
+     "pregunta": "¿Qué es exactamente un estudio de parcela para una casa contenedor?",
+     "respuesta": "Es la revisión previa del terreno donde quieres poner tu casa contenedor: qué clasificación de suelo tiene, cuánto se puede construir, cómo llega un camión o una grúa hasta el punto de descarga y qué acometidas o fosa homologada hacen falta. Se hace antes de firmar la compra o de encargar la casa, con la documentación del vendedor y del ayuntamiento."
+    },
+    {
+     "pregunta": "¿Quién pide la cédula o el informe urbanístico de la parcela?",
+     "respuesta": "Lo solicita quien va a comprar o ya es propietario del terreno, en el ayuntamiento donde está la parcela, indicando la referencia catastral. El documento confirma la clasificación del suelo, la ordenanza aplicable y si la parcela admite el uso residencial que necesita una casa contenedor, y conviene tenerlo antes de avanzar con el proyecto."
+    },
+    {
+     "pregunta": "¿Hace falta un estudio geotécnico si la parcela parece firme a simple vista?",
+     "respuesta": "Sí, porque la vista no dice cómo se comporta el terreno bajo carga ni si hay capas blandas, rellenos o nivel freático alto. El estudio geotécnico da datos objetivos sobre la capacidad portante y la pendiente, y esa información es la que permite decidir el tipo de cimentación que necesita la casa contenedor, sea cual sea el aspecto superficial del suelo."
+    },
+    {
+     "pregunta": "¿Qué pasa si la parcela no tiene acceso para camión o grúa?",
+     "respuesta": "Si el acceso es estrecho, tiene pendiente fuerte o cruza otra finca, hay que revisarlo antes de comprar, porque puede obligar a otro tipo de grúa, a preparar el paso o a descartar la parcela. Este punto se comprueba en el mismo estudio de parcela, junto con la anchura disponible y los obstáculos como cables bajos o muros."
+    },
+    {
+     "pregunta": "¿La preparación del terreno va incluida en el estudio de parcela?",
+     "respuesta": "No, el estudio de parcela es la revisión previa; el desbroce, la limpieza y la explanación son trabajos posteriores que se presupuestan aparte, una vez decidido dónde se coloca la casa contenedor. El estudio sí indica qué preparación necesita el terreno según su pendiente y su estado, para que ese trabajo se planifique con datos reales."
+    }
+   ]
+  }
+ }
+}

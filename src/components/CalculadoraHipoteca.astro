@@ -1,0 +1,107 @@
+---
+/**
+ * Calculadora de cuota hipotecaria (sistema frances). Todo lo mete el
+ * usuario: no hay valores por defecto que parezcan una oferta nuestra ni un
+ * tipo de interes "de mercado". Se calcula en el navegador; no envia nada.
+ */
+---
+
+<section class="calculadora" aria-labelledby="calc-titulo">
+  <p class="calculadora__antetitulo">Calculadora</p>
+  <h2 id="calc-titulo" class="calculadora__titulo">Calcula la cuota de la hipoteca de tu casa contenedor</h2>
+  <form class="formulario calculadora__form" data-calculadora novalidate>
+    <p class="campo">
+      <label for="calc-precio">Precio de la casa (€)</label>
+      <input id="calc-precio" name="precio" type="number" inputmode="decimal" min="0" step="100" required />
+    </p>
+    <p class="campo">
+      <label for="calc-ahorro">Ahorro que aportas (€)</label>
+      <input id="calc-ahorro" name="ahorro" type="number" inputmode="decimal" min="0" step="100" />
+    </p>
+    <p class="campo">
+      <label for="calc-interes">Tipo de interés anual (%)</label>
+      <input id="calc-interes" name="interes" type="number" inputmode="decimal" min="0" max="30" step="0.01" required />
+    </p>
+    <p class="campo">
+      <label for="calc-plazo">Plazo (años)</label>
+      <input id="calc-plazo" name="plazo" type="number" inputmode="numeric" min="1" max="40" step="1" required />
+    </p>
+  </form>
+
+  <dl class="calculadora__resultado" aria-live="polite" data-resultado hidden>
+    <div class="calculadora__cuota"><dt>Cuota mensual</dt><dd data-cuota></dd></div>
+    <div><dt>Importe a financiar</dt><dd data-importe></dd></div>
+    <div><dt>Intereses totales</dt><dd data-intereses></dd></div>
+    <div><dt>Total a devolver</dt><dd data-total></dd></div>
+  </dl>
+  <p class="calculadora__vacio" data-vacio>Rellena el precio, el tipo de interés y el plazo para ver la cuota.</p>
+  <noscript><p class="calculadora__vacio">La calculadora necesita JavaScript activado.</p></noscript>
+  <p class="calculadora__nota">
+    Cálculo orientativo con cuotas constantes (sistema francés). No incluye los gastos de la operación
+    (tasación, notaría, registro, gestoría e impuestos) ni los seguros. El tipo de interés, el plazo y el
+    importe que se financia los fija tu banco.
+  </p>
+</section>
+
+<script is:inline>
+  (function () {
+    var form = document.querySelector('[data-calculadora]');
+    if (!form) return;
+    var raiz = form.parentNode;
+    var euros = new Intl.NumberFormat('es-ES', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 });
+    var euros2 = new Intl.NumberFormat('es-ES', { style: 'currency', currency: 'EUR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    var num = function (n) { var v = parseFloat(String(form.elements[n].value).replace(',', '.')); return isFinite(v) ? v : NaN; };
+    function calcular() {
+      var precio = num('precio'), ahorro = num('ahorro') || 0, interes = num('interes'), plazo = num('plazo');
+      var importe = precio - ahorro;
+      var ok = precio > 0 && importe > 0 && interes >= 0 && plazo >= 1;
+      raiz.querySelector('[data-resultado]').hidden = !ok;
+      raiz.querySelector('[data-vacio]').hidden = ok;
+      if (!ok) return;
+      var n = Math.round(plazo * 12), r = interes / 100 / 12;
+      var cuota = r === 0 ? importe / n : importe * r / (1 - Math.pow(1 + r, -n));
+      raiz.querySelector('[data-cuota]').textContent = euros2.format(cuota);
+      raiz.querySelector('[data-importe]').textContent = euros.format(importe);
+      raiz.querySelector('[data-intereses]').textContent = euros.format(cuota * n - importe);
+      raiz.querySelector('[data-total]').textContent = euros.format(cuota * n);
+    }
+    form.addEventListener('input', calcular);
+    form.addEventListener('submit', function (e) { e.preventDefault(); calcular(); });
+  })();
+</script>
+
+<style>
+  .calculadora {
+    margin: 8px 0 32px;
+    padding: 26px 26px 22px;
+    background: var(--papel-2);
+    border: 1px solid var(--linea);
+    border-radius: var(--radio-l);
+  }
+  .calculadora__antetitulo {
+    margin: 0 0 6px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--verde-osc);
+  }
+  .calculadora__titulo { margin: 0 0 18px; font-size: clamp(20px, 2.2vw, 26px); }
+  .calculadora__form { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0 16px; }
+  .calculadora__resultado {
+    display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px;
+    margin: 8px 0 0;
+  }
+  .calculadora__resultado div {
+    padding: 14px 16px; background: #fff; border: 1px solid var(--linea); border-radius: var(--radio);
+  }
+  .calculadora__resultado dt {
+    font-family: var(--mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--suave);
+  }
+  .calculadora__resultado dd { margin: 6px 0 0; font-family: var(--titular); font-size: 20px; font-weight: 700; color: var(--ink); }
+  .calculadora__cuota { border-color: var(--verde) !important; box-shadow: inset 0 0 0 1px var(--verde); }
+  .calculadora__cuota dd { color: var(--verde-osc); font-size: 24px; }
+  .calculadora__vacio { margin: 4px 0 0; font-size: 15px; color: var(--suave); }
+  .calculadora__nota { margin: 16px 0 0; font-size: 13.5px; line-height: 1.55; color: var(--suave); }
+  @media (max-width: 760px) {
+    .calculadora { padding: 20px 16px 18px; }
+    .calculadora__form, .calculadora__resultado { grid-template-columns: 1fr 1fr; }
+  }
+</style>

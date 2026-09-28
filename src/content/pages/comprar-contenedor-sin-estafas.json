@@ -1,0 +1,238 @@
+{
+ "slug": "comprar-contenedor-sin-estafas",
+ "ruta": "/comprar-contenedor-sin-estafas/",
+ "titulo": "Comprar sin Caer en Estafas con Contenedores Marítimos",
+ "h1": "Comprar sin Caer en Estafas con Contenedores Marítimos",
+ "tituloSeo": "Comprar Contenedor sin Estafas | Guía antifraude",
+ "descripcion": "Guía para evitar las estafas con contenedores marítimos: señales de alarma, cómo verificar al vendedor y el contenedor, y qué hacer si ya has pagado.",
+ "palabraClave": "estafas con contenedores marítimos",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
+  "alt": "comprar-contenedor-sin-estafas",
+  "ancho": 1024,
+  "alto": 1024
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "comprar-cont-003",
+   "columnas": [
+    {
+     "id": "comprar-cont-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "comprar-cont-001",
+       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
+       "alt": "comprar-contenedor-sin-estafas"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "comprar-cont-008",
+   "columnas": [
+    {
+     "id": "comprar-cont-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "comprar-cont-004",
+       "etiqueta": "h2",
+       "texto": "Por qué existen las estafas con contenedores marítimos",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "comprar-cont-005",
+       "html": "<p>Las estafas con contenedores marítimos se apoyan en dos cosas: un producto que la mayoría de compradores no ha visto nunca en persona y una operación que suele hacerse a distancia, por WhatsApp o por correo. Eso permite anunciar una unidad que no existe, cobrar por adelantado y desaparecer, o vender como nuevo un contenedor con la estructura dañada. Conocer las señales de alarma reduce el riesgo antes de mover un solo euro.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "comprar-cont-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "comprar-cont-024",
+   "columnas": [
+    {
+     "id": "comprar-cont-023",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "comprar-cont-009",
+       "etiqueta": "h2",
+       "texto": "Señales de alarma frente a las estafas con contenedores marítimos"
+      },
+      {
+       "t": "texto",
+       "id": "comprar-cont-010",
+       "html": "<p>Ninguna señal por sí sola confirma un fraude, pero varias juntas son motivo para desconfiar:</p><ul><li>Un <strong>precio muy por debajo</strong> del resto de anuncios para la misma medida y el mismo estado.</li><li>Piden el <strong>pago total por adelantado</strong>, sin opción de señal y resto contra entrega.</li><li>La cuenta de destino está a nombre de una <strong>persona física en el extranjero</strong>, no de la empresa que anuncia el contenedor.</li><li>Una web <strong>clonada o recién creada</strong>, con textos copiados de otra página o sin apenas contenido propio.</li><li>No aparecen CIF ni dirección del vendedor en ningún sitio de la web ni del anuncio.</li><li>Las fotos son <strong>genéricas o de stock</strong>, repetidas en varios anuncios distintos.</li><li>Meten prisa para cerrar la operación, con ofertas que caducan en unas horas.</li></ul>"
+      },
+      {
+       "t": "encabezado",
+       "id": "comprar-cont-011",
+       "etiqueta": "h3",
+       "texto": "¿Cómo saber si una web que vende contenedores es de fiar frente al fraude con contenedores marítimos?"
+      },
+      {
+       "t": "texto",
+       "id": "comprar-cont-012",
+       "html": "<p>Comprueba primero que la web tenga un <strong>CIF y una dirección</strong> visibles, normalmente en el aviso legal o el pie de página, y que ese CIF corresponda a una empresa activa. Después, revisa cuánto tiempo lleva registrado el dominio: una web creada hace pocas semanas, sin apenas contenido propio ni referencias en otras páginas del sector, encaja con el patrón de las webs desechables que usan algunos vendedores poco fiables. Un teléfono fijo, una dirección física comprobable y años de actividad, como en <a href=\"/servicios/\">servicios de contenedores</a>, reducen el riesgo frente a un simple número de WhatsApp sin más datos detrás.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "comprar-cont-013",
+       "etiqueta": "h2",
+       "texto": "Cómo comprobar el contenedor para evitar estafas con contenedores marítimos"
+      },
+      {
+       "t": "texto",
+       "id": "comprar-cont-014",
+       "html": "<p>Además de comprobar al vendedor, hay que revisar la unidad concreta que vas a comprar, no una foto genérica de catálogo:</p><ul><li>Pide <strong>fotos actuales</strong> del contenedor, con fecha reciente, no imágenes de archivo.</li><li>Exige que se vea con claridad la placa CSC y el <strong>número de serie</strong> pintado en las puertas.</li><li>Compara las medidas que te dan con las de la <strong>norma ISO 668</strong>: un 20 pies mide 6,06 × 2,44 × 2,59 m, con unos 13,9 m² interiores y una tara aproximada de 2,2 toneladas; un 40 pies mide 12,19 × 2,44 × 2,59 m, con unos 28,3 m² y una tara aproximada de 3,7 toneladas, y una versión High Cube añade altura exterior hasta 2,90 m frente a los 2,59 m estándar. Si las medidas que te ofrecen no encajan con estos valores, algo no cuadra.</li><li>Si el proveedor lo permite, organiza una visita al depósito antes de pagar, o pide una videollamada en directo del contenedor y de su entorno.</li></ul><p>Si te ofrecen un contenedor usado, revisa también los grados de estado explicados en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores marítimos de segunda mano</a>, porque un vendedor serio sabe explicarte en qué grado está la unidad concreta que te vende, no solo repetir que está \"como nuevo\".</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "comprar-cont-015",
+       "etiqueta": "h3",
+       "texto": "¿Qué es la placa CSC y por qué hay que exigirla al comprar contenedores marítimos?"
+      },
+      {
+       "t": "texto",
+       "id": "comprar-cont-016",
+       "html": "<p>La <strong>placa CSC</strong> es la placa de identificación que exige el Convenio CSC (Convenio Internacional sobre Seguridad de los Contenedores) y certifica que la unidad se fabricó bajo un control estructural reconocido internacionalmente. Un vendedor que no puede mostrarla, o que da largas cuando la pides, dificulta comprobar el origen real del contenedor, algo habitual en las unidades sin trazabilidad clara que se anuncian a precios llamativos. La placa incluye el número de identificación de la unidad, así que conviene pedir que la foto se vea legible, no recortada ni borrosa.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "comprar-cont-017",
+       "etiqueta": "h3",
+       "texto": "¿Cómo se comprueba el código ISO 6346 para descartar una estafa con contenedores marítimos?"
+      },
+      {
+       "t": "texto",
+       "id": "comprar-cont-018",
+       "html": "<p>El <strong>código ISO 6346</strong> identifica de forma única cada contenedor, combinando las letras que identifican al propietario con un número de serie y un dígito de control. Pide el código completo, con su dígito de control, y comprueba que coincide en las fotos de la placa, en las puertas del contenedor y en la documentación que te entreguen; si no coincide en todos esos lugares, o el vendedor solo te da parte del código, es motivo para desconfiar.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "comprar-cont-019",
+       "etiqueta": "h2",
+       "texto": "Contrato, factura y pago seguro para no caer en una estafa al comprar un contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "comprar-cont-020",
+       "html": "<p>Antes de pagar nada, pide un <strong>contrato o presupuesto por escrito</strong> con la medida exacta, el estado, el número de serie, el precio con el IVA desglosado y la fecha de entrega. Compara siempre el precio puesto en destino, con el transporte incluido, en vez de fijarte solo en el precio del contenedor suelto; puedes contrastarlo con las referencias de <a href=\"/precios-contenedores-maritimos/\">precios de contenedores marítimos</a> y con el proceso de compra habitual en <a href=\"/comprar-contenedores-maritimos/\">comprar contenedores marítimos</a>.</p><p>En cuanto al pago, evita transferencias a cuentas particulares o en el extranjero cuando el anuncio es de una empresa española, desconfía de quien solo acepta bizum o efectivo para importes altos, y exige una <strong>factura con IVA</strong> a nombre de la empresa vendedora, no de una persona física. Si el vendedor se resiste a poner por escrito el contrato, la factura o una forma de pago trazable, es una señal más de riesgo, no un simple trámite de más.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "comprar-cont-021",
+       "etiqueta": "h2",
+       "texto": "Qué hacer si ya has pagado y sospechas una estafa con contenedores marítimos"
+      },
+      {
+       "t": "texto",
+       "id": "comprar-cont-022",
+       "html": "<p>Si ya has pagado y el contenedor no llega, o el vendedor deja de responder, actúa cuanto antes:</p><ol><li>Reúne todas las capturas de pantalla de la conversación, el anuncio, el justificante de pago y los datos del vendedor.</li><li>Contacta con tu entidad bancaria para preguntar si la transferencia puede reclamarse o si cabe una devolución, según el método usado.</li><li>Presenta una <strong>denuncia policial</strong> con toda la documentación reunida, que además sirve de base para cualquier gestión posterior con el banco o con la web donde viste el anuncio.</li><li>Si el anuncio seguía activo en algún portal o red social, repórtalo a la plataforma para que otros compradores no caigan en el mismo anuncio.</li></ol><p>Cuanto antes actúes, más opciones reales hay de recuperar parte del dinero. Revisa también las <a href=\"/preguntas-frecuentes/\">preguntas frecuentes</a> sobre el proceso de compra, y si eres tú quien quiere vender un contenedor con garantías, consulta <a href=\"/venta-contenedores-maritimos/\">venta de contenedores marítimos</a>.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  }
+ ],
+ "menu": "contenedores-maritimos",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre las estafas con contenedores marítimos",
+   "items": [
+    {
+     "pregunta": "¿Es seguro comprar un contenedor marítimo por internet?",
+     "respuesta": "Puede serlo si compruebas antes al vendedor y a la unidad concreta: CIF y dirección de la empresa, fotos actuales con la placa CSC visible, contrato con las condiciones por escrito y una forma de pago trazable. El riesgo aparece cuando falta alguno de estos elementos o cuando el trato se cierra solo por WhatsApp, sin ningún dato comprobable detrás del anuncio."
+    },
+    {
+     "pregunta": "¿Es mala señal que pidan pagar todo por adelantado?",
+     "respuesta": "No siempre, pero conviene tratarlo con cautela: un vendedor con empresa establecida suele aceptar una señal y el resto contra entrega o contra factura, mientras que exigir el importe completo por adelantado, sin ningún otro dato verificable de la empresa, encaja con el patrón habitual de un fraude en la compra de contenedores. Pide siempre que esa condición conste por escrito en el presupuesto."
+    },
+    {
+     "pregunta": "¿Qué diferencia hay entre comprar a un particular y a una empresa del sector?",
+     "respuesta": "Un particular no siempre puede emitir factura con IVA ni ofrece las mismas garantías sobre el origen y el estado del contenedor, así que conviene reforzar la comprobación: pedir más fotos y datos de contacto verificables, y ver la unidad en persona si es posible. Comprar a una empresa con CIF y trazabilidad reduce buena parte de ese riesgo, aunque no lo elimina del todo."
+    },
+    {
+     "pregunta": "¿Puedo fiarme de un contenedor anunciado como nuevo si no tiene placa CSC?",
+     "respuesta": "No conviene: todo contenedor marítimo fabricado bajo el Convenio CSC debe llevar su placa, así que un contenedor nuevo sin ella, o con una placa ilegible en las fotos, es una señal de alarma más que una simple falta de documentación. Pide que te la enseñen con claridad antes de avanzar con la compra, junto con el resto de datos del vendedor."
+    },
+    {
+     "pregunta": "¿Sirve de algo revisar las reseñas de una empresa antes de comprar?",
+     "respuesta": "Ayuda, aunque no es infalible: busca reseñas en varias fuentes, no solo en la propia web del vendedor, y desconfía si son todas recientes, muy genéricas o repiten las mismas frases. La ausencia total de reseñas en una empresa que dice llevar años en el sector también merece una comprobación extra antes de pagar cualquier importe."
+    }
+   ]
+  }
+ }
+}

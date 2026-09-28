@@ -185,6 +185,12 @@ const PINTORES = {
     return { html: `<!--FORMULARIO:${b.id}-->` };
   },
 
+  // componentes interactivos (calculadora de hipoteca, presupuesto por pasos,
+  // catalogo filtrable): la pagina los inserta en el sitio del marcador
+  componente(b) {
+    return { html: /^[a-z-]+$/.test(b.nombre || '') ? `<!--COMPONENTE:${b.nombre}-->` : '' };
+  },
+
   video(b) {
     if (!b.url) return { html: '' };
     const yt = b.url.match(/(?:youtu\.be\/|v=)([\w-]{6,})/);
@@ -629,7 +635,7 @@ export function seccionAmpliacion(ampliacion, { sinFaq = false } = {}) {
     elementos.push({ t: 'encabezado', etiqueta: 'h2', texto: ampliacion.faq.titulo || 'Preguntas frecuentes' });
     elementos.push({ t: 'faq', items: faq });
   }
-  if (!elementos.length) return null;
+  if (!elementos.length) return faq.length ? { seccion: null, faq } : null;
   return {
     seccion: { t: 'seccion', id: 'ampliacion', ampliacion: true, ancla: 'mas-informacion', columnas: [{ ancho: 100, elementos }] },
     faq,

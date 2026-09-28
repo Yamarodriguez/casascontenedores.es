@@ -44,6 +44,16 @@ const nombreLugar = (rotulo) => {
   return n.charAt(0).toUpperCase() + n.slice(1);
 };
 const agrupar = (e) => {
+  // entradas con hijos agrupados en el propio menus.json (Servicios: servicios y guias)
+  if (e.hijos.some((h) => h.grupo)) {
+    const grupos = [];
+    for (const h of e.hijos) {
+      let g = grupos.find((x) => x.titulo === h.grupo);
+      if (!g) grupos.push((g = { titulo: h.grupo, hijos: [] }));
+      g.hijos.push(h);
+    }
+    return grupos;
+  }
   if (esModelos(e)) {
     const usados = new Set();
     const grupos = GRUPOS_MODELOS.map((g) => ({ titulo: g.titulo, hijos: g.urls.map((u) => e.hijos.find((h) => h.url === u)).filter(Boolean) }));
@@ -106,7 +116,7 @@ const esActivoConHijos = (e) => activo(e.url) || (e.hijos || []).some((h) => act
               <>
                 <button class="menu__desplegar" type="button" aria-label={`Abrir ${e.rotulo}`} aria-expanded="false" data-desplegar>▾</button>
                 {grupos ? (
-                  <div class:list={['menu__sub', 'menu__panel', esProvincias(e) && 'menu__panel--lugares']}>
+                  <div class:list={['menu__sub', 'menu__panel', esProvincias(e) && 'menu__panel--lugares', !esProvincias(e) && grupos.length <= 2 && 'menu__panel--compacto']}>
                     {grupos.map((g) => (
                       <div class="menu__grupo">
                         <p class="menu__grupo-titulo">{g.titulo}</p>

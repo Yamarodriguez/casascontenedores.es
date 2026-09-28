@@ -1,0 +1,288 @@
+{
+ "slug": "pintura-contenedores",
+ "ruta": "/pintura-contenedores/",
+ "titulo": "Servicio de Pintura para Contenedores",
+ "h1": "Servicio de Pintura para Contenedores",
+ "tituloSeo": "Pintura para Contenedores: Preparación y Color RAL",
+ "descripcion": "Pintura para contenedores marítimos: limpieza, eliminación de óxido, imprimación anticorrosiva y acabado en el color RAL que elijas, con presupuesto a medida.",
+ "palabraClave": "pintura para contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2022/02/CASA-RENDER-FACHADA.jpeg",
+  "alt": "Render de fachada de una casa contenedor con acabado de pintura en color RAL",
+  "ancho": 1280,
+  "alto": 720
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "pintura-cont-003",
+   "columnas": [
+    {
+     "id": "pintura-cont-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "pintura-cont-001",
+       "src": "/wp-content/uploads/2022/02/CASA-RENDER-FACHADA.jpeg",
+       "alt": "Render de fachada de una casa contenedor con acabado de pintura en color RAL"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "pintura-cont-008",
+   "columnas": [
+    {
+     "id": "pintura-cont-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-004",
+       "etiqueta": "h2",
+       "texto": "Qué incluye el servicio de pintura para contenedores",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-005",
+       "html": "<p>El servicio de <strong>pintura para contenedores</strong> cubre contenedores marítimos nuevos, usados y ya instalados como vivienda, oficina o local: preparación de la superficie, imprimación anticorrosiva, acabado en el color RAL que elijas, interior y exterior, techo, y rotulación o logotipo de empresa si lo necesitas.</p><p>También se aplica a un <strong>repintado completo</strong> de contenedores usados que ya han perdido su acabado original. Cada trabajo se valora con presupuesto a medida según el estado real del contenedor, el número de caras a pintar y el acabado que pidas; aquí te explicamos qué se revisa antes, por qué la preparación pesa más que la propia pintura y cómo pedir precio.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "pintura-cont-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "pintura-cont-030",
+   "columnas": [
+    {
+     "id": "pintura-cont-029",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-009",
+       "etiqueta": "h2",
+       "texto": "Preparación de la superficie: la base de toda pintura de contenedores marítimos"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-010",
+       "html": "<p>Antes de aplicar ninguna capa se revisa el estado real del acero corten: se localizan puntos de <strong>óxido superficial</strong> y se diferencian de un óxido que ha perforado la chapa o afecta a cantoneras y largueros, donde la reparación ya no es solo estética. La secuencia habitual empieza por una limpieza a fondo para retirar grasa, sal y suciedad acumulada, sigue con la eliminación del óxido por lijado o chorreado según la extensión del daño, y termina con el desengrasado de toda la superficie antes de imprimar. Saltarse cualquiera de estos pasos hace que la pintura se despegue en poco tiempo, por muy buena que sea la marca.</p><p>En unidades que ya funcionan como vivienda o local, la preparación se organiza por zonas para no interferir con quien vive o trabaja dentro, y se protegen ventanas, puertas y cualquier <a href=\"/electricidad-contenedores/\">instalación eléctrica</a> visible antes de lijar o chorrear.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-011",
+       "etiqueta": "h3",
+       "texto": "¿Por qué la preparación importa más que la pintura de contenedores?"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-012",
+       "html": "<p>Porque una pintura de contenedores aplicada sobre óxido, grasa o polvo se desprende en meses, mientras que una superficie bien preparada hace que la misma pintura dure años. El acero corten resiste la corrosión por su composición, pero una vez que el óxido rompe la capa protectora original, avanza por debajo de cualquier pintura que se aplique encima sin retirarlo antes. Por eso el tiempo de preparación suele ser mayor que el de pintado en sí, y es la fase que marca si el trabajo dura o hay que repetirlo pronto.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-013",
+       "etiqueta": "h2",
+       "texto": "Imprimación anticorrosiva antes de la pintura de contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-014",
+       "html": "<p>Tras dejar el acero limpio y sin óxido, se aplica una <strong>imprimación anticorrosiva</strong> que sella la superficie y frena la oxidación futura antes de dar el color final. Esta capa se refuerza en las zonas de mayor exposición, como las esquinas, el marco de las puertas y la base que toca el suelo, porque son los puntos donde la humedad se acumula primero.</p><p>La imprimación no sustituye a la <strong>placa CSC</strong> del contenedor: esa placa certifica su aptitud para navegar según el Convenio CSC y nunca se pinta ni se tapa, se protege dejándola siempre visible y legible.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-015",
+       "etiqueta": "h2",
+       "texto": "Acabado en color RAL: pintura de contenedores por dentro y por fuera"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-016",
+       "html": "<p>El acabado se aplica en el <strong>color RAL</strong> que elijas, tanto en el exterior como en el interior, y cubre también el techo, una superficie que recibe más sol y agua que las paredes verticales y que conviene tratar con el mismo cuidado.</p><p>Si el contenedor ya está transformado en vivienda, oficina o local, se puede pintar solo la parte que lo necesita sin afectar al resto de la <a href=\"/transformacion-contenedores/\">transformación</a> ya hecha, coordinando el trabajo con las fechas en que la unidad esté libre de uso.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-017",
+       "etiqueta": "h3",
+       "texto": "¿Puedo elegir cualquier color RAL para la pintura de mi contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-018",
+       "html": "<p>Sí, el acabado se aplica en el código RAL que indiques, tanto para una unidad nueva como para un <strong>repintado completo</strong> de una usada. Conviene tener en cuenta que un color oscuro absorbe más calor que uno claro en el exterior de un contenedor expuesto al sol, algo a valorar sobre todo si la unidad se usa como vivienda o local y ya cuenta con su <a href=\"/aislamiento-contenedores/\">aislamiento térmico</a> resuelto.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-019",
+       "etiqueta": "h2",
+       "texto": "Rotulación y logotipo de empresa junto a la pintura de contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-020",
+       "html": "<p>Si el contenedor se usa como oficina, local o caseta de obra, se puede añadir la <strong>rotulación o el logotipo</strong> de tu empresa sobre el acabado ya pintado, ya sea vinilo o pintura directa según el diseño y la superficie. Este trabajo se hace después de que el color RAL de fondo esté seco y curado, para que el vinilo agarre bien y no se levante con el tiempo ni con la lluvia.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-021",
+       "etiqueta": "h2",
+       "texto": "Repintado de contenedores usados: cuándo conviene una pintura de contenedores completa"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-022",
+       "html": "<p>Un contenedor de <strong>segunda mano</strong> suele llegar con marcas de su vida anterior: golpes, óxido superficial y restos de la pintura original ya desgastada por el sol y el transporte.</p><p>En estos casos el repintado completo suele convenir aunque el contenedor esté estructuralmente sano, porque devuelve la protección anticorrosiva que la pintura original ya no ofrece.</p><p>En <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores marítimos de segunda mano</a> se explica qué grados existen y qué revisar antes de comprar uno; si el óxido ya ha perforado la chapa o afecta a la estructura, el trabajo pasa primero por <a href=\"/reparacion-contenedores/\">reparación</a> y solo después por la pintura.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-023",
+       "etiqueta": "h3",
+       "texto": "¿Hay que quitar el óxido antes de la pintura de un contenedor usado?"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-024",
+       "html": "<p>No es recomendable pintar directamente sobre el óxido: solo tapa el problema durante unos meses, porque la corrosión sigue avanzando bajo la nueva capa y acaba levantándola. El repintado que dura empieza siempre por lijar o chorrear el óxido hasta dejar el acero visible, y solo entonces se aplica la imprimación anticorrosiva y el color final.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-025",
+       "etiqueta": "h2",
+       "texto": "Cómo pedir presupuesto para pintura de contenedores"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-026",
+       "html": "<p>El presupuesto se calcula a medida según estos datos:</p><ul><li><strong>Estado actual</strong>: si hay óxido superficial, golpes o restos de pintura anterior.</li><li><strong>Superficie a tratar</strong>: exterior, interior, techo o las tres.</li><li><strong>Color RAL</strong> elegido para el acabado.</li><li><strong>Rotulación o logotipo</strong>, si lo necesitas.</li><li>Ubicación del contenedor: si ya está instalado en tu parcela o se puede mover a taller.</li></ul><p>Con estos datos se ajusta el trabajo real de preparación, que es la parte que más varía de una unidad a otra. Puedes pedirlo junto con la <a href=\"/venta-contenedores-maritimos/\">venta</a> o la compra de un contenedor nuevo, o como servicio aparte para uno que ya tienes. Consulta también el resto de <a href=\"/servicios/\">servicios técnicos para contenedores</a> si además necesitas otros trabajos en la misma unidad.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "pintura-cont-027",
+       "etiqueta": "h3",
+       "texto": "¿Qué necesitas indicarnos para presupuestar la pintura de tu contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "pintura-cont-028",
+       "html": "<p>Basta con el estado actual del contenedor, la superficie que quieres pintar, el color RAL elegido y si necesitas rotulación, además de si la unidad está en tu parcela o se puede trasladar a taller. Con esos datos se prepara un presupuesto ajustado sin necesidad de más trámites; si además vas a mover el contenedor, puedes consultarlo junto con el <a href=\"/traslado-contenedores/\">traslado</a>.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "pintura-cont-033",
+   "columnas": [
+    {
+     "id": "pintura-cont-032",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "pintura-cont-031",
+       "nombre": "formulario-pasos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "contenedores-maritimos",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre pintura para contenedores",
+   "items": [
+    {
+     "pregunta": "¿Qué es exactamente el servicio de pintura para contenedores?",
+     "respuesta": "Es el trabajo completo que lleva un contenedor marítimo desde su estado actual hasta un acabado protegido y en el color que elijas: limpieza, eliminación del óxido, imprimación anticorrosiva y pintura de acabado en RAL, por dentro, por fuera y en el techo. Se aplica tanto a contenedores nuevos como a unidades de segunda mano que necesitan repintado, y se presupuesta según el estado real de cada una."
+    },
+    {
+     "pregunta": "¿Se puede pintar un contenedor que ya está instalado como vivienda?",
+     "respuesta": "Sí, se puede pintar por fuera, por dentro o solo en las zonas que lo necesiten sin desmontar la transformación ya hecha. El trabajo se organiza por fases y se coordina con los horarios de uso de la vivienda o el local, protegiendo ventanas, puertas e instalaciones antes de lijar o chorrear la superficie."
+    },
+    {
+     "pregunta": "¿La pintura sustituye el mantenimiento de las juntas y bisagras del contenedor?",
+     "respuesta": "No, la pintura protege la chapa frente a la corrosión, pero no sustituye la revisión de juntas, bisagras y cierres, que se desgastan por el uso mecánico y no por el color del acabado. Conviene revisar ambos aspectos a la vez cuando el contenedor lleva tiempo instalado, sobre todo si viene de segunda mano."
+    },
+    {
+     "pregunta": "¿Qué diferencia hay entre óxido superficial y óxido estructural en un contenedor?",
+     "respuesta": "El óxido superficial afecta solo a la capa exterior de la chapa y se resuelve lijando y pintando de nuevo. El óxido estructural ha perforado el acero o afecta a cantoneras y largueros, que son los puntos que reparten la carga según la norma ISO 668, y necesita reparación antes de pintar, no solo un repintado."
+    },
+    {
+     "pregunta": "¿Puedo pedir la pintura junto con el transporte del contenedor?",
+     "respuesta": "Sí, si el contenedor va a moverse de ubicación conviene indicarlo al pedir presupuesto, porque puede convenir pintarlo antes o después del traslado según el estado y el acceso al punto de destino. Consulta el servicio de traslado de contenedores para coordinar ambos trabajos en la misma fecha."
+    }
+   ]
+  }
+ }
+}

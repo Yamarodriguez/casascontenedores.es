@@ -1,0 +1,266 @@
+{
+ "slug": "electricidad-contenedores",
+ "ruta": "/electricidad-contenedores/",
+ "titulo": "Instalación Eléctrica en Contenedores",
+ "h1": "Instalación Eléctrica en Contenedores",
+ "tituloSeo": "Instalación Eléctrica en Contenedores | REBT y Boletín",
+ "descripcion": "Instalación eléctrica en contenedores con cuadro, protecciones y boletín REBT, o kit solar fotovoltaico aislado o de autoconsumo para tu proyecto en España.",
+ "palabraClave": "instalación eléctrica en contenedores",
+ "noindex": false,
+ "hero": {
+  "src": "/wp-content/uploads/2023/08/interior-casa-contenedor-1024x576.jpg",
+  "alt": "instalación eléctrica en contenedores",
+  "ancho": 1024,
+  "alto": 576
+ },
+ "faq": [],
+ "cuerpo": "",
+ "palabras": [],
+ "bloques": [
+  {
+   "t": "seccion",
+   "id": "electricidad-003",
+   "columnas": [
+    {
+     "id": "electricidad-002",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "imagen",
+       "id": "electricidad-001",
+       "src": "/wp-content/uploads/2023/08/interior-casa-contenedor-1024x576.jpg",
+       "alt": "instalación eléctrica en contenedores"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "electricidad-008",
+   "columnas": [
+    {
+     "id": "electricidad-006",
+     "ancho": 67.28,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "electricidad-004",
+       "etiqueta": "h2",
+       "texto": "Instalación eléctrica en contenedores: qué incluye el servicio",
+       "color": "#414141"
+      },
+      {
+       "t": "texto",
+       "id": "electricidad-005",
+       "html": "<p>La <strong>instalación eléctrica en contenedores</strong> convierte un contenedor marítimo en un espacio con corriente segura y legal, ya sea un almacén, un taller, una oficina o una vivienda. El trabajo parte siempre de un proyecto adaptado a la estructura metálica del contenedor: se define el cuadro con sus protecciones, el recorrido de cables por paredes y techo, los puntos de luz y de toma, y la puesta a tierra de todo el conjunto.</p><p>El instalador autorizado que ejecuta la obra es quien firma el certificado de instalación, el boletín necesario para dar de alta el suministro con la compañía eléctrica. Cuando el contenedor no tiene acometida cercana, o cuando se busca reducir el consumo de la red, la alternativa es un <strong>kit solar fotovoltaico</strong>, aislado con baterías o de autoconsumo conectado a red.</p>",
+       "color": "#373535"
+      }
+     ]
+    },
+    {
+     "id": "electricidad-007",
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "642a7e0",
+       "alinear": "center",
+       "margenTablet": "0px 0px 0px 0px",
+       "margenMovil": "0px 0px 0px 0px",
+       "texto": "¿Te llamamos?",
+       "etiqueta": "p",
+       "color": "#52D457",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 42,
+        "tamanoMovil": 38,
+        "peso": "600"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "e5f9c47",
+       "alinear": "center",
+       "html": "<p>Si estas pensando en <strong>Construir tu casa con contenedores</strong> déjanos tu numero y nosotros nos ponemos en contacto. Tu <strong>casa modular</strong> te espera!.</p>",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 20,
+        "peso": "400",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "texto",
+       "id": "a6636e4",
+       "alinear": "center",
+       "margen": "-29px 0px 0px 0px",
+       "html": "<p>Asesoramiento sin compromiso </p>",
+       "color": "#010101",
+       "tipo": {
+        "familia": "Roboto",
+        "tamano": 18,
+        "peso": "600",
+        "interlineado": 1.7,
+        "interlineadoUnidad": "em"
+       }
+      },
+      {
+       "t": "formulario",
+       "id": "dbee2b8"
+      }
+     ],
+     "ancho": 32.59,
+     "anchoBase": 50
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "electricidad-026",
+   "columnas": [
+    {
+     "id": "electricidad-025",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "encabezado",
+       "id": "electricidad-009",
+       "etiqueta": "h2",
+       "texto": "Cuadro eléctrico y protecciones en la instalación eléctrica del contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "electricidad-010",
+       "html": "<p>El <strong>cuadro eléctrico</strong> es el punto de partida de la instalación eléctrica en contenedores: agrupa el interruptor general automático, los diferenciales y los magnetotérmicos que protegen cada circuito, ya sea de iluminación, de tomas de fuerza o de electrodomésticos. Cada circuito se calcula por separado para que un fallo puntual no deje sin corriente al resto del contenedor.</p><p>El recorrido de cables se resuelve con canalización empotrada bajo el aislamiento interior o con bandeja vista atornillada a la estructura de acero, según el acabado del contenedor. Las tomas de corriente se reparten por zona de uso, respetando siempre la separación de circuitos que exige la protección diferencial de cada uno.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "electricidad-011",
+       "etiqueta": "h3",
+       "texto": "¿Cómo se da de alta la luz tras la instalación eléctrica en un contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "electricidad-012",
+       "html": "<p>La diferencia está en el trámite previo con la compañía eléctrica, no en el cableado interior. Antes de dar de alta el contrato hace falta un <strong>punto de suministro</strong> accesible: acometida propia, enganche autorizado a una línea cercana o, si no existe red, un grupo electrógeno o el kit solar que vemos más abajo.</p><p>Además hace falta el certificado de instalación firmado por el instalador autorizado que ejecutó el cuadro y el cableado. Con ese <strong>boletín eléctrico</strong> en mano, la compañía tramita el alta igual que en cualquier vivienda.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "electricidad-013",
+       "etiqueta": "h2",
+       "texto": "Puesta a tierra y REBT en la instalación eléctrica del contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "electricidad-014",
+       "html": "<p>Al ser una estructura metálica, el contenedor exige una <strong>puesta a tierra</strong> especialmente cuidada: toda la carcasa de acero se conecta a la pica de tierra para que, ante cualquier derivación, la corriente se desvíe sin riesgo para las personas.</p><p>La instalación eléctrica en contenedores se rige por el Reglamento Electrotécnico de Baja Tensión (REBT), que fija las secciones mínimas de cable, la <strong>protección diferencial</strong> de cada circuito y la separación entre cableado y estructura metálica.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "electricidad-015",
+       "etiqueta": "h3",
+       "texto": "¿Necesito boletín eléctrico para la instalación eléctrica de un contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "electricidad-016",
+       "html": "<p>Sí, siempre que quieras dar de alta el suministro con una compañía eléctrica. El <strong>certificado de instalación</strong> es el documento con el que el instalador autorizado declara que el cuadro, el cableado y la puesta a tierra cumplen el REBT; sin él la compañía no tramita el contrato de luz.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "electricidad-017",
+       "etiqueta": "h2",
+       "texto": "Kit solar fotovoltaico, alternativa a la instalación eléctrica en contenedores sin acometida"
+      },
+      {
+       "t": "texto",
+       "id": "electricidad-018",
+       "html": "<p>Cuando el contenedor se instala en una parcela sin red eléctrica cercana, la opción habitual es un <strong>kit solar fotovoltaico aislado</strong>: placas, regulador de carga y banco de baterías que almacenan la energía para usarla por la noche o en días sin sol. Es la solución que permite tener luz, tomas de corriente y pequeños electrodomésticos en un contenedor autosuficiente, sin depender del tendido eléctrico.</p><p>Si el contenedor ya tiene acometida y el objetivo es reducir el recibo de la luz, se plantea en cambio un kit de <strong>autoconsumo conectado a red</strong>, sin baterías o con acumulación reducida, que vierte el excedente a la instalación general del inmueble.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "electricidad-019",
+       "etiqueta": "h3",
+       "texto": "¿En qué se diferencia un kit solar aislado de uno de autoconsumo en la instalación eléctrica de un contenedor?"
+      },
+      {
+       "t": "texto",
+       "id": "electricidad-020",
+       "html": "<p>El kit aislado funciona sin conexión a la red eléctrica y necesita baterías que guarden la energía para cuando no hay sol, por lo que es la opción para un contenedor alejado de cualquier acometida. El kit de autoconsumo trabaja junto al contrato de luz existente, reduce el consumo facturado y solo necesita baterías si además quieres cubrir cortes de suministro; su tramitación pasa por dar de alta el autoconsumo ante la compañía eléctrica.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "electricidad-021",
+       "etiqueta": "h2",
+       "texto": "Qué decidir antes de la instalación eléctrica en tu contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "electricidad-022",
+       "html": "<p>Antes de encargar el proyecto conviene tener claro el <strong>uso del contenedor</strong>: no es lo mismo iluminar un almacén ligero que dotar de tomas de fuerza un taller o resolver cocina, baño y climatización en una vivienda, porque de ahí depende cuántos circuitos y qué protecciones lleva el cuadro.</p><p>Con el uso decidido, hay que fijar dónde van los <strong>puntos de luz y tomas</strong>, y si se prevé instalar aire acondicionado, calefacción u otros equipos que conviene prever desde el diseño del cuadro y no añadir después.</p><p>Por último, si se opta por energía solar, hay que decidir dónde van las <strong>placas y el inversor</strong>: la cubierta del contenedor suele ser el lugar natural para las placas, mientras que el inversor y las baterías necesitan un espacio interior ventilado y protegido de la intemperie.</p>"
+      },
+      {
+       "t": "encabezado",
+       "id": "electricidad-023",
+       "etiqueta": "h2",
+       "texto": "Instalación eléctrica en oficinas, almacenes y módulos de contenedor"
+      },
+      {
+       "t": "texto",
+       "id": "electricidad-024",
+       "html": "<p>Cada uso de contenedor tiene sus propias necesidades eléctricas. En una <a href=\"/oficinas-contenedores/\">oficina de contenedor</a>, el cuadro se reparte entre puestos de trabajo, iluminación general y climatización. En un almacén como los que ves en <a href=\"/contenedores-de-almacenamiento/\">contenedores de almacenamiento</a>, basta a menudo con iluminación y algún punto de fuerza puntual. En cambio, un <a href=\"/modulos-sanitarios/\">módulo sanitario</a> añade circuitos específicos para el agua caliente y para las zonas húmedas, con su propia protección diferencial reforzada.</p><p>La instalación eléctrica se coordina siempre con el resto de oficios de la obra: el aislamiento de paredes y techo, que puedes consultar en <a href=\"/aislamiento-contenedores/\">aislamiento de contenedores</a>, condiciona por dónde discurre la canalización, y la <a href=\"/cimentacion-casas-contenedores/\">cimentación</a> es la que aloja la toma de tierra del conjunto. Si además vas a instalar alarma o cámaras, conviene resolverlo en la misma visita técnica: lo ves en <a href=\"/seguridad-contenedores/\">seguridad para contenedores</a>. Y si necesitas financiar el conjunto de la obra, incluida la instalación eléctrica, tienes el detalle en <a href=\"/financiacion-casas-contenedores/\">financiación de casas contenedor</a>.</p>"
+      }
+     ]
+    }
+   ],
+   "libre": true
+  },
+  {
+   "t": "seccion",
+   "id": "electricidad-029",
+   "columnas": [
+    {
+     "id": "electricidad-028",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "electricidad-027",
+       "nombre": "formulario-pasos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "menu": "contenedores-maritimos",
+ "ampliacion": {
+  "secciones": [],
+  "faq": {
+   "titulo": "Preguntas frecuentes sobre instalación eléctrica en contenedores",
+   "items": [
+    {
+     "pregunta": "¿Quién puede hacer la instalación eléctrica de un contenedor?",
+     "respuesta": "Solo un instalador eléctrico autorizado, inscrito en el registro de instaladores de la industria correspondiente. Es la única persona habilitada para ejecutar el cuadro y el cableado conforme al REBT y para firmar después el certificado de instalación que la compañía eléctrica exige antes de dar de alta el suministro. Un cableado sin ese respaldo no se puede legalizar ni conectar con garantías."
+    },
+    {
+     "pregunta": "¿Se puede electrificar un contenedor de segunda mano?",
+     "respuesta": "Sí, la instalación eléctrica se proyecta igual en un contenedor nuevo o reutilizado, porque el REBT no distingue por la antigüedad de la estructura. Antes de tender el cableado conviene revisar el estado de la chapa y del suelo, ya que cualquier corrosión afecta al recorrido de las canalizaciones y a la fijación de la puesta a tierra sobre la carcasa metálica."
+    },
+    {
+     "pregunta": "¿La instalación eléctrica se hace antes o después del aislamiento del contenedor?",
+     "respuesta": "Se planifican juntas. El cableado suele tenderse mientras se coloca el aislamiento interior, aprovechando la cámara entre el panel y la chapa para esconder la canalización. Dejar la instalación eléctrica para el final obliga a picar o desmontar acabados ya colocados, así que conviene fijar el plano eléctrico antes de empezar el aislamiento térmico."
+    },
+    {
+     "pregunta": "¿Qué mantenimiento necesita el kit solar fotovoltaico de un contenedor?",
+     "respuesta": "Poco, pero conviene hacerlo con regularidad: limpiar las placas para que el polvo no reste rendimiento, revisar el apriete de las conexiones del regulador y de las baterías, y comprobar la ventilación del espacio donde se alojan estas últimas. En los kits aislados con baterías, además, hay que vigilar su estado de carga en los periodos de menor uso del contenedor."
+    },
+    {
+     "pregunta": "¿Puedo ampliar circuitos más adelante en la instalación eléctrica del contenedor?",
+     "respuesta": "Sí, siempre que el cuadro se haya dimensionado con margen desde el proyecto inicial. Por eso conviene decidir de antemano los usos futuros del contenedor y dejar espacio libre en el cuadro y capacidad de reserva en la línea general; añadir circuitos sin esa previsión obliga a menudo a cambiar el cuadro completo."
+    }
+   ]
+  }
+ }
+}
