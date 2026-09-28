@@ -25,6 +25,8 @@ import { localidadDe } from '../utils/localidades.js';
 import { anadirModelos, anadirFaq, tieneFaq, esCiudad, anadirZonas } from '../utils/comunes.js';
 import { aplicarRenombres } from '../utils/renombres.js';
 import { ordenarTipos } from '../utils/tipos.js';
+import { anadirIntro } from '../utils/intro.js';
+import { esMaritimos } from '../utils/hero.js';
 import { sanearImagenes, existe } from '../utils/imagenes.js';
 // medidas y fondo de cada foto (scripts/analizar-imagenes.mjs): un producto
 // sobre fondo blanco se enseña entero, una foto de verdad se recorta
@@ -71,6 +73,9 @@ ordenarTipos(bloques);
 const localidad = localidadDe(pagina.ruta);
 // página de ciudad (con localidad en el menú o de las que se quedaron fuera)
 const ciudad = esCiudad(pagina.ruta, localidad);
+// en las de ciudad, parrafos bajo el texto de entrada para que acabe a la
+// altura del formulario (src/utils/intro.js)
+if (ciudad) anadirIntro(bloques, { ruta: pagina.ruta, localidad, titulo: pagina.titulo, maritimo: esMaritimos(pagina.ruta, pagina.menu) });
 
 // 2. toda página con rejilla de tipos de casa (planos, permisos, precios,
 //    pasos, ciudades...) enseña los mismos modelos que la portada: se le
