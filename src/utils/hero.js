@@ -1,4 +1,6 @@
 import { aWebp, existe } from './imagenes.js';
+import servicios from '../data/servicios.json';
+import fotos from '../data/imagenes.json';
 
 /* La foto del héroe es SIEMPRE una FOTO LIMPIA elegida a mano, nunca la de
  * la página.
@@ -22,8 +24,28 @@ const SERVICIOS = new Set([
 ]);
 export const esServicio = (ruta) => SERVICIOS.has(ruta);
 
+/* Las paginas de servicio (las 11 de la rejilla de servicios) llevan de fondo
+ * la foto de su tarjeta (src/data/servicios.json, fotos sin texto elegidas una
+ * a una), salvo las que son un producto sobre fondo blanco: esas, bajo el
+ * velo oscuro del heroe, quedan grises, y se quedan con la de siempre. */
+const PROPIAS = Object.fromEntries(servicios.tarjetas
+  .filter((t) => fotos[t.foto] && !fotos[t.foto].blanco)
+  .map((t) => [t.ruta, t]));
+
 /** Ruta de la foto del héroe para una página (o '' si no está en public/). */
 export function fotoHero(ruta) {
+  const propia = PROPIAS[ruta];
+  if (propia && existe(propia.foto)) return aWebp(propia.foto);
   const elegida = (esMaritimos(ruta) || esServicio(ruta)) && existe(FOTO_MARITIMOS) ? FOTO_MARITIMOS : FOTO_CASAS;
   return existe(elegida) ? aWebp(elegida) : '';
+}
+
+/** alt y encuadre de la foto propia de una pagina de servicio (o null). */
+export function detalleHero(ruta) {
+  const propia = PROPIAS[ruta];
+  if (!propia || !existe(propia.foto)) return null;
+  return {
+    alt: propia.alt,
+    estilo: [propia.posicion && `object-position:${propia.posicion}`, propia.bordeBlanco && 'transform:scale(1.04)'].filter(Boolean).join(';') || undefined,
+  };
 }

@@ -8,10 +8,10 @@
  "palabraClave": "pintura para contenedores",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2022/02/CASA-RENDER-FACHADA.jpeg",
-  "alt": "Render de fachada de una casa contenedor con acabado de pintura en color RAL",
-  "ancho": 1280,
-  "alto": 720
+  "src": "/wp-content/uploads/2021/07/casa-contenedores-temporales.jpg",
+  "alt": "Pintura de contenedores terminada: casa de dos contenedores pintados en naranja óxido, con las puertas originales en verde oliva",
+  "ancho": 800,
+  "alto": 483
  },
  "faq": [],
  "cuerpo": "",
@@ -28,8 +28,8 @@
       {
        "t": "imagen",
        "id": "pintura-cont-001",
-       "src": "/wp-content/uploads/2022/02/CASA-RENDER-FACHADA.jpeg",
-       "alt": "Render de fachada de una casa contenedor con acabado de pintura en color RAL"
+       "src": "/wp-content/uploads/2021/07/casa-contenedores-temporales.jpg",
+       "alt": "Pintura de contenedores terminada: casa de dos contenedores pintados en naranja óxido, con las puertas originales en verde oliva"
       }
      ]
     }

@@ -8,10 +8,10 @@
  "palabraClave": "seguridad para contenedores",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
-  "alt": "Contenedores marítimos apilados, punto de partida para reforzar su seguridad con candado, reja, alarma y cámara",
-  "ancho": 1024,
-  "alto": 1024
+  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-40-pies.jpg",
+  "alt": "Puertas de contenedor de 40 pies con barras de cierre: seguridad de contenedores",
+  "ancho": 810,
+  "alto": 450
  },
  "faq": [],
  "cuerpo": "",
@@ -28,8 +28,8 @@
       {
        "t": "imagen",
        "id": "seguridad-co-001",
-       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
-       "alt": "Contenedores marítimos apilados, punto de partida para reforzar su seguridad con candado, reja, alarma y cámara"
+       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-40-pies.jpg",
+       "alt": "Puertas de contenedor de 40 pies con barras de cierre: seguridad de contenedores"
       }
      ]
     }

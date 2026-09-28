@@ -1,0 +1,95 @@
+---
+/**
+ * Rejilla "Servicios para contenedores": una tarjeta con foto, titulo, texto
+ * corto y enlace por cada servicio. Va en la portada (con su entradilla) y en
+ * /servicios/ (sin entradilla y sin la tarjeta de la propia pagina).
+ * Los textos y las fotos salen de src/data/servicios.json: cada texto resume
+ * lo que dice la pagina de ese servicio, sin cifras.
+ */
+import datos from '../data/servicios.json';
+import fotos from '../data/imagenes.json';
+import { aWebp, existe } from '../utils/imagenes.js';
+
+const { ruta = '/' } = Astro.props;
+const enServicios = ruta === '/servicios/';
+const cabecera = enServicios ? datos.servicios : datos.home;
+// un producto sobre fondo blanco se enseña entero; una foto se recorta (con
+// su punto de recorte si lo trae) y, si tiene filete blanco, se amplia un poco
+const tarjetas = datos.tarjetas
+  .filter((t) => t.ruta !== ruta)
+  .map((t) => ({
+    ...t,
+    src: existe(t.foto) ? aWebp(t.foto) : '',
+    blanco: Boolean(fotos[t.foto]?.blanco),
+    estilo: [t.posicion && `object-position:${t.posicion}`, t.bordeBlanco && 'transform:scale(1.04)'].filter(Boolean).join(';') || undefined,
+  }));
+---
+
+<section class="servicios-cont" aria-labelledby="servicios-cont-titulo">
+  <p class="servicios-cont__antetitulo">{cabecera.antetitulo}</p>
+  <h2 id="servicios-cont-titulo" class="servicios-cont__titulo">{cabecera.h2}</h2>
+  {!enServicios && datos.home.intro && <div class="servicios-cont__intro" set:html={datos.home.intro} />}
+
+  <ul class="servicios-cont__lista">
+    {tarjetas.map((t) => (
+      <li class="servicios-cont__tarjeta">
+        {t.src && (
+          <a class:list={['servicios-cont__foto', t.blanco && 'servicios-cont__foto--blanco']} href={t.ruta} tabindex="-1">
+            <img src={t.src} alt={t.alt} style={t.estilo} loading="lazy" decoding="async" width="640" height="400" />
+          </a>
+        )}
+        <div class="servicios-cont__cuerpo">
+          <h3 class="servicios-cont__nombre"><a href={t.ruta}>{t.titulo}</a></h3>
+          <div class="servicios-cont__texto" set:html={t.texto} />
+          <a class="servicios-cont__enlace" href={t.ruta}>{t.enlace}</a>
+        </div>
+      </li>
+    ))}
+  </ul>
+
+  {!enServicios && (
+    <p class="servicios-cont__todos"><a href="/servicios/">Ver todos los servicios para contenedores</a></p>
+  )}
+</section>
+
+<style>
+  .servicios-cont { margin: 8px 0 32px; }
+  .servicios-cont__antetitulo {
+    margin: 0 0 6px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--verde-osc);
+  }
+  .servicios-cont__titulo { margin: 0 0 14px; font-size: clamp(22px, 2.6vw, 30px); }
+  .servicios-cont__intro { max-width: 75ch; margin: 0 0 22px; }
+  .servicios-cont__intro :global(p) { margin: 0 0 10px; }
+  .servicios-cont__lista {
+    list-style: none; margin: 0; padding: 0;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px;
+  }
+  .servicios-cont__tarjeta {
+    display: flex; flex-direction: column;
+    background: #fff; border: 1px solid var(--linea); border-radius: var(--radio-l); overflow: hidden;
+    transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+  }
+  .servicios-cont__tarjeta:hover { transform: translateY(-2px); box-shadow: var(--sombra-2); border-color: var(--verde); }
+  .servicios-cont__foto { display: block; overflow: hidden; }
+  .servicios-cont__foto img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; display: block; }
+  .servicios-cont__foto--blanco { background: #fff; border-bottom: 1px solid var(--linea); }
+  .servicios-cont__foto--blanco img { object-fit: contain; padding: 8px; box-sizing: border-box; }
+  .servicios-cont__cuerpo { display: flex; flex-direction: column; gap: 8px; flex: 1; padding: 14px 16px 16px; }
+  .servicios-cont__nombre { margin: 0; font-size: 18px; line-height: 1.25; }
+  .servicios-cont__nombre a { color: var(--ink); text-decoration: none; }
+  .servicios-cont__nombre a:hover { color: var(--verde-osc); }
+  .servicios-cont__texto :global(p) { margin: 0; font-size: 14.5px; color: var(--texto); }
+  .servicios-cont__enlace {
+    margin-top: auto; padding-top: 4px;
+    font-weight: 600; font-size: 14px; color: var(--verde-osc); text-decoration: none;
+  }
+  .servicios-cont__enlace::after { content: ' →'; }
+  .servicios-cont__enlace:hover { text-decoration: underline; }
+  .servicios-cont__todos { margin: 20px 0 0; text-align: center; }
+  .servicios-cont__todos a {
+    display: inline-block; padding: 12px 22px; border-radius: 999px;
+    background: var(--verde); color: #fff; font-weight: 600; text-decoration: none;
+  }
+  .servicios-cont__todos a:hover { background: var(--verde-osc); }
+</style>

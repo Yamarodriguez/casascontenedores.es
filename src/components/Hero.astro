@@ -12,7 +12,7 @@
  * pase los números reales.
  */
 import site from '../data/site.json';
-import { fotoHero, esMaritimos, esServicio } from '../utils/hero.js';
+import { fotoHero, detalleHero, esMaritimos, esServicio } from '../utils/hero.js';
 
 /* El titular del heroe es el <h1> de la pagina: su titulo propio ("Casas
  * Contenedores Madrid", "Casa con un Contenedor"…), asi cambia en cada
@@ -24,6 +24,8 @@ const foto = fotoHero(ruta);
 const maritimos = esMaritimos(ruta);
 // las paginas de servicios para contenedores (pintura, aislamiento…)
 const servicio = esServicio(ruta);
+// alt y encuadre de la foto propia del servicio, si la tiene
+const propia = detalleHero(ruta);
 
 const antetitulo = servicio ? 'Servicios para contenedores · Toda España' : maritimos
   ? (localidad ? `Contenedores marítimos · ${localidad}` : 'Venta y alquiler · Toda España')
@@ -50,7 +52,8 @@ const fichas = servicio
     <img
       class="hero-foto"
       src={foto}
-      alt={maritimos ? 'Contenedor marítimo' : 'Casa construida con contenedores marítimos'}
+      alt={propia ? propia.alt : maritimos || servicio ? 'Contenedor marítimo' : 'Casa construida con contenedores marítimos'}
+      style={propia?.estilo}
       fetchpriority="high"
       decoding="async"
     />

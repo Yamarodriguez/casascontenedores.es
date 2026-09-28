@@ -2839,6 +2839,23 @@
      "anchoBase": 100
     }
    ]
+  },
+  {
+   "t": "seccion",
+   "id": "servicios-home",
+   "columnas": [
+    {
+     "id": "servicios-home-col",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "servicios-home-comp",
+       "nombre": "servicios-contenedores"
+      }
+     ]
+    }
+   ]
   }
  ],
  "menu": "",
@@ -2913,5 +2930,12 @@
     }
    ]
   }
- }
+ },
+ "alFinal": [
+  "servicios-home",
+  "26fa891",
+  "b973642",
+  "f155b67",
+  "dc024e3"
+ ]
 }

@@ -8,10 +8,10 @@
  "palabraClave": "instalación eléctrica en contenedores",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2023/08/interior-casa-contenedor-1024x576.jpg",
-  "alt": "instalación eléctrica en contenedores",
-  "ancho": 1024,
-  "alto": 576
+  "src": "/wp-content/uploads/2021/08/oficinas-de-contenedores-maritimos.jpg",
+  "alt": "Oficina modular iluminada de noche, con focos empotrados encendidos y dos puestos de trabajo: electricidad para contenedores",
+  "ancho": 810,
+  "alto": 450
  },
  "faq": [],
  "cuerpo": "",
@@ -28,8 +28,8 @@
       {
        "t": "imagen",
        "id": "electricidad-001",
-       "src": "/wp-content/uploads/2023/08/interior-casa-contenedor-1024x576.jpg",
-       "alt": "instalación eléctrica en contenedores"
+       "src": "/wp-content/uploads/2021/08/oficinas-de-contenedores-maritimos.jpg",
+       "alt": "Oficina modular iluminada de noche, con focos empotrados encendidos y dos puestos de trabajo: electricidad para contenedores"
       }
      ]
     }

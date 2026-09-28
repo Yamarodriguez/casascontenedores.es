@@ -117,120 +117,137 @@
   },
   {
    "t": "seccion",
-   "id": "servicios-030",
+   "id": "servicios-011",
    "columnas": [
     {
-     "id": "servicios-029",
+     "id": "servicios-010",
+     "ancho": 100,
+     "elementos": [
+      {
+       "t": "componente",
+       "id": "servicios-009",
+       "nombre": "servicios-contenedores"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "seccion",
+   "id": "servicios-033",
+   "columnas": [
+    {
+     "id": "servicios-032",
      "ancho": 100,
      "elementos": [
       {
        "t": "encabezado",
-       "id": "servicios-009",
+       "id": "servicios-012",
        "etiqueta": "h2",
        "texto": "Servicio de pintura y aislamiento para contenedores marítimos"
       },
       {
        "t": "texto",
-       "id": "servicios-010",
+       "id": "servicios-013",
        "html": "<p>La pintura revisa antes el estado del acero corten: se lija y se trata el óxido en cortes y soldaduras, se aplica una capa de <strong>tratamiento anticorrosivo</strong> y el acabado final, y se repite en las zonas donde el uso o la intemperie desgastan la protección exterior. Consulta el proceso completo en <a href=\"/pintura-contenedores/\">pintura de contenedores</a>.</p><p>El <strong>aislamiento térmico</strong> se dimensiona según el DB-HE del CTE, combinando paneles interiores o exteriores con barrera de vapor para evitar condensaciones sobre el acero. Revisa qué opción encaja con tu proyecto en <a href=\"/aislamiento-contenedores/\">aislamiento de contenedores</a>.</p>"
       },
       {
        "t": "encabezado",
-       "id": "servicios-011",
+       "id": "servicios-014",
        "etiqueta": "h2",
        "texto": "Servicio de electricidad y energía solar para contenedores"
       },
       {
        "t": "texto",
-       "id": "servicios-012",
+       "id": "servicios-015",
        "html": "<p>La instalación eléctrica de un contenedor se proyecta conforme al REBT (Reglamento Electrotécnico de Baja Tensión), con el cuadro de protecciones y las tomas necesarias según el uso residencial o de obra. Junto a la red convencional valoramos <strong>paneles solares</strong> como apoyo cuando la parcela no tiene un punto de suministro cercano. Amplía el detalle en <a href=\"/electricidad-contenedores/\">electricidad para contenedores</a>.</p>"
       },
       {
        "t": "encabezado",
-       "id": "servicios-013",
+       "id": "servicios-016",
        "etiqueta": "h3",
        "texto": "¿Qué necesita el servicio de electricidad para contenedores antes de dar de alta la luz?"
       },
       {
        "t": "texto",
-       "id": "servicios-014",
+       "id": "servicios-017",
        "html": "<p>Necesita un boletín eléctrico firmado por un instalador autorizado conforme al REBT, que certifique que el cuadro, la toma de tierra y el cableado cumplen la normativa antes de solicitar el alta del suministro a la compañía. Sin ese boletín no se puede dar de alta la luz, tanto si el contenedor se conecta a la red general como si además incorpora paneles solares de apoyo.</p>"
       },
       {
        "t": "encabezado",
-       "id": "servicios-015",
+       "id": "servicios-018",
        "etiqueta": "h2",
        "texto": "Servicios para contenedores marítimos: seguridad frente a robos"
       },
       {
        "t": "texto",
-       "id": "servicios-016",
+       "id": "servicios-019",
        "html": "<p>Un contenedor aislado en una parcela o en una nave es un objetivo frecuente de robo, así que reforzamos su seguridad con varias capas independientes: <strong>cerraduras antirrobo</strong> que sustituyen el pestillo original de las puertas, rejas en huecos de ventanas y accesos, y sistemas de alarma con cámara conectados a tu móvil. Revisa las opciones en <a href=\"/seguridad-contenedores/\">seguridad para contenedores</a>.</p>"
       },
       {
        "t": "encabezado",
-       "id": "servicios-017",
+       "id": "servicios-020",
        "etiqueta": "h3",
        "texto": "¿Qué sistemas incluye el servicio de seguridad para contenedores frente a robos?"
       },
       {
        "t": "texto",
-       "id": "servicios-018",
+       "id": "servicios-021",
        "html": "<p>Incluye cerraduras antirrobo que sustituyen el pestillo original de las puertas, rejas en ventanas o en huecos abiertos en la chapa, y una alarma con cámara 4G que avisa al móvil sin depender del wifi de la parcela. Cada capa cubre un punto distinto: la cerradura retrasa la entrada, la reja refuerza el hueco más débil y la cámara documenta lo ocurrido si la primera barrera falla.</p>"
       },
       {
        "t": "encabezado",
-       "id": "servicios-019",
+       "id": "servicios-022",
        "etiqueta": "h2",
        "texto": "Servicio de reparación, transformación y traslado de contenedores"
       },
       {
        "t": "texto",
-       "id": "servicios-020",
+       "id": "servicios-023",
        "html": "<p>La <strong>reparación estructural</strong> trata golpes, perforaciones y corrosión avanzada en el acero corten, sustituyendo chapa cuando el espesor original se ha perdido y comprobando que el suelo de contrachapado marino siga firme. Consulta el alcance en <a href=\"/reparacion-contenedores/\">reparación de contenedores</a>.</p><p>Si ya tienes un contenedor y quieres darle otro uso, la <strong>transformación del contenedor</strong> abre huecos reforzando el marco, distribuye tabiques interiores y lo prepara para instalaciones, sin necesidad de comprar una unidad nueva; cuando el uso final es residencial, el proyecto sigue sujeto al mismo CTE y a la misma licencia de obra que una vivienda convencional. Revisa el proceso en <a href=\"/transformacion-contenedores/\">transformación de contenedores</a>.</p><p>El <strong>traslado entre parcelas</strong> mueve el contenedor ya instalado hasta su ubicación definitiva con camión pluma o grúa, según el acceso del terreno, algo distinto del transporte desde el depósito de origen. Amplía el detalle en <a href=\"/traslado-contenedores/\">traslado de contenedores</a>.</p>"
       },
       {
        "t": "encabezado",
-       "id": "servicios-021",
+       "id": "servicios-024",
        "etiqueta": "h3",
        "texto": "¿Qué diferencia hay entre el servicio de transformación y el de traslado de contenedores?"
       },
       {
        "t": "texto",
-       "id": "servicios-022",
+       "id": "servicios-025",
        "html": "<p>La transformación cambia el uso del contenedor abriendo huecos y preparando instalaciones, mientras que el traslado solo cambia su ubicación de una parcela a otra sin tocar la estructura. Puedes pedir uno, el otro o los dos servicios encadenados, según si el contenedor ya está donde lo necesitas o hay que moverlo antes de intervenir en él.</p>"
       },
       {
        "t": "encabezado",
-       "id": "servicios-023",
+       "id": "servicios-026",
        "etiqueta": "h2",
        "texto": "Servicio de tasación y estudio de parcela para contenedores"
       },
       {
        "t": "texto",
-       "id": "servicios-024",
+       "id": "servicios-027",
        "html": "<p>La <strong>tasación de contenedores usados</strong> valora el estado de la estructura, la placa CSC, el suelo y la estanqueidad antes de venderlo, comprarlo de segunda mano o usarlo como garantía de una operación. Consulta cómo se hace en <a href=\"/tasacion-contenedores/\">tasación de contenedores</a>.</p><p>El <strong>estudio de parcela</strong> revisa el acceso para el camión y la grúa, la pendiente y la orientación del terreno, y las restricciones urbanísticas antes de decidir dónde colocar el contenedor, un paso previo que conviene resolver junto con los permisos municipales.</p>"
       },
       {
        "t": "encabezado",
-       "id": "servicios-025",
+       "id": "servicios-028",
        "etiqueta": "h3",
        "texto": "¿Qué revisa el servicio de tasación para contenedores marítimos usados?"
       },
       {
        "t": "texto",
-       "id": "servicios-026",
+       "id": "servicios-029",
        "html": "<p>Revisa la placa CSC y el número de serie, el estado del suelo de contrachapado marino, la estanqueidad de paredes y techo, y si hay corrosión que afecte a la estructura portante en las cantoneras. Con esos datos se fija un valor realista, tanto si vas a comprar como si vas a vender la unidad.</p>"
       },
       {
        "t": "encabezado",
-       "id": "servicios-027",
+       "id": "servicios-030",
        "etiqueta": "h2",
        "texto": "Otros servicios de contenedores y cómo pedir presupuesto"
       },
       {
        "t": "texto",
-       "id": "servicios-028",
+       "id": "servicios-031",
        "html": "<p>Además de estos servicios, seguimos ofreciendo el transporte del contenedor hasta tu parcela, el alquiler para necesidades temporales, la compraventa de unidades nuevas y usadas, los planos y renders para visualizar el proyecto, y la <strong>gestión de permisos</strong> ante el ayuntamiento. Cada uno mantiene su propia ficha, sin cambios respecto a lo que ya conocías.</p><p>Para pedir presupuesto de cualquiera de estos servicios, indícanos el contenedor de partida (medida, estado y si ya lo tienes o hay que comprarlo), la dirección donde vas a trabajar y el uso final que le vas a dar. Con esos datos ajustamos el alcance del servicio, qué se revisa antes de empezar y cómo se coordina con el resto de la obra si hay varios servicios encadenados.</p>"
       }
      ]

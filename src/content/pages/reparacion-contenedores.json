@@ -8,10 +8,10 @@
  "palabraClave": "reparación de contenedores",
  "noindex": false,
  "hero": {
-  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
-  "alt": "contenedores marítimos de segunda mano antes de su reparación",
-  "ancho": 1024,
-  "alto": 1024
+  "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-open-top.jpg",
+  "alt": "Contenedor con las puertas abiertas y el suelo de madera a la vista, zonas que se revisan en la reparación de contenedores",
+  "ancho": 810,
+  "alto": 450
  },
  "faq": [],
  "cuerpo": "",
@@ -28,8 +28,8 @@
       {
        "t": "imagen",
        "id": "reparacion-c-001",
-       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-segunda-mano-1024x1024.jpg",
-       "alt": "contenedores marítimos de segunda mano antes de su reparación"
+       "src": "/wp-content/uploads/2021/08/Contenedores-maritimos-open-top.jpg",
+       "alt": "Contenedor con las puertas abiertas y el suelo de madera a la vista, zonas que se revisan en la reparación de contenedores"
       }
      ]
     }

@@ -11,12 +11,14 @@ import Formulario from '../components/Formulario.astro';
 import CalculadoraHipoteca from '../components/CalculadoraHipoteca.astro';
 import FormularioPasos from '../components/FormularioPasos.astro';
 import CatalogoModelos from '../components/CatalogoModelos.astro';
+import ServiciosContenedores from '../components/ServiciosContenedores.astro';
 
 // componentes que una pagina puede pedir con un elemento { t: 'componente', nombre }
 const COMPONENTES = {
   'calculadora-hipoteca': CalculadoraHipoteca,
   'formulario-pasos': FormularioPasos,
   'catalogo-modelos': CatalogoModelos,
+  'servicios-contenedores': ServiciosContenedores,
 };
 import { pintar, seccionAmpliacion, rebajarH1 } from '../utils/render.js';
 import { localidadDe } from '../utils/localidades.js';
@@ -84,6 +86,13 @@ if (ampliacion?.seccion) bloques.push(ampliacion.seccion);
 anadirZonas(bloques, pagina.ruta, titulos);
 anadirFaq(bloques, conAcordeon ? ampliacion?.faq || [] : [], { conPortada: ciudad });
 const faq = [...(pagina.faq || []), ...(ampliacion?.faq || [])].map((i) => ({ ...i }));
+// las secciones que la pagina pide llevar al final (campo "alFinal": sus id,
+// en orden), por detras de la ampliacion: en la portada, los servicios y la
+// lista de provincias "Construcciones de casas con contenedores en España"
+for (const id of pagina.alFinal || []) {
+  const i = bloques.findIndex((b) => b.id === id);
+  if (i >= 0) bloques.push(...bloques.splice(i, 1));
+}
 
 // 4. encabezados reescritos a propósito en algunas páginas (planos,
 //    permisos, pasos: src/data/encabezados.json), sobre todo lo anterior
