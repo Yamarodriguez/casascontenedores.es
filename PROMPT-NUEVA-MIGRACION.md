@@ -1,5 +1,10 @@
 # Prompt para migrar una web de WordPress a Astro
 
+> **Versión antigua (17-09-2026).** La buena es `GUIA-MIGRACION-PASO-A-PASO.md`:
+> incluye estas reglas, las fases de SEO, formularios, velocidad y cambio de
+> dominio, y el mensaje para empezar (parte 6). Este fichero se conserva
+> como referencia.
+
 Copia todo lo que hay debajo de la línea y pégalo en una sesión nueva de Claude,
 rellenando lo que está entre corchetes. Adjunta el export XML de WordPress.
 
