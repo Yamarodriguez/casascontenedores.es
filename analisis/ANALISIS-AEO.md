@@ -152,6 +152,27 @@ escritos uno a uno para que quede clara la decisión.
 9. Permiso para reescribir las descripciones antiguas.
 10. Alta en Bing Webmaster Tools (con tu cuenta).
 
+### Hecho el 9-10-2026 (puntos 1 a 5)
+
+- `robots.txt`: cada robot de IA nombrado; entran todos menos Bytespider.
+- `/llms.txt`: se genera solo en cada compilación (`src/pages/llms.txt.js`)
+  a partir de los menús y las páginas. Repite las descripciones tal cual están,
+  así que mejorará cuando se reescriban (punto 9).
+- Fechas reales: `src/data/fechas.json`, calculado por `scripts/fechas.mjs`
+  (va dentro de `npm run todo`). Una página solo cambia de fecha cuando cambia
+  su texto, su título, su descripción o sus enlaces. Arranque: 28-9-2026 para
+  las páginas de contenido (el día que se les añadió el texto SEO) y 16-9-2026
+  para las legales. Las usan el sitemap y el `dateModified` de cada página.
+  **Hay que subir `fechas.json` con cada commit que cambie contenido**: Netlify
+  no lo recalcula, a propósito, para que las fechas no se muevan solas.
+- IndexNow: `netlify/plugins/indexnow/` avisa a Bing de las páginas cambiadas
+  después de cada despliegue a producción. La clave está en `site.json` y en
+  `public/<clave>.txt`. El primer despliegue avisará de las 283 (todas
+  cambian de fecha); los siguientes, solo de las que cambien.
+- Empresa: logo, Valencia, zona de servicio España y un `@id` que enlaza la web
+  y cada página con la empresa. Los perfiles en redes van en
+  `site.json -> perfiles` cuando los tengamos.
+
 Después de publicar, se puede comprobar cada mes preguntando a ChatGPT,
 Perplexity y Gemini cosas como «¿cuánto cuesta una casa contenedor en
 Valencia?» y apuntando si nos citan.
