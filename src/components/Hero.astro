@@ -23,6 +23,8 @@ const foto = fotoHero(ruta, menu);
 // la de casas va en varios anchos: el navegador elige la que necesita
 const srcset = srcsetHero(ruta, menu);
 const maritimos = esMaritimos(ruta, menu);
+// en la propia pagina de presupuesto el boton apuntaria a si misma: no se pinta
+const enPresupuesto = ruta === '/presupuesto-casas-contenedores/';
 // las paginas de servicios para contenedores (pintura, aislamiento…)
 const servicio = esServicio(ruta);
 // alt y encuadre de la foto propia del servicio, si la tiene
@@ -64,7 +66,7 @@ const fichas = servicio
     <h1 class="hero-titulo">{titulo}</h1>
     <p class="hero-sub">{entradilla}</p>
     <div class="hero-botones">
-      <a class="hero-boton" href="/presupuesto-casas-contenedores/">Pedir presupuesto</a>
+      {!enPresupuesto && <a class="hero-boton" href="/presupuesto-casas-contenedores/">Pedir presupuesto</a>}
       {servicio
         ? <a class="hero-boton hero-boton--s" href="/servicios/">Todos los servicios</a>
         : <a class="hero-boton hero-boton--s" href="/precios/">Ver precios</a>}
