@@ -32,11 +32,10 @@
 /author/*                     /                             301!
 /20*/*                        /                             301!
 
-# --- enlaces de WordPress por query (?p=123, ?page_id=..., ?s=busqueda).
-# Netlify no admite "?" en la ruta: los parametros van como segunda columna.
-/                             p=:p                          /                             301!
-/                             page_id=:id                   /                             301!
-/                             s=:s                          /                             301!
+# --- enlaces de WordPress por query (?p=123, ?page_id=..., ?s=busqueda)
+# NO se redirigen: Netlify conserva el parametro al redirigir a "/" y la regla
+# entraba en bucle (/?p=1 -> /?p=1 -> ...). Sin regla cargan la portada con
+# 200 y su canonical apunta a https://casascontenedores.es/, que basta.
 
 # --- errata del contenido original (120 enlaces internos a /casa-contendor-20-pies/)
 /casa-contendor-20-pies/      /casa-contenedor-20-pies/     301!
