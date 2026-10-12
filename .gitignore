@@ -16,3 +16,7 @@ desktop.ini
 # Hojas de estilo generadas: las monta "npm run css" desde css-original/
 public/css/
 capturas-tmp/
+
+# Claude Code: worktrees y ajustes locales de cada equipo
+.claude/worktrees/
+.claude/settings.local.json

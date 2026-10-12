@@ -5,10 +5,8 @@ export default defineConfig({
   site: 'https://casascontenedores.es',
   trailingSlash: 'always',
   build: { format: 'directory' },
-  // el contenido original enlaza a /casa-contendor-20-pies/ (errata) desde
-  // 120 paginas; el contenido no se toca, asi que la ruta con errata lleva a
-  // la buena
-  redirects: { '/casa-contendor-20-pies/': '/casa-contenedor-20-pies/' },
+  // la errata /casa-contendor-20-pies/ (120 enlaces del contenido original)
+  // se redirige con un 301 real en public/_redirects
   integrations: [
     sitemap({
       lastmod: new Date(),

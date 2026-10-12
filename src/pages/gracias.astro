@@ -1,5 +1,8 @@
 ---
 import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+
+const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto || '')}`;
 ---
 
 <Base
@@ -11,6 +14,6 @@ import Base from '../layouts/Base.astro';
   noindex={true}
 >
   <p>Gracias por escribirnos. Te contestamos lo antes posible.</p>
-  <p>Si prefieres que sea ya, escríbenos por <a href="/">WhatsApp</a> con el botón verde de la esquina.</p>
+  <p>Si prefieres que sea ya, escríbenos por <a href={wa} rel="nofollow noopener" target="_blank">WhatsApp</a> o con el botón verde de la esquina.</p>
   <p><a class="boton boton-primario" href="/">Volver a la portada</a></p>
 </Base>

@@ -30,20 +30,18 @@
 /category/*                   /                             301!
 /tag/*                        /                             301!
 /author/*                     /                             301!
-/?p=*                         /                             301!
 /20*/*                        /                             301!
 
-# --- busqueda interna de WordPress
-/?s=*                         /                             301!
+# --- enlaces de WordPress por query (?p=123, ?page_id=..., ?s=busqueda).
+# Netlify no admite "?" en la ruta: los parametros van como segunda columna.
+/                             p=:p                          /                             301!
+/                             page_id=:id                   /                             301!
+/                             s=:s                          /                             301!
+
+# --- errata del contenido original (120 enlaces internos a /casa-contendor-20-pies/)
+/casa-contendor-20-pies/      /casa-contenedor-20-pies/     301!
 
 # --- el subdominio de Netlify manda al dominio bueno
-#
-# DESACTIVADO A PROPOSITO. Mientras casascontenedores.es apunte al hosting
-# viejo, esta regla manda las visitas del subdominio a la web ANTIGUA, asi que
-# la web nueva no se puede ni mirar.
-#
-# SE ACTIVA EL DIA DEL CAMBIO DE DNS: quita la almohadilla de la linea de
-# abajo, junto con el bloque X-Robots-Tag de netlify.toml. Asi el subdominio
-# deja de competir con el dominio en Google.
-#
-# https://casascontenedores.netlify.app/*  https://casascontenedores.es/:splat  301!
+# Activado tras el cambio de DNS (el dominio ya lo sirve Netlify): asi el
+# subdominio no compite con casascontenedores.es en Google.
+https://casascontenedores.netlify.app/*  https://casascontenedores.es/:splat  301!

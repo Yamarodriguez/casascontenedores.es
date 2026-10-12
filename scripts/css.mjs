@@ -18,12 +18,11 @@
  *     post-ID.css                      <-- la hoja de ESTA pagina
  *     18..26  widgets de Elementor + fuentes
  *
- * Por eso se generan DOS hojas comunes y la de la pagina va en medio:
- *     public/css/comunes.css        (01..17)
- *     public/css/post-ID.css        (la de la pagina)
- *     public/css/comunes-final.css  (18..26)
- * Si se juntara todo antes de la pagina, reglas como las de 18-widgets.css
- * dejarian de ganar donde deben y el resultado no seria identico al original.
+ * Antes se generaban comunes.css (01..17), una post-ID.css por pagina y
+ * comunes-final.css (18..26). Con el rediseno (src/styles/diseno.css) la web
+ * solo carga comunes-final.css (Base.astro), asi que es la UNICA que se
+ * genera: las otras ~260 hojas (unos 18 MB) se publicaban sin que ninguna
+ * pagina las pidiera. css-original/ se conserva entero como referencia.
  *
  * Tambien se corrigen las direcciones absolutas (https://casascontenedores.es/…)
  * que llevan dentro las hojas de fuentes, para que apunten a los ficheros
@@ -194,29 +193,12 @@ function juntar(lista) {
   }).join('\n');
 }
 
-const primeras = comunes.filter((f) => Number(f.slice(0, 2)) <= CORTE);
-const ultimas = comunes.filter((f) => Number(f.slice(0, 2)) > CORTE);
+// solo las hojas que van despues del corte: es lo unico que carga la web
+const ultimas = comunes.filter((f) => /^\d\d-/.test(f) && Number(f.slice(0, 2)) > CORTE);
 
-for (const [nombre, lista] of [['comunes.css', primeras], ['comunes-final.css', ultimas]]) {
-  const texto = juntar(lista);
-  fs.writeFileSync(path.join(DESTINO, nombre), texto);
-  despues += texto.length;
-  console.log(`${nombre.padEnd(18)} ${String(lista.length).padStart(2)} hojas  ${Math.round(texto.length / 1024)} KB`);
-}
-
-const dirPaginas = path.join(ORIGEN, 'paginas');
-let n = 0;
-if (fs.existsSync(dirPaginas)) {
-  for (const f of fs.readdirSync(dirPaginas)) {
-    if (!f.endsWith('.css')) continue;
-    const css = rutasPropias(fs.readFileSync(path.join(dirPaginas, f), 'utf8'));
-    antes += css.length;
-    const salida = voc ? limpiar(css, voc) : css;
-    fs.writeFileSync(path.join(DESTINO, f), salida);
-    despues += salida.length;
-    n++;
-  }
-}
-console.log(`hojas de pagina:   ${n}`);
+const texto = juntar(ultimas);
+fs.writeFileSync(path.join(DESTINO, 'comunes-final.css'), texto);
+despues += texto.length;
+console.log(`comunes-final.css  ${String(ultimas.length).padStart(2)} hojas  ${Math.round(texto.length / 1024)} KB`);
 console.log(`\ntotal: ${Math.round(antes / 1024)} KB -> ${Math.round(despues / 1024)} KB` +
   (antes ? ` (${Math.round((1 - despues / antes) * 100)} % menos)` : ''));
