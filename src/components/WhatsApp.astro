@@ -1,6 +1,5 @@
 ---
-import site from '../data/site.json';
-const enlace = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto)}`;
+import { WHATSAPP as enlace } from '../utils/site.js';
 ---
 
 <a id="whatsapp" href={enlace} target="_blank" rel="noopener" aria-label="Escríbenos por WhatsApp">

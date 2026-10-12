@@ -17,6 +17,7 @@
  * está en la tabla, no hay localidad y la franja usa el texto general.
  */
 import menus from '../data/menus.json';
+import { fichaDe } from './paginas.js';
 
 /** Palabras del producto que van delante del nombre del sitio. */
 const PRODUCTO = new Set([
@@ -61,7 +62,8 @@ const TABLA = (() => {
   return t;
 })();
 
-/** Localidad de una ruta, o cadena vacía si esa página no es de localidad. */
+/** Localidad de una ruta, o cadena vacía si esa página no es de localidad.
+ *  Manda el campo "localidad" del JSON de la página, si lo lleva. */
 export function localidadDe(ruta) {
-  return TABLA.get(ruta) || '';
+  return fichaDe(ruta).localidad || TABLA.get(ruta) || '';
 }

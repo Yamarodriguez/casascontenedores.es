@@ -86,6 +86,31 @@ formulario. Del contenido no toca nada.
 6. **No ejecutes `extraer.py`** salvo que reexportes el XML: sobrescribe
    `src/content/pages/` entero.
 
+## Añadir una página de ciudad
+
+Basta con **un archivo**: `src/content/pages/<slug>.json`. Copia una página de
+ciudad parecida (por ejemplo `contenedores-maritimos-pontevedra.json`), cambia
+`slug`, `ruta`, `titulo`, `h1`, `tituloSeo`, `descripcion`, `palabraClave` y el
+texto, y añade estos tres campos:
+
+```json
+"familia": "maritimos",
+"localidad": "Vigo",
+"provincia": "pontevedra"
+```
+
+- `familia`: `casas`, `maritimos` o `servicio`. Decide la cabecera de la foto, el cierre y la rejilla de servicios.
+- `localidad`: el nombre tal como se ve en la web. La cabecera y el cierre la nombran, y la página recibe la intro, los modelos y las preguntas de las de ciudad.
+- `provincia`: la clave de `src/data/zonas.json`. La página entra sola en los enlaces «otras zonas de…» de su provincia.
+
+No hace falta tocar `menus.json`, `zonas.json` ni las listas del código
+(`src/utils/paginas.js` lo explica). Opcional: el número de párrafos de intro
+en `src/data/intro-ciudades.json` → `parrafos` y la entrada en el menú de
+Provincias. Después, `npm run build` y `npm run validar`.
+
+Los datos del negocio que usan varios componentes (WhatsApp, logo, página de
+presupuesto) están en `src/data/site.json` y se leen desde `src/utils/site.js`.
+
 ## Estado
 
 | | |

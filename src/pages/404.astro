@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import { PRESUPUESTO } from '../utils/site.js';
 ---
 
 <Base
@@ -18,6 +19,6 @@ import Base from '../layouts/Base.astro';
     <li><a href="/modelos/">Modelos</a></li>
     <li><a href="/catalogo/">Catálogo</a></li>
     <li><a href="/contenedores-maritimos/">Contenedores marítimos</a></li>
-    <li><a href="/presupuesto-casas-contenedores/">Pedir presupuesto</a></li>
+    <li><a href={PRESUPUESTO}>Pedir presupuesto</a></li>
   </ul>
 </Base>

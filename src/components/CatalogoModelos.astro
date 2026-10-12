@@ -8,6 +8,7 @@
  */
 import modelosM2 from '../data/modelos-m2.json';
 import { aWebp, existe } from '../utils/imagenes.js';
+import { PRESUPUESTO } from '../utils/site.js';
 
 // dormitorios y banos: [minimo, maximo]; 0 dormitorios = un solo ambiente
 const MODELOS = [
@@ -94,7 +95,7 @@ const planta = (p) => (p.length > 1 ? '1 o 2 plantas' : '1 planta');
       </li>
     ))}
   </ul>
-  <p class="catalogo-filtro__nada" data-nada hidden>No hay ningún modelo con esos filtros: todos se pueden adaptar, <a href="/presupuesto-casas-contenedores/">cuéntanos lo que necesitas</a>.</p>
+  <p class="catalogo-filtro__nada" data-nada hidden>No hay ningún modelo con esos filtros: todos se pueden adaptar, <a href={PRESUPUESTO}>cuéntanos lo que necesitas</a>.</p>
 </section>
 
 <script is:inline>

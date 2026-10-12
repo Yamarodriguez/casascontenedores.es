@@ -12,6 +12,7 @@
  * opiniones) van cuando el propietario pase las cifras reales.
  */
 import site from '../data/site.json';
+import { WHATSAPP } from '../utils/site.js';
 
 import { esMaritimos } from '../utils/hero.js';
 
@@ -28,7 +29,7 @@ const encabezado = localidad
   ? `¿Quieres ${producto} en ${localidad}?`
   : '¿Quieres presupuesto para tu proyecto?';
 
-const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto || 'Hola, quiero información sobre casas contenedores')}`;
+const wa = WHATSAPP;
 ---
 
 <section class="cierre-cta" aria-labelledby="cierre-titulo">

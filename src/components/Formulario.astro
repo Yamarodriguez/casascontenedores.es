@@ -9,8 +9,9 @@
  * ofrece el WhatsApp: una consulta nunca se pierde en silencio.
  */
 import site from '../data/site.json';
+import { WHATSAPP } from '../utils/site.js';
 const hayClave = Boolean(site.formulario.accessKey);
-const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto)}`;
+const wa = WHATSAPP;
 ---
 
 <div class="formulario">

@@ -10,6 +10,7 @@
  * principal, igual que en la web en vivo.
  */
 import site from '../data/site.json';
+import { WHATSAPP, LOGO, PRESUPUESTO } from '../utils/site.js';
 import menus from '../data/menus.json';
 import modelosM2 from '../data/modelos-m2.json';
 import { existe, aWebp } from '../utils/imagenes.js';
@@ -82,10 +83,9 @@ const ordenarHijos = (hijos) => {
   return [...orden, ...hijos.filter((h) => rangoTipo(h.rotulo) < 0)];
 };
 
-const LOGO = '/wp-content/uploads/2021/08/casas-contenedores-.jpg';
 const hayLogo = existe(LOGO);
 
-const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto || '')}`;
+const wa = WHATSAPP;
 
 const activo = (url) => url === ruta;
 const esActivoConHijos = (e) => activo(e.url) || (e.hijos || []).some((h) => activo(h.url));
@@ -154,7 +154,7 @@ const esActivoConHijos = (e) => activo(e.url) || (e.hijos || []).some((h) => act
       </ul>
     </nav>
 
-    {ruta !== '/presupuesto-casas-contenedores/' && <a class="cabecera__cta" href="/presupuesto-casas-contenedores/">Pedir presupuesto</a>}
+    {ruta !== PRESUPUESTO && <a class="cabecera__cta" href={PRESUPUESTO}>Pedir presupuesto</a>}
   </div>
 </header>
 

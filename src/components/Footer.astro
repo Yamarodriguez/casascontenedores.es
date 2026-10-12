@@ -1,11 +1,11 @@
 ---
 import site from '../data/site.json';
+import { WHATSAPP, LOGO } from '../utils/site.js';
 import { existe, aWebp } from '../utils/imagenes.js';
 
 const anio = new Date().getFullYear();
-const LOGO = '/wp-content/uploads/2021/08/casas-contenedores-.jpg';
 const hayLogo = existe(LOGO);
-const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto || '')}`;
+const wa = WHATSAPP;
 ---
 
 <footer class="pie">

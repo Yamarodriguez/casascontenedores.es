@@ -1,8 +1,8 @@
 ---
 import Base from '../layouts/Base.astro';
-import site from '../data/site.json';
+import { WHATSAPP } from '../utils/site.js';
 
-const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto || '')}`;
+const wa = WHATSAPP;
 ---
 
 <Base

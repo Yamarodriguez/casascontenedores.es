@@ -17,7 +17,9 @@
  *    que no haya dos h2 de "Preguntas frecuentes" en la misma pagina.
  */
 import portada from '../content/pages/casas-contenedores.json';
-import zonas from '../data/zonas.json';
+import zonasGeneradas from '../data/zonas.json';
+import { fichas } from './paginas.js';
+import { esMaritimos } from './hero.js';
 
 const textoDe = (e) => String(e?.texto ?? '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 const clonar = (x) => JSON.parse(JSON.stringify(x));
@@ -250,7 +252,21 @@ export function anadirFaq(bloques, nuevas = [], { conPortada = false } = {}) {
 /* ------------------------------------------------ zonas de la misma provincia
    Cada pagina de localidad enlaza las demas de su provincia (de casas y de
    contenedores maritimos) y la de su comunidad si tiene; las de comunidad
-   enlazan sus provincias. La tabla la genera scripts/zonas.mjs. */
+   enlazan sus provincias. La tabla la genera scripts/zonas.mjs; ademas, cada
+   pagina con "provincia" en su JSON entra sola en la lista de su provincia
+   (de casas o de maritimos segun su familia), sin regenerar zonas.json. */
+
+const zonas = (() => {
+  const z = structuredClone(zonasGeneradas);
+  const listadas = new Set([...Object.values(z.provincias), ...Object.values(z.comunidades)]
+    .flatMap((p) => [...p.casas, ...p.maritimos]));
+  for (const [ruta, { provincia }] of fichas()) {
+    const p = provincia && z.provincias[provincia];
+    if (!p || listadas.has(ruta)) continue;
+    p[esMaritimos(ruta) ? 'maritimos' : 'casas'].push(ruta);
+  }
+  return z;
+})();
 
 function zonaDe(ruta) {
   for (const [clave, p] of Object.entries(zonas.provincias)) {

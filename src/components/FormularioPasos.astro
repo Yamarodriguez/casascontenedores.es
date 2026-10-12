@@ -8,8 +8,9 @@
  * igual. Sin clave de web3forms (site.json) se ofrece el WhatsApp.
  */
 import site from '../data/site.json';
+import { WHATSAPP } from '../utils/site.js';
 const hayClave = Boolean(site.formulario.accessKey);
-const wa = `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(site.whatsappTexto)}`;
+const wa = WHATSAPP;
 const { ruta = '/' } = Astro.props;
 ---
 

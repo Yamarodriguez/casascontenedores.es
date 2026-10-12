@@ -1,6 +1,7 @@
 import { aWebp, existe } from './imagenes.js';
 import servicios from '../data/servicios.json';
 import fotos from '../data/imagenes.json';
+import { fichaDe } from './paginas.js';
 
 /* La foto del héroe es SIEMPRE una FOTO LIMPIA elegida a mano, nunca la de
  * la página.
@@ -17,9 +18,13 @@ const FOTO_MARITIMOS = '/wp-content/uploads/2021/09/contenedores-maritimos.png';
 /* Paginas de contenedores maritimos: las que empiezan por /contenedor(es)-
  * maritimo y todas las que llevan el menu de contenedores (tipos, venta,
  * precios, medidas, alquiler, transporte, contenedores-<ciudad>...), que
- * antes salian con el heroe y el cierre de casas. */
-export const esMaritimos = (ruta, menu = '') =>
-  /^\/contenedor(es)?-maritimo/.test(ruta || '') || ruta === '/comprar-contenedor-sin-estafas/' || menu === 'contenedores-maritimos';
+ * antes salian con el heroe y el cierre de casas. Si la pagina declara su
+ * "familia" en el JSON (src/utils/paginas.js), manda eso. */
+export const esMaritimos = (ruta, menu = '') => {
+  const { familia } = fichaDe(ruta);
+  if (familia) return familia === 'maritimos';
+  return /^\/contenedor(es)?-maritimo/.test(ruta || '') || ruta === '/comprar-contenedor-sin-estafas/' || menu === 'contenedores-maritimos';
+};
 
 /** Paginas de servicios para contenedores: su propio antetitulo y entradilla. */
 const SERVICIOS = new Set([
@@ -27,7 +32,10 @@ const SERVICIOS = new Set([
   '/seguridad-contenedores/', '/reparacion-contenedores/', '/transformacion-contenedores/',
   '/traslado-contenedores/', '/tasacion-contenedores/',
 ]);
-export const esServicio = (ruta) => SERVICIOS.has(ruta);
+export const esServicio = (ruta) => {
+  const { familia } = fichaDe(ruta);
+  return familia ? familia === 'servicio' : SERVICIOS.has(ruta);
+};
 
 /* Las paginas de servicio (las 11 de la rejilla de servicios) llevan de fondo
  * la foto de su tarjeta (src/data/servicios.json, fotos sin texto elegidas una
