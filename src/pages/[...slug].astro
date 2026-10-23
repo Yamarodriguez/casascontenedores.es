@@ -59,7 +59,10 @@ const modelosM2 = Object.fromEntries(
 //    ("Casas Contenedores Madrid", "Casa con un Contenedor"…). Los
 //    encabezados del contenido se quedan en su nivel original (h2, h3).
 const bloques = structuredClone(pagina.bloques || []);
-const h1 = pagina.titulo;
+// Una página puede llevar en el héroe un H1 más completo que su título
+// (campo opcional "tituloHeroe"; la portada: "Casas contenedores llave en mano
+// en toda España"). El título sigue nombrándola en migas, enlaces y cierre.
+const h1 = pagina.tituloHeroe || pagina.titulo;
 rebajarH1(bloques);
 // la rejilla de tipos de contenedor, en el orden que pidio el propietario:
 // primero los estandar y luego los especiales (src/utils/tipos.js)
