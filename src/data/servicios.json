@@ -27,6 +27,11 @@
     "alquiler",
     "tasacion"
    ]
+  },
+  "/oficinas-contenedores/": {
+   "antetitulo": "Para tu oficina contenedor",
+   "h2": "Servicios para oficinas con contenedores marítimos: del transporte al acabado",
+   "intro": "<p>Además de proyectar y montar tu oficina contenedor, trabajamos sobre el propio contenedor: transporte hasta la parcela o la obra, aislamiento, instalación eléctrica, pintura, seguridad, reparación, traslado a otra ubicación y tasación, cada uno con su <strong>presupuesto a medida</strong>.</p>"
   }
  },
  "tarjetas": [
