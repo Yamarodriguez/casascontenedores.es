@@ -282,6 +282,10 @@ function zonaDe(ruta) {
  * Anade al final de una pagina de localidad el bloque "Casas contenedores en
  * otras zonas de X". `titulos` es ruta -> titulo de cada pagina (el rotulo
  * de cada enlace). Devuelve cuantos enlaces pone.
+ *
+ * YA NO SE USA: el propietario quito ese bloque de todas las paginas de ciudad
+ * el 23/10/2026 (el directorio de localidades va solo en la portada). Se
+ * conserva por si cambia de idea; la ruta no lo llama.
  */
 export function anadirZonas(bloques, ruta, titulos) {
   const z = zonaDe(ruta);
