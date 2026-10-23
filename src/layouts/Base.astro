@@ -149,7 +149,7 @@ if (faq.length) {
       <Hero titulo={h1 || titulo} ruta={ruta} localidad={localidad} menu={menu} />
       <Migas ruta={ruta} titulo={h1 || titulo} />
 
-      <main id="main">
+      <main id="main" data-localidad={localidad || undefined}>
         <div class="entrada">
           <slot />
         </div>

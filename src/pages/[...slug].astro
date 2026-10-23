@@ -24,6 +24,7 @@ import { pintar, seccionAmpliacion, rebajarH1 } from '../utils/render.js';
 import { localidadDe } from '../utils/localidades.js';
 import { anadirModelos, anadirFaq, tieneFaq, esCiudad, anadirZonas } from '../utils/comunes.js';
 import { aplicarRenombres } from '../utils/renombres.js';
+import { nombrarCiudad } from '../utils/ciudad.js';
 import { ordenarTipos } from '../utils/tipos.js';
 import { anadirIntro, subirAlIntro } from '../utils/intro.js';
 import { esMaritimos } from '../utils/hero.js';
@@ -114,6 +115,11 @@ for (const id of pagina.alFinal || []) {
   const i = bloques.findIndex((b) => b.id === id);
   if (i >= 0) bloques.push(...bloques.splice(i, 1));
 }
+
+// los h2 de sección de las páginas de ciudad nombran la ciudad: solo los de
+//    src/data/ciudad-encabezados.json (modelos, ventajas, pasos, tiempos,
+//    interior, preguntas frecuentes); tarjetas, ventajas y preguntas, no
+if (ciudad) nombrarCiudad(bloques, { localidad, maritimo: esMaritimos(pagina.ruta, pagina.menu) });
 
 // 4. encabezados reescritos a propósito en algunas páginas (planos,
 //    permisos, pasos: src/data/encabezados.json), sobre todo lo anterior
