@@ -8,8 +8,9 @@
  *   1. equilibrio de <p>, <a>, <div>, <section>, <h2>, <h3>, <ul>, <li>, <figure>
  *   2. un solo <h1>
  *   3. ningun bloque generado anidado dentro de otro igual
- *   4. texto visible identico al original (salvo lo anadido a proposito y
- *      los encabezados reescritos de src/data/encabezados.json)
+ *   4. texto visible identico al original (salvo lo anadido a proposito,
+ *      los encabezados reescritos de src/data/encabezados.json y los h2 de
+ *      ciudad de src/data/ciudad-encabezados.json)
  *   5. ningun href perdido respecto del JSON de origen
  *   6. ninguna imagen marcador (aviso)
  *   7. title, meta description y canonical presentes
@@ -83,11 +84,46 @@ const renombresDe = (ruta) => RENOMBRES[ruta]
   ? new Map(Object.entries(RENOMBRES[ruta]).map(([k, v]) => [planoDe(k), v]))
   : null;
 
+/* Los h2 de seccion de las paginas de ciudad nombran la ciudad
+   (src/data/ciudad-encabezados.json, los aplica src/utils/ciudad.js al
+   pintar). La localidad la dice el propio HTML (<main data-localidad>); como
+   el script no sabe la familia de la pagina, vale el rotulo de cualquiera
+   de las dos que de verdad haya salido en la pagina. */
+const CIUDAD = (() => {
+  const f = path.join(path.resolve('.'), 'src', 'data', 'ciudad-encabezados.json');
+  const t = fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : {};
+  const m = new Map();
+  for (const fam of ['casas', 'maritimos']) {
+    for (const [k, v] of Object.entries(t[fam] || {})) {
+      const c = planoDe(k).toLowerCase();
+      if (!m.has(c)) m.set(c, []);
+      if (!m.get(c).includes(v)) m.get(c).push(v);
+    }
+  }
+  return m;
+})();
+const localidadDe = (html) => {
+  const m = html.match(/<main id="main" data-localidad="([^"]*)"/);
+  return m ? m[1].replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#0?39;/g, "'") : '';
+};
+const ciudadDe = (html) => {
+  const loc = localidadDe(html);
+  if (!loc) return null;
+  const L = loc.charAt(0).toUpperCase() + loc.slice(1);
+  const texto = textoVisible(html);
+  const m = new Map();
+  for (const [c, lista] of CIUDAD) {
+    const puesto = lista.map((v) => v.replace('{L}', L)).find((v) => texto.includes(textoVisible(v)));
+    if (puesto) m.set(c, puesto);
+  }
+  return m;
+};
+
 /** Todo el texto que el arbol de maquetacion deberia acabar enseñando. */
-function textoDelArbol(bloques, salida = [], renombres = null) {
+function textoDelArbol(bloques, salida = [], renombres = null, ciudad = null) {
   for (const b of bloques || []) {
-    if (b.t === 'seccion') { for (const c of b.columnas || []) textoDelArbol(c.elementos, salida, renombres); }
-    else if (b.t === 'encabezado') salida.push(renombres?.get(planoDe(b.texto)) ?? b.texto);
+    if (b.t === 'seccion') { for (const c of b.columnas || []) textoDelArbol(c.elementos, salida, renombres, ciudad); }
+    else if (b.t === 'encabezado') salida.push(renombres?.get(planoDe(b.texto)) ?? ((b.etiqueta || 'h2') === 'h2' ? ciudad?.get(planoDe(b.texto).toLowerCase()) : null) ?? b.texto);
     else if (b.t === 'texto') salida.push(b.html);
     else if (b.t === 'boton') salida.push(b.texto);
   }
@@ -153,7 +189,7 @@ for (const f of fs.readdirSync(PAGINAS).filter((x) => x.endsWith('.json'))) {
     /[^.]*estamos realizando modificaciones[^.]*\./gi,   // aviso de obras olvidado
   ];
   let original = origen.bloques && origen.bloques.length
-    ? textoVisible(textoDelArbol(origen.bloques, [], renombresDe(origen.ruta)))
+    ? textoVisible(textoDelArbol(origen.bloques, [], renombresDe(origen.ruta), ciudadDe(html)))
     : textoVisible(origen.cuerpo);
   for (const re of QUITADO) original = original.replace(re, ' ');
 

@@ -17,6 +17,10 @@
  * en paginas concretas (src/data/encabezados.json): se comparan con su texto
  * nuevo.
  *
+ * Tambien se admiten los h2 de seccion de las paginas de ciudad que ahora
+ * nombran la ciudad (src/data/ciudad-encabezados.json, los aplica
+ * src/utils/ciudad.js): se comparan con su texto nuevo.
+ *
  * Lo que la web nueva anade a proposito (formulario, pie, bloques generados)
  * no cuenta como diferencia: solo se exige que NO FALTE nada del original.
  */
@@ -86,6 +90,38 @@ const ORDEN_TIPOS = (() => {
   if (!fs.existsSync(f)) return [];
   return JSON.parse(fs.readFileSync(f, 'utf8')).tipos.map((t) => new RegExp(t.patron));
 })();
+// Quinto cambio permitido y documentado: los h2 de seccion de las paginas de
+// ciudad nombran la ciudad (src/data/ciudad-encabezados.json, los aplica
+// src/utils/ciudad.js al pintar). La localidad la dice el HTML de la pagina
+// (<main data-localidad>); como aqui no se sabe la familia, vale el rotulo de
+// cualquiera de las dos que haya salido de verdad en la pagina.
+const CIUDAD = (() => {
+  const f = path.join(RAIZ, 'src', 'data', 'ciudad-encabezados.json');
+  if (!fs.existsSync(f)) return new Map();
+  const t = JSON.parse(fs.readFileSync(f, 'utf8'));
+  const m = new Map();
+  for (const fam of ['casas', 'maritimos']) {
+    for (const [k, v] of Object.entries(t[fam] || {})) {
+      const c = normalizar(k);
+      if (!m.has(c)) m.set(c, []);
+      if (!m.get(c).includes(v)) m.get(c).push(v);
+    }
+  }
+  return m;
+})();
+const localidadDe = (html) => {
+  const m = html.match(/<main id="main" data-localidad="([^"]*)"/);
+  return m ? normalizar(m[1]) : '';
+};
+function conCiudad(antes, html, textosAhora) {
+  const loc = localidadDe(html);
+  if (!loc) return antes;
+  return antes.map((e) => {
+    if (e.nivel === 'h1' || textosAhora.includes(e.texto)) return e;
+    const puesto = (CIUDAD.get(e.texto) || []).map((v) => normalizar(v.replace('{L}', loc))).find((v) => textosAhora.includes(v));
+    return puesto ? { ...e, texto: puesto } : e;
+  });
+}
 const sinTildes = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '');
 const rangoTipo = (e) => (e.nivel === 'h3' ? ORDEN_TIPOS.findIndex((p) => p.test(sinTildes(e.texto))) : -1);
 function ordenarTandasDeTipos(lista) {
@@ -129,11 +165,13 @@ for (const [ruta, datos] of Object.entries(vivo)) {
     .map((e) => ({ nivel: e.nivel, texto: normalizar(corregir(e.texto)) }))
     .filter((e) => e.texto);
   const renombres = RENOMBRES[ruta];
-  const antes = ordenarTandasDeTipos(enMain.filter((e, i) => !(i === 0 && e.nivel === 'h1' && bandaVivas.has(e.texto)))
+  let antes = ordenarTandasDeTipos(enMain.filter((e, i) => !(i === 0 && e.nivel === 'h1' && bandaVivas.has(e.texto)))
     .map((e) => (renombres?.has(e.texto) ? { ...e, texto: renombres.get(e.texto) } : e)));
 
-  const ahora = encabezadosDe(fs.readFileSync(destino, 'utf8'));
+  const html = fs.readFileSync(destino, 'utf8');
+  const ahora = encabezadosDe(html);
   const textosAhora = ahora.map((e) => e.texto);
+  antes = conCiudad(antes, html, textosAhora);
 
   // 1. ¿falta algun encabezado del original?
   const faltan = antes.filter((e) => !textosAhora.includes(e.texto));

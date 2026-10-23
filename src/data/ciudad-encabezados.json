@@ -1,0 +1,19 @@
+{
+ "_nota": "Titulos de seccion (h2) que en las paginas de ciudad eran iguales en todas y no decian la ciudad. Pedido por el propietario (23/10/2026): que la nombren, solo estos; las tarjetas de modelos, las ventajas, las tarjetas de servicios y las preguntas una a una se quedan como estan. {L} es la localidad de la pagina (la misma del cierre: src/utils/localidades.js). Lo aplica src/utils/ciudad.js al pintar; scripts/validar.mjs y scripts/comparar-encabezados.mjs leen esta misma tabla para dar el cambio por bueno.",
+ "casas": {
+  "Modelos de casas de contenedores": "Modelos de casas de contenedores en {L}",
+  "Modelo de casas de contenedores": "Modelos de casas de contenedores en {L}",
+  "Ventajas de las casas de Contenedores": "Ventajas de una casa contenedor en {L}",
+  "Pasos para Construir tu casa de contenedores": "Pasos para construir tu casa de contenedores en {L}",
+  "Tiempo de construcción de casas contenedores": "Tiempo de construcción de casas contenedores en {L}",
+  "Casa de contenedores por dentro, Interior de Casa Contenedor": "Casa contenedor por dentro: interiores para tu vivienda en {L}",
+  "Casa contenedor: Preguntas frecuentes": "Preguntas frecuentes sobre casas contenedores en {L}",
+  "Casa contenedor preguntas frecuentes": "Preguntas frecuentes sobre casas contenedores en {L}"
+ },
+ "maritimos": {
+  "Modelos de casas de contenedores": "Modelos de casas de contenedores en {L}",
+  "Otros Servicios": "Otros servicios de contenedores en {L}",
+  "Otros Servicios de Contenedores": "Otros servicios de contenedores en {L}",
+  "Casa contenedor: Preguntas frecuentes": "Preguntas frecuentes sobre contenedores en {L}"
+ }
+}
