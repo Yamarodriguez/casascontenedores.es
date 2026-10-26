@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Puerto del Rosario",
- "provincia": "las-palmas"
+ "provincia": "las-palmas",
+ "local": {
+  "entrada": "<p>Puerto del Rosario es la capital administrativa, comercial y portuaria de Fuerteventura: por su puerto comercial entra buena parte de la mercancía de la isla. En la capital, un <strong>contenedor marítimo en Puerto del Rosario</strong> hace de almacén logístico o comercial, trastero de empresa u oficina de obra; en el interior rural, vinculado a la ganadería caprina de siempre, se convierte en almacén de aperos o de ganado. Damos servicio en la capital majorera con presupuesto puesto en destino.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Puerto del Rosario",
+    "html": "<p>Un contenedor de segunda mano es una opción muy razonable tanto para un almacén ganadero del interior como para el trastero de un comercio de la ciudad. En el clima árido de Puerto del Rosario, con alisio y calima frecuentes, revisa sobre todo que las puertas cierren estancas para que no entre polvo, y en la costa, que el techo y los bajos no tengan óxido avanzado.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Puerto del Rosario",
+    "html": "<p>El terreno llano de Puerto del Rosario y de sus polígonos facilita la llegada de tráileres, así que encajan bien el 40 pies, de unos 12 m, y el <strong>High Cube de mayor altura</strong> interior para almacén logístico. Para una finca del interior o un solar entre medianeras suele ser más manejable un 20 pies, de unos 6 m de largo. Consulta las <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Puerto del Rosario",
+    "html": "<p>En Puerto del Rosario el precio puesto en destino se beneficia de que el contenedor desembarca en la propia ciudad: el trayecto por carretera es corto. Pesan el flete marítimo hasta Fuerteventura, el tipo de camión y si hace falta grúa para colocarlo en un patio o detrás de un muro. En fincas del interior, el estado del camino de acceso también cuenta.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Puerto del Rosario",
+    "html": "<p>En Puerto del Rosario compran contenedores comercios, empresas de logística y servicios ligados al puerto, constructoras y ganaderos del interior. Verifica la <strong>placa de identificación</strong> y la chapa antes de decidir, y pregunta en el Ayuntamiento si se puede colocar en tu parcela, en especial si es suelo rústico o queda cerca del Paisaje Protegido de Vallebrón.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Puerto del Rosario",
+    "html": "<p>El contenedor llega por mar al Puerto de Puerto del Rosario y desde allí sale por la FV-1 hacia el norte o por la FV-2 hacia el sur de Fuerteventura. En la ciudad el terreno es llano y la maniobra sencilla; lo que puede limitar es el ancho de la calle o un camino de tierra en mal estado en las fincas del interior. Más en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Puerto del Rosario",
+    "html": "<p>En la capital de Fuerteventura el alquiler sirve sobre todo para obras y reformas, para guardar género de comercio en momentos de mucho movimiento, como apoyo logístico a eventos en la ciudad o para necesidades puntuales de empresas ligadas al puerto. El <strong>alquiler temporal</strong> evita inmovilizar dinero en un almacén que solo se usa una temporada.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Puerto del Rosario",
+    "html": "<p>Un presupuesto exacto en Puerto del Rosario parte de saber si el destino es la ciudad, un polígono o una finca del interior, qué ancho tiene el acceso, si hay muros por medio, la medida, el <strong>uso previsto</strong> y si prefieres venta o alquiler.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Puerto del Rosario",
+    "html": "<p>Damos servicio en Puerto del Rosario y en toda Fuerteventura con presupuesto puesto en destino. Desde el muelle comercial de la capital, el camión reparte por la FV-1 y la FV-2 hacia el resto de la isla. En la ciudad, la Casa Museo de Unamuno recuerda el destierro del escritor en Fuerteventura.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Para uso ganadero o de aperos en el interior de Puerto del Rosario encajan rejas y cerraduras de seguridad, ventilación y una placa solar. En la ciudad, una <a href=\"/pintura-contenedores/\">pintura anticorrosión para contenedores</a> y aislamiento frente al sol convierten el contenedor en un almacén o una oficina cómodos.</p>"
+   }
+  ]
+ }
 }

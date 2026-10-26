@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Puerto de las Nieves",
- "provincia": "las-palmas"
+ "provincia": "las-palmas",
+ "local": {
+  "entrada": "<p>En Puerto de las Nieves conviven el puerto de pasajeros y pesquero de Agaete, los restaurantes de pescado del barrio y, valle arriba, fincas de café, mango, aguacate y vid. Un <strong>contenedor marítimo en Puerto de las Nieves</strong> puede hacer de almacén pesquero o de hostelería pegado al muelle, de cuarto de aperos en una finca del valle o de caseta de obra. Damos servicio en este barrio de Agaete, en el noroeste de Gran Canaria, con presupuesto puesto en destino.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Puerto de las Nieves",
+    "html": "<p>Para guardar aperos, material de riego o cajas de fruta en una finca del valle de Agaete, un contenedor usado es una solución robusta y económica. En el valle, más húmedo que la costa, revisa que no haya entradas de agua por el techo y que las juntas de las puertas estén enteras; junto al puerto, presta más atención al óxido que provoca el salitre.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Puerto de las Nieves",
+    "html": "<p>Subiendo por el valle de Agaete, en fincas de ladera y accesos empinados, encaja el <strong>contenedor de 20 pies</strong>, de unos 6 m de largo, que un camión con grúa coloca ocupando poco sitio. Junto al muelle, en el tramo llano, un 40 pies, de unos 12 m, o un High Cube sirven para el almacén de un restaurante o de pesca siempre que el tráiler pueda maniobrar.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Puerto de las Nieves",
+    "html": "<p>Al importe en Puerto de las Nieves se suman el flete por mar hasta Gran Canaria, el viaje por carretera hacia el noroeste de la isla y la descarga. Valle arriba, la cuesta y la roca volcánica pueden pedir una grúa de más brazo o allanar antes el terreno. Consulta <a href=\"/precios-contenedores-maritimos/\">precios de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Puerto de las Nieves",
+    "html": "<p>En Agaete compran contenedores agricultores del valle que cultivan café, frutales tropicales y vid, pescadores y negocios de hostelería del puerto, y constructoras que trabajan en la zona. Antes de comprar, consulta al Ayuntamiento de Agaete si puedes instalarlo en tu parcela, sobre todo en suelo rústico o cerca del <strong>Parque Natural de Tamadaba</strong>.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Puerto de las Nieves",
+    "html": "<p>El contenedor llega por mar a Gran Canaria y sube por la GC-2, la autovía del norte, hasta Agaete y Puerto de las Nieves. Lo que limita el último tramo es el relieve: el barrio está encajado entre el mar y los acantilados, y en el valle las laderas con pendiente y el espacio reducido en las fincas condicionan el camión y la grúa. Más en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Puerto de las Nieves",
+    "html": "<p>Alquilar en Puerto de las Nieves cuadra con la cosecha de las fincas del valle, con una obra o reforma del barrio y con citas como la Fiesta de la Rama, en agosto, que piden guardar material o montar un punto de apoyo junto al puerto. Un <strong>alquiler por temporada</strong> evita levantar un almacén fijo.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Puerto de las Nieves",
+    "html": "<p>Para calcular el precio en Puerto de las Nieves cuéntanos si el contenedor va al barrio o a una finca del valle, cómo es el acceso y la pendiente, el espacio para maniobrar, la medida, el uso agrícola, pesquero u hostelero, y si buscas venta o alquiler.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Puerto de las Nieves",
+    "html": "<p>El barrio de Puerto de las Nieves y todo el valle de Agaete caen dentro de nuestra zona de servicio, con presupuesto hasta la dirección de entrega. El contenedor cruza el mar hasta Gran Canaria y recorre la GC-2 hasta el noroeste de la isla. Junto al barrio se alza el Dedo de Dios, el roque de basalto que es emblema de Agaete.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>En una finca del valle de Agaete encajan rejas y <a href=\"/seguridad-contenedores/\">cerraduras de seguridad</a>, ventilación contra la humedad y una placa solar para la luz. Junto al puerto, la prioridad es una <strong>pintura marina contra el salitre</strong> y un buen aislamiento si va a guardar género de hostelería.</p>"
+   }
+  ]
+ }
 }

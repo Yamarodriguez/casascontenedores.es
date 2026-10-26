@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Villacarrillo",
- "provincia": "jaen"
+ "provincia": "jaen",
+ "local": {
+  "entrada": "<p>El olivar domina el término de Villacarrillo, y ahí es donde un contenedor resulta más útil: como almacén cerrado de herramientas, abonos y material de la recogida en las fincas de la campiña. Un <strong>contenedor marítimo en Villacarrillo</strong> también sirve de caseta de obra en el pueblo, de apoyo a las almazaras durante la campaña o de almacén para empresas de turismo de naturaleza junto a la sierra.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Villacarrillo",
+    "html": "<p>Un contenedor usado cubre bien en Villacarrillo el papel de caseta de aperos en una finca de olivar. Entre veranos calurosos e inviernos de heladas, asegúrate de que puertas y juntas cierran herméticas, de que el piso está sano y de que los bajos no tienen óxido, porque la humedad invernal lo hace crecer. Así tendrás un almacén fiable para muchas campañas.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Villacarrillo",
+    "html": "<p>Para fincas de olivar con caminos de tierra y para la zona de sierra, el formato práctico es el <strong>contenedor de 20 pies</strong>, de unos 6 m de largo. Junto a las almazaras o en parcelas llanas donde entre un tráiler, ganan espacio para palés y maquinaria un 40 pies, de unos 12 m, o un High Cube con más altura interior.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Villacarrillo",
+    "html": "<p>En Villacarrillo la diferencia de coste la marca el tramo final: dejarlo al lado de una nave o dentro del pueblo es fácil, mientras que subir hasta una finca de ladera o un cortijo serrano puede exigir un camión más corto o una grúa con más alcance. Aislarlo para el calor y el frío también influye. Puedes ampliar en <a href=\"/precios-contenedores-maritimos/\">precios de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Villacarrillo",
+    "html": "<p>Quienes suelen buscar contenedores en Villacarrillo son olivareros, <strong>almazaras y cooperativas</strong>, constructoras y empresas de turismo activo de la Sierra de Cazorla. Al comprar, comprueba el estado general, pide fotos del interior y del suelo y confirma que el camión llegará al punto de descarga, sobre todo si el acceso es por camino de tierra entre olivos.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Villacarrillo",
+    "html": "<p>Villacarrillo está bien comunicado por la autovía A-32 y la N-322, que cruzan el municipio, y el contenedor llega por ellas desde la red de autovías. Los puntos que complican la maniobra son las calles del casco antiguo, alrededor de la iglesia de la Asunción, y los caminos de tierra de las fincas, que se embarran cuando llueve. Lo explicamos en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Villacarrillo",
+    "html": "<p>El alquiler tiene sentido en Villacarrillo en momentos concretos: la campaña de aceituna, cuando almazaras y fincas necesitan espacio extra; una obra de reforma en el pueblo; o celebraciones como la romería de San Isidro o el Corpus, cuando hace falta un espacio cerrado para guardar material.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Villacarrillo",
+    "html": "<p>Para dar precio en Villacarrillo necesitamos saber si el destino es el pueblo, una finca de campiña o la sierra, cómo es el camino, qué tamaño quieres, si compras o alquilas y si te interesan aislamiento, ventanas o electricidad para un uso como almacén o pequeña oficina.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Villacarrillo",
+    "html": "<p>Damos servicio en todo Villacarrillo, del pueblo a las fincas de olivar y a la zona serrana. La A-32 y la N-322 son su ruta, y el importe se fija <strong>puesto en destino</strong>, planificando la descarga según el acceso verdadero de cada parcela.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>En las fincas de olivar alejadas del pueblo, la transformación más útil es la seguridad: rejas, cerraduras reforzadas y un pequeño equipo de <strong>electricidad solar</strong>. Para usarlo con heladas y calor, conviene añadir aislamiento y ventilación, y para oficinas de almazara en campaña, ventanas y climatización.</p>"
+   }
+  ]
+ }
 }

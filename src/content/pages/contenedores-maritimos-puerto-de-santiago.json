@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Puerto de Santiago",
- "provincia": "tenerife"
+ "provincia": "tenerife",
+ "local": {
+  "entrada": "<p>Puerto de Santiago, en el municipio de Santiago del Teide, vive del turismo de sol y playa y del turismo de naturaleza: desde el vecino puerto de Los Gigantes salen barcos a ver cetáceos y a recorrer los acantilados. Un contenedor marítimo aquí suele servir como <strong>almacén para empresas náuticas</strong>, como trastero para complejos de apartamentos o como espacio de obra en reformas. También lo usan quienes tienen fincas en el interior del municipio.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Puerto de Santiago",
+    "html": "<p>Para guardar chalecos, cabos, equipo de snorkel o mobiliario de apartamentos en Puerto de Santiago, un contenedor usado bien conservado es una solución práctica. Frente al mar del oeste, revisa el óxido por salitre en techo, esquinas y bajos, y comprueba que las puertas cierren y sellen bien. El sol de la tarde castiga la pintura: mira si está cuarteada o desconchada. Más claves en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores de segunda mano</a>.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Puerto de Santiago",
+    "html": "<p>Las calles en cuesta de Puerto de Santiago y las parcelas escalonadas hacia el mar hacen del <strong>contenedor de 20 pies</strong> la opción más manejable: unos 6 m de largo y 2,44 m de ancho. Para un 40 pies, de unos 12 m, o un High Cube hace falta un solar llano con acceso holgado o el recinto de un complejo turístico. Consulta la tabla en <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Puerto de Santiago",
+    "html": "<p>El coste hasta Puerto de Santiago incluye la travesía a Tenerife y un recorrido largo por carretera: todo el sur por la TF-1 y luego la carretera de la costa oeste. Después, la descarga: en calles con cuesta y parcelas en escalón puede hacer falta una grúa de brazo largo o una colocación muy medida. Que sea nuevo, usado o con tratamiento antisalitre completa el cálculo.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Puerto de Santiago",
+    "html": "<p>En la costa de Santiago del Teide compran contenedores sobre todo empresas de excursiones marítimas y de avistamiento de cetáceos, complejos de apartamentos, restaurantes y constructoras de reformas. Revisa la chapa por si hay corrosión, el suelo interior y que exista sitio de verdad para colocarlo sin invadir la calle.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Puerto de Santiago",
+    "html": "<p>Pasado el mar, el contenedor atraviesa el sur de Tenerife por la <strong>TF-1, la Autopista del Sur</strong>, y enlaza luego con la carretera de la costa oeste hasta Puerto de Santiago. Lo que limita la entrega son las calles empinadas del núcleo, las curvas y las parcelas escalonadas hacia el mar, donde camión y grúa necesitan espacio para trabajar. Más información en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Puerto de Santiago",
+    "html": "<p>En Puerto de Santiago el alquiler suele ir ligado a obras: reformas de apartamentos, hoteles o restaurantes de la costa, cuando hace falta guardar mobiliario y material. También lo alquilan negocios náuticos de la zona de Los Gigantes durante la <strong>temporada alta</strong> o mientras arreglan sus instalaciones.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Puerto de Santiago",
+    "html": "<p>Para tasar la entrega en Puerto de Santiago, aporta la dirección, la pendiente y la anchura de la calle de acceso, si el terreno está en escalones, el punto de apoyo del contenedor y el uso previsto. Termina con la medida y la condición que buscas: nuevo, usado o con tratamiento antisalitre.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Puerto de Santiago",
+    "html": "<p>Puerto de Santiago y el resto de Santiago del Teide son zona de servicio, y el <strong>precio ya llega puesto en destino</strong>. Desde la travesía a Tenerife, la ruta pasa por el sur con la TF-1 y gira hacia la costa oeste hasta Los Gigantes. Como apoyo quedan el Aeropuerto de Tenerife Sur y el Puerto de Los Cristianos.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Frente a los acantilados de Los Gigantes, lo más útil es proteger el contenedor del mar: pintura de grado marino, rejillas de ventilación y aislamiento del techo para el sol de poniente. Para empresas náuticas, estanterías, ganchos para secar equipo, iluminación y cerraduras de seguridad.</p>"
+   }
+  ]
+ }
 }

@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Utiel",
- "provincia": "valencia"
+ "provincia": "valencia",
+ "local": {
+  "entrada": "<p>En Utiel, donde el vino marca la economía, un contenedor marítimo suele servir como almacén de bodega o de cooperativa, caseta cerrada en viñedos de Bobal o trastero en urbanizaciones y parcelas de campo. También tiene sitio en obras, talleres y comercios. Entre venta, alquiler y transporte, el <strong>contenedor marítimo en Utiel</strong> te llega con el precio ya cerrado puesto en destino.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Utiel",
+    "html": "<p>Para un trastero en una parcela de Casas de Medina o un almacén de aperos en el viñedo, un contenedor usado resuelve el problema sin gran inversión. Comprueba el sellado de las puertas y que la cubierta no tenga zonas hundidas donde se estanque el agua: las tormentas de verano pueden ser fuertes y las heladas del invierno empeoran cualquier foco de óxido. Más en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores de segunda mano</a>.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Utiel",
+    "html": "<p>La meseta llana de Utiel y su acceso directo desde la A-3 permiten recibir sin problema un 40 pies, de unos 12 m de largo, o un High Cube con mayor altura interior en bodegas, naves y fincas amplias. En las calles estrechas del casco medieval o en parcelas pequeñas de urbanización, un <strong>20 pies</strong>, de unos 6 m, es más fácil de colocar. Mira las <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Utiel",
+    "html": "<p>En Utiel el precio puesto en destino se beneficia del terreno llano y de la A-3, que conecta directamente con el Puerto de Valencia. Lo que más puede mover el coste es la descarga: el casco medieval con calles estrechas, urbanizaciones con accesos limitados o fincas donde la grúa debe trabajar entre viñas. El tamaño y el estado del contenedor hacen el resto. Consulta los <a href=\"/precios-contenedores-maritimos/\">precios de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Utiel",
+    "html": "<p>En Utiel suelen comprar contenedores las bodegas y la cooperativa, los viticultores, los talleres y comercios que necesitan almacén y los propietarios de parcelas en urbanizaciones como Casas de Medina. Antes de comprar, comprueba la <strong>placa CSC</strong>, el estado del suelo y las cerraduras y, si va a quedarse fijo, qué admite el planeamiento municipal para esa parcela.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Utiel",
+    "html": "<p>La ruta es sencilla: la <strong>A-3, autovía Madrid-Valencia</strong>, pasa junto al núcleo y conecta con el Puerto de Valencia; la N-330 y la CV-390 completan el reparto hacia urbanizaciones y fincas. Lo que limita el acceso del camión y la grúa son las calles estrechas del centro histórico, los caminos de tierra entre viñedos y, tras tormentas fuertes, el estado de los caminos junto a la rambla de la Torre.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Utiel",
+    "html": "<p>El alquiler en Utiel encaja con la vendimia, cuando las bodegas y la cooperativa necesitan almacén temporal, y con las fiestas mayores en honor a la Virgen del Remedio, con su romería desde la ermita, que pueden requerir almacenaje para organizadores y puestos. También se alquila para obras, reformas y mudanzas, cuando hace falta espacio solo durante un tiempo.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Utiel",
+    "html": "<p>Si quieres cifra para Utiel, facilítanos la dirección o el paraje, el tamaño, nuevo o usado, compra o alquiler, y una descripción del acceso: calle del casco, urbanización o camino entre viñas, y el espacio libre para la grúa. Con ello calculamos el <strong>precio puesto en destino</strong> sin rodeos.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Utiel",
+    "html": "<p>Nuestro radio de trabajo incluye Utiel, dentro de la comarca de Requena-Utiel. El contenedor llega por la A-3 o la N-330 hasta el casco y las bodegas, y por la CV-390 hasta urbanizaciones como Casas de Medina. Los contenedores de importación proceden del Puerto de Valencia. El presupuesto incluye siempre el transporte y la descarga.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>La meseta de Utiel alterna inviernos fríos y veranos calurosos, por lo que el aislamiento térmico es la reforma más acertada, en especial si el contenedor va a guardar vino o a funcionar como oficina. En viñedos y parcelas sin acometida encaja la electricidad solar, y en fincas aisladas, las rejas y cerraduras reforzadas.</p>"
+   }
+  ]
+ }
 }

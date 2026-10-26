@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Costa Teguise",
- "provincia": "las-palmas"
+ "provincia": "las-palmas",
+ "local": {
+  "entrada": "<p>Costa Teguise nació como urbanización turística promovida por Explosivos Río Tinto, y en la isla muchos todavía la llaman así. Hoy vive de hoteles, apartamentos y deportes de viento, y un <strong>contenedor marítimo en Costa Teguise</strong> encaja para guardar tablas, velas y kayaks, para el material de mantenimiento de un complejo turístico o como caseta cuando se reforma un edificio. Damos servicio en este núcleo del municipio de Teguise con presupuesto puesto en destino.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Costa Teguise",
+    "html": "<p>Una escuela de windsurf o un negocio de alquiler de material en Costa Teguise se apaña bien con un contenedor usado: el equipo náutico no necesita un almacén impecable, sino uno cerrado y seguro. Revisa el techo, que suele ser el primer punto de óxido, y las bisagras de las puertas, porque la mezcla de sal y arena que arrastra el alisio las castiga mucho en primera línea.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Costa Teguise",
+    "html": "<p>El terreno bajo y de suave topografía de las parcelas hoteleras y de servicios de Costa Teguise deja entrar al tráiler con un 40 pies, de unos 12 m, o con un High Cube si necesitas guardar tablas largas o mástiles en vertical. Para una caseta junto a un apartamento o un local de playa suele bastar el <strong>contenedor de 20 pies</strong>, de unos 6 m de largo. Consulta <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Costa Teguise",
+    "html": "<p>Hasta Costa Teguise el coste se compone del flete a Lanzarote, la descarga en el puerto de Arrecife y el último tramo por la LZ-1. Lo que más varía de un caso a otro es la colocación: si el camión puede descargar en la propia parcela o hace falta grúa para salvar un muro o una zona ajardinada del complejo turístico.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Costa Teguise",
+    "html": "<p>En Costa Teguise compran contenedores sobre todo escuelas de deportes náuticos, empresas de mantenimiento, comunidades de apartamentos y constructoras que reforman hoteles. Antes de decidir, comprueba con la comunidad o con el Ayuntamiento de Teguise si puedes instalarlo en la parcela y en qué condiciones estéticas, y pide fotos del interior y de los bajos del contenedor.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Costa Teguise",
+    "html": "<p>El contenedor llega por barco al Puerto de Arrecife, en Los Mármoles, y sube por la LZ-1 hasta Costa Teguise. Dentro del núcleo, los límites no son las pendientes sino los accesos a las urbanizaciones: barreras, glorietas ajustadas, aparcamientos llenos y jardines que el brazo de la grúa debe salvar. Conviene acordar la entrega en horas tranquilas para no molestar a los huéspedes.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Costa Teguise",
+    "html": "<p>En un núcleo tan turístico como Costa Teguise, el <strong>alquiler de contenedores</strong> tiene sentido para necesidades puntuales: almacenar mobiliario mientras se reforma un hotel o un bloque de apartamentos, montar una oficina de obra o dar soporte a una competición o evento náutico. Cuando termina, el contenedor se retira y la parcela queda libre para la temporada alta.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Costa Teguise",
+    "html": "<p>Para un presupuesto ajustado en Costa Teguise dinos la dirección o la urbanización, si el contenedor va dentro de un complejo con acceso controlado, el espacio libre para descargar, la <strong>medida y el uso previsto</strong>, y si lo prefieres en venta o en alquiler.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Costa Teguise",
+    "html": "<p>El municipio de Teguise, Costa Teguise incluida, forma parte de nuestra zona de servicio, con el importe fijado en destino. Tras la travesía hasta el Puerto de Arrecife, la LZ-1 lo acerca a la costa este. Desde el puerto, la red insular de Lanzarote permite llegar también a los pueblos del interior.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Con la arena y la sal que trae el alisio, en Costa Teguise conviene una <a href=\"/pintura-contenedores/\">pintura marina contra el salitre</a>, rejillas de ventilación protegidas, <strong>estanterías para tablas y velas</strong> y cerraduras robustas. Si va a ser recepción o taller de reparación, añade luz y enchufes.</p>"
+   }
+  ]
+ }
 }

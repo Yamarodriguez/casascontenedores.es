@@ -25,6 +25,7 @@ import { localidadDe } from '../utils/localidades.js';
 import { anadirModelos, anadirFaq, tieneFaq, esCiudad } from '../utils/comunes.js';
 import { aplicarRenombres } from '../utils/renombres.js';
 import { nombrarCiudad } from '../utils/ciudad.js';
+import { anadirLocal } from '../utils/local.js';
 import { ordenarTipos } from '../utils/tipos.js';
 import { anadirIntro, subirAlIntro } from '../utils/intro.js';
 import { esMaritimos } from '../utils/hero.js';
@@ -80,6 +81,10 @@ if (ciudad) anadirIntro(bloques, { ruta: pagina.ruta, localidad, titulo: pagina.
 // en las nuevas (guias, servicios, modelos), las primeras secciones del cuerpo
 // suben junto al formulario hasta llenar su altura
 subirAlIntro(bloques, pagina.ruta);
+// texto propio de la localidad debajo de cada h2 (campo "local" del JSON:
+// src/utils/local.js); solo AÑADE, sobre los h2 con su texto original
+const { perdidos } = anadirLocal(bloques, pagina.local);
+if (perdidos.length) console.warn(`[local] ${pagina.ruta}: h2 no encontrados: ${perdidos.join(' | ')}`);
 
 // 2. toda página con rejilla de tipos de casa (planos, permisos, precios,
 //    pasos, ciudades...) enseña los mismos modelos que la portada: se le

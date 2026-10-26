@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Carboneras",
- "provincia": "almeria"
+ "provincia": "almeria",
+ "local": {
+  "entrada": "<p>Pocos pueblos del Levante almeriense tienen tanta actividad industrial como Carboneras. La cementera, la gran <strong>planta desaladora</strong>, la fábrica de placas de yeso, las piscifactorías de lubina y dorada y el desmantelamiento de la central térmica necesitan almacenes, vestuarios y casetas de obra. A eso se suma la flota pesquera, que usa el contenedor como cuarto para redes y aparejos.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Carboneras",
+    "html": "<p>Un <a href=\"/contenedores-maritimos-segunda-mano/\">contenedor de segunda mano</a> encaja bien en Carboneras para guardar redes y aparejos de pesca o como almacén auxiliar de un negocio de playa. Como va a estar junto al mar, revisa con lupa el óxido en bajos, travesaños y bisagras, y comprueba que las juntas de goma sellan, porque el salitre aprovecha cualquier punto débil de la chapa.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Carboneras",
+    "html": "<p>En las zonas industriales y portuarias de Carboneras, con acceso de tráiler, encajan bien el 40 pies (unos 12 m de largo) y el <strong>High Cube</strong>, de mayor altura interior, para almacén u oficina de obra. En las calles del casco antiguo, más estrechas, suele ser más práctico el 20 pies (unos 6 m), que maniobra mejor.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Carboneras",
+    "html": "<p>Al precio hasta Carboneras lo mueven el recorrido desde el puerto de origen por la A-7 y la AL-5105, el espacio disponible para descargar y la necesidad de grúa. Una explanada en zona industrial sale más sencilla que una calle estrecha del casco o una parcela pegada al litoral.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Carboneras",
+    "html": "<p>En Carboneras compran contenedores las empresas de la <strong>zona industrial</strong>, las contratas que trabajan en la desaladora o en el desmantelamiento de la central, los pescadores y los negocios turísticos. Si es para estar junto al mar, comprueba antes de comprar el estado de la pintura, la ausencia de perforaciones y que las puertas cierran bien, para que el salitre no entre.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Carboneras",
+    "html": "<p>Se llega a Carboneras tomando la A-7, la Autovía del Mediterráneo, y saliendo luego a la AL-5105, que lleva hasta el pueblo. Para el <a href=\"/transporte-contenedores-maritimos/\">transporte del contenedor</a> lo que más limita es el último tramo: calles estrechas en el centro, tráfico en verano y, en el entorno del parque natural de Cabo de Gata, caminos donde no siempre cabe un camión grúa.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Carboneras",
+    "html": "<p>En Carboneras se alquila sobre todo para obras y trabajos industriales de duración limitada, como el desmantelamiento de la central, para la temporada de playa o como apoyo en las fiestas de Moros y Cristianos de San Antonio y en las Fiestas del Pescador. Así no tienes que comprar algo que solo necesitas por un tiempo.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Carboneras",
+    "html": "<p>Cuando pidas precio en Carboneras, cuéntanos la medida, el uso y si lo buscas nuevo o usado. Da la dirección o la zona industrial, el ancho de la calle o del camino y si hay espacio para el camión grúa junto a la parcela.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Carboneras",
+    "html": "<p>Carboneras entra en nuestra zona de servicio, con el precio <strong>puesto en destino</strong>. Por la A-7 (Autovía del Mediterráneo) y la AL-5105 el contenedor alcanza el núcleo urbano, las zonas industriales o las parcelas próximas al puerto de Carboneras, industrial y pesquero. El Aeropuerto de Almería es la referencia aérea de la zona.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Entre las reformas de un contenedor en Carboneras destaca la <strong>pintura anticorrosión</strong>, que frena el ambiente marino junto al puerto y las playas, junto con una ventilación que evite calor y humedad acumulados. Para oficinas de obra en la cementera o la desaladora, conviene instalar electricidad, climatización y ventanas con rejas.</p>"
+   }
+  ]
+ }
 }

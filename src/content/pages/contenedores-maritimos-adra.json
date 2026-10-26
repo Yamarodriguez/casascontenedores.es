@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Adra",
- "provincia": "almeria"
+ "provincia": "almeria",
+ "local": {
+  "entrada": "<p>En Adra un contenedor marítimo suele acabar trabajando en el campo o junto al mar. La agricultura bajo invernadero, principal fuente de empleo del municipio, necesita almacenes para cajas, abonos y herramientas. La flota del puerto pesquero y deportivo de Adra necesita cuartos seguros para los aparejos. Y en las parcelas de la costa del <strong>Poniente almeriense</strong> encaja también como trastero o pequeño taller.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Adra",
+    "html": "<p>Para guardar aperos en una finca de invernaderos de Adra suele bastar un <a href=\"/contenedores-maritimos-segunda-mano/\">contenedor de segunda mano</a>: es estanco, se cierra con llave y se puede mover si cambias de parcela. Si va a quedar cerca de la playa, revisa con calma el óxido de los bajos, las esquinas y las juntas de las puertas, porque el aire salino del litoral acelera la corrosión de una chapa que ya llega usada.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Adra",
+    "html": "<p>En el llano de la vega y en las fincas con buen camino, un 40 pies (unos 12 m de largo) o un <strong>High Cube</strong>, con más altura interior, da mucho espacio por cada viaje de camión. En cambio, en las lomas y barrancos que suben hacia la sierra del Calar, con pistas estrechas y curvas, el 20 pies (unos 6 m) suele ser lo práctico. Tienes todas las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores</a> en su página.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Adra",
+    "html": "<p>Tres factores marcan lo que cuesta dejarlo en tu finca de Adra: el trayecto por la A-7 desde el puerto de origen, el tipo de descarga y el estado de la parcela. Dejarlo en una explanada junto a la N-340 es más sencillo que colocarlo con grúa entre invernaderos o subirlo por un camino de tierra con pendiente.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Adra",
+    "html": "<p>Quienes más compran contenedores en Adra son las <strong>explotaciones bajo plástico</strong>, que los usan como almacén o caseta, y los negocios ligados al mar, desde la pesca hasta las conserveras. Antes de comprar, comprueba que las puertas cierran y ajustan bien, que el suelo de madera está sano para soportar palés y que no quedan olores ni restos de cargas anteriores.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Adra",
+    "html": "<p>Para el <a href=\"/transporte-contenedores-maritimos/\">transporte del contenedor</a> hasta Adra se usa la A-7, que atraviesa el municipio de este a oeste, con salida a la N-340a para el casco urbano. Hacia el interior, la A-347 sube a Berja. Lo que complica la descarga no es la autovía, sino el último tramo: las calles estrechas del centro, los caminos entre invernaderos sin sitio para girar y las pistas en pendiente de las lomas.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Adra",
+    "html": "<p>El alquiler encaja en Adra cuando la necesidad es temporal: un almacén durante la campaña agrícola, una caseta para una obra o un espacio de apoyo en las fiestas del municipio, como la feria en honor a la Virgen del Mar y San Nicolás de Tolentino o la Virgen del Carmen, con su procesión marítima. Al terminar, el contenedor se retira sin dejar obra.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Adra",
+    "html": "<p>Para cotizar en Adra necesitamos la medida deseada y saber si lo prefieres nuevo o de segunda mano. Añade el núcleo o la dirección exacta, sea la vega, un camino entre invernaderos o las lomas, cuánto mide de ancho el paso y si un camión grúa puede girar en la entrada.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Adra",
+    "html": "<p>Cubrimos todo el término de Adra, del casco urbano a Puente del Río o La Curva, y el precio se da <strong>puesto en destino</strong>. La A-7, la Autovía del Mediterráneo, trae el camión hasta Adra, y la N-340 y la N-340a lo reparten por el término. Por la A-347 llega a las fincas que miran a la Alpujarra almeriense. Como puntos de referencia marítimo y aéreo quedan el Puerto de Almería y el Aeropuerto de Almería.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Para el uso agrícola de Adra suele compensar añadir ventilación y aislamiento, porque la chapa al sol del Poniente se calienta mucho. Si el contenedor va a guardar aparejos de pesca o va a estar cerca de la playa, lo importante es una buena <strong>pintura anticorrosión</strong>. Si la finca queda lejos del núcleo, compensa montar rejas, cerraduras reforzadas y una pequeña instalación solar para la luz.</p>"
+   }
+  ]
+ }
 }

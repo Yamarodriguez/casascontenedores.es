@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Albuñol",
- "provincia": "granada"
+ "provincia": "granada",
+ "local": {
+  "entrada": "<p>Un <strong>contenedor marítimo en Albuñol</strong> suele acabar en el campo. En la franja costera, junto a los invernaderos de La Rábita y El Pozuelo, sirve de almacén cerrado para cajas, abonos y herramientas. Más arriba, en la Sierra de la Contraviesa, hace de caseta de aperos en fincas de viña e higueras. También resuelve el trastero de una casa de playa o la caseta de una obra en el pueblo.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Albuñol",
+    "html": "<p>Para guardar aperos o material de invernadero, un <a href=\"/contenedores-maritimos-segunda-mano/\">contenedor de segunda mano</a> en buen estado cumple de sobra en Albuñol. Lo importante es revisarlo pensando en la costa: busca óxido en bajos, esquinas y techo, comprueba que las juntas de las puertas cierran bien y que el suelo de madera no está blando. Cerca del mar, el salitre avanza rápido sobre cualquier punto de corrosión que ya traiga.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Albuñol",
+    "html": "<p>Entre los bancales de viña de la Contraviesa, con pistas angostas y curvas cerradas, se impone el <strong>contenedor de 20 pies</strong>, de unos 6 m de largo, porque gira mejor y se asienta sin problema en una terraza. En la franja de invernaderos de La Rábita y El Pozuelo, con acceso más llano, cabe un 40 pies, de unos 12 m, o un High Cube cuando los palés o la maquinaria piden más altura por dentro.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Albuñol",
+    "html": "<p>El <strong>precio puesto en Albuñol</strong> se mueve sobre todo por el trayecto desde el puerto de origen, por el tipo de descarga y por la parcela. No cuesta lo mismo dejar el contenedor junto a un invernadero de El Pozuelo, con el camión al lado, que subirlo a una finca de la Contraviesa, donde puede hacer falta una grúa con más alcance o un camión más pequeño.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Albuñol",
+    "html": "<p>En Albuñol buscan contenedores sobre todo las <strong>explotaciones hortícolas</strong> de la costa, los propietarios de fincas en la sierra y quien hace obra en el pueblo o en La Rábita. Si compras, comprueba que el estado declarado coincide con las fotos, que las puertas abren sin forzar, y pide que te confirmen si el camión podrá llegar hasta el punto exacto de descarga.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Albuñol",
+    "html": "<p>La ruta natural hasta Albuñol es la autovía A-7, con salida hacia la costa por la N-340, y como puerto de referencia el Puerto de Motril. El tramo difícil está al final: el pueblo cabecera queda en ladera, con calles estrechas, y las fincas de la Contraviesa se alcanzan por caminos con pendiente donde un tráiler largo no siempre gira. Conviene revisarlo antes de planificar el <a href=\"/transporte-contenedores-maritimos/\">transporte del contenedor</a>.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Albuñol",
+    "html": "<p>El alquiler tiene sentido en Albuñol cuando la necesidad es temporal: una campaña hortícola con más cajas que guardar, una obra en La Rábita que necesita caseta y almacén cerrado, o las fiestas de San Patricio, cuando hace falta un espacio de apoyo para material. Al acabar, el contenedor se retira sin dejar huella en la parcela.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Albuñol",
+    "html": "<p>Para calcular tu pedido en Albuñol necesitamos saber el núcleo o paraje, si se llega por carretera o por pista de sierra, el tamaño (20 o 40 pies), si compras o alquilas y si en el punto de descarga el camión puede colocarse y la grúa tiene sitio para trabajar.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Albuñol",
+    "html": "<p>Nuestra zona de servicio abarca todo Albuñol, de la línea de playa a las lomas de la Contraviesa. La ruta pasa por la A-7 y la N-340, con el Puerto de Motril como puerto cercano si viene por mar, y la oferta se calcula <strong>puesto en destino</strong>, contando con la descarga en el punto exacto que señales.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Para un contenedor junto al mar en La Rábita o El Pozuelo, una <a href=\"/pintura-contenedores/\">pintura anticorrosiva</a> frena el salitre. En una finca aislada de la sierra, lo que más sentido tiene es reforzar las puertas con cerradura antirrobo y añadir un pequeño equipo solar para luz y herramientas, sin depender de la red.</p>"
+   }
+  ]
+ }
 }

@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Viator",
- "provincia": "almeria"
+ "provincia": "almeria",
+ "local": {
+  "entrada": "<p>En Viator el contenedor marítimo trabaja tanto en el campo como en la ciudad. Las fincas de tomate de la <strong>IGP La Cañada-Níjar</strong> lo usan como almacén o caseta, y los negocios, talleres y obras del área metropolitana de Almería, como trastero, oficina o almacén temporal. La cercanía a la capital y el paso de la A-7 hacen que llegar hasta aquí sea sencillo.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Viator",
+    "html": "<p>Un almacén de campaña en una finca de tomate de Viator se resuelve bien con un <a href=\"/contenedores-maritimos-segunda-mano/\">contenedor de segunda mano</a>, sin necesidad de gastar de más. Revisa el estado del suelo, que las puertas cierren bien y que no haya agujeros en el techo. En una parcela junto al río Andarax, comprueba que el contenedor quede apoyado en alto para que no le afecte el agua.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Viator",
+    "html": "<p>En la parte llana de Viator, con buen acceso desde la A-7 y la A-1000, encajan sin problema el 40 pies (unos 12 m de largo) y el <strong>High Cube</strong>, de mayor altura interior, para almacenes y obras. En las calles del casco o en las laderas hacia la Sierra Alhamilla, el 20 pies (unos 6 m) es más fácil de colocar.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Viator",
+    "html": "<p>En Viator el coste se reparte entre el trayecto desde el puerto de origen y la descarga, y tener la A-7 a mano facilita la llegada. Lo que más puede encarecer la entrega es una parcela en ladera, una calle estrecha del casco o una finca con camino de tierra donde la grúa tenga poco espacio.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Viator",
+    "html": "<p>Los compradores más frecuentes en Viator son los <strong>agricultores del valle</strong>, las empresas de construcción y los pequeños negocios del área metropolitana. Revisa que la chapa no esté muy corroída, que las puertas cierren y que el suelo aguante el peso de lo que vayas a guardar.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Viator",
+    "html": "<p>Al municipio se llega por la A-7, que lo cruza, y desde ahí por la A-1000 y la AL-3117. El <a href=\"/transporte-contenedores-maritimos/\">transporte</a> es sencillo por la cercanía al Puerto de Almería, y solo se complica en las calles estrechas del casco, en los caminos agrícolas del valle del Andarax o en las laderas de la Sierra Alhamilla.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Viator",
+    "html": "<p>Alquilar en Viator sirve para obras y reformas del área metropolitana, para guardar muebles durante una mudanza, para la campaña de las fincas de tomate y para eventos como las fiestas de la Virgen de las Angustias, que pueden requerir casetas de apoyo mientras duran.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Viator",
+    "html": "<p>Para tu pedido en Viator, empieza por la medida, el uso y si lo prefieres nuevo o usado. Precisa si el destino es el casco, una finca del valle o la ladera, y cuenta cómo se entra desde la A-7 y cuánto sitio hay para el camión grúa.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Viator",
+    "html": "<p>Hasta la parcela de Viator, el precio se da <strong>puesto en destino</strong>. Desde la A-7, la Autovía del Mediterráneo, se enlaza con la A-1000 o la AL-3117 hasta la propia parcela. En la capital quedan el Puerto de Almería y el Aeropuerto de Almería, a un paso del municipio.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Para Viator resultan clave la <strong>ventilación y el aislamiento</strong> para almacenes agrícolas expuestos al sol, y ventanas, electricidad y climatización para oficinas de obra o pequeños talleres. En fincas aisladas del valle del Andarax interesan también las rejas y las cerraduras reforzadas.</p>"
+   }
+  ]
+ }
 }

@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Mojácar",
- "provincia": "almeria"
+ "provincia": "almeria",
+ "local": {
+  "entrada": "<p>En Mojácar el turismo de sol y playa marca el uso de los contenedores marítimos. Hoteles, apartamentos, chiringuitos y empresas de servicios los usan como almacén de mobiliario de temporada, trastero o caseta de obra en reformas. En las fincas del interior, entre el pueblo y la Sierra Cabrera, sirven como <strong>caseta de aperos</strong> o pequeño taller, sin necesidad de levantar obra.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Mojácar",
+    "html": "<p>Quien necesite recoger hamacas, sombrillas o mobiliario de terraza al acabar la temporada encuentra en un <a href=\"/contenedores-maritimos-segunda-mano/\">contenedor de segunda mano</a> una salida económica en Mojácar. Si va a estar en la costa, revisa con atención el óxido en bajos, esquinas y bisagras, porque el aire del mar desgasta antes la chapa usada. Comprueba también que las puertas cierren bien.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Mojácar",
+    "html": "<p>En las calles empinadas del pueblo de Mojácar, en lo alto del cerro, solo un <strong>20 pies</strong> (unos 6 m de largo) maniobra con cierta facilidad. En la zona de playas y en las parcelas con acceso por la A-370, un 40 pies (unos 12 m) o un High Cube, de mayor altura interior, dan más espacio para almacén de hoteles o empresas.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Mojácar",
+    "html": "<p>Lo que cuesta en Mojácar se mueve con la distancia desde el puerto de origen, con el trayecto por la A-7 y la A-370 y con la maniobra de descarga. Una parcela llana junto a la costa sale más sencilla que una calle empinada del pueblo, donde la grúa necesita más alcance y espacio para apoyarse.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Mojácar",
+    "html": "<p>Los compradores habituales de Mojácar son los <strong>negocios turísticos</strong> (hoteles, apartamentos y restauración), las empresas de reformas y los dueños de fincas. Examina la chapa y las puertas antes de cerrar la compra, y si va a verse desde la calle, asegúrate de que color y emplazamiento respetan las normas estéticas del municipio.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Mojácar",
+    "html": "<p>La ruta hasta Mojácar es la A-7 y, desde ella, la A-370, que lleva al pueblo y a la costa. El <a href=\"/transporte-contenedores-maritimos/\">transporte del contenedor</a> se complica en el casco histórico, con calles estrechas y empinadas, y en verano, cuando el tráfico turístico llena la costa. En las fincas de la sierra, las pistas de tierra limitan el paso del camión grúa.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Mojácar",
+    "html": "<p>Alquilar tiene sentido en Mojácar durante la temporada turística, cuando hoteles y negocios de playa requieren almacén de refuerzo, en obras de reforma y en las fiestas de Moros y Cristianos, que recuerdan la entrega pacífica de la villa a los Reyes Católicos y llenan el pueblo de visitantes.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Mojácar",
+    "html": "<p>Para presupuestar en Mojácar necesitamos la medida, el estado (nuevo o usado) y para qué lo vas a usar. Aclara si el destino es el pueblo, la costa o una finca de sierra, y cuéntanos cómo es el acceso: ancho, pendiente y espacio para el camión grúa.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Mojácar",
+    "html": "<p>Trabajamos en todo Mojácar y la oferta se te da <strong>puesto en destino</strong>. La A-7, la Autovía del Mediterráneo, y después la A-370 llevan el contenedor a la costa, al pueblo o a las fincas del interior. Como puntos de referencia cercanos están los puertos comerciales de Carboneras y Almería, además del Aeropuerto de Almería.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>En Mojácar tiene sentido pintar el contenedor de blanco o tonos claros para que encaje con la imagen del pueblo, con una <strong>pintura anticorrosión</strong> en la costa. Para negocios turísticos, también interesan las ventanas, la electricidad y la climatización, que lo convierten en oficina, recepción o almacén ventilado.</p>"
+   }
+  ]
+ }
 }
