@@ -2721,6 +2721,16 @@
   "secciones": [
    {
     "nivel": "h2",
+    "titulo": "Precios de casas contenedores en el mercado español (octubre de 2026)",
+    "html": "<p>Como referencia, estos son los <strong>precios orientativos del mercado</strong> que publican las constructoras de casas contenedor en España. No son una tarifa cerrada: tu presupuesto depende del proyecto, la parcela y las calidades.</p><table><thead><tr><th>Gama</th><th>Precio por m²</th><th>Qué suele incluir</th></tr></thead><tbody><tr><td>Económica y media</td><td>600-900 €/m² (IVA incluido)</td><td>Llave en mano: proyecto, licencia, cimentación en terreno llano, instalaciones, cocina, baño, transporte y montaje</td></tr><tr><td>Media-alta</td><td>850-1.400 €/m²</td><td>Estructura y acabados; transporte y extras según proyecto</td></tr><tr><td>Alta (modular de diseño)</td><td>1.350-1.500 €/m² + IVA</td><td>Fabricación, proyecto, cimentación y montaje estimados; licencias y parcela aparte</td></tr></tbody></table><table><thead><tr><th>Tamaño</th><th>Precio orientativo de mercado</th></tr></thead><tbody><tr><td>15 m²</td><td>desde 17.500 €</td></tr><tr><td>30 m²</td><td>desde 25.500 €</td></tr><tr><td>45 m²</td><td>53.450-64.000 €</td></tr><tr><td>60 m²</td><td>58.350-69.500 €</td></tr><tr><td>70-75 m²</td><td>55.000-83.300 €</td></tr><tr><td>90 m²</td><td>72.000-98.300 €</td></tr><tr><td>120 m²</td><td>105.000-123.300 €</td></tr></tbody></table><p>Precios publicados por constructoras españolas y consultados en octubre de 2026; la gama alta no está incluida en la tabla por tamaños. Para comparar, las mismas fuentes sitúan la <strong>casa prefabricada de hormigón</strong> en 1.100-1.450 €/m² y la obra tradicional en 1.400-2.000 €/m².</p>"
+   },
+   {
+    "nivel": "h3",
+    "titulo": "¿Qué suele quedar fuera del precio por metro cuadrado?",
+    "html": "<p>Lo que depende de tu parcela. Como referencia de mercado: acometidas a más de 30-40 m, 1.500-5.000 €; pilotes en terreno blando o con desnivel, hasta 8.000 €; estudio geotécnico y topográfico, 1.000-1.500 €; climatización, desde 3.000 €; placas solares con batería, desde 5.000 €, y el impuesto municipal de obras (ICIO), un 3-4 % del presupuesto de ejecución.</p>"
+   },
+   {
+    "nivel": "h2",
     "titulo": "Qué incluye el precio de una casa contenedor y qué no",
     "html": "<p>El precio final de una casa contenedor depende de qué partidas incluye el presupuesto. Antes de comparar dos ofertas, conviene saber qué suele llevar un llave en mano y qué queda fuera.</p><p>Suele incluir:</p><ul><li>Los módulos transformados, con aislamiento y envolvente.</li><li>Las instalaciones interiores y los acabados.</li><li>El transporte y el montaje en la parcela.</li><li>El proyecto técnico y la dirección de obra.</li></ul><p>Casi siempre queda aparte:</p><ul><li>El terreno y su estudio geotécnico.</li><li>Las acometidas de agua, luz y saneamiento.</li><li>La licencia, el ICIO y las tasas.</li><li>La notaría y el registro, si procede.</li><li>El seguro decenal, si la casa se vende.</li></ul><p>Por eso conviene distinguir el precio del módulo, el precio con proyecto y el <strong>precio llave en mano</strong>: solo este último es la vivienda terminada. Una oferta \"desde\" muy baja suele ser solo el módulo, sin cimentación ni licencia.</p>"
    },
