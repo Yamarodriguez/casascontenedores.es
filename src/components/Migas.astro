@@ -1,12 +1,11 @@
 ---
-/** Migas de pan con marcado BreadcrumbList, como las del tema original. */
+/** Migas de pan con marcado BreadcrumbList, como las del tema original, con
+ *  los niveles intermedios de cada página (src/utils/migas.js). */
 import site from '../data/site.json';
+import { migasDe } from '../utils/migas.js';
 const { ruta = '/', titulo = '' } = Astro.props;
 
-const partes = [
-  { nombre: 'Inicio', url: '/' },
-  ...(ruta === '/' ? [] : [{ nombre: titulo, url: ruta }]),
-];
+const partes = migasDe(ruta, titulo);
 
 const jsonld = {
   '@context': 'https://schema.org',

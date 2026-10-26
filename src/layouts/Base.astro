@@ -9,6 +9,7 @@ import WhatsApp from '../components/WhatsApp.astro';
 import { aWebp, existe } from '../utils/imagenes.js';
 import { fotoHero, srcsetHero, TAMANOS_HERO } from '../utils/hero.js';
 import { fechaDe } from '../utils/fechas.js';
+import { servicioDe } from '../utils/servicio.js';
 // El aspecto de la web. global.css pinta el chrome (cabecera, heroe, cierre,
 // pie) y diseno.css el contenido (lo que escribe render.js). Las 26 hojas de
 // Elementor ya NO se cargan: eran las que hacian que la web siguiera
@@ -86,6 +87,10 @@ const jsonld = [
     ...(fechaCambio ? { dateModified: fechaCambio } : {}),
   },
 ];
+
+// lo que ofrece la pagina y donde (servicios y localidades): src/utils/servicio.js
+const servicio = noindex ? null : servicioDe({ ruta, menu, localidad, nombre: h1 || titulo, descripcion, url: canonical, org: ORG });
+if (servicio) jsonld.push(servicio);
 
 if (faq.length) {
   jsonld.push({
