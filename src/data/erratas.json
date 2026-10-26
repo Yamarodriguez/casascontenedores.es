@@ -38,6 +38,7 @@
   ["Disculpe las molestias", "Disculpa las molestias"],
   ["si así lo desea(?!s)", "si así lo deseas"],
   ["se adapta a vos(?![\\p{L}])", "se adapta a ti"],
-  ["crece con vos(?![\\p{L}])", "crece contigo"]
+  ["crece con vos(?![\\p{L}])", "crece contigo"],
+  ["Ofrecemos containers desde los 600 hasta 2000 euros", "Como referencia, en el mercado español un contenedor usado cuesta entre 850 y 2.300 € y uno nuevo entre 1.950 y 4.200 €, sin IVA ni transporte (octubre de 2026)"]
  ]
 }
