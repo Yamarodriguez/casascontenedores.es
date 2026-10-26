@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Icod de los Vinos",
- "provincia": "tenerife"
+ "provincia": "tenerife",
+ "local": {
+  "entrada": "<p>El nombre de Icod de los Vinos ya dice mucho de su economía: viñedo en las medianías, amparado por la Denominación de Origen Ycoden-Daute-Isora, y plataneras en la franja costera. Por eso aquí un contenedor marítimo suele acabar como <strong>almacén agrícola o bodega auxiliar</strong>: para cajas de vendimia, barricas vacías, abonos o maquinaria pequeña. También lo usan los negocios del casco que viven de las visitas al Drago Milenario.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Icod de los Vinos",
+    "html": "<p>Para guardar cajas de vendimia o aperos en una finca de Icod, un contenedor de segunda mano cumple bien. Con el clima húmedo del norte, presta atención a la estanqueidad: juntas de puertas, techo sin abolladuras que embalsen agua y suelo de madera en buen estado. En fincas cercanas a la costa de San Marcos revisa además el óxido. Más claves en <a href=\"/contenedores-maritimos-segunda-mano/\">cómo elegir un contenedor usado</a>.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Icod de los Vinos",
+    "html": "<p>Las fincas de Icod de los Vinos están en ladera, con bancales y caminos estrechos, así que el tamaño más práctico suele ser el de <strong>20 pies</strong>, de unos 6 m de largo y 2,44 m de ancho. Abajo, en las plataneras con buen camino o en una nave junto a la carretera, compensa un 40 pies, de unos 12 m, o un High Cube, que aportan más capacidad para palés y maquinaria.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Icod de los Vinos",
+    "html": "<p>En el precio puesto en Icod entran el paso por mar hasta Tenerife, el recorrido por la TF-5 hacia el norte y, sobre todo, la descarga. Sobre bancales y cuestas, dejarlo en su sitio puede pedir una grúa de brazo más largo o hacerlo en varias maniobras. Un contenedor nuevo, uno usado o uno ya preparado como almacén ventilado tienen precios distintos.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Icod de los Vinos",
+    "html": "<p>En Icod compran contenedores sobre todo <strong>viticultores y bodegas pequeñas</strong> de la DO Ycoden-Daute-Isora, agricultores de platanera y comercios del casco. Antes de comprar comprueba la estructura y las puertas, y pide que el interior esté limpio y seco si vas a guardar algo relacionado con el vino. Conviene saber también si el camino de la finca admite la entrega.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Icod de los Vinos",
+    "html": "<p>Desde el Puerto de Santa Cruz de Tenerife, el contenedor recorre el norte por la TF-5 y enlaza con la TF-42 hacia Icod o con la TF-82 si la finca está hacia el interior. En el último tramo es donde aparecen los límites: caminos agrícolas entre bancales, curvas y pendientes en las medianías. Si quieres profundizar, mira <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Icod de los Vinos",
+    "html": "<p>En Icod de los Vinos el alquiler tiene mucho de campaña: la <strong>temporada de vendimia</strong> en las medianías, cuando hace falta espacio extra para cajas y herramientas, o la de corte en las plataneras. También se alquilan contenedores para obras de rehabilitación en el casco histórico y para guardar material de eventos en el entorno del Drago.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Icod de los Vinos",
+    "html": "<p>Para ajustar el precio en Icod de los Vinos, cuenta si la entrega es en la costa, junto al casco o en medianías, por qué carretera se llega (TF-5, TF-42 o TF-82), cuánto mide el camino de la finca, qué pendiente tiene y para qué lo quieres: almacén agrícola, bodega auxiliar u obra.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Icod de los Vinos",
+    "html": "<p>Icod de los Vinos está dentro de nuestra zona de servicio, con el <strong>precio calculado en destino</strong>, desde las plataneras de la costa de San Marcos hasta los viñedos de medianías. El contenedor cruza a Tenerife por el Puerto de Santa Cruz de Tenerife y llega por la autopista del norte hasta el punto de entrega que indiques.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Para las fincas de Icod la transformación más útil es convertir el contenedor en un almacén fresco y ventilado: rejillas, <a href=\"/aislamiento-contenedores/\">aislamiento térmico</a> y pintura clara para el sol de la tarde. Y si la finca queda apartada, vale la pena un cierre más fuerte y un panel solar pequeño para alumbrar y enchufar herramientas.</p>"
+   }
+  ]
+ }
 }

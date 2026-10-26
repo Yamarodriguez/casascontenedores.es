@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Motril",
- "provincia": "granada"
+ "provincia": "granada",
+ "local": {
+  "entrada": "<p>Motril tiene puerto comercial propio, y eso se nota en el uso de contenedores. Además de la logística ligada al tráfico portuario, un <strong>contenedor marítimo en Motril</strong> sirve como almacén agrícola en las fincas de la vega del Guadalfeo o de Carchuna, como trastero o caseta de obra en la ciudad y como almacén de material para los negocios de playa de Calahonda o Playa Granada.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Motril",
+    "html": "<p>Para un almacén de vega o un trastero urbano, un <a href=\"/contenedores-maritimos-segunda-mano/\">contenedor de segunda mano</a> funciona muy bien en Motril. Antes de comprarlo, revisa su estado frente a la humedad marina: óxido en esquinas, techo y bajos, estanqueidad de las puertas y suelo de madera firme. Si va a quedar cerca de la playa, conviene repintarlo con protección anticorrosiva desde el principio.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Motril",
+    "html": "<p>En la vega y en los polígonos de la ciudad, terreno llano por donde entra el tráiler, cabe el 40 pies, de unos 12 m, o un <strong>High Cube</strong>, de más altura interior, para palés y maquinaria. Subiendo a La Garnatilla y a otras zonas de sierra, o en callejas estrechas, gana el de 20 pies, de unos 6 m, que se maniobra con menos espacio.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Motril",
+    "html": "<p>En Motril sale más ajustado el precio si se descarga en llano, en la vega o en un polígono, con el camión pegado al punto de colocación. Lo encarecen el acceso a parcelas de ladera en la sierra de Lújar, las calles estrechas de los núcleos de playa y las transformaciones extra, como la pintura anticorrosiva o el aislamiento.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Motril",
+    "html": "<p>En Motril compran y venden contenedores las <strong>empresas ligadas al puerto</strong>, los agricultores de la vega, las constructoras y los negocios de playa. Al comprar, mira la placa de identificación, las puertas y el suelo y, si va a la vega, asegúrate de que el camión recorre el carril de la finca sin hundirse en la tierra blanda.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Motril",
+    "html": "<p>Motril es fácil de alcanzar: la A-7 recorre la costa, la A-44 baja desde Granada y la N-340 y la N-323 completan la red. Si el contenedor viene por mar, entra por el Puerto de Motril. Lo que limita el acceso de camión y grúa está en el destino: carriles de tierra en la vega, cuestas en La Garnatilla y calles estrechas en los núcleos costeros. Más detalle en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Motril",
+    "html": "<p>El <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores</a> responde en Motril a necesidades puntuales: almacenaje temporal en un pico de actividad, caseta y almacén en una obra de la ciudad, apoyo en una campaña agrícola de la vega o espacio cerrado para un evento en las fiestas de la Virgen de la Cabeza, patrona de la ciudad.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Motril",
+    "html": "<p>Para que el cálculo en Motril sea exacto, danos la dirección o el paraje (ciudad, vega, Carchuna, La Garnatilla, playa), cómo es el acceso, el tamaño (20 o 40 pies, estándar o High Cube), si compras o alquilas y qué transformación quieres, como pintura marina o ventilación.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Motril",
+    "html": "<p>Damos servicio en Motril y en todos sus núcleos, de la sierra a la costa. El camino es la A-7, la A-44 o la N-340, y el precio se cierra <strong>puesto en destino</strong> una vez conocidos el punto exacto de descarga y el acceso de cada parcela.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>En la costa de Motril, la transformación más útil es la <strong>pintura anticorrosiva</strong> contra el salitre, junto con rejillas de ventilación que eviten la humedad dentro. Para oficinas de obra o del entorno portuario se pueden añadir aislamiento, ventanas y electricidad; en las fincas de la vega, cerraduras reforzadas para guardar herramientas.</p>"
+   }
+  ]
+ }
 }

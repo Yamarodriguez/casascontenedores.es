@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Dalías",
- "provincia": "almeria"
+ "provincia": "almeria",
+ "local": {
+  "entrada": "<p>Dalías vive de la agricultura intensiva bajo invernadero, con cultivos extratempranos, y eso define el uso del contenedor marítimo: almacén de cajas, plásticos y abonos, cuarto de bombas, vestuario o caseta de aperos. En Celín y en las fincas de la ladera también se usa como trastero o taller. Es una pieza robusta y cerrada que aguanta el trabajo diario de una <strong>explotación agrícola</strong>.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Dalías",
+    "html": "<p>Junto al invernadero, un <a href=\"/contenedores-maritimos-segunda-mano/\">contenedor de segunda mano</a> resulta muy práctico en Dalías: guarda herramientas, abonos o material de riego y se puede mover si cambias de finca. Revisa que las puertas cierren bien, que el suelo no tenga zonas blandas y que no haya agujeros por donde entre el agua de los aguaceros.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Dalías",
+    "html": "<p>Entre los invernaderos de Dalías, con caminos estrechos y poco radio de giro, el <strong>20 pies</strong> (unos 6 m de largo) suele ser el más manejable. Si la finca tiene buen acceso desde la A-358 y espacio para maniobrar, un 40 pies (unos 12 m) o un High Cube, con mayor altura interior, dan más almacenaje para cajas y palés.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Dalías",
+    "html": "<p>En Dalías el importe final sigue el trayecto desde el puerto de origen por la A-7 y la AL-4302, de si la finca está en el llano o en la ladera de la Sierra de Gádor y de cómo se descarga. Colocar el contenedor entre invernaderos, con poco espacio para la grúa, encarece la maniobra.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Dalías",
+    "html": "<p>Quien más contenedores compra en Dalías son los <strong>agricultores de invernadero</strong>, las empresas de servicios agrícolas y quien hace obras en el pueblo o en Celín. Antes de comprar, comprueba el estado del suelo, que las puertas y cerraduras funcionen y que no haya restos de cargas anteriores que puedan contaminar productos o abonos.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Dalías",
+    "html": "<p>Al municipio se llega desde la A-7 por la AL-4302, que sale a la altura de Tarambana, y después por la A-358, que une Berja con El Ejido. Para el <a href=\"/transporte-contenedores-maritimos/\">transporte del contenedor</a> lo que más limita son los caminos entre invernaderos, estrechos y sin sitio para girar, y las calles del casco antiguo de Dalías.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Dalías",
+    "html": "<p>El alquiler en Dalías sigue el pulso de la campaña agrícola, cuando se necesita almacén temporal para cajas o material, y el de las obras y reformas; también atiende las fiestas del Santísimo Cristo de la Luz, de Interés Turístico Nacional, que pueden pedir casetas de apoyo.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Dalías",
+    "html": "<p>Para calcular tu contenedor en Dalías cuéntanos la medida, si lo prefieres nuevo o usado y el uso que le darás. Da la ubicación de la finca, si está en Dalías o en Celín, el ancho del camino y si hay sitio para el camión grúa entre los invernaderos.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Dalías",
+    "html": "<p>Damos servicio en Dalías y Celín con <strong>presupuesto puesto en destino</strong>. Llegamos desde la Autovía del Mediterráneo (A-7), por la AL-4302 y la A-358, hasta la finca o el núcleo. Si el contenedor viene por mar, el puerto de referencia es el Puerto de Almería, y el Aeropuerto de Almería es el punto aéreo más próximo.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>En una finca de Dalías lo que más se pide al transformar un contenedor es <strong>ventilación y aislamiento</strong>, para que el almacén no se recaliente al lado del invernadero. También son útiles la electricidad solar para luz y bombas, y las rejas y cerraduras reforzadas en fincas alejadas del pueblo.</p>"
+   }
+  ]
+ }
 }

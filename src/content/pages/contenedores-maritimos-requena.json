@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Requena",
- "provincia": "valencia"
+ "provincia": "valencia",
+ "local": {
+  "entrada": "<p>En Requena el contenedor marítimo trabaja sobre todo para el vino y el campo: almacén en bodegas y cooperativas de la DO Utiel-Requena, caseta cerrada en viñedos de Bobal y almacén en fincas de las aldeas. También sirve en obras de reconstrucción y en la industria del embutido. En Requena gestionamos la venta, el alquiler y el transporte del <strong>contenedor marítimo en Requena</strong>, con un precio que ya contempla llegar hasta la bodega o la finca.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Requena",
+    "html": "<p>En una finca de Requena, un contenedor usado ahorra dinero para guardar aperos, cajas de vendimia o maquinaria pequeña. Mira con atención las juntas de las puertas y el techo, pues las heladas, alguna nevada y las tormentas de final de verano castigan la estanqueidad, y verifica el estado del suelo de madera. Más en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores de segunda mano</a>.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Requena",
+    "html": "<p>Entre los llanos de viñedo y los patios de bodega con salida a la A-3, un 40 pies, de unos 12 m, o un <strong>High Cube</strong>, con más altura interior, deja sitio para palés de botellas o depósitos. Para las aldeas con calles estrechas y las fincas cercanas a las sierras o a las hoces del Cabriel, suele encajar mejor un 20 pies, de unos 6 m de largo.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Requena",
+    "html": "<p>En Requena el coste se reparte entre el propio contenedor y la entrega. La A-3 y la N-322 facilitan el transporte desde el Puerto de Valencia; lo que más puede encarecerlo es el acceso a aldeas alejadas, los caminos dañados tras la DANA o una descarga con grúa en una finca con pendiente. Consulta los <a href=\"/precios-contenedores-maritimos/\">precios de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Requena",
+    "html": "<p>En Requena suelen comprar contenedores las bodegas y cooperativas, los viticultores, los productores de embutidos y las constructoras que trabajan en reparaciones tras la DANA. Antes de comprar, comprueba la estanqueidad, el estado de las puertas y la <strong>placa CSC</strong>, y si el contenedor va a quedar fijo en suelo no urbanizable o cerca de las Hoces del Cabriel, consulta qué admite el planeamiento municipal.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Requena",
+    "html": "<p>La ruta principal es la <strong>autovía A-3</strong> desde el Puerto de Valencia, completada por la N-322 y la N-330 para llegar a las aldeas y a las fincas del término. A camión y grúa los frenan los caminos rurales entre viñas, las cuestas cerca de las sierras del Sistema Ibérico y los tramos dañados por las crecidas de la DANA, que conviene comprobar antes de entregar.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Requena",
+    "html": "<p>El alquiler en Requena encaja con los picos de la vendimia, cuando bodegas y cooperativas necesitan almacén extra, y con la Fiesta de la Vendimia, que puede requerir almacenaje temporal para organizadores y puestos. También se alquila para obras de reconstrucción y reformas en el casco y las aldeas. Mira las opciones de <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Requena",
+    "html": "<p>Para valorar tu pedido en Requena indica la aldea o el paraje, el tamaño y tipo de contenedor, si lo quieres nuevo o usado y en compra o alquiler, y cómo es el acceso desde la A-3 o la N-322: camino de tierra, pendiente o patio de bodega. Con eso calculamos el <strong>precio puesto en destino</strong>.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Requena",
+    "html": "<p>Requena y sus aldeas están dentro del área que cubrimos en la comarca de Requena-Utiel. Llevamos el contenedor por la A-3 hasta el casco y por las carreteras nacionales y comarcales hasta tus fincas o bodegas. Los contenedores de importación llegan desde el Puerto de Valencia. El presupuesto incluye siempre la entrega, puesto en destino.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>El frío largo del invierno en Requena convierte el aislamiento térmico en la mejora clave, en especial si el contenedor guardará vino o hará de oficina o sala de catas. En fincas alejadas de las aldeas encajan la electricidad solar, para tener luz sin acometida, y las rejas y cerraduras reforzadas.</p>"
+   }
+  ]
+ }
 }

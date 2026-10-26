@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Puerto Calero",
- "provincia": "las-palmas"
+ "provincia": "las-palmas",
+ "local": {
+  "entrada": "<p>Puerto Calero vive del mar: amarres, excursiones en barco, pesca deportiva y restaurantes alrededor de su puerto deportivo, en la costa sureste de Lanzarote. Un <strong>contenedor marítimo en Puerto Calero</strong> suele usarse como almacén de equipo náutico, pañol para una empresa de excursiones, pequeño taller de mantenimiento de embarcaciones o caseta de obra en la reforma de una villa. Damos servicio en esta urbanización de Yaiza con presupuesto puesto en destino.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Puerto Calero",
+    "html": "<p>Para guardar cabos, defensas, chalecos y motores fuera borda en Puerto Calero, un contenedor de segunda mano cumple muy bien. Lo que no puede faltar es una buena revisión: junto a la marina la sal ataca bisagras, esquinas y techo, así que comprueba que no haya óxido pasante, que las puertas cierren bien y que el suelo esté seco y firme.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Puerto Calero",
+    "html": "<p>El suelo de Puerto Calero desciende hacia el mar y el último tramo es un camino costero, de modo que suele elegirse el <strong>contenedor de 20 pies</strong>, de unos 6 m de largo, que se transporta y se asienta con menos dificultad. Para un 40 pies, de unos 12 m, o un High Cube hace falta una explanada llana y despejada donde el camión pueda girar. Consulta las <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores</a>.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Puerto Calero",
+    "html": "<p>La cuenta para Puerto Calero junta el flete hasta Lanzarote, la descarga en el Puerto de Arrecife, el viaje por carretera hacia el sur y, por encima de todo, el último gesto de la grúa: con la ladera que cae hacia el mar quizá haga falta una grúa de brazo largo. Cuanto más llano y accesible sea el punto de entrega, más contenido sale el total.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Puerto Calero",
+    "html": "<p>Los compradores habituales en Puerto Calero son empresas de excursiones y pesca deportiva, propietarios de barco, talleres náuticos y gestores de villas. Antes de comprar, consulta al Ayuntamiento de Yaiza qué planeamiento se aplica hoy a la parcela donde irá y si hacen falta permisos para dejarlo junto a la marina. Mira igualmente la <strong>placa de identificación</strong> y cómo está la chapa.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Puerto Calero",
+    "html": "<p>Desde el Puerto de Arrecife el contenedor viaja por la LZ-2 hacia Yaiza, toma la LZ-40 hacia Puerto del Carmen y la LZ-504, y entra por un camino costero hasta la marina. Ese último tramo, con pendiente entre la carretera y el mar, es el que limita el tamaño del camión y la posición de la grúa. Más en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Puerto Calero",
+    "html": "<p>En Puerto Calero se alquilan contenedores para necesidades concretas: guardar material durante la reforma de una villa o de un local de la marina, montar una oficina de obra o apoyar una regata o evento náutico. El <strong>alquiler temporal</strong> permite liberar la parcela en cuanto acaba el trabajo, algo importante en una urbanización tranquila.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Puerto Calero",
+    "html": "<p>Cuéntanos si el contenedor irá a una villa, a un local o a un solar junto al puerto deportivo, con qué pendiente, cuánto sitio hay para el camión, qué medida quieres, qué uso náutico le darás y si buscas comprar o alquilar; con eso cerramos el presupuesto de Puerto Calero.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Puerto Calero",
+    "html": "<p>Atendemos Puerto Calero y el resto del término de Yaiza, con el precio calculado puesto en destino. Desembarca en el Puerto de Arrecife, en Los Mármoles, y desciende por la LZ-2 y las carreteras del sur de Lanzarote hasta la marina, ya en el límite con Puerto del Carmen, en Tías.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Para uso náutico en Puerto Calero conviene <strong>pintura marina contra el salitre</strong>, ventilación para evitar condensación y secar el equipo, estanterías para motores y cabos, y cerraduras de seguridad. Una placa solar basta para la iluminación interior y para cargar baterías.</p>"
+   }
+  ]
+ }
 }

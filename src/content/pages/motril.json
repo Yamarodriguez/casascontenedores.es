@@ -2500,5 +2500,62 @@
  "huecoTitulo": false,
  "familia": "casas",
  "localidad": "Motril",
- "provincia": "granada"
+ "provincia": "granada",
+ "local": {
+  "entrada": "<p>Motril es la capital de la Costa Granadina y una ciudad volcada en su puerto, con una vega llana abierta por el río Guadalfeo al sur y la sierra de Lújar al norte. Su término reúne núcleos muy distintos, como Calahonda, Carchuna, Playa Granada o La Garnatilla. De ahí que una <strong>casa contenedor en Motril</strong> pueda ser desde una vivienda en solar urbano hasta un alojamiento turístico de costa o una casa de campo en la vega.</p>",
+  "h2": [
+   {
+    "tras": "Modelos de casas de contenedores",
+    "html": "<p>En Motril los modelos se eligen según el núcleo. Cerca de las playas tiene salida el <strong>apartamento turístico compacto</strong> o la segunda residencia con terraza; en la vega, una vivienda de una planta con porche o un módulo que combine estar y almacén; en La Garnatilla, ya en la sierra, un refugio adaptado a la ladera. Todos se pueden diseñar a medida de la parcela.</p>"
+   },
+   {
+    "tras": "Casas de contenedores PRECIOS! Motril",
+    "html": "<p>Lo que más pesa en el presupuesto de Motril es el tipo de terreno. En la vega del Guadalfeo el acceso es llano y cómodo, pero los suelos de aluvión pueden pedir una <a href=\"/cimentacion-casas-contenedores/\">cimentación más estudiada</a>; en las laderas de la sierra de Lújar, la pendiente encarece la grúa y la obra. Pegados al mar, los módulos necesitan una capa extra de defensa del acero frente al salitre.</p>"
+   },
+   {
+    "tras": "Casas contendores PERMISOS Motril",
+    "html": "<p>Es el <strong>Ayuntamiento de Motril</strong> quien debe dar el visto bueno, conforme a la Ley 7/2021, de impulso para la sostenibilidad del territorio de Andalucía (LISTA), y a la Revisión del Plan General de Ordenación Urbanística (PGOU) de Motril, con las innovaciones que se le han añadido. Hay que tener en cuenta los espacios protegidos del término, como la Reserva Natural Concertada Charca de Suárez y la ZEC Acantilados y Fondos Marinos de Calahonda-Castell de Ferro.</p>"
+   },
+   {
+    "tras": "Casas contenedores PLANOS Motril",
+    "html": "<p>El clima suave de Motril permite abrir la casa al exterior casi todo el año. Conviene orientar la zona de día al sur, con aleros o pérgola que corten el sol alto del verano, y colocar los dormitorios al norte, más frescos. La sierra protege de los vientos fríos, así que la mejor brisa llega del mar: ventanas enfrentadas en el eje norte-sur ventilan bien toda la vivienda.</p>"
+   },
+   {
+    "tras": "Casa hechas con contenedores Motril",
+    "html": "<p>Cerca del puerto y de las playas, el contenedor de acero necesita una buena defensa frente al salitre: imprimación anticorrosiva, una <a href=\"/pintura-contenedores/\">pintura de exteriores adecuada</a> y revisiones periódicas. Hacia la vega y la sierra el ambiente es menos agresivo, pero el aislamiento sigue siendo clave para evitar condensaciones. Los colores claros reflejan el sol y casan con el blanco de la arquitectura costera.</p>"
+   },
+   {
+    "tras": "Ventajas de las casas de Contenedores",
+    "html": "<p>Para Motril, la ventaja más clara es la <strong>logística</strong>: con el Puerto de Motril y las autovías A-7 y A-44 a mano, llevar los módulos hasta la parcela es sencillo, y la obra en el sitio se reduce a cimentación y conexiones. Eso permite levantar un alojamiento turístico fuera de temporada o ampliar después una casa de la vega con otro contenedor.</p>"
+   },
+   {
+    "tras": "Pasos para Construir tu casa de contenedores",
+    "html": "<p>En Motril, antes de diseñar, hay que averiguar qué clase de suelo marca el PGOU y a qué distancia queda la parcela del río y de la rambla del Puntalón, cotejándolo con la cartografía oficial de inundabilidad. Si la finca está en la costa, revisa también la cercanía a espacios protegidos. Con eso, un <a href=\"/estudio-de-parcela/\">estudio de parcela</a> define cimentación y acceso.</p>"
+   },
+   {
+    "tras": "Tiempo de construcción de casas contenedores",
+    "html": "<p>En Motril los plazos dependen sobre todo de la tramitación municipal y de si la parcela necesita informes por estar cerca de la costa o de un cauce. El transporte, gracias a las autovías y al puerto, rara vez es el cuello de botella. En los núcleos de playa, programar la descarga fuera del verano evita calles llenas y maniobras complicadas.</p>"
+   },
+   {
+    "tras": "Fotos de casas Containers Motril",
+    "html": "<p>Piensa en un módulo blanco sobre la vega, rodeado de frutales y con la sierra de Lújar al fondo, o en otro de tono arena junto a la orilla, con pérgola de madera y el Mediterráneo enfrente. Buganvillas y palmeras completan la imagen de una costa de clima suave.</p>"
+   },
+   {
+    "tras": "Casa de contenedores por dentro, Interior de Casa Contenedor",
+    "html": "<p>Por dentro, una vivienda contenedor en Motril se piensa para el calor más que para el frío: buen aislamiento en cubierta, ventilación cruzada, ventiladores de techo y una calefacción ligera para las pocas noches frescas. En la costa, ducha exterior y armarios para el material de playa; en la vega, un cuarto de herramientas con acceso directo desde fuera.</p>"
+   },
+   {
+    "tras": "Presupuesto de tu casa de contenedores Motril",
+    "html": "<p>Una buena petición desde Motril incluye la referencia catastral, el núcleo (ciudad, Carchuna, La Garnatilla, playa…), si el terreno está en la vega, en la sierra o en primera línea, si hay una rambla cerca y cómo se llega desde la A-7, la A-44 o la N-340.</p>"
+   },
+   {
+    "tras": "Otros Servicios de contenedores Motril",
+    "html": "<p>El puerto y la agricultura de la vega abren muchos usos a los contenedores en Motril: almacenaje y logística ligados al tráfico portuario, almacén agrícola en Carchuna o en las fincas de la vega y oficina o caseta de obra para promociones y reformas en la ciudad.</p>"
+   },
+   {
+    "tras": "Donde estamos en casas contenedores Motril",
+    "html": "<p>El término de Motril, con todos sus núcleos, entra en nuestra cobertura. Los módulos llegan por las autovías A-7 y A-44 y por las carreteras N-340 y N-323, y si vienen por mar, por el Puerto de Motril. La ciudad también está bien conectada con el Aeropuerto Federico García Lorca Granada-Jaén. El presupuesto es siempre <strong>puesto en destino</strong>.</p>"
+   }
+  ]
+ }
 }

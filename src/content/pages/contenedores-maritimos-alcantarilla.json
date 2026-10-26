@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Alcantarilla",
- "provincia": "murcia"
+ "provincia": "murcia",
+ "local": {
+  "entrada": "<p>Detrás de cada contenedor marítimo que llega a Alcantarilla suele haber un uso muy definido: almacenaje junto a una nave del polígono industrial Oeste, un almacén auxiliar para la industria agroalimentaria y conservera, una oficina de obra o una caseta segura en una parcela de huerta. Vendemos, alquilamos y transportamos hasta tu puerta, y el precio de tu <strong>contenedor marítimo en Alcantarilla</strong> se calcula ya con la entrega en la nave, la obra o la huerta.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Alcantarilla",
+    "html": "<p>Un contenedor usado cubre muy bien el <strong>almacén de aperos</strong> y la caseta de riego en las parcelas de huerta junto a las acequias, o el trastero de material en una nave. Antes de comprarlo, revisa el suelo de madera, las juntas de las puertas y la chapa del techo: con veranos muy calurosos y lluvias concentradas en otoño, un techo con abolladuras acumula agua y acelera la corrosión. Más información en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores de segunda mano</a>.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Alcantarilla",
+    "html": "<p>En Alcantarilla el terreno llano y los viales anchos de los polígonos permiten recibir sin problema un <strong>40 pies</strong>, de unos 12 m de largo, o un High Cube, con mayor altura interior, útil para almacenar palés o material voluminoso. Entre las acequias, por los caminos de huerta o en las calles del casco, rinde más un 20 pies, de unos 6 m, que el camión grúa coloca con menos maniobra.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Alcantarilla",
+    "html": "<p>Tres cosas pesan en el importe final: el estado del contenedor, su tamaño y cómo se descarga. El llano de la vega y la cercanía a la A-7 y a la MU-30 facilitan la llegada del camión; lo que encarece es necesitar una grúa autopropulsada porque el camino de huerta no deja entrar al camión grúa, o tener que salvar una acequia o un muro. Consulta los <a href=\"/precios-contenedores-maritimos/\">precios de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Alcantarilla",
+    "html": "<p>En Alcantarilla suelen interesarse por comprar contenedores las empresas de los polígonos Oeste, Cabezo Verde y La Coroneja, las constructoras para sus obras y los agricultores de huerta que quieren un almacén cerrado. Si vas a comprar, comprueba que tenga la <strong>placa CSC</strong> legible, que las puertas cierren con estanqueidad y, si lo vas a dejar en una parcela de huerta, qué permite el planeamiento municipal para esa instalación.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Alcantarilla",
+    "html": "<p>La ruta habitual llega por la A-7 o la A-30, que atraviesan el término, y enlaza con la MU-30, la RM-15 o la N-340a según el punto de entrega. Los contenedores que vienen por mar entran por el <strong>Puerto de Cartagena</strong>. El acceso es fácil en polígonos y avenidas; en la huerta, lo que limita al camión y la grúa son los caminos estrechos, los pasos sobre acequias y los cables aéreos.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Alcantarilla",
+    "html": "<p>El alquiler en Alcantarilla suele responder a necesidades temporales: almacenaje extra para una empresa del polígono en picos de actividad, caseta de obra en promociones o reformas, o almacén de campaña para la cosecha de la huerta. También sirve como trastero durante una mudanza o la reforma de una vivienda. Mira las opciones de <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Alcantarilla",
+    "html": "<p>Para el presupuesto en Alcantarilla indica el tamaño (20 o 40 pies, estándar o High Cube), si lo quieres nuevo o usado, en venta o en alquiler, la dirección de entrega o la referencia catastral, y cómo es el acceso: calle del casco, nave del polígono o camino de huerta. Con eso calculamos el <strong>precio puesto en destino</strong>.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Alcantarilla",
+    "html": "<p>Alcantarilla entra de lleno en el área en la que trabajamos dentro de la Región de Murcia. Hacemos la entrega en tu nave, obra o parcela, con el camión llegando por la A-7, la A-30 o la RM-15 y, para mercancía marítima, desde el Puerto de Cartagena. El presupuesto incluye siempre el transporte hasta tu dirección, con grúa si hace falta.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Con el calor que aprieta en la vega en verano, lo primero que suele compensar es aislar el contenedor y ventilarlo, más aún si va a ser oficina en un polígono. En parcelas de huerta encajan la puerta de personal, las rejas y el cierre reforzado, y una pequeña instalación de electricidad solar para luz o para el riego.</p>"
+   }
+  ]
+ }
 }

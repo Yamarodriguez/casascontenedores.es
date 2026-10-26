@@ -2500,5 +2500,62 @@
  "huecoTitulo": false,
  "familia": "casas",
  "localidad": "Vera",
- "provincia": "almeria"
+ "provincia": "almeria",
+ "local": {
+  "entrada": "<p>Vera ocupa una llanura de suave pendiente que baja desde las sierras cercanas hasta el mar, en el <strong>Levante almeriense</strong>. La cruzan el río Antas y varias ramblas, y su costa, Vera Playa, es conocida por el turismo naturista. Entre los regadíos de cítricos del interior y las urbanizaciones de la playa hay sitio para una casa contenedor como vivienda, alojamiento turístico o casa de vacaciones.</p>",
+  "h2": [
+   {
+    "tras": "Modelos de casas de contenedores",
+    "html": "<p>En Vera los proyectos más naturales miran a la costa: <strong>alojamiento turístico</strong> o segunda residencia de uno o dos módulos, con terraza y zona de sombra. Hacia el interior, entre huertas y cítricos, encaja mejor una vivienda de campo o una caseta para la finca. El terreno llano permite además combinar varios contenedores en planta sin complicaciones de cimentación.</p>"
+   },
+   {
+    "tras": "Casas de contenedores PRECIOS! Vera",
+    "html": "<p>En Vera el terreno, mayoritariamente llano, facilita la llegada del camión y abarata la colocación. Lo que más puede encarecer el presupuesto es la cercanía al río Antas o a una rambla, que puede obligar a elevar la casa o reforzar la cimentación, y la proximidad al mar, que exige una protección del acero más completa. Tienes más información en <a href=\"/precios/\">precios</a>.</p>"
+   },
+   {
+    "tras": "Casas contendores PERMISOS Vera",
+    "html": "<p>El Ayuntamiento de Vera resuelve las licencias conforme a la <strong>Ley 7/2021 (LISTA)</strong> de Andalucía y a su PGOU, que adaptó las Normas Subsidiarias a la LOUA y ha tenido numerosas modificaciones puntuales. Sobre suelo rústico, la ley deja a la vivienda un margen estrecho. La ZEC Río Antas y la protección del litoral también limitan lo que se puede construir junto al cauce y en primera línea.</p>"
+   },
+   {
+    "tras": "Casas contenedores PLANOS Vera",
+    "html": "<p>En la llanura costera de Vera el plano puede extenderse en horizontal, con patios y porches que den sombra. Conviene orientar el salón al sur con aleros y abrir ventanas enfrentadas para la ventilación cruzada. Cerca del mar, las vistas a Vera Playa pueden guiar la distribución; en el interior, la orientación a las huertas y los naranjos da frescor y privacidad.</p>"
+   },
+   {
+    "tras": "Casa hechas con contenedores Vera",
+    "html": "<p>Vera está en la zona climática B4 del CTE, con veranos exigentes e inviernos suaves. Lo prioritario es aislar bien contra el calor y, en Vera Playa, aplicar una <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> de calidad. Los colores claros, blancos o arena, encajan con el entorno costero y con la tradición mediterránea del Levante.</p>"
+   },
+   {
+    "tras": "Ventajas de las casas de Contenedores",
+    "html": "<p>En un negocio turístico de Vera cuenta ante todo la <strong>rapidez del montaje</strong>: los módulos se fabrican en taller y se instalan fuera de la temporada de playa, para empezar a alquilar cuanto antes. En las fincas agrícolas, la posibilidad de ampliar por módulos permite añadir almacén u oficina cuando crece la explotación.</p>"
+   },
+   {
+    "tras": "Pasos para Construir tu casa de contenedores",
+    "html": "<p>En Vera, el primer paso es comprobar si la parcela está cerca del río Antas o de alguna rambla, por la inundabilidad y por la ZEC del río. Un <a href=\"/estudio-de-parcela/\">estudio de parcela</a> sirve también para verificar cómo figura el suelo en el PGOU antes de encargar el proyecto. En la costa, también hay que revisar las limitaciones de la franja litoral.</p>"
+   },
+   {
+    "tras": "Tiempo de construcción de casas contenedores",
+    "html": "<p>En Vera el ritmo lo marca el trámite municipal, que se estira si la parcela queda junto a un cauce o en la franja costera. El montaje, en cambio, es rápido gracias al terreno llano y a los buenos accesos. Conviene evitar la temporada turística y la Semana Santa, cuando el Pregón del Judío y las procesiones llenan el pueblo.</p>"
+   },
+   {
+    "tras": "Fotos de casas Containers Vera",
+    "html": "<p>La casa contenedor se vería blanca y luminosa en Vera Playa, con pérgola y vegetación mediterránea, o rodeada de naranjos en el interior. Al fondo, las sierras que cierran la llanura y la silueta de la iglesia-fortaleza de la Encarnación.</p>"
+   },
+   {
+    "tras": "Casa de contenedores por dentro, Interior de Casa Contenedor",
+    "html": "<p>En la costa de Vera conviene un interior fresco y fácil de limpiar: suelos claros, ventilación cruzada, climatización eficiente y una cocina abierta a la terraza. Para una casa de campo, conviene reservar un cuarto con entrada desde fuera para herramientas, cajas de cítricos o material de riego.</p>"
+   },
+   {
+    "tras": "Presupuesto de tu casa de contenedores Vera",
+    "html": "<p>Para presupuestar en Vera, apunta el número de catastro, cómo está clasificado el suelo en el PGOU y si la parcela queda cerca de un cauce, de una rambla o de la costa. Indica también cómo es el acceso y si hay espacio para el camión y la grúa.</p>"
+   },
+   {
+    "tras": "Otros Servicios de contenedores Vera",
+    "html": "<p>En Vera los contenedores marítimos también se usan como almacén para cítricos y hortalizas, caseta de riego, oficina de obra en las urbanizaciones o espacio auxiliar para negocios turísticos de Vera Playa y para el mercado tradicional de los sábados.</p>"
+   },
+   {
+    "tras": "Donde estamos en casas contenedores Vera",
+    "html": "<p>Damos servicio en Vera, del casco urbano a Vera Playa, con <strong>presupuesto puesto en destino</strong>. Por la A-7 o la AP-7 se llega a Vera, y la N-340a da entrada al pueblo; la N-332 y la A-352 completan la red. Para situarse: los puertos comerciales de Carboneras y Almería y el Aeropuerto de Almería.</p>"
+   }
+  ]
+ }
 }

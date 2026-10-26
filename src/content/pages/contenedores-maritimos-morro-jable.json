@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Morro Jable",
- "provincia": "las-palmas"
+ "provincia": "las-palmas",
+ "local": {
+  "entrada": "<p>En Morro Jable el mar lo ocupa casi todo: un puerto con ferris, mercancías y barcos de pesca, hoteles a lo largo de las playas de Jandía y servicios turísticos que necesitan espacio para guardar cosas. Un <strong>contenedor marítimo en Morro Jable</strong> suele usarse como almacén de pesca o de material náutico, trastero para un negocio de playa o caseta de obra en una reforma hotelera. Damos servicio en este pueblo de Pájara con presupuesto puesto en destino.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Morro Jable",
+    "html": "<p>Cerca del puerto de Morro Jable, un contenedor usado cumple de sobra para redes, nasas y aparejos. En este clima lo importante es revisar la chapa del techo y los bajos, que con la brisa salina y la calima se deterioran antes, y comprobar que las puertas cierran herméticas para que no entre polvo ni arena.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Morro Jable",
+    "html": "<p>Donde el terreno es llano, a pie de costa, el 40 pies, de unos 12 m, o el High Cube entran siempre que el tráiler pueda girar. En las parcelas en ladera de detrás del pueblo y en solares pequeños suele ser más práctico el <strong>contenedor de 20 pies</strong>, de unos 6 m de largo, que la grúa coloca con menos espacio.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Morro Jable",
+    "html": "<p>El precio puesto en Morro Jable depende de tres cosas: el flete por mar hasta Fuerteventura, el largo recorrido por carretera de norte a sur de la isla y la descarga final. Si la parcela está en pendiente o detrás de un muro, la grúa encarece; si el camión puede dejarlo en suelo llano, el total baja. Consulta los <a href=\"/precios-contenedores-maritimos/\">precios de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Morro Jable",
+    "html": "<p>En la península de Jandía compran contenedores pescadores, empresas de excursiones y deportes náuticos, negocios de playa y constructoras que trabajan en reformas hoteleras. Antes de comprar, comprueba que el Ayuntamiento de Pájara permite instalarlo en tu parcela y que no estás dentro de un espacio protegido como el <strong>Parque Natural de Jandía</strong>.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Morro Jable",
+    "html": "<p>El contenedor llega por mar a Fuerteventura y baja por la FV-2, la carretera que une la península de Jandía con el resto de la isla, hasta Morro Jable. El acceso al pueblo es bueno por la costa, pero en las laderas y barrancos que hay detrás del pueblo la pendiente y los giros limitan el tamaño del camión y la posición de la grúa.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Morro Jable",
+    "html": "<p>El alquiler en Morro Jable responde a la <strong>temporada turística y las obras</strong>: almacenar mobiliario mientras se reforma un hotel o un apartamento, montar una oficina provisional o guardar material de una actividad náutica durante una temporada de mucho movimiento. Cuando acaba la necesidad, el contenedor se retira sin dejar obra.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Morro Jable",
+    "html": "<p>Para cerrar el precio en Morro Jable necesitamos la ubicación exacta de la parcela, si está en la zona baja o en ladera, el espacio para que maniobre el camión, si hace falta grúa, la medida que buscas y si es compra o <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Morro Jable",
+    "html": "<p>Damos servicio en Morro Jable y en toda la península de Jandía con presupuesto puesto en destino. El contenedor cruza el mar hasta Fuerteventura y recorre la FV-2 hacia el sur. Junto al Puerto de Morro Jable, el más meridional de la isla, funciona un centro de recuperación de tortugas marinas.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Para un almacén de pesca en Morro Jable conviene <strong>pintura marina contra el salitre</strong>, rejillas de ventilación que eviten la condensación y cerraduras robustas. En un negocio de playa, una placa solar para la iluminación y unas estanterías interiores lo convierten en un trastero muy útil.</p>"
+   }
+  ]
+ }
 }

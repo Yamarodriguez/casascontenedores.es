@@ -2500,5 +2500,62 @@
  "huecoTitulo": false,
  "familia": "casas",
  "localidad": "Ohanes",
- "provincia": "almeria"
+ "provincia": "almeria",
+ "local": {
+  "entrada": "<p>Ohanes es un pueblo de montaña de la <strong>Alpujarra almeriense</strong>, colgado en la ladera sur de Sierra Nevada sobre el valle del Andarax y atravesado por el río Chico. Parte de su término está dentro del Parque Nacional y del Parque Natural de Sierra Nevada. Aquí una casa contenedor tiene sentido como casa rural, refugio de fin de semana o vivienda junto a una finca de uva, siempre en suelo donde la normativa lo permita.</p>",
+  "h2": [
+   {
+    "tras": "Modelos de casas de contenedores",
+    "html": "<p>En Ohanes encajan modelos pequeños y bien aislados: una <strong>casa rural compacta</strong> de uno o dos módulos para turismo de naturaleza, un refugio de montaña para fines de semana o una caseta junto a las fincas de uva, olivo o almendro. Los módulos de 20 pies son más fáciles de subir por las carreteras de montaña, y pueden combinarse para ganar superficie.</p>"
+   },
+   {
+    "tras": "Casas de contenedores PRECIOS! Ohanes",
+    "html": "<p>En Ohanes el presupuesto lo marcan sobre todo dos factores. El primero es el acceso: las carreteras de montaña, como la AL-4402 o la AL-3404, son estrechas y con curvas, y limitan el tamaño del camión y de la grúa. El segundo es el clima: en la zona D3 del CTE, el contenedor necesita mucho más aislamiento y una buena calefacción que en la costa.</p>"
+   },
+   {
+    "tras": "Casas contendores PERMISOS Ohanes",
+    "html": "<p>Para obtener la licencia hay que acudir al Ayuntamiento de Ohanes, que aplica la <strong>Ley 7/2021 (LISTA)</strong> de Andalucía y el planeamiento municipal. En el Parque Nacional de Sierra Nevada y en el Parque Natural de Sierra Nevada, que ocupan parte del término, la construcción está muy restringida. Fuera de ellos, en suelo rústico, la vivienda también está muy limitada. Consulta la página de <a href=\"/casa-contenedor-suelo-rustico/\">suelo rústico</a> antes de buscar parcela.</p>"
+   },
+   {
+    "tras": "Casas contenedores PLANOS Ohanes",
+    "html": "<p>En la ladera de Ohanes, el plano debe adaptarse a la pendiente con módulos escalonados en terrazas y accesos protegidos. La fachada principal conviene orientarla al sur para captar sol en invierno, con ventanas más pequeñas al norte. Las vistas al valle del Andarax y a la sierra pueden guiar dónde poner el salón y la terraza.</p>"
+   },
+   {
+    "tras": "Casa hechas con contenedores Ohanes",
+    "html": "<p>Ohanes está en la zona climática D3 del CTE, la de inviernos fríos. Un contenedor aquí necesita un <a href=\"/aislamiento-contenedores/\">aislamiento térmico</a> generoso en paredes, suelo y techo, carpinterías con rotura de puente térmico y una barrera de vapor que evite condensaciones. Los colores tierra, ocre o piedra ayudan a integrarlo en el paisaje de la Alpujarra.</p>"
+   },
+   {
+    "tras": "Ventajas de las casas de Contenedores",
+    "html": "<p>En la ladera de Ohanes lo que más se agradece es la <strong>poca obra en la parcela</strong>. Como la casa nace en taller y solo sube para montarse y conectarse, hay menos camiones por carreteras estrechas y menos tierra movida en la ladera.</p>"
+   },
+   {
+    "tras": "Pasos para Construir tu casa de contenedores",
+    "html": "<p>Lo primero que se mira en Ohanes es cómo llegar hasta la parcela. Antes de diseñar, comprueba que un camión con grúa puede llegar a la parcela por la A-348, la AL-3404 o la AL-4402, y que hay sitio para maniobrar en la ladera. Después, revisa la clase de suelo y si la finca queda dentro del espacio protegido. Un <a href=\"/estudio-de-parcela/\">estudio de parcela</a> responde a todo esto.</p>"
+   },
+   {
+    "tras": "Tiempo de construcción de casas contenedores",
+    "html": "<p>El mayor retraso posible en Ohanes está en la tramitación, sobre todo si la parcela está cerca de los espacios protegidos del término. El invierno de montaña también cuenta: con mal tiempo, el acceso por carreteras de montaña y el montaje se complican, así que conviene programar la llegada en la estación más benigna.</p>"
+   },
+   {
+    "tras": "Fotos de casas Containers Ohanes",
+    "html": "<p>Una casa contenedor en Ohanes podría verse revestida de madera o en tonos piedra, en una terraza de la ladera, con olivos y almendros alrededor y Sierra Nevada al fondo. Una pieza sencilla que no compite con el caserío.</p>"
+   },
+   {
+    "tras": "Casa de contenedores por dentro, Interior de Casa Contenedor",
+    "html": "<p>Dentro, una casa en Ohanes se proyecta contra el frío: estufa de leña o bomba de calor, suelos cálidos, ventanas de buen cierre y un pequeño recibidor que sirva de esclusa térmica. Para una casa rural, también conviene un cuarto para botas, ropa de montaña y material de senderismo.</p>"
+   },
+   {
+    "tras": "Presupuesto de tu casa de contenedores Ohanes",
+    "html": "<p>Para presupuestar en Ohanes, localiza primero la referencia catastral de la finca, la clase de suelo según el planeamiento municipal, si la finca está cerca del Parque Nacional y cómo se llega: tipo de carretera, pendiente, curvas cerradas y espacio para que maniobre el camión grúa.</p>"
+   },
+   {
+    "tras": "Otros Servicios de contenedores Ohanes",
+    "html": "<p>Fuera de la vivienda, un contenedor en Ohanes cumple como caseta en fincas de uva, olivo o almendro, cobertizo para el ganado caprino o almacén de material de campo. Son una solución práctica en una economía de agricultura de montaña y ganadería.</p>"
+   },
+   {
+    "tras": "Donde estamos en casas contenedores Ohanes",
+    "html": "<p>Atendemos Ohanes con un <strong>presupuesto que llega hasta la parcela</strong>. El camión llega por la A-348, que cruza el municipio, y sube al pueblo por la AL-3404, entre Canjáyar y Abla, o por la AL-4402 desde Beires. Lo más cercano en puerto y aeropuerto es, en ambos casos, Almería.</p>"
+   }
+  ]
+ }
 }

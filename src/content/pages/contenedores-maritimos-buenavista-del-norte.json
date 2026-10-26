@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Buenavista del Norte",
- "provincia": "tenerife"
+ "provincia": "tenerife",
+ "local": {
+  "entrada": "<p>En Buenavista del Norte un contenedor marítimo suele ser una herramienta de trabajo. En las fincas de plátano del llano de la Isla Baja sirve para guardar cajas, abonos y maquinaria; en los caseríos de Teno, donde sigue viva la ganadería caprina, para resguardar pienso y aperos. Y las empresas de turismo rural y de senderismo que se mueven entre Masca y la Punta de Teno lo usan como <strong>almacén seguro y cerrado</strong> para su material.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Buenavista del Norte",
+    "html": "<p>Para un cuarto de aperos en una finca de la Isla Baja, un contenedor usado en buen estado cumple de sobra. Eso sí, en esta costa revisa bien la corrosión: el salitre y el viento que llega desde la Punta de Teno atacan las esquinas, el techo y los bajos. Mira también las juntas de las puertas, porque la humedad del alisio entra por cualquier goma cuarteada. Tienes más criterios en <a href=\"/contenedores-maritimos-segunda-mano/\">cómo elegir un contenedor de segunda mano</a>.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Buenavista del Norte",
+    "html": "<p>En Buenavista del Norte la medida la decide la carretera. Hacia Masca o los caseríos de Teno, con trazados estrechos y de mucha curva, lo razonable es un <strong>contenedor de 20 pies</strong>, de unos 6 m de largo y 2,44 m de ancho. Abajo, en el llano de la Isla Baja, donde las fincas tienen entrada holgada, cabe uno de 40 pies, de unos 12 m, o un High Cube cuando hace falta altura interior para apilar.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Buenavista del Norte",
+    "html": "<p>El precio puesto en Buenavista del Norte suma tres cosas. Primero, el paso por mar hasta Tenerife. Segundo, el recorrido de punta a punta del norte de la isla hasta la Isla Baja. Tercero, la descarga: en una finca llana basta un camión grúa normal, pero en parcelas sobre barrancos o en caseríos de Teno a veces hace falta una grúa más pequeña o maniobras extra. El estado del contenedor, nuevo o usado, hace el resto.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Buenavista del Norte",
+    "html": "<p>En la Isla Baja compran contenedores sobre todo las <strong>explotaciones plataneras y ganaderas</strong>, y quienes reforman casas en los caseríos y necesitan guardar material. Si vas a comprar, mira que no haya golpes que deformen las puertas, que la madera del suelo esté sana y que no entre el agua, un detalle decisivo con la humedad que trae el alisio a esta vertiente norte.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Buenavista del Norte",
+    "html": "<p>El camión sale del Puerto de Santa Cruz de Tenerife, toma la TF-5 hacia el norte y enlaza con la TF-42, la carretera costera que pasa por Icod de los Vinos y Garachico antes de entrar en Buenavista del Norte. Lo que limita de verdad es el último tramo: las carreteras estrechas hacia Masca o Teno y las fincas con bancales o barrancos, donde el camión y la grúa necesitan espacio para maniobrar.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Buenavista del Norte",
+    "html": "<p>En Buenavista del Norte el alquiler encaja con trabajos que tienen principio y fin: la rehabilitación de una casa en un caserío de Teno, una obra en el llano de la Isla Baja o una campaña en la finca en la que hace falta guardar cajas y herramientas durante una temporada. También lo usan empresas de turismo activo en temporada de senderismo. Más detalles en <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Buenavista del Norte",
+    "html": "<p>Para calcular el precio hasta Buenavista del Norte dinos si la entrega es en el llano de la Isla Baja o en un caserío de Teno, el ancho del camino de acceso desde la TF-42, si hay curvas cerradas o pendientes y dónde se apoyará el contenedor. Di también la medida y si lo prefieres nuevo o usado.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Buenavista del Norte",
+    "html": "<p>Buenavista del Norte forma parte de nuestra zona de servicio, con <strong>precio en destino</strong>: el contenedor cruza a Tenerife hasta el Puerto de Santa Cruz de Tenerife y desde allí recorre la isla hasta el noroeste. Lo dejamos en la parcela que indiques, siempre que el acceso permita la maniobra del camión, ya sea en el llano costero o cerca de los caseríos del macizo de Teno.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>En esta costa un contenedor agradece una <strong>pintura marina contra el salitre</strong> y rejillas de ventilación que reduzcan la condensación del alisio. En fincas aisladas de Teno o de la Isla Baja tiene sentido reforzar cerraduras y añadir placas solares para tener luz sin depender de la red. Todo se prepara antes del envío.</p>"
+   }
+  ]
+ }
 }

@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Cuevas del Almanzora",
- "provincia": "almeria"
+ "provincia": "almeria",
+ "local": {
+  "entrada": "<p>En Cuevas del Almanzora el contenedor marítimo suele trabajar en el campo. Los regadíos de <strong>cítricos y hortalizas</strong> de la vega del Almanzora necesitan almacenes para cajas, abonos y herramientas, y las urbanizaciones de Villaricos y Palomares tiran de él como trastero u oficina de obra. Es una solución rápida en un término muy extenso, con fincas y núcleos repartidos entre la sierra y el mar.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Cuevas del Almanzora",
+    "html": "<p>Para una caseta de aperos o un almacén de campaña en la vega del Almanzora, un <a href=\"/contenedores-maritimos-segunda-mano/\">contenedor de segunda mano</a> cumple sin problema. Antes de llevarlo a una zona cercana a ramblas, revisa que el suelo y los bajos no tengan corrosión, porque los aguaceros torrenciales de otoño a primavera pueden dejar agua acumulada alrededor. En la costa de Villaricos, mira bien el óxido en esquinas y puertas.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Cuevas del Almanzora",
+    "html": "<p>En las fincas llanas de la vega del Almanzora y en las parcelas con acceso por la A-332 o la A-352, el 40 pies (unos 12 m de largo) o un <strong>High Cube</strong> dan mucho almacén por viaje. En los caminos de las sierras de Almagro o de los Pinos, más estrechos y con curvas, el 20 pies (unos 6 m) es el tamaño más manejable.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Cuevas del Almanzora",
+    "html": "<p>En Cuevas del Almanzora el importe varía según lo lejos que esté el puerto de origen, la zona del término a la que vaya y la forma de descargar. No cuesta lo mismo una finca llana de la vega junto a la A-332 que un paraje de sierra con pista de tierra o una calle estrecha de Villaricos, donde la grúa necesita más maniobra.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Cuevas del Almanzora",
+    "html": "<p>Quienes más compran en Cuevas del Almanzora son los <strong>agricultores de la vega</strong>, con sus cítricos y hortalizas, las constructoras de las urbanizaciones de costa y los negocios turísticos y de golf. Antes de decidirte, fíjate en que las puertas funcionen bien, en que la cubierta esté entera y en que el piso aguante el peso de las cajas y la maquinaria.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Cuevas del Almanzora",
+    "html": "<p>La entrada al término es la A-7 o la AP-7, y de ahí se sigue por la A-332, la A-352 o la A-1201 según el núcleo de destino. El <a href=\"/transporte-contenedores-maritimos/\">transporte</a> se complica en el último tramo: caminos de tierra en la vega, cauces de rambla que pueden quedar impracticables tras un aguacero y pistas estrechas en la Sierra Almagrera.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Cuevas del Almanzora",
+    "html": "<p>Alquilar tiene su momento aquí: en la campaña de cítricos, cuando falta almacén durante un tiempo; en obras de Villaricos o Palomares; y en citas como el festival Dreambeach o la Semana Santa, Fiesta de Interés Turístico de Andalucía, que piden casetas y almacenes de apoyo solo mientras duran.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Cuevas del Almanzora",
+    "html": "<p>Cuando nos pidas precio para Cuevas del Almanzora, indícanos la medida, si prefieres nuevo o usado, el núcleo o paraje (vega, sierra, Villaricos, Palomares), si el camino atraviesa alguna rambla o tiene cuesta y si el camión grúa dispone de sitio para actuar.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Cuevas del Almanzora",
+    "html": "<p>Cubrimos el término entero de Cuevas del Almanzora, de la vega del Almanzora a la costa de Villaricos y Palomares, siempre con <strong>presupuesto puesto en destino</strong>. El camión baja por la Autovía del Mediterráneo (A-7) o la AP-7 y reparte por la A-332, la A-352 y la A-1201. El Aeropuerto de Almería es la referencia de la zona.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>En las fincas de la vega del Almanzora, lo más útil es añadir ventilación y aislamiento para que el almacén no se recaliente, y una <strong>instalación solar</strong> para el riego o la luz. En la costa de Villaricos y Palomares, la pintura anticorrosión prolonga la vida del contenedor frente al salitre.</p>"
+   }
+  ]
+ }
 }

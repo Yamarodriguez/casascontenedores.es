@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Berja",
- "provincia": "almeria"
+ "provincia": "almeria",
+ "local": {
+  "entrada": "<p>En Berja un contenedor marítimo suele usarse como almacén en cortijos y fincas repartidas por el término, como trastero en una pedanía o como caseta en una obra. Es un municipio de interior al pie de la <strong>Sierra de Gádor</strong>, con barriadas nacidas junto a manantiales y una larga historia minera, así que lo que más se pide es un espacio seguro y cerrado lejos del casco urbano.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Berja",
+    "html": "<p>Como almacén de herramientas o material en un cortijo de Berja, un <a href=\"/contenedores-maritimos-segunda-mano/\">contenedor usado</a> cumple bien. El ambiente de interior, seco y sin salitre, trata bien la chapa. Eso sí, mira que la cubierta no tenga hundimientos donde se encharque el agua de las lluvias de primavera y otoño, y comprueba el cierre de las juntas de las puertas.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Berja",
+    "html": "<p>En Berja la elección del tamaño depende del camino. Para las pedanías y los cortijos de ladera, con accesos estrechos y curvas, el <strong>20 pies</strong> (unos 6 m de largo) suele ser lo razonable. Si la parcela está junto a la A-347 o en una zona llana con buen acceso, un 40 pies o un High Cube, de mayor altura interior, da más espacio por cada viaje.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Berja",
+    "html": "<p>Lo que se paga en Berja varía con el viaje desde el puerto de origen, con el ascenso por la A-347 desde la costa y con las condiciones de la descarga. Descargar en una explanada firme es más llevadero que hacerlo en una finca del piedemonte de la Sierra de Gádor, donde la grúa busca dónde apoyarse y el camión se enfrenta a cuestas y curvas. Tienes más detalle en <a href=\"/precios-contenedores-maritimos/\">precios de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Berja",
+    "html": "<p>En Berja compran contenedores sobre todo propietarios de <strong>fincas y cortijos</strong> que necesitan almacén, y empresas con obras en el casco o en las pedanías. Antes de pagar, asegúrate de que el suelo soporta lo que vas a almacenar, de que la cubierta no trae perforaciones y de que la placa de identificación se lee bien.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Berja",
+    "html": "<p>La vía de llegada a Berja es la A-347, que enlaza con la A-7 en Adra y sigue hacia la A-348 en Alcolea. Desde ella se reparte a las pedanías por carreteras y caminos locales. Lo que limita la entrega son las calles estrechas de las barriadas, las curvas de los caminos de la sierra y la falta de espacio para estabilizar la grúa en algunas fincas.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Berja",
+    "html": "<p>En Berja el alquiler suele servir para una obra o una reforma, para guardar material durante una mudanza o como apoyo en fiestas y celebraciones, como la romería de la Virgen de Gádor o la Semana Santa. Alquilar evita comprar un contenedor que solo vas a necesitar una temporada.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Berja",
+    "html": "<p>Para presupuestar en Berja basta con la medida y con saber si lo prefieres nuevo o usado. Di también la pedanía o paraje, si se llega por la A-347, el ancho y la pendiente del camino y si en la parcela hay sitio para el camión grúa.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Berja",
+    "html": "<p>Damos servicio en el casco de Berja y en sus pedanías con <strong>presupuesto puesto en destino</strong>. El contenedor sube desde la costa por la A-347 tras dejar la A-7 en Adra. Si viene por mar, lo habitual es descargar en el Puerto de Almería, que junto al Aeropuerto de Almería sirve de referencia, y seguir la autovía por la costa del Poniente hasta el desvío de Adra.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Un cortijo aislado de Berja agradece rejas y cerraduras de alta resistencia, además de una modesta <strong>instalación solar</strong> allí donde no llega la red eléctrica. Si va a ser un taller o un trastero de uso diario, un buen aislamiento lo hace llevadero tanto en verano como en las noches frías de invierno.</p>"
+   }
+  ]
+ }
 }

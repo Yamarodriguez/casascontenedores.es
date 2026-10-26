@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Cieza",
- "provincia": "murcia"
+ "provincia": "murcia",
+ "local": {
+  "entrada": "<p>En Cieza el contenedor marítimo se usa sobre todo al servicio del campo: almacén de cajas y aperos en las fincas de fruta de hueso, caseta de riego o almacén de campaña durante la recolección de melocotón, albaricoque y nectarina. También tiene sitio en obras y en la industria local. Nos encargamos de la venta, el alquiler y el transporte del <strong>contenedor marítimo en Cieza</strong>, y el precio ya incluye llevarlo hasta tu finca o nave.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Cieza",
+    "html": "<p>Para guardar herramientas de poda, cajas de recolección o material de riego en una finca de la vega, un contenedor de segunda mano cumple de sobra. Revisa el suelo de madera, las juntas de las puertas y el techo: el clima de Cieza combina heladas y un sol intenso, y las tormentas de gota fría del otoño ponen a prueba la estanqueidad. Más información en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores usados</a>.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Cieza",
+    "html": "<p>En las fincas de la vega y en los caminos agrícolas estrechos suele encajar mejor un 20 pies, de unos 6 m de largo, fácil de colocar entre frutales. En las llanuras agrícolas y en explotaciones con acceso amplio desde la A-30 o la A-33 tiene sentido un <strong>40 pies High Cube</strong>, de unos 12 m y con mayor altura interior, como almacén de campaña para palés de cajas.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Cieza",
+    "html": "<p>Lo que fija el precio puesto en Cieza es el contenedor elegido y la entrega. Las autovías A-30 y A-33 facilitan la llegada del camión, pero descargar en una finca de vega con caminos estrechos, acequias o arbolado puede requerir un camión grúa más pequeño o más maniobra. Si el destino está en la sierra, la pendiente y el firme del camino también cuentan. Consulta <a href=\"/precios-contenedores-maritimos/\">el precio de un contenedor</a>.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Cieza",
+    "html": "<p>En Cieza suelen interesarse por un contenedor los agricultores y las empresas exportadoras de fruta que necesitan un <strong>almacén cerrado en la finca</strong>, las constructoras para sus obras y pequeñas industrias. Antes de comprar, comprueba que sea estanco, que tenga cierre seguro si queda en una finca aislada y, si lo vas a instalar de forma permanente en suelo no urbanizable, qué admite el planeamiento municipal.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Cieza",
+    "html": "<p>La entrada natural a Cieza es la A-30, autovía Albacete-Cartagena, que conecta con el <strong>Puerto de Cartagena</strong> para contenedores de importación, y la A-33 hacia Fuente la Higuera. Dentro del término se usan la RM-511, la RM-512 hacia Abarán, la RM-532 hacia Mula y la RM-714. Lo que limita la descarga son los caminos de huerta, las acequias y los frutales cercanos al punto de entrega.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Cieza",
+    "html": "<p>El alquiler en Cieza sigue el calendario del campo: un contenedor como almacén de campaña durante la recolección de fruta de hueso, o como vestuario y almacén para cuadrillas. También se alquila para obras y reformas, y puede servir de almacén temporal en actividades ligadas a la Floración o a la Semana Santa. Mira el <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Cieza",
+    "html": "<p>Para presupuestar en Cieza, señala la ubicación de la finca o nave, el tamaño y tipo de contenedor, si lo quieres en compra o alquiler, y describe el acceso: anchura del camino, acequias que haya que salvar y espacio libre para la grúa entre los frutales. Con esa información calculamos el <strong>precio de la entrega completa</strong>.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Cieza",
+    "html": "<p>Cieza y su vega están dentro de nuestra zona de servicio. El transporte llega por la A-30 o la A-33 y continúa por las carreteras regionales hasta tu finca, nave u obra, también en las llanuras agrícolas y en las sierras del límite con Albacete. El presupuesto se calcula siempre con la entrega incluida, puesto en destino.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>Para una finca de fruta en Cieza, las transformaciones con más sentido son el aislamiento térmico y la ventilación, para que el interior no se recaliente en verano, y una instalación de electricidad solar que dé luz o alimente un pequeño equipo de riego. En fincas aisladas de la vega conviene añadir rejas y cerraduras reforzadas contra el robo de herramientas.</p>"
+   }
+  ]
+ }
 }

@@ -1771,5 +1771,46 @@
  "huecoTitulo": false,
  "familia": "maritimos",
  "localidad": "Jumilla",
- "provincia": "murcia"
+ "provincia": "murcia",
+ "local": {
+  "entrada": "<p>Jumilla vive del vino y del campo, y el contenedor marítimo encaja en esa actividad: almacén de material de vendimia en una bodega, caseta cerrada para aperos en viñedos de Monastrell o fincas de pera, almacén de piensos en explotaciones de cabras o caseta en una obra. Vendemos, alquilamos y transportamos el <strong>contenedor marítimo en Jumilla</strong> para bodegas, viñas y fincas del Altiplano, con el precio cerrado puesto en destino.</p>",
+  "h2": [
+   {
+    "tras": "Aqui, Contenedores marítimos de segunda mano Jumilla",
+    "html": "<p>Si lo que hay que guardar es un tractor pequeño, cajas de vendimia o herramientas en una finca del Altiplano, basta con uno de segunda mano. A la hora de escogerlo, descarta los que tengan corrosión perforante en la cubierta o en los bajos, mira que el piso de madera esté sano y que las puertas cierren con sus juntas enteras: en el campo va a pasar años a la intemperie. Más en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores de segunda mano</a>.</p>"
+   },
+   {
+    "tras": "Medidas de contenedor Marítimo Jumilla",
+    "html": "<p>En los llanos de viñedo y en las bodegas con patio amplio, accesibles desde la A-33 o la N-344, cabe sin problema un <strong>40 pies</strong>, de unos 12 m de largo, o un High Cube con mayor altura interior para palés de botellas o maquinaria. En fincas al pie de las sierras, con caminos estrechos o con pendiente, suele ser más práctico un 20 pies, de unos 6 m.</p>"
+   },
+   {
+    "tras": "Precios contenedores Marítimo Jumilla",
+    "html": "<p>En Jumilla el importe cambia según el estado y el tamaño del contenedor y según cómo sea la entrega. Las autovías y los llanos de viña facilitan la descarga; donde el precio sube es en fincas de sierra con caminos estrechos o pedregosos, o cuando hay que colocar el contenedor en un patio de bodega con poco espacio de maniobra. Hay una guía más amplia en <a href=\"/precios-contenedores-maritimos/\">precios de contenedores marítimos</a>.</p>"
+   },
+   {
+    "tras": "Venta de contenedor maritimo Jumilla",
+    "html": "<p>En Jumilla suelen interesarse por un contenedor las bodegas de la DO Jumilla, los agricultores de viña y de pera, los ganaderos de caprino y las empresas de construcción. Antes de comprar, comprueba la <strong>placa CSC</strong>, el estado del suelo y la estanqueidad, y piensa en la seguridad si va a quedar en una finca aislada. Si se va a instalar de forma fija en suelo no urbanizable, consulta qué admite el planeamiento.</p>"
+   },
+   {
+    "tras": "Transporte de contenedores Marítimo Jumilla",
+    "html": "<p>La ruta habitual llega por la <strong>A-33, autovía del Altiplano</strong>, o por la N-344, y dentro del término se usan carreteras como la RM-403, la RM-404, la RM-420 o la RM-714. La importación por mar entra por el Puerto de Cartagena. Ya en el campo, el camión y la grúa se topan con las pistas de tierra entre viñas, las cuestas de las sierras y los frutales que estrechan el paso.</p>"
+   },
+   {
+    "tras": "Alquiler de contenedor Marítimos Jumilla",
+    "html": "<p>El alquiler en Jumilla se ajusta a los picos del año: almacén temporal en vendimia para bodegas y cooperativas, caseta de obra en reformas y construcciones, o almacenaje para celebraciones como la Semana Santa, de Interés Turístico Internacional, o las fiestas de Moros y Cristianos. Un contenedor alquilado evita levantar un almacén fijo para un uso puntual. Consulta el <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores</a>.</p>"
+   },
+   {
+    "tras": "Presupuesto de contenedor Jumilla",
+    "html": "<p>Para presupuestar en Jumilla dinos el paraje o la dirección, el tamaño (20 o 40 pies, estándar o High Cube), si es nuevo o usado, compra o alquiler, y cómo se llega desde la carretera: camino de tierra, pendiente, puertas de la finca o patio de la bodega. Con eso te pasamos el <strong>precio puesto en destino</strong>, sin sorpresas por el camino.</p>"
+   },
+   {
+    "tras": "Donde estamos contenedores Jumilla",
+    "html": "<p>Jumilla y su campo están dentro de nuestra zona de servicio. Llevamos el contenedor por la A-33 o la N-344 hasta el casco o hasta tus fincas y bodegas del término, incluidas las que quedan al pie del Carche o de Santa Ana. El presupuesto incluye siempre el transporte y la descarga, puesto en destino.</p>"
+   },
+   {
+    "tras": "Otros Servicios",
+    "html": "<p>En una bodega o finca de Jumilla, las mejoras más útiles son el aislamiento térmico, cuando el contenedor guarde vino, cajas o productos delicados, y la electricidad solar donde no haya acometida. Si el paraje queda apartado, añade rejas y cerraduras antirrobo.</p>"
+   }
+  ]
+ }
 }
