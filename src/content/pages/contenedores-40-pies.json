@@ -1874,52 +1874,53 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Medidas del contenedor de 40 pies según la norma ISO 668",
-    "html": "<p>La norma ISO 668 fija las medidas de los <strong>contenedores marítimos estándar</strong>. Conocer el ancho interior real y la diferencia entre la versión estándar y la High Cube ayuda a calcular cuánto espacio útil vas a tener antes de decidir el modelo.</p><table><thead><tr><th>Medida</th><th>Estándar</th><th>High Cube</th></tr></thead><tbody><tr><td>Largo exterior</td><td>12,19 m</td><td>12,19 m</td></tr><tr><td>Ancho exterior</td><td>2,44 m</td><td>2,44 m</td></tr><tr><td>Alto exterior</td><td>2,59 m</td><td>2,90 m</td></tr><tr><td>Superficie interior aproximada</td><td>28,3 m²</td><td>28,3 m²</td></tr><tr><td>Ancho interior útil</td><td>2,35 m</td><td>2,35 m</td></tr></tbody></table><p>La <strong>versión High Cube</strong> gana altura exterior hasta los 2,90 m, lo que deja un techo interior cercano a los 2,69 m; ese margen se nota al levantar tabiques, falso techo o instalaciones vistas.</p>"
+    "titulo": "Tipos de contenedores de 40 pies que vas a encontrar",
+    "html": "<p>El <strong>contenedor de 40 pies</strong> es el formato que más carga mueve por volumen en el transporte marítimo, y por eso existe en más variantes que ningún otro:</p><ul><li><strong>Estándar o dry van (40' DV)</strong>: cerrado, con 2,591 m de altura exterior.</li><li><strong>High cube (40' HC)</strong>: un pie más alto, con 2,698 m interiores. Es muy habitual en las flotas actuales y el favorito para viviendas y oficinas; tienes todos sus datos en el <a href=\"/contenedor-high-cube/\">contenedor high cube</a>.</li><li><strong>Refrigerado high cube</strong>: el reefer más común, con equipo de frío en un testero.</li><li><strong>Open top, flat rack y open side</strong>: sin techo, sin laterales o con un lateral que se abre entero.</li><li><strong>Doble puerta</strong>: puertas en los dos extremos.</li></ul><p>Por encima solo está el de 45 pies high cube, que se usa poco fuera del transporte terrestre europeo.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Cuántos huecos o ventanas admite un contenedor de 40 pies sin perder resistencia?",
-    "html": "<p>El número de huecos no lo fija la norma ISO 668, sino el cálculo estructural de cada proyecto: la rigidez de la unidad depende de las esquineras y los pilares de las esquinas, así que cualquier corte en los paneles laterales para abrir un hueco en una <strong>casa contenedor de 40 pies</strong> debe compensarse con refuerzos metálicos en su marco, tal como indique el técnico redactor del proyecto. Cuantos más huecos se practiquen, mayor es el refuerzo necesario, por lo que conviene decidir su número y posición antes de encargar la modificación.</p>"
+    "titulo": "¿Un contenedor de 40 pies equivale exactamente a dos de 20?",
+    "html": "<p>En espacio de carga, no: es algo más grande. Por fuera ocupa lo mismo que dos de 20 pies más la holgura de 76 mm que se deja entre ellos, pero por dentro tiene 67,7 m³ frente a los 66,4 m³ de dos unidades de 20, porque se ahorra un par de testeros y de puertas. A efectos de capacidad de buques y terminales, sin embargo, cuenta como dos TEU, es decir, como dos contenedores de 20 pies.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Transporte, colocación y usos de esta unidad",
-    "html": "<p>El traslado se hace en plataforma o portacontenedores; para colocarlo con precisión en el punto exacto de la parcela suele hacer falta una autogrúa, y si eliges la versión High Cube, su mayor altura puede obligar a usar una góndola según la ruta y los pasos con gálibo limitado. Antes de la descarga conviene dejar apoyos firmes y nivelados en las esquinas, porque son las cantoneras las que concentran el peso de la estructura; revisar de vez en cuando la pintura y las juntas ayuda a frenar la corrosión.</p><p>Por su longitud, un <strong>contenedor de 40 pies</strong> es la base habitual para levantar una <a href=\"/casa-contenedor-40-pies/\">casa de un solo módulo</a>, una <a href=\"/oficinas-contenedores/\">oficina</a> diáfana o un <a href=\"/local-containers/\">local o nave pequeña</a>; su ancho interior útil de 2,35 m permite repartir estancias sin perder demasiado espacio en tabiques.</p>"
+    "titulo": "Especificaciones técnicas del contenedor de 40 pies",
+    "html": "<p>Datos de referencia para unidades fabricadas según la norma ISO 668. La tara y la masa bruta de cada contenedor van grabadas en su placa CSC y pueden variar según el fabricante:</p><table><thead><tr><th>Dato</th><th>40' estándar</th><th>40' high cube</th></tr></thead><tbody><tr><td>Exterior (largo × ancho × alto)</td><td>12,192 × 2,438 × 2,591 m</td><td>12,192 × 2,438 × 2,896 m</td></tr><tr><td>Interior (largo × ancho × alto)</td><td>12,032 × 2,352 × 2,393 m</td><td>12,032 × 2,352 × 2,698 m</td></tr><tr><td>Hueco de puerta (ancho × alto)</td><td>2,340 × 2,280 m</td><td>2,340 × 2,585 m</td></tr><tr><td>Superficie interior</td><td>28,3 m²</td><td>28,3 m²</td></tr><tr><td>Volumen interior</td><td>67,7 m³</td><td>76,3 m³</td></tr><tr><td>Tara aproximada</td><td>3.700-3.900 kg</td><td>3.900-4.150 kg</td></tr><tr><td>Masa bruta máxima habitual</td><td>30.480-32.500 kg</td><td>30.480-32.500 kg</td></tr></tbody></table><p>Está construido igual que el de 20 pies (acero corten, paredes corrugadas, suelo de contrachapado marino y cantoneras en las esquinas), pero con un bastidor inferior más largo y reforzado para soportar la flexión de sus 12 metros cuando se iza cargado.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Hace falta licencia de obra mayor para instalar esta unidad como vivienda?",
-    "html": "<p>Sí: en la mayoría de municipios españoles, convertir este contenedor en vivienda permanente exige <strong>licencia de obra mayor</strong> y un proyecto visado por arquitecto o arquitecto técnico que cumpla el Código Técnico de la Edificación y la Ley de Ordenación de la Edificación. Es el ayuntamiento quien determina si corresponde obra mayor, obra menor o declaración responsable según el uso final y el grado de anclaje al terreno, así que conviene consultarlo antes de encargar el proyecto.</p>"
+    "titulo": "¿Qué es el túnel de cuello de cisne de algunos contenedores de 40 pies?",
+    "html": "<p>Es un rebaje en la parte delantera del suelo, por debajo, que encaja en los chasis de camión con cuello de cisne. Permite bajar la altura total del conjunto en carretera, algo útil sobre todo en los high cube. Si el contenedor se va a apoyar en el suelo, no afecta a su uso, pero conviene tenerlo en cuenta al preparar los apoyos, que siempre deben ir bajo las <strong>cantoneras de las esquinas</strong>.</p>"
    },
    {
-    "nivel": "h3",
-    "titulo": "¿Necesitas cédula de habitabilidad si conviertes el contenedor en vivienda?",
-    "html": "<p>Sí: para destinarlo a vivienda habitual hace falta la <strong>cédula de habitabilidad</strong> o, según la comunidad autónoma, la licencia de primera ocupación, un trámite posterior a la obra que certifica que la construcción cumple los requisitos de salubridad, superficie y seguridad del Código Técnico de la Edificación. Sin ese documento no se pueden dar de alta los suministros de agua y electricidad, por lo que conviene solicitarlo en cuanto finalice la obra.</p>"
+    "nivel": "h2",
+    "titulo": "Contenedor de 40 pies nuevo o usado: qué revisar en 12 metros",
+    "html": "<p>Cuanto más largo es el contenedor, más importa revisar la estructura y no solo la chapa. En una unidad de segunda mano fíjate en:</p><ul><li><strong>Los largueros inferiores</strong>: que no estén doblados ni con óxido que atraviese el perfil.</li><li><strong>El techo</strong>: las abolladuras acumulan agua y son el primer punto de corrosión; súbete a mirarlo o pide fotos desde arriba.</li><li><strong>El suelo</strong>: el contrachapado no debe ceder al pisar ni oler a humedad o a productos químicos.</li><li><strong>Las puertas</strong>: que cierren las cuatro barras sin forzar y que las juntas de goma estén enteras.</li></ul><p>En el mercado verás las mismas categorías de estado que en el resto de formatos (one trip, cargo worthy, estanco o tal cual). Puedes comparar unidades en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores marítimos de segunda mano</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Transporte y descarga de un contenedor de 40 pies",
+    "html": "<p>Por su longitud, el contenedor de 40 pies viaja en un camión portacontenedores articulado. Para dejarlo en el suelo hacen falta una grúa autopropulsada, un camión con grúa de gran capacidad o un portacontenedores con grúas laterales que lo baja sin ayuda. Antes de la entrega hay que comprobar que el camión puede entrar y girar, y que hay una superficie <strong>firme y nivelada</strong> de algo más de 12 metros. Te lo organizamos en el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre el contenedor de 40 pies",
    "items": [
     {
-     "pregunta": "¿Es el 40 pies el doble de largo que el 20 pies?",
-     "respuesta": "En longitud sí: 12,19 m frente a los 6,06 m del contenedor de 20 pies, y la superficie interior crece hasta unos 28,3 m² frente a los 13,9 m². El peso bruto máximo no se duplica en la misma proporción: cada unidad lo indica en su propia placa CSC, así que conviene comprobarlo antes de calcular cargas."
+     "pregunta": "¿Cuántos palés caben en un contenedor de 40 pies?",
+     "respuesta": "En una sola altura caben unos <strong>23 o 24 europalés</strong> (1,20 × 0,80 m) o entre 20 y 21 palés americanos (1,20 × 1,00 m). El número exacto depende de cómo se combinen las posiciones a lo ancho. En el high cube caben los mismos palés en el suelo, pero sobra más altura para apilar mercancía ligera."
     },
     {
-     "pregunta": "¿Hace falta grúa para colocar este contenedor?",
-     "respuesta": "Sí: por su tamaño y peso la maniobra habitual se hace con autogrúa, y si es la versión High Cube puede hacer falta un vehículo con góndola por su mayor altura exterior. Antes de la entrega conviene comprobar el acceso hasta la parcela; puedes ampliar este punto en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>."
+     "pregunta": "¿Para una casa conviene el 40 pies estándar o el high cube?",
+     "respuesta": "Para vivienda suele elegirse el high cube. Sus 2,698 m de altura interior dejan margen para <strong>aislar suelo y techo</strong> sin que la altura libre quede baja, algo difícil con los 2,393 m del estándar. Puedes ver cómo se distribuye en una <a href=\"/casa-contenedor-40-pies/\">casa contenedor de 40 pies</a>."
     },
     {
      "pregunta": "¿Cabe esta unidad en una parcela urbana?",
-     "respuesta": "Depende del suelo y del planeamiento municipal, no solo del tamaño: antes de instalarlo conviene comprobar la calificación urbanística de la parcela y la licencia o declaración responsable que corresponda. Sus 12,19 x 2,44 m exteriores exigen además una superficie despejada con acceso para la grúa de descarga."
+     "respuesta": "Depende más del acceso que de la parcela. El contenedor ocupa unos 12,2 × 2,4 m, pero el camión que lo trae es bastante más largo y necesita entrar y maniobrar. Si la calle es estrecha o hay cables, a veces se descarga desde fuera con una <strong>grúa de pluma larga</strong>. Por eso conviene una visita previa."
     },
     {
      "pregunta": "¿Se puede dividir en dos estancias independientes?",
-     "respuesta": "Sí, aunque cortar huecos o tabiques en la chapa reduce la rigidez de la estructura original, así que cualquier hueco debe compensarse con el refuerzo que marque el proyecto, no a criterio libre. Lo habitual es repartir el espacio en dos estancias comunicadas, aprovechando en cada una el ancho interior útil de 2,35 m."
-    },
-    {
-     "pregunta": "¿Se transporta ya cargado con mercancía dentro?",
-     "respuesta": "Puede hacerse, pero el peso y la sujeción de lo que lleve dentro condicionan la maniobra de carga y descarga con grúa, así que conviene acordarlo con el transportista. Si va a convertirse en vivienda u oficina, lo habitual es moverlo vacío y equiparlo ya colocado y nivelado sobre sus apoyos."
+     "respuesta": "Sí: se levanta un tabique interior y se abre un segundo acceso en el lateral o en el testero opuesto. El corte en la chapa debe ir <strong>reforzado con un marco</strong> de acero para no restar rigidez. Es una solución habitual para combinar almacén y oficina, o dos habitaciones con entradas separadas."
     }
    ]
   }

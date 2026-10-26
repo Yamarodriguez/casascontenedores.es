@@ -1682,48 +1682,53 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Qué es un contenedor refrigerado (reefer) y para qué sirve",
-    "html": "<p>Un <strong>contenedor refrigerado</strong> es una unidad con paredes, suelo y techo aislados y un equipo frigorífico integrado en uno de los testeros, que mantiene una temperatura constante dentro de un rango de frío o de congelación. El suelo en T marca unos canales bajo la carga por los que circula el aire desde el evaporador hasta el fondo, así que el frío llega de forma uniforme y no solo por arriba.</p><p>En el sector marítimo también se le llama reefer. El equipo se conecta a una toma eléctrica trifásica, en puerto o en tu instalación, o a un generador acoplado al chasis durante el transporte por carretera, y sirve para conservar alimentación y productos frescos, farmacia y material sanitario, o flores, además de actuar como cámara puntual en hostelería, eventos, agricultura o pesca.</p>"
+    "titulo": "Tipos de contenedor refrigerado: con equipo, isotermo y atmósfera controlada",
+    "html": "<p>Un <strong>contenedor refrigerado</strong>, o reefer, es un contenedor aislado térmicamente que lleva su propio equipo de frío en uno de los testeros. Funciona enchufado a la red eléctrica del barco, del puerto o de un generador. Dentro de esta familia hay varios tipos:</p><ul><li><strong>Reefer integral</strong>: el modelo actual, con el equipo frigorífico incorporado. Enfría o calienta para mantener la temperatura fijada.</li><li><strong>Isotermo</strong>: solo aislado, sin equipo. Conserva la temperatura un tiempo, pero no la produce.</li><li><strong>Atmósfera controlada</strong>: además de la temperatura, regula el oxígeno y el CO₂ para frenar la maduración de la fruta.</li><li><strong>Ultracongelación</strong>: equipos especiales para mercancía que necesita temperaturas muy bajas, como algunos pescados.</li></ul><p>Los más comunes son el de 20 pies y, sobre todo, el de 40 pies high cube.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿En qué se diferencia un contenedor isotermo de esta unidad con equipo?",
-    "html": "<p>Un contenedor isotermo comparte el aislamiento y la estructura de esta unidad, pero no lleva equipo frigorífico propio, así que solo retiene el frío o el calor que ya tenga la carga en su interior. La versión con equipo genera y mantiene su propia temperatura de forma autónoma gracias al compresor y al evaporador instalados en el testero. Elegir uno u otro depende de si necesitas producir frío de manera activa o solo conservar una temperatura ya alcanzada.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Necesita esta unidad una instalación eléctrica específica?",
-    "html": "<p>Sí, el equipo frigorífico funciona con <strong>corriente trifásica</strong> y necesita un cuadro eléctrico dimensionado para la potencia del compresor, con protección diferencial y toma estanca adecuada para exterior. La instalación debe cumplir el Reglamento Electrotécnico de Baja Tensión y conviene que la revise un electricista antes de conectar el equipo. Sin esa toma específica, el compresor no arranca ni mantiene la consigna de frío.</p>"
+    "titulo": "¿Qué equipos frigoríficos montan los contenedores refrigerados?",
+    "html": "<p>Casi todos llevan equipos de unos pocos fabricantes especializados, como Carrier, Thermo King, Daikin o Star Cool. Conviene saber cuál lleva la unidad porque condiciona dónde encontrar repuestos y servicio técnico. Fíjate también en el tipo de gas refrigerante: la normativa europea de gases fluorados va limitando los de mayor efecto invernadero, y eso afecta al mantenimiento futuro.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Qué necesitas para instalar un contenedor refrigerado: medidas y la opción sin equipo",
-    "html": "<p>Antes de recibir la unidad conviene revisar estos puntos:</p><ul><li>Deja libre una <strong>toma eléctrica trifásica</strong> cerca del punto de descarga, o prevé un generador si el emplazamiento no tiene acometida cercana.</li><li>Asegura una base nivelada que reparta el peso sobre las cantoneras, sin que el equipo quede inclinado.</li><li>Reserva espacio junto al testero para que el aire circule y el compresor no recaliente.</li><li>Programa una revisión del <strong>ciclo de desescarche</strong> y de las juntas de las puertas, sobre todo si la unidad es de segunda mano.</li></ul><p>El aislamiento interior resta espacio frente a un contenedor estándar de las mismas <a href=\"/medidas-contenedores-maritimos/\">medidas exteriores</a>; se fabrica en versiones de 20 y 40 pies, también en <a href=\"/contenedor-high-cube/\">High Cube</a>. Si no necesitas frío activo, existe la opción de un contenedor aislado sin equipo, que conserva mejor la temperatura de la carga sin el gasto eléctrico del compresor.</p>"
+    "titulo": "Especificaciones técnicas del contenedor refrigerado",
+    "html": "<p>Las paredes aisladas restan espacio interior, por eso un reefer es más pequeño por dentro que un contenedor seco de la misma medida. Valores de referencia; los exactos van en la placa de cada unidad:</p><table><thead><tr><th>Dato</th><th>20' reefer</th><th>40' reefer high cube</th></tr></thead><tbody><tr><td>Exterior (largo × ancho × alto)</td><td>6,058 × 2,438 × 2,591 m</td><td>12,192 × 2,438 × 2,896 m</td></tr><tr><td>Interior aproximado</td><td>5,44 × 2,29 × 2,27 m</td><td>11,58 × 2,29 × 2,55 m</td></tr><tr><td>Hueco de puerta aproximado</td><td>2,29 × 2,26 m</td><td>2,29 × 2,57 m</td></tr><tr><td>Volumen interior aproximado</td><td>28,3 m³</td><td>67,5 m³</td></tr><tr><td>Tara aproximada</td><td>2.900-3.100 kg</td><td>4.400-4.800 kg</td></tr><tr><td>Rango de temperatura habitual</td><td>de -30 °C a +30 °C</td><td>de -30 °C a +30 °C</td></tr><tr><td>Alimentación</td><td>trifásica, 380-460 V</td><td>trifásica, 380-460 V</td></tr></tbody></table><p>El interior es de acero inoxidable o aluminio, fácil de limpiar. El suelo es una <strong>rejilla de aluminio en T</strong> por la que circula el aire frío de abajo arriba, y el aislamiento es espuma de poliuretano inyectada en las paredes. Lleva además desagües en el suelo, una trampilla de renovación de aire y un registrador que guarda el historial de temperaturas.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Usos del contenedor refrigerado",
+    "html": "<p>En el transporte marítimo mueve fruta, verdura, carne, pescado, lácteos, flores y productos farmacéuticos. En tierra se usa como <strong>cámara frigorífica temporal</strong> en campañas agrícolas, hostelería, eventos, cooperativas o mientras se reforma una cámara fija. Para periodos cortos suele compensar el <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a> en lugar de la compra.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Hace falta licencia para instalar un contenedor refrigerado como cámara fija?",
-    "html": "<p>Depende del uso y de la ubicación: si el contenedor se instala de forma permanente como cámara frigorífica de un negocio, el ayuntamiento suele exigir <strong>licencia de actividad</strong> o comunicación previa, además de cumplir la normativa sanitaria y de seguridad alimentaria si conserva productos frescos. Conviene consultarlo con el técnico municipal o con un arquitecto técnico antes de fijar la unidad, ya que los requisitos varían según el municipio y el uso concreto del local.</p>"
+    "titulo": "¿Qué necesita un contenedor refrigerado para funcionar como cámara fija?",
+    "html": "<p>Lo primero, una toma trifásica con la potencia suficiente para el equipo, hecha por un instalador autorizado. Además, un apoyo nivelado para que el agua de deshielo salga por los desagües, espacio libre delante del condensador para que el aire caliente se disipe y, si puede ser, sombra. Te ayudamos con la toma en <a href=\"/electricidad-contenedores/\">electricidad para contenedores</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Qué revisar al comprar un contenedor refrigerado de segunda mano",
+    "html": "<ul><li><strong>Prueba del equipo</strong>: pide que lo enciendan y que baje hasta la temperatura que vas a usar, o el informe de la última inspección previa al viaje (PTI).</li><li><strong>Horas del compresor</strong> y año del equipo, que puede no coincidir con el de la caja.</li><li><strong>Juntas de las puertas</strong>: enteras y sin grietas, porque por ahí se escapa el frío.</li><li><strong>Paneles interiores</strong>: sin golpes que hayan dejado entrar humedad en el aislamiento.</li><li><strong>Suelo de rejilla</strong>: sin perfiles rotos ni hundidos.</li></ul>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre el contenedor refrigerado",
    "items": [
     {
-     "pregunta": "¿Qué temperatura puede mantener el equipo?",
-     "respuesta": "Mantiene la temperatura que le programes, desde la congelación hasta la simple conservación en frío, según lo que transportes o almacenes. El equipo regula esa consigna de forma automática y la sostiene mientras reciba alimentación eléctrica o el generador esté en marcha; el rango exacto depende del modelo y del motor de cada unidad."
+     "pregunta": "¿Puede mantener producto congelado y producto fresco?",
+     "respuesta": "Sí, pero no a la vez: el equipo mantiene una sola consigna para todo el interior. Se programa en negativo para congelado o en positivo para fresco y lo sostiene aunque fuera haga calor o frío. Si necesitas <strong>dos temperaturas distintas</strong>, lo práctico son dos contenedores o una cámara con tabique y equipo propio."
     },
     {
      "pregunta": "¿Cuánta electricidad consume el equipo frigorífico?",
-     "respuesta": "Depende del equipo instalado, la temperatura de consigna, la temperatura exterior y la frecuencia con la que se abren las puertas, así que no existe una cifra única válida para todos los casos. Pide el dato al fabricante del equipo o consúltalo en el presupuesto de la unidad que elijas."
+     "respuesta": "Depende de la temperatura que fijes, de la que haga fuera, del sol que reciba y de cuántas veces se abran las puertas. Para calcularlo, mira la <strong>potencia del equipo</strong> en su placa y consulta con el instalador. Ponerlo a la sombra y abrir lo justo reduce bastante el consumo."
     },
     {
-     "pregunta": "¿Sirve como cámara frigorífica fija?",
-     "respuesta": "Sí, muchos negocios la usan como cámara frigorífica fija en lugar de levantar una obra nueva: solo necesita una base nivelada, la toma eléctrica y espacio de ventilación junto al equipo. Es habitual en hostelería, distribución de alimentación o almacenaje de flores y productos frescos, y se puede combinar con más unidades si el volumen crece."
+     "pregunta": "¿Se puede usar sin equipo como almacén aislado?",
+     "respuesta": "Sí. Aunque el equipo no funcione, la caja sigue siendo un <strong>contenedor muy bien aislado</strong>, con interior lavable. Es una buena opción para guardar material que sufre con el calor o los cambios bruscos de temperatura, y suele salir más barato que una unidad con el equipo en marcha."
     },
     {
-     "pregunta": "¿Cómo se revisan las juntas de las puertas en una unidad de segunda mano?",
-     "respuesta": "Conviene abrir y cerrar las puertas para comprobar que el cierre queda hermético y que la goma no está agrietada, despegada o endurecida, porque una junta en mal estado deja entrar aire caliente y obliga al compresor a trabajar más. También merece la pena mirar el suelo en T por si tiene golpes que dificulten la circulación del aire frío hasta el fondo de la carga."
+     "pregunta": "¿Cómo se revisan las juntas de las puertas en una unidad usada?",
+     "respuesta": "Se cierra la puerta con una hoja de papel pillada en varios puntos del marco y se tira de ella: si sale sin resistencia, esa zona no sella. También se mira desde dentro, con la luz apagada, si entra claridad por algún punto. Cambiar las <strong>juntas de goma</strong> es una reparación sencilla."
     }
    ]
   }

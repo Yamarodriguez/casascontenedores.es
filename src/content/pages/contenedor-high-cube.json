@@ -19,52 +19,53 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Qué diferencia a esta versión y cuáles son sus medidas exactas",
-    "html": "<p>La diferencia entre esta versión y un contenedor estándar está en la altura: 2,90 m por fuera en lugar de los 2,59 m habituales, con un interior que ronda los 2,69 m libres bajo techo. Por fuera se reconoce por la franja de esquinas pintada en amarillo y negro, la marca que usan navieras y transportistas para identificar un contenedor high cube antes de cargarlo o apilarlo.</p>"
+    "titulo": "Tipos de contenedor high cube: 20, 40 y 45 pies",
+    "html": "<p>Un <strong>contenedor high cube</strong> es un contenedor con un pie (unos 30 cm) más de altura que el estándar: 2,896 m por fuera en lugar de 2,591 m. El largo y el ancho no cambian, así que encaja en los mismos buques, grúas y camiones. Se fabrica en tres longitudes:</p><ul><li><strong>40 pies high cube</strong>: el más común con diferencia y el que más se usa para viviendas y oficinas.</li><li><strong>20 pies high cube</strong>: existe, pero es escaso, y cuesta más encontrarlo de segunda mano.</li><li><strong>45 pies high cube</strong>: más largo, usado sobre todo en transporte terrestre europeo; algunas versiones son un poco más anchas por dentro para encajar europalés.</li></ul><p>La altura extra también se aplica a modelos especiales: hay refrigerados, open top y flat rack en versión high cube.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Sigue esta versión el mismo estándar de fabricación que un contenedor marítimo convencional?",
-    "html": "<p>Sí: las cantoneras, los puntos de esquina y las dimensiones de largo y ancho respetan la misma norma de fabricación que un contenedor marítimo convencional, así que se manipula, se apila y se transporta con el mismo equipo y los mismos enganches que cualquier otro contenedor de su longitud. Lo único que cambia frente al <strong>modelo estándar</strong> es la altura de la estructura.</p><table><thead><tr><th>Versión</th><th>Alto exterior</th><th>Alto interior aprox.</th></tr></thead><tbody><tr><td>Contenedor estándar (20 y 40 pies)</td><td>2,59 m</td><td>Techo estándar</td></tr><tr><td>Versión alta (20 y 40 pies)</td><td>2,90 m</td><td>≈ 2,69 m libres</td></tr></tbody></table><p>El largo, el ancho y el peso máximo de cada longitud no cambian respecto al modelo estándar; lo que crece es solo la altura disponible, y ese margen extra es justo lo que buscan quienes necesitan instalaciones colgadas del techo o un <strong>entresuelo ligero</strong>. Consulta el resto de medidas en la tabla completa de <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+    "titulo": "¿Cómo se distingue a simple vista un contenedor high cube?",
+    "html": "<p>Por las franjas amarillas y negras que suelen llevar en la parte superior de las esquinas, que avisan de su mayor altura. Otra forma segura es el código de tipo ISO pintado junto a la matrícula: un 40 pies high cube lleva 45G1, mientras que un 40 pies estándar lleva 42G1. El segundo carácter, el 5, indica la altura de 9 pies y 6 pulgadas.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Por qué se elige para vivienda y oficinas, y cómo se transporta",
-    "html": "<p>La altura extra de esta unidad es la razón por la que muchos proyectos de <a href=\"/casa-contenedor-40-pies/\">vivienda</a> y de <a href=\"/oficinas-contenedores/\">oficinas</a> parten de un <strong>contenedor high cube</strong>: con el aislamiento, el suelo técnico y el falso techo ya colocados, la altura libre que queda dentro sigue siendo cómoda para habitar, mientras que en un contenedor estándar ese mismo aislamiento deja bastante menos espacio. También es la unidad preferida cuando hace falta volumen extra sin ampliar la planta, por ejemplo para estanterías altas o instalaciones que corren por el techo.</p>"
+    "titulo": "Especificaciones técnicas del contenedor high cube",
+    "html": "<p>Datos de referencia para unidades fabricadas según la norma ISO 668. La tara y la masa bruta exactas van en la placa CSC de cada unidad:</p><table><thead><tr><th>Dato</th><th>20' HC</th><th>40' HC</th><th>45' HC</th></tr></thead><tbody><tr><td>Exterior (largo × ancho × alto)</td><td>6,058 × 2,438 × 2,896 m</td><td>12,192 × 2,438 × 2,896 m</td><td>13,716 × 2,438 × 2,896 m</td></tr><tr><td>Interior (largo × ancho × alto)</td><td>5,898 × 2,352 × 2,698 m</td><td>12,032 × 2,352 × 2,698 m</td><td>13,556 × 2,352 × 2,698 m</td></tr><tr><td>Hueco de puerta (ancho × alto)</td><td>2,340 × 2,585 m</td><td>2,340 × 2,585 m</td><td>2,340 × 2,585 m</td></tr><tr><td>Volumen interior</td><td>37,4 m³</td><td>76,3 m³</td><td>86,0 m³</td></tr><tr><td>Tara aproximada</td><td>2.400-2.550 kg</td><td>3.900-4.150 kg</td><td>4.700-4.900 kg</td></tr><tr><td>Masa bruta máxima habitual</td><td>30.480 kg</td><td>30.480-32.500 kg</td><td>30.480-32.500 kg</td></tr></tbody></table><p>Frente al estándar de la misma longitud, el 40 pies high cube gana unos 8,6 m³ de volumen y 30 cm de <strong>altura de puerta</strong>, lo que permite meter cargas voluminosas y ligeras o piezas altas sin pasar a un contenedor especial.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Usos del contenedor high cube: carga voluminosa, vivienda y oficinas",
+    "html": "<p>En transporte se elige para mercancía que ocupa mucho y pesa poco: muebles, colchones, textil, piezas de plástico o embalaje. Ahí lo que se agota antes es el volumen, y el high cube da más por el mismo hueco en el barco.</p><p>En tierra es el preferido para <a href=\"/casa-contenedor-40-pies/\">casas contenedor de 40 pies</a>, oficinas y locales, porque deja sitio para <strong>aislar suelo y techo</strong> sin que la altura libre quede baja. Puedes ver soluciones en <a href=\"/aislamiento-contenedores/\">aislamiento de contenedores</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Qué trámite municipal exige convertir esta unidad en vivienda fija?",
-    "html": "<p>Cuando el contenedor se destina a vivienda fija y se conecta a cimentación, redes y suministros, el proyecto se tramita como cualquier construcción sometida a <strong>licencia de obra mayor</strong>, con un proyecto técnico visado que cumpla el Código Técnico de la Edificación y la Ley de Ordenación de la Edificación. Ese mismo expediente es el que después permite solicitar la licencia de primera ocupación y, en su caso, la cédula de habitabilidad ante el ayuntamiento correspondiente. Consulta los pasos completos en <a href=\"/permisos/\">permisos y licencias</a>.</p>"
+    "titulo": "¿Qué altura libre queda dentro una vez aislado?",
+    "html": "<p>Depende del grosor del aislamiento y del acabado que elijas. Se parte de 2,698 m interiores y a esa cifra se le resta lo que sume el suelo nuevo y lo que baje el techo. Con el mismo aislamiento, siempre te quedan unos 30 cm más que en un contenedor estándar, que es lo que marca la diferencia en una vivienda.</p>"
    },
    {
-    "nivel": "h3",
-    "titulo": "¿Por qué necesita a veces transporte especial esta versión más alta?",
-    "html": "<p>Porque sus 2,90 m de alto pueden superar el límite legal de circulación sobre una plataforma normal, así que suele cargarse en una <strong>góndola rebajada</strong>, que baja el punto de apoyo y mantiene el conjunto dentro de lo permitido. El transporte especial se activa cuando la combinación de vehículo y carga supera las dimensiones o el peso de la circulación ordinaria; en esos casos el transportista debe contar con la autorización correspondiente y seguir el itinerario que esta fije, evitando puentes, túneles o líneas eléctricas con gálibo insuficiente. Antes de la entrega conviene comprobar también la altura libre en destino, para no encontrar sorpresas al descargarlo.</p>"
+    "nivel": "h2",
+    "titulo": "Transporte del contenedor high cube",
+    "html": "<p>Sobre un chasis convencional, la altura total del camión cargado queda muy cerca del límite general de 4 m que fija el Reglamento General de Vehículos. Por eso se usan chasis de cuello de cisne o plataformas rebajadas cuando la ruta lo pide, y conviene revisar los pasos bajo puentes o cables en el acceso a la parcela. Lo comprobamos al organizar el <a href=\"/transporte-contenedores-maritimos/\">transporte del contenedor</a>.</p>"
    }
   ],
   "faq": {
    "titulo": "Preguntas frecuentes sobre el contenedor high cube",
    "items": [
     {
-     "pregunta": "¿Qué diferencia hay en altura con un contenedor estándar de la misma longitud?",
-     "respuesta": "Este modelo mide 2,90 m de alto por fuera, frente a los 2,59 m de un contenedor estándar de igual longitud, con un interior que ronda los 2,69 m libres bajo techo. El largo, el ancho y el peso máximo de cada longitud son los mismos que en la versión estándar; solo cambia la altura disponible."
+     "pregunta": "¿Se puede apilar sobre un contenedor de altura estándar?",
+     "respuesta": "Sí. Las cantoneras de las esquinas están en la misma posición en planta en ambos modelos, así que se apilan entre sí sin piezas especiales. Lo único que cambia es la <strong>altura total de la pila</strong>, que hay que tener en cuenta en una obra o bajo una cubierta."
     },
     {
-     "pregunta": "¿Sale más caro transportarlo por su altura?",
-     "respuesta": "Puede necesitar otro tipo de vehículo: al superar la altura habitual de circulación sobre una plataforma normal, muchas veces se carga en una góndola rebajada en lugar de un semirremolque estándar. El coste final depende de la ruta, la distancia y el punto de entrega; te lo detallamos al pedir el presupuesto de transporte."
+     "pregunta": "¿Qué diferencia hay entre un high cube y un dry van?",
+     "respuesta": "El dry van es el contenedor estándar de carga seca, con 2,591 m de altura exterior. El high cube es también de carga seca, pero con 2,896 m. Es decir, un high cube es un <strong>dry van más alto</strong>: mismos materiales, mismas puertas en un extremo y mismo uso, con más volumen."
     },
     {
      "pregunta": "¿Qué ancho interior libre queda una vez levantadas las paredes?",
-     "respuesta": "El ancho interior útil de un contenedor marítimo, tanto en la versión estándar como en esta unidad más alta, ronda los 2,35 m libres entre paredes. Lo que cambia entre ambas versiones es solo la altura bajo techo, no el ancho ni el largo disponibles para distribuir el espacio interior."
+     "respuesta": "Se parte de 2,352 m de ancho interior y se resta el trasdosado de cada lado: perfilería, aislamiento y placa. Con <strong>aislamiento por el interior</strong> el ancho útil baja bastante; si se aísla por fuera con un sistema de fachada, se conserva casi entero, aunque el contenedor pierde su aspecto original."
     },
     {
-     "pregunta": "¿Se puede apilar sobre un contenedor de altura estándar?",
-     "respuesta": "Sí, las esquinas y las cantoneras de carga siguen la misma norma de fabricación en ambas versiones, así que se apilan sin problema entre sí. Lo que cambia al combinarlas es la altura final del conjunto y, en una construcción, el diseño de escaleras y accesos entre plantas."
-    },
-    {
-     "pregunta": "¿Cuánta altura libre queda dentro una vez aislado?",
-     "respuesta": "La altura libre baja un poco respecto a los 2,69 m de fábrica, porque el aislamiento, el suelo técnico y el falso techo restan espacio por arriba y por abajo. El resultado exacto depende del espesor que lleve cada proyecto y se refleja en el plano antes de fabricar."
+     "pregunta": "¿Es fácil encontrar un 20 pies high cube de segunda mano?",
+     "respuesta": "Menos que uno de 40. Las navieras compran pocos high cube de 20 pies porque en esa longitud la carga suele ser pesada y no aprovecha la altura extra. Por eso hay <strong>menos unidades usadas</strong> disponibles y, si lo necesitas, conviene reservarlo con antelación o valorar un 20 pies estándar."
     }
    ]
   }

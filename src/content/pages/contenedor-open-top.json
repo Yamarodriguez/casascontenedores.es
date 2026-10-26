@@ -1674,28 +1674,33 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Qué es un contenedor open top y para qué se usa",
-    "html": "<p>El <strong>contenedor open top</strong> sustituye el techo rígido por una lona reforzada montada sobre arcos desmontables y un dintel abatible en uno de los extremos. Esta apertura superior permite cargar con grúa piezas que no caben por la puerta trasera, como maquinaria, planchas de vidrio, bobinas o maderas largas, y por eso también funciona como almacén con acceso desde arriba cuando conviene bajar la carga con polea en lugar de maniobrar por los batientes.</p><p>La base mantiene las medidas ISO 668 habituales: un contenedor de 20 pies mide 6,06 × 2,44 × 2,59 m y ronda los 13,9 m² interiores, y un <strong>contenedor de 40 pies</strong> mide 12,19 × 2,44 × 2,59 m con cerca de 28,3 m² interiores. Lo que cambia es que la carga puede sobresalir por encima del plano de la lona (carga «out of gauge»), así que conviene avisarlo antes de contratar el transporte. Puedes comparar estas cifras con las de otros formatos en <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+    "titulo": "Tipos de contenedor open top: de lona o de techo rígido",
+    "html": "<p>El <strong>contenedor open top</strong> es un contenedor de paredes cerradas sin techo fijo, pensado para cargas que solo pueden entrar desde arriba con grúa. Hay dos variantes según cómo se cierra esa abertura:</p><ul><li><strong>Soft top o de lona</strong>: el techo es una lona reforzada sobre arcos de acero desmontables. Es el más común.</li><li><strong>Hard top o de techo rígido</strong>: lleva un techo de acero que se retira entero con grúa o carretilla. Es más estanco y más seguro frente a robos.</li></ul><p>Ambos se fabrican en 20 y 40 pies, y también existe la versión high cube de 40 pies para cargas aún más altas. Casi todos tienen un <strong>dintel abatible</strong> sobre la puerta trasera que se gira hacia fuera para meter piezas altas por los batientes.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Hace falta licencia de obra para instalar un contenedor open top como almacén fijo?",
-    "html": "<p>Necesitas licencia cuando la instalación deja de ser provisional y pasa a fijarse al terreno con cimentación o conexión a redes; en ese caso, el ayuntamiento suele exigir una <strong>licencia de obra mayor</strong> en lugar de una simple comunicación previa. El Código Técnico de la Edificación (CTE) y la Ley de Ordenación de la Edificación (LOE) determinan qué requisitos técnicos debe cumplir la estructura según el uso que le des, así que conviene consultarlo con el técnico municipal antes de decidir la cimentación.</p>"
+    "titulo": "¿Cuándo conviene un open top de techo rígido en lugar de uno de lona?",
+    "html": "<p>Cuando el contenedor va a pasar tiempo cargado o a la intemperie. El techo de acero aguanta mejor el sol y la lluvia que la lona, no se rasga y dificulta el acceso a la mercancía. El de lona, en cambio, es más ligero, más fácil de abrir sin maquinaria pesada y admite cargas que sobresalen por arriba, algo imposible con el techo rígido montado.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Especificaciones técnicas del contenedor open top",
+    "html": "<p>Valores de referencia de la versión de lona. Los datos exactos de cada unidad (sobre todo tara y masa bruta) van en su placa CSC:</p><table><thead><tr><th>Dato</th><th>20' open top</th><th>40' open top</th></tr></thead><tbody><tr><td>Exterior (largo × ancho × alto)</td><td>6,058 × 2,438 × 2,591 m</td><td>12,192 × 2,438 × 2,591 m</td></tr><tr><td>Interior aproximado</td><td>5,89 × 2,35 × 2,35 m</td><td>12,03 × 2,35 × 2,35 m</td></tr><tr><td>Abertura de techo aproximada</td><td>5,6 × 2,2 m</td><td>11,8 × 2,2 m</td></tr><tr><td>Hueco de puerta (ancho × alto)</td><td>2,34 × 2,28 m</td><td>2,34 × 2,28 m</td></tr><tr><td>Volumen interior aproximado</td><td>32,5 m³</td><td>66,5 m³</td></tr><tr><td>Tara aproximada</td><td>2.250-2.400 kg</td><td>3.800-4.100 kg</td></tr><tr><td>Masa bruta máxima habitual</td><td>30.480 kg</td><td>30.480-32.500 kg</td></tr></tbody></table><p>La altura interior es algo menor que en un estándar porque los arcos ocupan parte del espacio. La lona se sujeta con un <strong>cable de precinto TIR</strong> que pasa por ojales a todo el perímetro, de modo que la aduana puede precintarla como si fuera un contenedor cerrado. El suelo y los laterales llevan anillas de trinca para sujetar la carga.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Usos del contenedor open top",
+    "html": "<p>Se elige cuando la mercancía es alta, pesada o difícil de manejar con carretilla:</p><ul><li>Maquinaria industrial y de obra que se iza entera.</li><li>Bloques de piedra, mármol y planchas de vidrio.</li><li>Bobinas, tubos y vigas largas.</li><li>Troncos y madera en rollo.</li><li>Chatarra y material a granel que se carga con pala o pulpo.</li></ul><p>En tierra funciona como almacén cuando interesa bajar piezas con grúa o polipasto en lugar de maniobrar por las puertas. Si la pieza además es más ancha que el contenedor, la alternativa es el <a href=\"/contenedor-flat-rack/\">contenedor flat rack</a>.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Cómo se carga un contenedor open top paso a paso",
+    "html": "<ol><li>Se retira el cable TIR y se enrolla la lona hacia un extremo.</li><li>Se desmontan los arcos que estorben y se abate el dintel si la pieza entra también por detrás.</li><li>La grúa introduce la carga y la deja sobre el suelo, repartiendo el peso sobre los travesaños.</li><li>Se <strong>trinca la mercancía</strong> a las anillas con cinchas o cadenas.</li><li>Se vuelven a montar arcos y dintel, se tensa la lona y se pasa el cable.</li></ol><p>Si la carga asoma por encima de la lona se considera fuera de gálibo y hay que avisarlo antes de contratar el transporte, porque cambia el tipo de porte.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Qué normativa regula el transporte de una carga que sobresale del contenedor?",
-    "html": "<p>El transporte de mercancía que asoma por encima de la lona se tramita como <strong>transporte especial</strong>, con la señalización y los itinerarios que marca la normativa de tráfico para este tipo de porte. La empresa transportista debe conocer de antemano el exceso de altura para solicitar el permiso correspondiente y elegir un recorrido compatible con puentes, túneles y líneas eléctricas, algo que no hace falta cuando la carga queda dentro del volumen estándar ISO 668.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Puede convertirse un contenedor open top en vivienda con cédula de habitabilidad?",
-    "html": "<p>Un contenedor open top no está pensado para vivienda porque su cerramiento superior es una lona y no un techo estanco y aislado, condición que exige el CTE para conceder la <strong>cédula de habitabilidad</strong>. Si el proyecto busca uso residencial, hace falta partir de un modelo de techo fijo, presentar un proyecto visado y solicitar la licencia de primera ocupación una vez terminada la obra, trámites que no aplican a una unidad destinada solo a almacenaje o transporte.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "Qué revisar antes de comprar uno de segunda mano",
-    "html": "<p>Frente a un <strong>modelo de techo fijo</strong>, la lona es el punto más débil frente a la estanqueidad y al paso del tiempo. En una <a href=\"/contenedores-maritimos-segunda-mano/\">unidad de segunda mano</a> conviene revisar que la lona no esté agrietada, que los arcos no estén doblados y que el dintel abra y cierre sin forzar antes de dar por buena la compra. Si necesitas comparar con otro formato de carga superior, el <a href=\"/contenedor-flat-rack/\">contenedor flat rack</a> es otra opción cuando, además de alta, la pieza es ancha.</p>"
+    "titulo": "¿Qué hay que revisar en un contenedor open top de segunda mano?",
+    "html": "<p>Sobre todo la lona y sus herrajes, que son la parte más débil. Comprueba que la lona no esté agrietada ni porosa, que los ojales estén enteros, que los arcos no estén doblados y que el dintel abra y cierre sin forzar. Si la lona está mal, pide precio de una nueva antes de cerrar la compra. Tienes más unidades en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores de segunda mano</a>.</p>"
    }
   ],
   "faq": {
@@ -1703,23 +1708,23 @@
    "items": [
     {
      "pregunta": "¿Se puede cambiar la lona por un techo fijo?",
-     "respuesta": "No es un cambio habitual: la estructura lleva arcos desmontables y un dintel abatible pensados para la lona, no para un techo soldado. Si necesitas estanqueidad total y no vas a cargar por arriba, suele ser más práctico partir de un high cube o un dry van y adaptar la puerta según la carga que muevas."
+     "respuesta": "No es un cambio habitual: la estructura lleva arcos desmontables y un dintel abatible pensados para la lona, no para un techo soldado. Si necesitas estanqueidad total y no vas a cargar por arriba, suele ser más práctico partir de un <strong>high cube o un dry van</strong> y adaptarlo, o buscar directamente un open top de techo rígido."
     },
     {
      "pregunta": "¿Es estanco con la lona?",
-     "respuesta": "La lona impermeabiliza frente a la lluvia cuando está bien tensada y sin roturas, pero no iguala la estanqueidad de un techo de chapa soldada. Con el paso del tiempo puede perder flexibilidad o rasgarse en los pliegues, así que conviene revisarla antes de guardar mercancía sensible a la humedad."
+     "respuesta": "La lona protege de la lluvia cuando está <strong>bien tensada y sin roturas</strong>, pero no iguala la estanqueidad de un techo de chapa soldada. Con el tiempo pierde flexibilidad y puede rasgarse en los pliegues, así que conviene revisarla antes de guardar dentro mercancía sensible a la humedad."
     },
     {
      "pregunta": "¿Necesito grúa para cargarlo?",
-     "respuesta": "Para piezas que superan la altura de las puertas o no entran por el hueco trasero, sí: se retira la lona, se abren los arcos o el dintel y una grúa introduce la carga desde arriba. Para mercancía que cabe por las puertas, se carga igual que en un contenedor estándar, sin maquinaria adicional."
-    },
-    {
-     "pregunta": "¿Sirve de almacén?",
-     "respuesta": "Sí, funciona como almacén cuando interesa bajar piezas altas o voluminosas con polea en lugar de maniobrar por las puertas. Para guardar mercancía sensible a la humedad de forma permanente suele preferirse un modelo de techo fijo, con menos partes móviles que revisar y mayor estanqueidad."
+     "respuesta": "Solo para piezas que no entran por la puerta trasera. En ese caso se retira la lona y una grúa introduce la carga desde arriba. La mercancía que cabe por los batientes se carga igual que en un contenedor estándar, con transpaleta o carretilla, sin <strong>maquinaria de elevación</strong> adicional."
     },
     {
      "pregunta": "¿Qué diferencia hay con un flat rack?",
-     "respuesta": "El flat rack prescinde también de los laterales y deja la carga expuesta por los cuatro costados, mientras que este modelo conserva las paredes cerradas y solo abre el techo. Elige flat rack para piezas muy anchas y esta unidad cuando la carga es alta pero cabe dentro del ancho estándar."
+     "respuesta": "El flat rack prescinde también de los laterales y deja la carga a la vista por los cuatro costados, mientras que el open top conserva las <strong>paredes laterales cerradas</strong> y solo abre el techo. Elige flat rack para piezas muy anchas y open top cuando la carga es alta pero cabe dentro del ancho estándar."
+    },
+    {
+     "pregunta": "¿Existe el open top en versión high cube?",
+     "respuesta": "Sí, en 40 pies. Tiene la misma abertura superior pero una <strong>altura exterior de 2,896 m</strong>, lo que deja más espacio libre bajo los arcos. Es útil para cargas que superan por poco la altura del open top estándar y así evitar que sobresalgan por encima de la lona."
     }
    ]
   }

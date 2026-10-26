@@ -19,28 +19,33 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Medidas del contenedor de 20 pies en detalle (ISO 668)",
-    "html": "<p>Estas son sus medidas exteriores según la <strong>norma ISO 668</strong>; la tara de cada unidad va marcada en el propio contenedor:</p><table><thead><tr><th>Medida</th><th>Valor aproximado</th></tr></thead><tbody><tr><td>Exterior (largo x ancho x alto)</td><td>6,06 x 2,44 x 2,59 m</td></tr><tr><td>Superficie interior aproximada</td><td>≈13,9 m²</td></tr><tr><td>Ancho interior útil</td><td>2,35 m</td></tr></tbody></table><p>Ese ancho útil condiciona cómo se estiba la carga: el europalé se acomoda mejor que el palé americano. La <strong>versión high cube</strong> añade altura exterior (2,90 m) sobre el estándar, con un interior algo superior a 2,69 m. Compara el resto de formatos en <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+    "titulo": "Tipos de contenedores de 20 pies: estándar, high cube y especiales",
+    "html": "<p>Cuando se habla de un <strong>contenedor de 20 pies</strong> casi siempre se piensa en el modelo estándar de carga seca, pero esa misma longitud se fabrica en varias versiones según la mercancía que vaya a viajar dentro:</p><ul><li><strong>Estándar o dry van (20' DV)</strong>: cerrado, con techo de chapa y puertas de doble hoja en un extremo. Es el más abundante y el que más se reutiliza como almacén o caseta.</li><li><strong>High cube (20' HC)</strong>: igual de largo, pero con un pie más de altura exterior. Es menos frecuente en esta longitud que en la de 40 pies; tienes sus medidas en la página del <a href=\"/contenedor-high-cube/\">contenedor high cube</a>.</li><li><strong>Doble puerta o túnel</strong>: lleva puertas en los dos extremos, útil cuando se carga por un lado y se descarga por el otro.</li><li><strong>Open side</strong>: abre todo un lateral con puertas plegables.</li><li><strong>Open top y flat rack</strong>: sin techo rígido o sin paredes laterales, para cargas que entran con grúa o que sobresalen.</li><li><strong>Refrigerado (reefer)</strong>: aislado y con equipo de frío propio.</li></ul>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Qué es la norma ISO 668 y qué garantiza en un contenedor marítimo?",
-    "html": "<p>La ISO 668 es la norma internacional que fija las <strong>medidas exteriores de los contenedores</strong> marítimos de uso general, así como el grosor de sus paredes y la posición de las cantoneras en las esquinas. Gracias a esa estandarización, un contenedor de 20 pies fabricado por cualquier empresa encaja en los mismos buques, grúas y chasis de transporte que el resto del sector, sin necesidad de piezas o anclajes especiales.</p>"
+    "titulo": "¿Por qué un contenedor de 20 pies mide 6,058 m y no 6,10 m?",
+    "html": "<p>Porque está pensado para que dos unidades de 20 pies ocupen exactamente el mismo hueco que una de 40 pies. Dos contenedores de 6,058 m más una holgura de 76 mm entre ambos suman 12,192 m, la longitud del 40 pies. Así los buques, los vagones y los chasis pueden llevar indistintamente uno largo o dos cortos usando los mismos puntos de anclaje.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Transporte, descarga e instalación de un 20 pies en tu parcela",
-    "html": "<p>Por su longitud, este contenedor suele llegar en un camión rígido con pluma propia, lo que facilita la descarga en calles estrechas. Antes de la entrega conviene preparar una superficie firme y nivelada: la carga se transmite por las <strong>cantoneras de las esquinas</strong>, y un mal apoyo puede deformar la estructura con el tiempo.</p><p>Si va a quedarse fijo, conviene hacer antes una <a href=\"/permisos/\">consulta al ayuntamiento</a>: no es lo mismo un <strong>uso temporal de obra</strong> que una instalación permanente como trastero, caseta o <a href=\"/casa-contenedor-20-pies/\">base de una vivienda de un solo módulo</a>. Revisa la ventilación del interior y, si lleva tiempo a la intemperie, repasa la pintura para frenar la corrosión. Si solo buscas un módulo de <a href=\"/contenedores-de-almacenamiento/\">almacenamiento</a> sin obra asociada, el trámite suele ser más sencillo.</p>"
+    "titulo": "Especificaciones técnicas del contenedor de 20 pies",
+    "html": "<p>Valores de referencia para unidades fabricadas según la norma ISO 668. La tara y la masa bruta exactas de cada unidad figuran en su placa CSC, así que pueden variar algo según el fabricante y el año:</p><table><thead><tr><th>Dato</th><th>20' estándar</th><th>20' high cube</th></tr></thead><tbody><tr><td>Exterior (largo × ancho × alto)</td><td>6,058 × 2,438 × 2,591 m</td><td>6,058 × 2,438 × 2,896 m</td></tr><tr><td>Interior (largo × ancho × alto)</td><td>5,898 × 2,352 × 2,393 m</td><td>5,898 × 2,352 × 2,698 m</td></tr><tr><td>Hueco de puerta (ancho × alto)</td><td>2,340 × 2,280 m</td><td>2,340 × 2,585 m</td></tr><tr><td>Volumen interior</td><td>33,2 m³</td><td>37,4 m³</td></tr><tr><td>Tara aproximada</td><td>2.200-2.350 kg</td><td>2.400-2.550 kg</td></tr><tr><td>Masa bruta máxima habitual</td><td>30.480 kg</td><td>30.480 kg</td></tr></tbody></table><p>La estructura es de <strong>acero corten</strong>, un acero que forma una capa de óxido protectora y resiste mejor la corrosión marina. Las paredes son de chapa corrugada, el suelo es de contrachapado marino tratado sobre travesaños de acero, y las cuatro esquinas llevan cantoneras normalizadas por donde se iza, se apila y se ancla el contenedor. Las puertas cierran con barras verticales y juntas de goma que lo hacen estanco al agua.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Qué diferencia hay entre una instalación temporal y una instalación permanente a efectos de licencia?",
-    "html": "<p>La diferencia principal está en el uso: una instalación temporal ligada a una obra en marcha suele bastar con una comunicación previa o declaración responsable, mientras que una instalación permanente como vivienda, trastero fijo o local se tramita como una construcción sujeta a <strong>licencia de obra mayor</strong>, con proyecto técnico visado y ajustado al Código Técnico de la Edificación. El ayuntamiento es quien decide, según su ordenanza y la calificación del suelo, qué trámite corresponde a cada caso concreto.</p>"
+    "titulo": "¿Qué datos de la placa CSC conviene mirar antes de comprar?",
+    "html": "<p>Conviene comprobar la fecha de fabricación, la tara, la <strong>masa bruta máxima</strong> y el peso de apilamiento admitido. La placa CSC acredita que el contenedor fue aprobado según el Convenio Internacional sobre la Seguridad de los Contenedores; no certifica sus medidas. Si vas a seguir usándolo para transporte, revisa también la marca de la última inspección periódica.</p>"
    },
    {
-    "nivel": "h3",
-    "titulo": "¿Qué es el anclaje de un contenedor y por qué influye en su instalación?",
-    "html": "<p>El anclaje es el sistema que fija el contenedor a la cimentación o a la superficie donde se apoya, transmitiendo la carga a través de las cantoneras de las esquinas para evitar desplazamientos por viento, asientos del terreno o cargas de uso. Un <strong>anclaje mal calculado</strong> puede favorecer la aparición de puentes térmicos y filtraciones en las juntas, además de comprometer la estabilidad de la estructura con el paso del tiempo.</p>"
+    "nivel": "h2",
+    "titulo": "Contenedor de 20 pies nuevo, de un viaje o de segunda mano",
+    "html": "<p>En el mercado los contenedores se clasifican por su estado, y esa clasificación pesa más en el resultado que la propia medida:</p><ul><li><strong>One trip</strong> (un solo viaje): fabricado nuevo y usado una vez para traerlo desde fábrica. Paneles rectos, pintura casi intacta.</li><li><strong>Cargo worthy (CW)</strong>: usado, pero todavía apto para transportar mercancía por mar.</li><li><strong>Wind and water tight (WWT)</strong>: ya no viaja, pero es estanco al viento y al agua. Es la opción habitual para almacén.</li><li><strong>As is</strong>: tal cual, con daños visibles. Solo interesa para piezas o para reformas profundas.</li></ul><p>Para un trastero o una caseta de obra, un WWT bien revisado suele bastar. Si el módulo va a ser la base de una <a href=\"/casa-contenedor-20-pies/\">casa contenedor de 20 pies</a>, compensa partir de un one trip: los paneles más rectos facilitan el aislamiento y hay menos óxido que tratar. Puedes ver la oferta de <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores marítimos de segunda mano</a> para comparar estados.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Qué cabe en un contenedor de 20 pies",
+    "html": "<p>El ancho interior de 2,352 m marca la forma de estibar. En una sola altura entran unos <strong>11 europalés</strong> (1,20 × 0,80 m) o entre 9 y 10 palés americanos (1,20 × 1,00 m). Con mercancía ligera se llena antes el volumen que la carga máxima; con piedra, metal o líquidos ocurre al revés, y el límite real lo pone el peso que admite el camión que lo va a mover por carretera.</p><p>Para usos en tierra, los 13,9 m² interiores dan para un almacén de herramientas, el mobiliario de una mudanza o un pequeño taller con banco de trabajo, siempre que se deje un pasillo libre hasta el fondo.</p>"
    }
   ],
   "faq": {
@@ -48,27 +53,23 @@
    "items": [
     {
      "pregunta": "¿Cabe un coche dentro de un contenedor de 20 pies?",
-     "respuesta": "El ancho interior útil es de 2,35 m, suficiente para la carrocería de un turismo, aunque justo para abrir bien las puertas o maniobrar dentro. Si vas a usarlo como garaje habitual, muchos prefieren un contenedor más grande o un high cube por la holgura extra que ofrecen."
-    },
-    {
-     "pregunta": "¿Necesito licencia para poner un contenedor en mi terreno?",
-     "respuesta": "Depende del uso: uno de obra temporal no exige lo mismo que uno que se queda fijo como trastero, oficina o base de vivienda. El ayuntamiento decide si basta una declaración responsable o si hace falta licencia de obra, según su ordenanza y el tipo de suelo. Consúltalo antes en permisos y licencias."
+     "respuesta": "Sí, cabe la carrocería de un turismo: el ancho interior útil es de 2,35 m y el largo, de casi 5,9 m. Lo que queda justo es el espacio para abrir las puertas del coche dentro. Si lo vas a usar como garaje habitual, muchos prefieren un <strong>contenedor de 40 pies</strong>, por la holgura extra para maniobrar."
     },
     {
      "pregunta": "¿Se pueden apilar estos contenedores?",
-     "respuesta": "Sí: están diseñados para transmitir la carga por las cantoneras de las esquinas, alineadas entre plantas, lo que permite apilarlos varios niveles en un depósito o como base de una segunda planta en una vivienda. La carga máxima admisible depende del cálculo estructural del proyecto."
-    },
-    {
-     "pregunta": "¿Cuánto pesa un contenedor vacío?",
-     "respuesta": "La tara varía según el fabricante y el estado de cada unidad, y va marcada en su propia placa CSC junto al resto de datos técnicos. Para conocer el dato exacto de una unidad concreta, pide que te lo indiquen antes de comprarla o de organizar el transporte."
-    },
-    {
-     "pregunta": "¿Qué diferencia hay entre un contenedor de 20 y uno de 10 pies?",
-     "respuesta": "El de 10 pies es bastante más corto y no forma parte de las medidas más habituales del transporte marítimo, así que hay menos oferta de unidades de segunda mano y de piezas para repararlo. Este modelo es un tamaño estándar con más disponibilidad y más opciones para reformarlo o combinarlo."
+     "respuesta": "Sí. Están diseñados para transmitir la carga por las <strong>cantoneras de las esquinas</strong>, que quedan alineadas entre niveles, y así se apilan en puertos y depósitos. El peso de apilamiento admitido figura en la placa CSC; si se apilan como base de una segunda planta habitable, lo que manda es el cálculo estructural del proyecto."
     },
     {
      "pregunta": "¿Se pueden unir dos contenedores de 20 pies?",
-     "respuesta": "Sí, es habitual soldarlos en paralelo o en línea para ganar superficie, pero cada hueco abierto en el lateral para comunicar los módulos resta rigidez a la estructura original. Hace falta reforzar con perfiles calculados por un técnico: no es una simple unión, forma parte del proyecto que firma el arquitecto."
+     "respuesta": "Sí, es habitual unirlos en paralelo o en línea para ganar superficie. Cada hueco que se abre en el lateral para comunicar los módulos resta rigidez a la estructura, así que hay que <strong>reforzar con perfiles</strong> calculados por un técnico. No es una simple soldadura: forma parte del proyecto que firma el arquitecto."
+    },
+    {
+     "pregunta": "¿Qué camión hace falta para llevarlo a mi parcela?",
+     "respuesta": "Lo normal es un <strong>camión con grúa propia</strong>, que lo descarga sin necesitar maquinaria en destino, o un portacontenedores con plataforma basculante que lo deja deslizar al suelo. Hay que comprobar antes el acceso: anchura de la calle, cables, ramas y una zona firme para apoyar el camión. Lo vemos al preparar el <a href=\"/transporte-contenedores-maritimos/\">transporte del contenedor</a>."
+    },
+    {
+     "pregunta": "¿Existe un contenedor de 20 pies con puertas en los dos extremos?",
+     "respuesta": "Sí, se llama de doble puerta o túnel. Mantiene las medidas exteriores del estándar pero sustituye el testero cerrado por un segundo juego de puertas. Es práctico como almacén alargado, porque llegas al fondo sin vaciar el contenedor, y como <strong>paso entre dos zonas</strong> de una parcela o una nave."
     }
    ]
   }

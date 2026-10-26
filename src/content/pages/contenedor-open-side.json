@@ -19,23 +19,33 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Qué es un contenedor open side y para qué sirve",
-    "html": "<p>El contenedor open side es un contenedor marítimo estándar al que se añade un lateral completo con <strong>puertas plegables</strong>, además de las puertas de un extremo. Esa apertura corrida convierte todo el lateral en acceso, algo que un dry van cerrado no ofrece: la carga entra por el costado con carretilla o transpaleta, sin depender del hueco del fondo.</p><p>Por eso es habitual encontrarlo como <strong>almacén de acceso frecuente</strong>, para piezas o cargas largas que no caben por la puerta de un extremo, y también como base de un <a href=\"/local-containers/\">local en contenedor</a> o de un <a href=\"/bar-contenedor/\">bar contenedor</a>, con el lateral abierto convertido en escaparate o barra de atención al público.</p>"
+    "titulo": "Tipos de contenedor open side: un lateral, dos laterales y 20 o 40 pies",
+    "html": "<p>El <strong>contenedor open side</strong> es un contenedor cerrado en el que uno de los costados largos se sustituye por puertas plegables que se abren de punta a punta. Conserva además las puertas normales del testero, así que se puede cargar por el extremo y por el lateral. Sus variantes son:</p><ul><li><strong>Un lateral abierto</strong>: el más común.</li><li><strong>Dos laterales abiertos</strong>: los dos costados se abren y el interior queda despejado de lado a lado.</li><li><strong>20 o 40 pies</strong>: el de 20 pies es mucho más habitual; el de 40 pies existe, pero es escaso.</li><li><strong>High cube</strong>: algunos fabricantes lo ofrecen con un pie más de altura.</li></ul>"
    },
    {
     "nivel": "h3",
-    "titulo": "Refuerzo estructural y comprobaciones antes de usarlo",
-    "html": "<p>Abrir un lateral entero resta parte de la rigidez que aportan las paredes corrugadas, así que el marco de las puertas y las cantoneras llevan <strong>refuerzo estructural</strong> para conservar la capacidad de apilado. Frente a un <a href=\"/contenedor-dry-van/\">contenedor dry van</a> cerrado, este modelo necesita revisar con más frecuencia las bisagras y las juntas de estanqueidad del lateral abierto, piezas móviles que el dry van no lleva; el coste exacto de fabricación depende del estado y de la configuración, así que se resuelve en el presupuesto.</p>"
+    "titulo": "¿En qué se diferencia de un contenedor con puerta lateral?",
+    "html": "<p>En el tamaño del hueco. El open side abre todo el costado con varias hojas plegables, mientras que el contenedor con puerta lateral solo tiene un acceso de doble hoja en una parte del costado y el resto es pared de chapa. El primero es para cargar de lado con carretilla en toda la longitud; el segundo, para entrar sin pasar por el fondo.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Especificaciones técnicas del contenedor open side",
+    "html": "<p>Las medidas exteriores son las de un contenedor ISO, pero las interiores y el hueco lateral varían según el fabricante. Valores de referencia; los exactos van en la placa CSC de cada unidad:</p><table><thead><tr><th>Dato</th><th>20' open side</th><th>40' open side</th></tr></thead><tbody><tr><td>Exterior (largo × ancho × alto)</td><td>6,058 × 2,438 × 2,591 m</td><td>12,192 × 2,438 × 2,591 m</td></tr><tr><td>Interior aproximado</td><td>5,85 × 2,30 × 2,35 m</td><td>11,95 × 2,30 × 2,35 m</td></tr><tr><td>Hueco lateral aproximado</td><td>5,7 × 2,2 m</td><td>11,8 × 2,2 m</td></tr><tr><td>Puerta del testero</td><td>2,34 × 2,28 m</td><td>2,34 × 2,28 m</td></tr><tr><td>Tara aproximada</td><td>3.000-3.400 kg</td><td>5.000-5.800 kg</td></tr><tr><td>Masa bruta máxima habitual</td><td>30.480 kg</td><td>30.480 kg</td></tr></tbody></table><p>Pesa más que un estándar porque necesita <strong>largueros superior e inferior reforzados</strong> para compensar la pared que falta. Las puertas laterales van en hojas que se pliegan de dos en dos, con barras de cierre y juntas de goma como las traseras. En algunos modelos hay un poste central extraíble que da rigidez durante el transporte.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Usos del contenedor open side",
+    "html": "<p>Brilla cuando se necesita acceso rápido y amplio a todo el interior:</p><ul><li>Almacén de materiales de obra o de jardinería con entrada y salida diaria con carretilla.</li><li>Mercancía paletizada que se carga de lado, sin tener que ir sacando palés desde el fondo.</li><li><a href=\"/bar-contenedor/\">Bares en contenedor</a>, tiendas temporales y puestos en ferias y eventos, porque al abrirse queda un mostrador corrido.</li><li>Escenarios, cabinas de sonido y casetas de venta de entradas.</li></ul>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Mantenimiento de un contenedor open side",
+    "html": "<p>Sus puntos sensibles son las piezas móviles. Engrasa las bisagras y las barras de cierre, revisa que las hojas encajen sin rozar y cambia las <strong>juntas de goma</strong> cuando se agrieten, porque el lateral tiene muchos más metros de junta que un contenedor normal. Si lo compras usado, abre y cierra todas las hojas: si alguna no ajusta, puede ser un marco deformado. Compara unidades en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores de segunda mano</a>.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Necesita licencia de obra un local montado en un contenedor open side?",
-    "html": "<p>Sí, instalar un local o un negocio en este tipo de contenedor suele exigir <strong>licencia de obra mayor</strong>, igual que cualquier edificación permanente sujeta al Código Técnico de la Edificación y a la Ley de Ordenación de la Edificación. El ayuntamiento valora el uso, la cimentación y la conexión a servicios, y normalmente pide un proyecto visado por un técnico competente antes de conceder la licencia y, más adelante, la cédula de habitabilidad o el certificado de primera ocupación si el uso lo requiere.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Qué mantenimiento necesita el lateral abierto con el paso del tiempo?",
-    "html": "<p>El lateral abierto suma un mecanismo de puertas plegables, bisagras y juntas de estanqueidad que conviene mantener a punto: engrasar las bisagras y comprobar el estado de las gomas con cierta frecuencia, sobre todo si este contenedor queda a la intemperie o cerca de la costa. Un contenedor nuevo o wind and watertight parte con esas <strong>juntas de estanqueidad</strong> en buen estado; en uno de segunda mano conviene revisarlas antes de comprarlo, porque son las piezas que más se desgastan con el uso diario.</p>"
+    "titulo": "¿Pierde rigidez un contenedor open side al abrir el lateral?",
+    "html": "<p>Mientras está abierto, algo sí, y por eso no conviene moverlo ni izarlo con el lateral abierto. Su estructura está calculada para trabajar con las hojas cerradas y bloqueadas. No se deben añadir cortes ni huecos en el lateral contrario sin un cálculo previo, y el peso que admite encima es el que marca su placa CSC.</p>"
    }
   ],
   "faq": {
@@ -43,23 +53,19 @@
    "items": [
     {
      "pregunta": "¿Abren completas las puertas laterales?",
-     "respuesta": "Sí, las puertas del lateral se abren en todo el ancho y quedan plegadas contra la pared, dejando libre el hueco completo para cargar de un extremo a otro. Se manejan con las mismas palancas y varillas de cierre que las puertas de un extremo, aunque al haber más hojas conviene comprobar que todas queden bien trabadas antes de mover el contenedor."
+     "respuesta": "Sí, las hojas se pliegan y giran hasta quedar pegadas al exterior, dejando libre casi toda la longitud del costado. Así entras con carretilla en cualquier punto del contenedor. Con el poste central quitado, en los modelos que lo llevan, el <strong>hueco queda corrido</strong> de un extremo a otro."
     },
     {
      "pregunta": "¿Se cierra con seguridad?",
-     "respuesta": "Sí, cada hoja lleva sus propias varillas de cierre y admite candado, igual que un contenedor estándar. Al tener más puntos de cierre que un dry van conviene revisar el estado de varillas y bisagras antes de guardar mercancía de valor, sobre todo si el contenedor es de segunda mano."
+     "respuesta": "Sí. Cada pareja de hojas cierra con barras verticales como las de las puertas traseras y admite candado. Para un uso de almacén conviene añadir <strong>cajas antirrobo</strong> para los candados, que impiden cortarlos con cizalla, y revisar que ninguna hoja quede con holgura."
     },
     {
      "pregunta": "¿Es tan estanco como un contenedor estándar?",
-     "respuesta": "El lateral abierto suma juntas y bisagras que un dry van no tiene, así que la estanqueidad depende más del mantenimiento: gomas en buen estado y cierres bien ajustados. Un contenedor nuevo o wind and watertight cumple igual que uno estándar; en uno usado conviene revisarlo antes de comprarlo."
+     "respuesta": "Puede serlo, pero depende de las juntas. Al tener muchos más metros de goma en el costado, hay más puntos donde puede entrar el agua si una junta está agrietada o mal ajustada. Con <strong>juntas en buen estado</strong> y las hojas bien cerradas, el interior se mantiene seco igual que en un dry van."
     },
     {
-     "pregunta": "¿Se puede alquilar este tipo de contenedor?",
-     "respuesta": "Sí, se alquila igual que el resto de tipos de contenedor, y se puede consultar la disponibilidad y las condiciones al pedir información. La duración, la fianza y el resto de condiciones se fijan según el uso que le vayas a dar."
-    },
-    {
-     "pregunta": "¿Existe con los dos laterales abiertos?",
-     "respuesta": "Sí, existe la versión con los dos laterales completos con puertas plegables, útil cuando necesitas paso de un lado a otro o cargas muy largas. Pierde aún más rigidez lateral que la versión de un solo lado, por lo que lleva más refuerzo estructural; consulta la disponibilidad al pedir presupuesto."
+     "pregunta": "¿Se puede alquilar un contenedor open side?",
+     "respuesta": "Sí, es habitual para eventos, ferias o temporadas en las que se necesita un <strong>puesto de venta temporal</strong>. Como hay menos unidades que de contenedor estándar, conviene pedirlo con antelación e indicar si necesitas el lateral hacia un lado concreto para orientarlo bien en el emplazamiento."
     }
    ]
   }

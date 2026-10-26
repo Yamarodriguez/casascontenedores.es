@@ -19,23 +19,33 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Qué es un contenedor dry van y en qué se diferencia de otros",
-    "html": "<p>El <strong>contenedor dry van</strong> es el modelo cerrado y sin control de temperatura: chapa de acero corten, cantoneras en las esquinas y puertas dobles en un testero. Es el contenedor marítimo que más se fabrica, pensado para carga seca y paletizada, y punto de partida para una casa contenedor o una oficina modular.</p><p>Se diferencia de otros tipos por la función: el <a href=\"/contenedor-high-cube/\">contenedor high cube</a> gana altura, el open top cambia el techo por una lona y el reefer añade frío. El estándar no trae de fábrica ni ventilación ni aislamiento.</p><p>Antes de comprar conviene mirar la <strong>placa CSC</strong> remachada en una de las puertas: certifica que la estructura ha pasado la inspección que exige el Convenio Internacional sobre Contenedores y es distinta del código que identifica cada unidad. El estado de las juntas de goma de las puertas y del suelo de madera tratada dice mucho más del contenedor real que su mera condición de nuevo o usado.</p>"
+    "titulo": "Tipos de contenedor dry van: 20, 40, high cube y puertas especiales",
+    "html": "<p>El <strong>contenedor dry van</strong> es el contenedor estándar de carga seca: cerrado por los seis lados, sin equipo de frío y con puertas de doble hoja en un extremo. Es el modelo más numeroso del mundo y el punto de partida de casi todos los demás. Sus versiones habituales son:</p><ul><li><strong>20 pies dry van</strong>: el más manejable, para cargas pesadas y compactas.</li><li><strong>40 pies dry van</strong>: el doble de largo, para carga voluminosa.</li><li><strong>40 pies high cube</strong>: también de carga seca, pero un pie más alto. Tienes sus datos en el <a href=\"/contenedor-high-cube/\">contenedor high cube</a>.</li><li><strong>Doble puerta</strong>: puertas en los dos extremos.</li><li><strong>Con puerta lateral</strong>: además de las traseras, un acceso por el costado.</li></ul>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Qué normativa fija las medidas de un contenedor dry van?",
-    "html": "<p>La <strong>norma ISO 668</strong> fija las medidas exteriores e interiores de los contenedores marítimos normalizados, tanto en la versión estándar como en la high cube. Es la referencia técnica internacional que evita variaciones entre fabricantes y en la que se apoya después cualquier cálculo de cargas, anclajes o proyecto de casa contenedor.</p>"
+    "titulo": "¿Qué significa el código 22G1 o 42G1 que lleva pintado?",
+    "html": "<p>Es el código de tamaño y tipo de la norma ISO 6346. El primer carácter indica la longitud (2 es 20 pies y 4 es 40 pies), el segundo la altura (2 es 8 pies y 6 pulgadas, 5 es high cube) y G1 identifica un contenedor de uso general con respiraderos en la parte alta. Así, 22G1 es un 20 pies dry van y 42G1, un 40 pies dry van.</p>"
    },
    {
     "nivel": "h2",
-    "titulo": "Usos, nuevo o usado: ventajas y limitaciones",
-    "html": "<p>El contenedor estándar es la opción más versátil cuando no hace falta frío ni un hueco especial de carga; lo que cambia es si conviene nuevo o de segunda mano.</p><ul><li>Uso habitual: carga paletizada, almacén de obra o de empresa, trastero particular, y punto de partida cuando el proyecto final es una casa contenedor (lo explicamos en <a href=\"/casa-container-paso-a-paso/\">casa contenedor paso a paso</a>) u oficina modular.</li><li>Nuevo, one trip o usado: el grado marca el estado real del acero y de las juntas; conviene revisarlo antes de comprar (grados explicados en <a href=\"/contenedores-maritimos-segunda-mano/\">contenedores marítimos de segunda mano</a>).</li><li>Ventajas: estructura estanca y apilable, preparada para cargar peso sobre las cantoneras de las esquinas.</li><li>Limitaciones: sin ventilación ni aislamiento de serie, y con menos rigidez si se abren huecos nuevos, porque la resistencia depende de que el panel siga cerrado. Se resuelve con rejillas, aislamiento continuo y refuerzo estructural en el hueco.</li></ul>"
+    "titulo": "Especificaciones técnicas del contenedor dry van",
+    "html": "<p>Valores de referencia para unidades fabricadas según la norma ISO 668. La tara y la masa bruta exactas van en la placa CSC de cada unidad:</p><table><thead><tr><th>Dato</th><th>20' DV</th><th>40' DV</th><th>40' HC</th></tr></thead><tbody><tr><td>Exterior (largo × ancho × alto)</td><td>6,058 × 2,438 × 2,591 m</td><td>12,192 × 2,438 × 2,591 m</td><td>12,192 × 2,438 × 2,896 m</td></tr><tr><td>Interior (largo × ancho × alto)</td><td>5,898 × 2,352 × 2,393 m</td><td>12,032 × 2,352 × 2,393 m</td><td>12,032 × 2,352 × 2,698 m</td></tr><tr><td>Hueco de puerta</td><td>2,340 × 2,280 m</td><td>2,340 × 2,280 m</td><td>2,340 × 2,585 m</td></tr><tr><td>Volumen interior</td><td>33,2 m³</td><td>67,7 m³</td><td>76,3 m³</td></tr><tr><td>Tara aproximada</td><td>2.200-2.350 kg</td><td>3.700-3.900 kg</td><td>3.900-4.150 kg</td></tr><tr><td>Masa bruta máxima habitual</td><td>30.480 kg</td><td>30.480-32.500 kg</td><td>30.480-32.500 kg</td></tr></tbody></table><p>Está hecho de <strong>acero corten</strong> con paredes corrugadas, suelo de contrachapado marino sobre travesaños y cantoneras en las esquinas. Por dentro lleva anillas de amarre en la parte baja y alta de las paredes para sujetar la carga, y respiraderos protegidos que dejan salir el aire sin dejar entrar la lluvia.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Para qué sirve un contenedor dry van",
+    "html": "<p>Transporta cualquier mercancía seca que no necesite temperatura controlada ni sobresalga: cajas, palés, sacos, ropa, electrónica, muebles, maquinaria pequeña o bebidas embotelladas. No es adecuado para perecederos, que van en reefer, ni para piezas más altas o anchas que la puerta, que necesitan open top o flat rack.</p><p>En tierra es la base de casi todos los proyectos: almacén, taller, caseta de obra, oficina o <a href=\"/\">casa con contenedores</a>. Su estructura cerrada lo hace el más <strong>rígido y estanco</strong> de todos.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Contenedor dry van nuevo, de un viaje o usado",
+    "html": "<p>Encontrarás cuatro estados: <strong>one trip</strong> (un solo viaje, prácticamente nuevo), cargo worthy (usado y aún apto para el mar), estanco al viento y al agua (ya no viaja, pero no tiene filtraciones) y tal cual (con daños). Para almacén basta con uno estanco; para vivienda o una oficina a la vista compensa uno de un viaje.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Hace falta licencia de obra para levantar una casa contenedor?",
-    "html": "<p>Sí: levantar una vivienda con contenedores marítimos exige <strong>licencia de obra mayor</strong> en la mayoría de ayuntamientos, igual que cualquier edificación nueva sujeta al Código Técnico de la Edificación y a la Ley de Ordenación de la Edificación. El trámite pasa por un proyecto técnico visado, la dirección facultativa de la obra y el control municipal habitual, y conviene revisarlo en el <a href=\"/permisos/\">apartado de permisos</a> antes de empezar.</p><p>Al terminar la obra hace falta además la <strong>cédula de habitabilidad</strong> o la licencia de primera ocupación, según marque la comunidad autónoma, para poder dar de alta los suministros.</p>"
+    "titulo": "¿Cómo compruebo la matrícula de un contenedor antes de comprarlo?",
+    "html": "<p>Pide una foto de la matrícula de las puertas y otra de la placa CSC, y comprueba que coinciden. La matrícula tiene cuatro letras (la última es una U), seis números y un dígito de control final, que se calcula a partir de los demás. Si no cuadra o el vendedor no quiere enseñarla, desconfía. Tienes más consejos en <a href=\"/comprar-contenedor-sin-estafas/\">comprar un contenedor sin estafas</a>.</p>"
    }
   ],
   "faq": {
@@ -43,19 +53,19 @@
    "items": [
     {
      "pregunta": "¿Por qué se llama dry van?",
-     "respuesta": "Es el nombre en inglés del contenedor cerrado y sin refrigeración: «dry» por la carga seca que transporta y «van» por su caja cerrada. En España conviven los dos nombres con «contenedor estándar», porque es el modelo de referencia sobre el que se definen el resto de tipos."
+     "respuesta": "Es una expresión inglesa que significa algo así como «furgón para carga seca». Indica que el contenedor está pensado para mercancía que <strong>no necesita frío</strong> ni ventilación especial. Por eso también se le llama contenedor estándar, de uso general o, en el código ISO, de tipo G."
     },
     {
      "pregunta": "¿Se puede aislar por dentro?",
-     "respuesta": "Sí, aunque el aislamiento resta algo de los 2,35 m de ancho interior útil. Lo habitual es un aislamiento continuo, sin dejar puentes térmicos en las cantoneras ni en los pilares de las esquinas, con una barrera de vapor que evite condensaciones entre la chapa y el acabado interior."
+     "respuesta": "Sí. Lo más habitual es un trasdosado con perfilería, aislamiento y placa, o espuma de poliuretano proyectada directamente sobre la chapa, que además corta la condensación. Ten en cuenta que el aislamiento interior <strong>resta ancho y altura</strong>; si te importa la altura libre, valora un high cube."
     },
     {
-     "pregunta": "¿Qué diferencia hay con el high cube?",
-     "respuesta": "La altura. El estándar mide 2,59 m de alto por fuera y el high cube sube hasta 2,90 m, con unos 2,69 m libres por dentro. Esos centímetros de más importan si vas a levantar falsos techos, pasar instalaciones o ganar sensación de espacio dentro de una vivienda o una oficina."
+     "pregunta": "¿Cogen humedad los objetos guardados dentro?",
+     "respuesta": "Pueden, por la condensación que se forma cuando la chapa se enfría de noche. Se evita manteniendo los <strong>respiraderos despejados</strong>, separando las cosas de las paredes, usando palés para que nada toque el suelo y, si hace falta, añadiendo ventilación extra o pintura anticondensación en el techo."
     },
     {
-     "pregunta": "¿Cogen humedad los muebles u objetos guardados dentro?",
-     "respuesta": "Puede pasar si se usa como trastero cerrado durante mucho tiempo: el metal suda por la diferencia de temperatura entre el día y la noche. Ayuda dejar una rejilla de ventilación, no apoyar las cajas directamente en el suelo y evitar sellarlo de forma completamente hermética."
+     "pregunta": "¿Se le puede abrir una puerta o una ventana lateral?",
+     "respuesta": "Sí, es una de las transformaciones más habituales. Hay que cortar la chapa y soldar un <strong>marco de refuerzo</strong> alrededor del hueco para devolver la rigidez que se pierde. Cuantos más huecos se abren en el mismo lateral, más importante es que el refuerzo lo calcule un técnico."
     }
    ]
   }

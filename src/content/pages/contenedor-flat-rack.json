@@ -19,28 +19,33 @@
   "secciones": [
    {
     "nivel": "h2",
-    "titulo": "Qué es un contenedor flat rack y cómo se carga",
-    "html": "<p>El <strong>contenedor flat rack</strong> es una plataforma reforzada, sin paredes laterales ni techo, con testeros en los extremos que en muchos modelos son abatibles y anillas de amarre en las esquinas y en los laterales de la base. Se usa para maquinaria, vehículos, tuberías, bobinas y piezas industriales que no caben por la puerta de un contenedor cerrado, y también como base o superficie de apoyo temporal en obra.</p><p>Está disponible en 20 y 40 pies, con la misma <strong>huella ISO 668</strong> que un dry van, 6,06 × 2,44 m y 12,19 × 2,44 m, pero sin la limitación de las puertas ni del techo: admite cargas más anchas o más altas que un contenedor cerrado de la misma longitud. En los modelos con testeros abatibles, puedes plegarlos para apilar varias unidades vacías y ahorrar espacio en el trayecto de vuelta.</p>"
+    "titulo": "Tipos de contenedor flat rack: testeros fijos, plegables y plataforma",
+    "html": "<p>Un <strong>contenedor flat rack</strong> es una base de contenedor reforzada, sin techo ni paredes laterales, con dos testeros (paredes de los extremos) o sin ellos. Se usa para cargas que no caben en un contenedor cerrado por ancho, por alto o por peso. Según los testeros hay tres variantes:</p><ul><li><strong>De testeros fijos</strong>: los extremos van soldados. Es el más rígido, pero vacío ocupa lo mismo que lleno.</li><li><strong>De testeros plegables</strong>: los extremos se abaten sobre la base. Es el más habitual hoy.</li><li><strong>Plataforma</strong>: solo la base, sin testeros, para piezas muy largas que ocupan varias posiciones.</li></ul><p>Se fabrica en 20 y 40 pies, y en 40 pies también en versión high cube, con testeros más altos.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "Trincaje, grúa y qué revisar en uno usado",
-    "html": "<p>La carga se amarra a las anillas de las esquinas y de los laterales con cadenas o cinchas: al no haber paredes que la contengan, un buen trincaje y un reparto correcto del peso son imprescindibles, y lo que sobresale por los lados o los extremos necesita autorización y señalización de <strong>transporte especial</strong>. La carga y la descarga se hacen con grúa, igual que en cualquier <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores marítimos</a>, aunque al no haber techo se puede izar directamente desde arriba.</p><p>Si compras uno de <a href=\"/contenedores-maritimos-segunda-mano/\">segunda mano</a>, revisa el suelo, que las anillas no estén deformadas ni con soldaduras agrietadas, que los testeros abatibles bloqueen bien y que conserve la <strong>placa CSC</strong> que certifica que sigue siendo apto para el transporte marítimo. Puedes comparar sus medidas con el resto de formatos en <a href=\"/medidas-contenedores-maritimos/\">medidas de contenedores marítimos</a>.</p>"
+    "titulo": "¿Para qué sirve que los testeros se plieguen?",
+    "html": "<p>Para devolver los flat rack vacíos ocupando mucho menos sitio. Con los testeros abatidos, varias unidades se apilan unas sobre otras y se aseguran como un solo paquete, que viaja en el hueco de un contenedor. Además, un flat rack plegado puede cargarse por los extremos con carretilla, porque ya no hay pared que estorbe.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Especificaciones técnicas del contenedor flat rack",
+    "html": "<p>En este modelo las cifras varían más que en otros según el fabricante, así que tómalas como referencia y comprueba siempre la placa CSC de la unidad concreta:</p><table><thead><tr><th>Dato</th><th>20' flat rack</th><th>40' flat rack</th></tr></thead><tbody><tr><td>Exterior (largo × ancho × alto con testeros)</td><td>6,058 × 2,438 × 2,591 m</td><td>12,192 × 2,438 × 2,591 m</td></tr><tr><td>Espacio útil entre testeros (aprox.)</td><td>5,6 × 2,2 × 2,2 m</td><td>11,6 × 2,2 × 1,95 m</td></tr><tr><td>Tara aproximada</td><td>2.500-2.900 kg</td><td>4.500-5.700 kg</td></tr><tr><td>Masa bruta máxima habitual</td><td>30.480-34.000 kg</td><td>40.000-45.000 kg</td></tr></tbody></table><p>La base lleva largueros de acero de gran sección y un <strong>suelo de madera dura</strong> grueso, porque soporta cargas muy concentradas. En los laterales tiene anillas de trinca de alta capacidad y alojamientos para estacas, que sirven para hacer de tope a tubos o troncos. Los testeros plegables llevan bloqueos que hay que comprobar antes de cada carga.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Usos del contenedor flat rack",
+    "html": "<p>Está pensado para la carga que no cabe en ningún otro contenedor:</p><ul><li>Maquinaria de obra y agrícola: excavadoras, tractores, cosechadoras.</li><li>Vehículos pesados, autobuses y embarcaciones.</li><li>Transformadores, generadores y piezas industriales.</li><li>Tubos, vigas, estructuras metálicas y madera larga.</li><li>Bobinas de acero y cable.</li></ul><p>Cuando la carga es alta pero no ancha, suele ser mejor el <a href=\"/contenedor-open-top/\">contenedor open top</a>, que protege la mercancía por los lados.</p>"
+   },
+   {
+    "nivel": "h2",
+    "titulo": "Trincaje y transporte de un contenedor flat rack",
+    "html": "<p>Lo que más se cuida es cómo se reparte el peso. Una pieza pesada apoyada en poca superficie es una <strong>carga concentrada</strong> y necesita vigas o tablones de reparto para no dañar el suelo. Después se trinca con cadenas o cinchas a las anillas, en varias direcciones, para que no se desplace al frenar o en las curvas. Si la carga sobresale, el contenedor viaja fuera de gálibo y en el barco va en posiciones especiales, normalmente arriba del todo.</p>"
    },
    {
     "nivel": "h3",
-    "titulo": "¿Es obligatoria la placa CSC en un contenedor flat rack?",
-    "html": "<p>Sí, la placa CSC es obligatoria para que un contenedor pueda circular en transporte marítimo internacional: certifica, según el <strong>Convenio Internacional sobre Contenedores</strong>, que la estructura ha superado las pruebas de resistencia y apilamiento exigidas. Sin ella, ni las navieras ni las terminales portuarias aceptan la unidad, y por eso conviene comprobar que la placa siga vigente y sea legible antes de comprar un contenedor usado.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Qué trámites exige transportar una carga que sobresale del contenedor flat rack?",
-    "html": "<p>Cuando la carga sobresale de los límites del propio contenedor, el traslado pasa a considerarse transporte especial y necesita autorización previa del organismo de tráfico competente, además de señalización, escolta u otras medidas según el exceso de anchura, altura o longitud. El transportista debe declarar las medidas y el peso reales de la <strong>carga sobredimensionada</strong> para que se calculen correctamente la ruta y los permisos, algo que también afecta a la elección de grúa y camión en la carga y descarga.</p>"
-   },
-   {
-    "nivel": "h3",
-    "titulo": "¿Por qué los testeros del contenedor flat rack son abatibles?",
-    "html": "<p>Los <strong>testeros abatibles</strong> permiten plegar los extremos del contenedor cuando viaja vacío, de forma que varias unidades se pueden encajar y apilar igual que un contenedor cerrado, ahorrando espacio en el trayecto de vuelta. Con carga, en cambio, los testeros deben quedar bloqueados en posición vertical, ya que son el único punto de apoyo longitudinal de la mercancía al no existir paredes laterales.</p>"
+    "titulo": "¿Cuándo necesita autorización especial el transporte por carretera?",
+    "html": "<p>Cuando el conjunto de camión y carga supera las dimensiones generales del Reglamento General de Vehículos: 2,55 m de ancho o 4 m de alto, entre otras. En ese caso es un transporte especial y necesita una autorización complementaria de circulación, además de la señalización y, si hace falta, vehículos de acompañamiento. Lo coordinamos en el <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores</a>.</p>"
    }
   ],
   "faq": {
@@ -48,23 +53,19 @@
    "items": [
     {
      "pregunta": "¿Transporta un coche o una máquina?",
-     "respuesta": "Sí. La plataforma reforzada y las anillas de amarre en las esquinas y los laterales están pensadas justo para eso: vehículos, maquinaria de obra, tuberías o piezas industriales que no entran por las puertas de un contenedor cerrado. La carga se sujeta con cadenas o cinchas directamente a las anillas, sin depender de paredes."
+     "respuesta": "Sí, es uno de sus usos principales. La máquina sube por rampa o con grúa, se calza y se trinca a las anillas de la base. Si sobresale por ancho o por alto, el porte pasa a ser <strong>transporte especial</strong>, así que conviene dar las medidas exactas de la pieza antes de pedir precio."
     },
     {
      "pregunta": "¿Sirve como plataforma de trabajo?",
-     "respuesta": "En obra se usa a veces como base o superficie de apoyo temporal, gracias a su suelo reforzado y a una estructura sin paredes que estorben. No sustituye a un andamio ni a una plataforma elevadora: su función es transportar carga, y cualquier otro uso en la obra debe cumplir la normativa de seguridad en los lugares de trabajo."
+     "respuesta": "Sí. Su base reforzada aguanta bien el peso y se usa como <strong>plataforma de obra</strong>, escenario o base para casetas. Conviene apoyarla sobre una superficie firme bajo las cantoneras y no cargarla de forma puntual en el centro sin reparto, porque no está pensada para eso."
     },
     {
      "pregunta": "¿Es apilable?",
-     "respuesta": "Vacío, sí, en los modelos con testeros abatibles: los plegas y encajas varias unidades una encima de otra, igual que un dry van vacío. Cargado no se apila: al no tener techo ni paredes que repartan el peso de la unidad de arriba, apilarlo con carga puede dañar tanto la mercancía como la estructura."
-    },
-    {
-     "pregunta": "¿En qué se diferencia de un contenedor open top?",
-     "respuesta": "El open top mantiene las cuatro paredes laterales y solo abre el techo con una lona, así que sigue conteniendo la carga por los lados. El flat rack no tiene paredes ni techo, solo la base y los testeros de los extremos: se usa cuando la carga es más ancha o más alta que el propio contenedor, no solo más alta."
+     "respuesta": "Vacío y plegado, sí: varias unidades se apilan y viajan como un paquete. Montado y con los testeros levantados también se pueden apilar otros contenedores encima, porque los <strong>testeros transmiten la carga</strong> a las cantoneras, siempre dentro del peso de apilamiento que indica su placa CSC."
     },
     {
      "pregunta": "¿Se alquila para un solo transporte?",
-     "respuesta": "Sí, es habitual alquilarlo para un traslado puntual de maquinaria o de una carga sobredimensionada, sin necesidad de comprarlo. Antes de cerrar el alquiler, indica las medidas y el peso reales de lo que vas a transportar, porque de eso dependen la grúa, el camión y los permisos de transporte especial que puedan hacer falta. Consulta las condiciones de alquiler de contenedores marítimos."
+     "respuesta": "Sí, es muy habitual: como es un contenedor especial y muchas veces se necesita para un único envío, se <strong>alquila por viaje</strong> en lugar de comprarlo. Puedes consultarlo en <a href=\"/alquiler-contenedores-maritimos/\">alquiler de contenedores marítimos</a> y te indicamos disponibilidad según la medida y el peso de la carga."
     }
    ]
   }
