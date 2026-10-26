@@ -1,5 +1,12 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import { readFileSync, existsSync } from 'node:fs';
+
+// fecha en que cambio de verdad cada pagina (scripts/fechas.mjs). Antes iba
+// la del despliegue en todas, y los robots dejan de fiarse de esa fecha.
+const fechas = existsSync('src/data/fechas.json')
+  ? JSON.parse(readFileSync('src/data/fechas.json', 'utf8'))
+  : {};
 
 export default defineConfig({
   site: 'https://casascontenedores.es',
@@ -9,7 +16,12 @@ export default defineConfig({
   // se redirige con un 301 real en public/_redirects
   integrations: [
     sitemap({
-      lastmod: new Date(),
+      // sin fecha conocida, sin lastmod: mejor ninguna que una falsa
+      serialize: (item) => {
+        const fecha = fechas[new URL(item.url).pathname]?.fecha;
+        if (fecha) item.lastmod = fecha;
+        return item;
+      },
       // las legales y el acuse del formulario no van al sitemap
       filter: (pagina) =>
         !['/aviso-legal/', '/politica-privacidad/', '/politica-de-cookies/',

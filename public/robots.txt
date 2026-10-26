@@ -1,4 +1,41 @@
+# Buscadores y robots de inteligencia artificial: entran todos.
+#
+# Los robots de IA van nombrados uno a uno para que quede escrita la decision
+# (analisis/ANALISIS-AEO.md). Hay dos clases:
+#  - los que buscan para responder y pueden citar la web con enlace
+#    (OAI-SearchBot, ChatGPT-User, Claude-User, Claude-SearchBot,
+#    PerplexityBot, Perplexity-User): tienen que entrar siempre;
+#  - los que leen para entrenar (GPTBot, ClaudeBot, Google-Extended,
+#    Applebot-Extended, CCBot...): entran tambien, para que las IA conozcan
+#    la marca.
+# Solo se cierra Bytespider (ByteDance/TikTok): gasta mucho y no trae visitas.
+
 User-agent: *
 Allow: /
+
+# --- buscan para responder (pueden citar con enlace)
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+Allow: /
+
+# --- leen para entrenar
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: Meta-ExternalAgent
+User-agent: Amazonbot
+Allow: /
+
+# --- cerrado
+User-agent: Bytespider
+Disallow: /
 
 Sitemap: https://casascontenedores.es/sitemap-index.xml

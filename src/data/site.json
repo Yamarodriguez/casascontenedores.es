@@ -20,6 +20,8 @@
  "verificaciones": {
   "google": ""
  },
+ "indexnow": "a9ad2ba7c3c53bc957e3b74c8aab16cd",
+ "perfiles": [],
  "formulario": {
   "accion": "https://api.web3forms.com/submit",
   "accessKey": "983a9dc2-d707-43e7-9727-bff2db26a86d",

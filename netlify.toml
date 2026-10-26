@@ -8,6 +8,11 @@
 [build.environment]
   NODE_VERSION = "22"
 
+# Despues de cada despliegue a produccion, avisa a Bing de las paginas que han
+# cambiado (IndexNow). Ver netlify/plugins/indexnow/index.js.
+[[plugins]]
+  package = "/netlify/plugins/indexnow"
+
 # ---------------------------------------------------------------- seguridad
 [[headers]]
   for = "/*"

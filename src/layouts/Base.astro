@@ -8,6 +8,7 @@ import Migas from '../components/Migas.astro';
 import WhatsApp from '../components/WhatsApp.astro';
 import { aWebp, existe } from '../utils/imagenes.js';
 import { fotoHero, srcsetHero, TAMANOS_HERO } from '../utils/hero.js';
+import { fechaDe } from '../utils/fechas.js';
 // El aspecto de la web. global.css pinta el chrome (cabecera, heroe, cierre,
 // pie) y diseno.css el contenido (lo que escribe render.js). Las 26 hojas de
 // Elementor ya NO se cargan: eran las que hacian que la web siguiera
@@ -34,18 +35,35 @@ const heroSrc = hero?.src && existe(hero.src) ? aWebp(hero.src) : '';
 const fotoHeroe = fotoHero(ruta, menu);
 const srcsetHeroe = srcsetHero(ruta, menu);
 
+// fecha en que cambio de verdad el contenido de la pagina (scripts/fechas.mjs)
+const fechaCambio = fechaDe(ruta);
+// la empresa lleva un @id para que la web y cada pagina apunten a la misma
+const ORG = site.dominio + '/#organizacion';
+
 const jsonld = [
   {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: site.nombre,
     url: site.dominio,
+    inLanguage: 'es-ES',
+    publisher: { '@id': ORG },
   },
   {
     '@context': 'https://schema.org',
     '@type': 'Organization',
+    '@id': ORG,
     name: site.nombre,
     url: site.dominio,
+    description: site.descripcion,
+    // el logo de la cabecera (Header.astro)
+    logo: site.dominio + '/wp-content/uploads/2021/08/casas-contenedores-.jpg',
+    // la localidad del titular, tal como sale en el aviso legal
+    address: { '@type': 'PostalAddress', addressLocality: 'Valencia', addressCountry: 'ES' },
+    areaServed: { '@type': 'Country', name: 'España' },
+    // perfiles de la empresa en otras webs (redes, Google Business): los da
+    // el propietario en site.json -> perfiles
+    ...(site.perfiles?.length ? { sameAs: site.perfiles } : {}),
     email: site.email,
     contactPoint: [{
       '@type': 'ContactPoint',
@@ -64,6 +82,8 @@ const jsonld = [
     url: canonical,
     inLanguage: 'es-ES',
     isPartOf: { '@type': 'WebSite', name: site.nombre, url: site.dominio },
+    publisher: { '@id': ORG },
+    ...(fechaCambio ? { dateModified: fechaCambio } : {}),
   },
 ];
 
@@ -95,6 +115,7 @@ if (faq.length) {
     <meta property="og:title" content={tituloSeo || titulo} />
     {descripcion && <meta property="og:description" content={descripcion} />}
     <meta property="og:url" content={canonical} />
+    {fechaCambio && <meta property="og:updated_time" content={fechaCambio} />}
     {heroSrc && <meta property="og:image" content={site.dominio + heroSrc} />}
     <meta name="twitter:card" content="summary_large_image" />
 
@@ -107,6 +128,8 @@ if (faq.length) {
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    {/* resumen de la web para los robots de IA (src/pages/llms.txt.js) */}
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="Resumen para IA" />
 
     {site.verificaciones.google && (
       <meta name="google-site-verification" content={site.verificaciones.google} />

@@ -16,7 +16,8 @@
     "imagenes": "node scripts/analizar-imagenes.mjs",
     "inventario": "node scripts/inventario.mjs",
     "capturar": "node scripts/capturar.mjs",
-    "todo": "node scripts/fuentes-locales.mjs && node scripts/css.mjs && node scripts/analizar-imagenes.mjs && astro build && node scripts/validar.mjs && node scripts/comparar-encabezados.mjs"
+    "fechas": "node scripts/fechas.mjs",
+    "todo": "node scripts/fuentes-locales.mjs && node scripts/css.mjs && node scripts/analizar-imagenes.mjs && astro build && node scripts/fechas.mjs && node scripts/validar.mjs && node scripts/comparar-encabezados.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
