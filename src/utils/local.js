@@ -93,7 +93,9 @@ export function anadirLocal(bloques, local) {
     const i = bloques.findIndex((s) => s?.t === 'seccion'
       && (s.columnas || []).some((c) => (c.elementos || []).some((e) => e.t === 'formulario')));
     bloques.splice(i + 1, 0, {
-      t: 'seccion', id: 'local-entrada', libre: true,
+      // marca propia (no "libre": esa activa los estilos de las paginas
+      // nuevas, que estrechan toda la pagina)
+      t: 'seccion', id: 'local-entrada', local: true,
       columnas: [{ ancho: 100, elementos: [nuevoTexto(local.entrada, null, ++n)] }],
     });
   }

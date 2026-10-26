@@ -807,6 +807,11 @@ a.modelo__enlace:hover .modelo__titulo::after { color: var(--verde); transform: 
   .entrada:has(.bloque--libre) :is(.bloque--libre, .bloque--ampliacion) .col,
   .entrada:has(.bloque--libre) .servicios-cont { max-width: 67.28%; margin-left: 0; margin-right: auto; }
 }
+/* El parrafo propio de la localidad bajo la entrada de las ciudades
+   (src/utils/local.js): sigue al texto de la entrada, con su mismo ancho. */
+@media (min-width: 861px) {
+  .bloque--local .col { max-width: 67.28%; margin-left: 0; margin-right: auto; }
+}
 .entrada:has(.bloque--libre) .b--texto + .b--encabezado h2.tit { margin-top: 22px; }
 .entrada:has(.bloque--libre) .b--texto + .b--encabezado h3.tit { margin-top: 8px; }
 .bloque--ampliacion .b--encabezado h2.tit { margin-top: 26px; }

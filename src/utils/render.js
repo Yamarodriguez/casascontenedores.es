@@ -510,10 +510,11 @@ function pintarSeccion(s, ctx, nivel, anchoPadre = 100) {
   // "ampliacion" del JSON): una columna de texto corrido, sin detectores.
   // Lo mismo para una seccion "libre" (la ficha de las paginas de modelo
   // nuevas): texto corrido en columna de lectura.
-  if (s.ampliacion || s.libre) {
+  // Y el parrafo propio de la localidad bajo la entrada (src/utils/local.js).
+  if (s.ampliacion || s.libre || s.local) {
     cols.forEach((c) => { c.sinPatrones = true; });
     const columnas = cols.map((c) => pintarColumna(c, ctx, nivel, 100)).join('');
-    return envolver(s, ctx, nivel, `<div class="fila" style="--n:1">${columnas}</div>`, [s.ampliacion ? 'bloque--ampliacion' : 'bloque--libre']);
+    return envolver(s, ctx, nivel, `<div class="fila" style="--n:1">${columnas}</div>`, [s.ampliacion ? 'bloque--ampliacion' : s.local ? 'bloque--local' : 'bloque--libre']);
   }
 
   // La foto de cabecera del original (la que ahora representa el heroe) no
