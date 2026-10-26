@@ -2945,5 +2945,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una casa contenedor es legal en España si se tramita como cualquier vivienda: los permisos que necesita son la <strong>licencia de obra mayor</strong>, un proyecto visado por un arquitecto y, al terminar, la cédula de habitabilidad o la licencia de primera ocupación.",
+  "datos": [
+   "No hay una ley específica para contenedores: se aplican la LOE y el Código Técnico.",
+   "En suelo urbano o urbanizable admite vivienda si el planeamiento municipal lo permite.",
+   "El suelo rústico protegido no suele permitir vivienda, salvo excepciones tasadas.",
+   "Un almacén, trastero o caseta suele tramitarse con declaración responsable u obra menor.",
+   "Sin licencia cabe expediente de restauración de la legalidad y demolición."
+  ],
+  "enlace": {
+   "texto": "qué permiso aplica según el uso",
+   "destino": "#mas-informacion"
+  }
  }
 }

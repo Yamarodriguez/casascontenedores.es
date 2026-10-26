@@ -411,6 +411,39 @@ iframe { max-width: 100%; border: 0; }
 .migas .sep { margin: 0 6px; color: #c0c8cd; }
 .migas [aria-current="page"] { color: var(--texto); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 70vw; }
 
+/* --------------------------------------------------- recuadro «En resumen»
+   Bajo el titulo de las paginas clave (src/components/Resumen.astro): la
+   respuesta directa y los datos de la pagina, con el filete verde de la
+   marca a la izquierda. */
+.resumen { padding: 18px 0 clamp(20px, 3vw, 34px); }
+.resumen__in {
+  width: min(100% - 2 * var(--margen), var(--caja)); margin-inline: auto;
+  background: var(--verde-claro);
+  border-left: 4px solid var(--verde);
+  border-radius: var(--radio);
+  padding: 18px 22px 16px;
+}
+.resumen__rotulo {
+  font-family: var(--mono); font-size: 12px; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--verde-osc); margin: 0 0 8px;
+}
+.resumen__respuesta {
+  font-family: var(--cuerpo); font-size: 17px; line-height: 1.55;
+  color: var(--ink); margin: 0; max-width: 72ch;
+}
+.resumen__datos {
+  margin: 12px 0 0; padding-left: 20px;
+  font-size: 15px; line-height: 1.5; color: var(--texto);
+  display: grid; gap: 4px; max-width: 72ch;
+}
+.resumen__datos li::marker { color: var(--verde); }
+.resumen__mas { margin: 10px 0 0; font-size: 14px; }
+.resumen__mas a { color: var(--verde-osc); font-weight: 600; }
+@media (max-width: 600px) {
+  .resumen__in { padding: 14px 16px 12px; }
+  .resumen__respuesta { font-size: 16px; }
+}
+
 /* ------------------------------------------------------------- formulario
    Mismos campos y mismo orden que el Contact Form 7 de la web original. */
 .formulario { font-family: var(--cuerpo); font-size: 15px; color: var(--texto); }

@@ -2806,5 +2806,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 649,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Los planos de una casa contenedor se dibujan sobre las medidas reales del módulo: unos 13,9 m² interiores en un contenedor de 20 pies y unos 28,3 m² en uno de 40 pies, con <strong>2,35 m de ancho útil</strong>.",
+  "datos": [
+   "La licencia exige un proyecto básico firmado y visado por un arquitecto.",
+   "Un plano de catálogo sirve para pedir presupuesto, no para tramitar la licencia.",
+   "El proyecto incluye distribución acotada, alzados, secciones, estructura e instalaciones.",
+   "Renders orientativos: de 60-80 € la unidad a 250-500 € el pack de seis.",
+   "En dos plantas, los contenedores superiores deben quedar alineados con los inferiores."
+  ],
+  "enlace": {
+   "texto": "medidas y distribuciones de ejemplo",
+   "destino": "#mas-informacion"
+  }
+ }
 }

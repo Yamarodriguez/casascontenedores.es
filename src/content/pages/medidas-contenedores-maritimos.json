@@ -1466,5 +1466,18 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3444,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Las <strong>medidas de los contenedores marítimos</strong> más habituales, según la norma ISO 668, son 6,06 × 2,44 × 2,59 m por fuera para el de 20 pies y 12,19 × 2,44 × 2,59 m para el de 40 pies.",
+  "datos": [
+   "Las versiones High Cube miden 2,90 m de alto por fuera, con el mismo largo y ancho.",
+   "El ancho interior útil es de unos 2,35 m en todos los modelos.",
+   "Superficie interior aproximada: 13,9 m² el de 20 pies y 28,3 m² el de 40 pies.",
+   "La tara real va marcada en el contenedor y el peso bruto máximo, en la placa CSC."
+  ],
+  "enlace": {
+   "texto": "tabla de medidas por modelo",
+   "destino": "#mas-informacion"
+  }
+ }
 }

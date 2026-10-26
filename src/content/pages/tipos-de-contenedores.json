@@ -1751,5 +1751,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3970,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Los tipos de contenedores marítimos más comunes son el dry van, el high cube, el open top, el open side, el flat rack y el refrigerado; el <strong>dry van estándar</strong> es el más habitual y para vivienda suele preferirse el high cube.",
+  "datos": [
+   "El dry van mide 2,59 m de alto exterior y el high cube 2,90 m.",
+   "La mayoría de casas contenedor parten de dry van o high cube de 20 y 40 pies.",
+   "El código ISO 6346 indica la longitud, la altura y la familia del contenedor.",
+   "Estados de venta: nuevo o one trip, cargo worthy y wind & watertight.",
+   "Una vivienda anclada al terreno necesita licencia de obra mayor."
+  ],
+  "enlace": {
+   "texto": "cómo identificar cada contenedor",
+   "destino": "#mas-informacion"
+  }
+ }
 }

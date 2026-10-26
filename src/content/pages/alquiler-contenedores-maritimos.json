@@ -1683,5 +1683,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3587,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "El <strong>alquiler de contenedores marítimos</strong> se fija en un contrato con duración, cuota periódica, entrega y recogida, fianza y responsabilidad por daños, y conviene para necesidades temporales como obra, almacén, mudanzas, eventos o campañas agrícolas.",
+  "datos": [
+   "Hay contenedores de 20 y 40 pies en alquiler, nuevos y usados.",
+   "La fianza se devuelve si el contenedor se entrega en el estado acordado.",
+   "Si el uso se prolonga o será vivienda u oficina fija, suele compensar comprar.",
+   "No suele exigir licencia de obra mayor, al ser un elemento desmontable.",
+   "Si ocupa vía pública, necesitas autorización del ayuntamiento antes de la entrega."
+  ],
+  "enlace": {
+   "texto": "cómo funciona el alquiler",
+   "destino": "#mas-informacion"
+  }
+ }
 }

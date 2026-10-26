@@ -273,5 +273,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa modular</strong> es una vivienda que se fabrica por módulos completos en una nave industrial y se traslada casi terminada a la parcela, donde solo queda unir los módulos, conectarlos a los suministros y rematar los acabados.",
+  "datos": [
+   "Sistemas habituales en España: contenedor marítimo, madera, acero ligero y hormigón.",
+   "Un contenedor de 20 pies aporta unos 13,9 m²; uno de 40 pies, unos 28,3 m².",
+   "Necesita el mismo proyecto técnico y licencia municipal que una vivienda de ladrillo.",
+   "Límite principal del contenedor: un ancho interior fijo de 2,35 m.",
+   "Precio orientativo: entre 600 y 900 euros el metro cuadrado en gama económica y media."
+  ],
+  "enlace": {
+   "texto": "catálogo completo por superficie",
+   "destino": "/modelos/"
+  }
  }
 }

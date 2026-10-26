@@ -2352,5 +2352,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Para elegir entre los modelos de casas contenedores decide cuántos contenedores necesitas, de qué tamaño y con qué forma: <strong>un contenedor resuelve un estudio</strong>, dos suman un dormitorio independiente y con tres o cuatro cabe una vivienda familiar.",
+  "datos": [
+   "Un módulo de 20 pies deja unos 13,9 m² interiores; uno de 40, unos 28,3 m².",
+   "El ancho interior útil es de 2,35 m en los dos tamaños.",
+   "Los módulos se combinan en línea, en L, en U o apilados en dos plantas.",
+   "Puedes personalizar fachada, cubierta, huecos, distribución, acabados e instalaciones.",
+   "Como vivienda auxiliar, lo habitual es un solo contenedor de 40 pies."
+  ],
+  "enlace": {
+   "texto": "cómo elegir tu modelo",
+   "destino": "#mas-informacion"
+  }
  }
 }

@@ -1,0 +1,31 @@
+---
+/**
+ * Recuadro «En resumen» bajo el título de las páginas clave (aprobado por el
+ * propietario, 26/10/2026). Contenido NUEVO del campo "resumen" del JSON:
+ *
+ *   resumen: { respuesta, datos: [..], enlace: { texto, destino } }
+ *
+ * La respuesta va primero porque es lo que copian los fragmentos destacados y
+ * los resúmenes de las IA. Todo sale de lo que la propia página ya dice. El
+ * rótulo no es un encabezado (h2/h3): los encabezados de la página no cambian.
+ */
+const { resumen } = Astro.props;
+const { respuesta = '', datos = [], enlace } = resumen || {};
+---
+
+{respuesta && (
+  <section class="resumen" aria-label="En resumen">
+    <div class="resumen__in">
+      <p class="resumen__rotulo">En resumen</p>
+      <p class="resumen__respuesta" set:html={respuesta} />
+      {datos.length > 0 && (
+        <ul class="resumen__datos">
+          {datos.map((d) => <li set:html={d} />)}
+        </ul>
+      )}
+      {enlace?.destino && (
+        <p class="resumen__mas"><a href={enlace.destino}>{enlace.texto}</a></p>
+      )}
+    </div>
+  </section>
+)}

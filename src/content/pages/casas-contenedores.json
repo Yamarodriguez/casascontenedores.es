@@ -2954,5 +2954,18 @@
   "b973642",
   "f155b67",
   "dc024e3"
- ]
+ ],
+ "resumen": {
+  "respuesta": "Una casa contenedor llave en mano es una vivienda hecha con contenedores de 20 y 40 pies, fabricada en taller y montada en tu parcela; en el mercado español cuesta <strong>entre 600 y 900 €/m²</strong> en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Hay modelos desde un estudio de 15 m² hasta viviendas familiares de 120 m².",
+   "Es obra mayor: necesita proyecto de arquitecto y licencia municipal, como una de ladrillo.",
+   "En suelo rústico o no urbanizable no se admite vivienda nueva, salvo excepciones autonómicas.",
+   "El terreno, el geotécnico, las acometidas y la licencia suelen quedar fuera del presupuesto."
+  ],
+  "enlace": {
+   "texto": "qué comprobar antes de encargarla",
+   "destino": "#mas-informacion"
+  }
+ }
 }

@@ -2860,5 +2860,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una casa container se construye paso a paso así: consulta urbanística previa, anteproyecto, <strong>proyecto visado y licencia</strong>, fabricación en taller, cimentación y acometidas, transporte con grúa, montaje en la parcela, final de obra y primera ocupación.",
+  "datos": [
+   "Tú aportas la nota simple o referencia catastral y tu programa de necesidades.",
+   "En taller se cortan y refuerzan los huecos y se montan aislamiento, instalaciones y acabados.",
+   "En la parcela quedan la cimentación, el anclaje, las acometidas y las uniones entre módulos.",
+   "La cimentación la decide el estudio geotécnico: cantoneras, losa continua o pilotes.",
+   "Antes de la grúa, revisa la anchura de acceso, el radio de giro y la pendiente."
+  ],
+  "enlace": {
+   "texto": "quién hace qué en cada fase",
+   "destino": "#mas-informacion"
+  }
  }
 }

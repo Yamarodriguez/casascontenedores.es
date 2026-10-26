@@ -1668,5 +1668,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un contenedor marítimo de 20 pies estándar cuesta 850-1.500 € usado y 1.950-2.450 € nuevo; uno de 40 pies estándar, 1.400-2.300 € usado y 2.400-3.200 € nuevo. Son <strong>precios orientativos del mercado</strong> español, sin IVA ni transporte (octubre de 2026).",
+  "datos": [
+   "40 pies high cube: 1.500-2.300 € usado y 2.600-4.200 € nuevo o one trip.",
+   "Refrigerado (reefer) usado: desde 6.900 € + IVA.",
+   "Transporte hasta unos 40 km: 240 € en tráiler o 340 € con camión grúa, más IVA.",
+   "Dentro de usado, el grado cargo worthy se acerca al precio alto del rango.",
+   "Para comparar, pide el precio puesto en destino, con transporte y descarga."
+  ],
+  "enlace": {
+   "texto": "tabla de precios del mercado español",
+   "destino": "#mas-informacion"
+  }
  }
 }

@@ -1676,5 +1676,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "El <strong>transporte de contenedores marítimos</strong> por carretera depende de la medida: el de 20 pies suele moverse en camión rígido con pluma propia, el de 40 pies en plataforma o portacontenedores y el High Cube, a menudo, en góndola rebajada.",
+  "datos": [
+   "Si la pluma no llega al punto de descarga, se recurre a una autogrúa.",
+   "Si se superan los límites de anchura, altura o longitud, hace falta autorización de transporte especial.",
+   "Revisa antes el acceso, la altura libre, la firmeza del suelo y la vía pública.",
+   "Hacia Baleares y Canarias el trayecto incluye un tramo marítimo con documentación de embarque.",
+   "Para presupuestar indica origen, destino, medida, carga, fecha, acceso y si hace falta grúa."
+  ],
+  "enlace": {
+   "texto": "cómo se transporta por carretera",
+   "destino": "#mas-informacion"
+  }
  }
 }

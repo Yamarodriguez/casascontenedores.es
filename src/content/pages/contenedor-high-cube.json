@@ -1724,5 +1724,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3698,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor high cube</strong> es un pie (unos 30 cm) más alto que el estándar: mide 2,896 m de altura exterior en lugar de 2,591 m, conserva el mismo largo y ancho y se fabrica en 20, 40 y 45 pies.",
+  "datos": [
+   "Altura interior de 2,698 m y hueco de puerta de 2,340 × 2,585 m.",
+   "El de 40 pies tiene 76,3 m³ interiores, unos 8,6 m³ más que el estándar.",
+   "El 40 pies high cube es el más común y el más usado en viviendas y oficinas.",
+   "Se reconoce por el código ISO 45G1, frente al 42G1 del 40 pies estándar.",
+   "En camión queda cerca del límite de 4 m y puede requerir plataforma rebajada."
+  ],
+  "enlace": {
+   "texto": "especificaciones técnicas del high cube",
+   "destino": "#mas-informacion"
+  }
+ }
 }

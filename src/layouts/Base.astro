@@ -5,6 +5,7 @@ import Footer from '../components/Footer.astro';
 import Cierre from '../components/Cierre.astro';
 import Hero from '../components/Hero.astro';
 import Migas from '../components/Migas.astro';
+import Resumen from '../components/Resumen.astro';
 import WhatsApp from '../components/WhatsApp.astro';
 import { aWebp, existe } from '../utils/imagenes.js';
 import { fotoHero, srcsetHero, TAMANOS_HERO } from '../utils/hero.js';
@@ -28,6 +29,7 @@ const {
   noindex = false,
   menu = '',
   localidad = '',
+  resumen = null,
 } = Astro.props;
 
 const canonical = site.dominio + ruta;
@@ -85,6 +87,8 @@ const jsonld = [
     isPartOf: { '@type': 'WebSite', name: site.nombre, url: site.dominio },
     publisher: { '@id': ORG },
     ...(fechaCambio ? { dateModified: fechaCambio } : {}),
+    // la respuesta del recuadro «En resumen», en texto plano
+    ...(resumen?.respuesta ? { abstract: resumen.respuesta.replace(/<[^>]+>/g, '') } : {}),
   },
 ];
 
@@ -178,6 +182,7 @@ if (faq.length) {
       <Migas ruta={ruta} titulo={h1 || titulo} />
 
       <main id="main" data-localidad={localidad || undefined}>
+        {resumen && <Resumen resumen={resumen} />}
         <div class="entrada">
           <slot />
         </div>

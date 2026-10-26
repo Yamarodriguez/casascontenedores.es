@@ -2671,5 +2671,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una casa contenedor de 40 pies mide 12,19 × 2,44 × 2,59 m por fuera y ofrece <strong>unos 28,3 m² interiores</strong> con 2,35 m de ancho útil: basta para una persona o una pareja con salón, cocina y dormitorio.",
+  "datos": [
+   "En el mercado, de 600 a 900 €/m² en la gama económica y media (octubre de 2026).",
+   "Para vivienda se suele elegir el High Cube: 2,90 m exteriores y unos 2,69 m libres.",
+   "Dos dormitorios caben en un solo módulo, aunque quedan estrechos.",
+   "Para una familia con hijos se suma un segundo contenedor en paralelo o apilado.",
+   "Su largo exige más radio de giro y, según el acceso, autogrúa para descargar."
+  ],
+  "enlace": {
+   "texto": "medidas y distribuciones del 40 pies",
+   "destino": "#mas-informacion"
+  }
  }
 }

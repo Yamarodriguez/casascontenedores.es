@@ -267,5 +267,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una casa contenedor en suelo rústico necesita licencia como cualquier edificación y solo cabe por las dos vías que admite en general la normativa autonómica: <strong>vivienda vinculada a explotación agraria</strong> en activo o actuación de interés público o social.",
+  "datos": [
+   "Fuera de esos supuestos, la vivienda aislada en rústico común suele estar descartada.",
+   "No llevar cimentación no cambia la naturaleza jurídica ni exime de licencia.",
+   "Sin licencia se abre un expediente de disciplina urbanística, con multas o demolición.",
+   "Antes de comprar la parcela, pide al ayuntamiento la cédula o el informe urbanístico.",
+   "Los plazos de prescripción y de legalización dependen de cada comunidad autónoma."
+  ],
+  "enlace": {
+   "texto": "qué permisos necesita una casa contenedor",
+   "destino": "/permisos/"
+  }
  }
 }

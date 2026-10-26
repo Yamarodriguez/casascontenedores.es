@@ -256,5 +256,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "La cimentación de una casa contenedor se resuelve con <strong>un apoyo bajo cada cantonera</strong>, porque el contenedor transmite su carga por sus esquineras inferiores, y el tipo de cimentación lo marca siempre el estudio geotécnico del terreno.",
+  "datos": [
+   "Zapatas aisladas bajo cada cantonera: la solución más frecuente en terrenos firmes y homogéneos.",
+   "Losa de hormigón cuando el terreno tiene poca capacidad portante.",
+   "Pilotes o tornillos helicoidales en terrenos malos, con pendiente o para una base reversible.",
+   "El estudio geotécnico es obligatorio siempre que la vivienda se considere bien inmueble.",
+   "El coste depende del terreno, la pendiente, el número de módulos y el acceso de la hormigonera."
+  ],
+  "enlace": {
+   "texto": "cómo se estudia la parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

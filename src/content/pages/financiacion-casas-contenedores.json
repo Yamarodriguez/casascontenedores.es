@@ -301,5 +301,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "La financiación de una casa contenedor funciona como la de cualquier vivienda: con proyecto visado y licencia se resuelve con <strong>hipoteca de autopromoción</strong>, hipoteca sobre la vivienda terminada, préstamo personal o, para empresas, renting o leasing de los módulos.",
+  "datos": [
+   "La hipoteca de autopromoción libera el dinero por fases, ligado a certificaciones de obra.",
+   "El banco pide proyecto visado, licencia de obra mayor, suelo edificable y tasación.",
+   "El préstamo personal encaja en módulos pequeños que no se inscriben como bien inmueble.",
+   "La cuota no incluye tasación, gestoría, notaría, registro, impuestos ni seguros vinculados.",
+   "Coste orientativo de una casa contenedor: entre 600 € y 900 € el metro cuadrado."
+  ],
+  "enlace": {
+   "texto": "precios orientativos de casas contenedor",
+   "destino": "/precios/"
+  }
  }
 }

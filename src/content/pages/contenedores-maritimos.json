@@ -1960,5 +1960,19 @@
   "244fe15",
   "aff5d68",
   "d23b5cc"
- ]
+ ],
+ "resumen": {
+  "respuesta": "Un contenedor marítimo usado cuesta entre 850 y 2.300 € y uno nuevo entre 1.950 y 4.200 €, <strong>sin IVA ni transporte</strong>, según referencias del mercado español de octubre de 2026; el precio depende de la medida, el tipo y el estado.",
+  "datos": [
+   "Un 20 pies mide 6,06 × 2,44 × 2,59 m por fuera y ofrece unos 13,9 m².",
+   "Un 40 pies mide 12,19 × 2,44 × 2,59 m y ronda los 28,3 m².",
+   "Vacío pesa unas 2,2 toneladas el de 20 pies y unas 3,7 el de 40.",
+   "Para vivienda suele preferirse el High Cube, con 2,90 m de alto exterior.",
+   "Alquilar encaja en usos con fecha de fin; comprar, si el uso se alarga."
+  ],
+  "enlace": {
+   "texto": "precios de contenedores marítimos por tipo",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

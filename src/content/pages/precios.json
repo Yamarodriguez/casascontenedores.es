@@ -2785,5 +2785,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "El precio de una casa contenedor llave en mano es, como referencia de mercado en octubre de 2026, de <strong>600 a 900 €/m²</strong> con IVA incluido en la gama económica y media; tu presupuesto final depende del proyecto, la parcela y las calidades.",
+  "datos": [
+   "Por tamaño: desde 17.500 € para 15 m² hasta 105.000-123.300 € para 120 m².",
+   "La gama media-alta se mueve entre 850 y 1.400 €/m².",
+   "El llave en mano suele incluir proyecto, licencia, cimentación en llano, instalaciones, transporte y montaje.",
+   "El terreno, el estudio geotécnico y las acometidas se presupuestan aparte.",
+   "El ICIO municipal supone un 3-4 % del presupuesto de ejecución."
+  ],
+  "enlace": {
+   "texto": "precios de mercado por tamaño",
+   "destino": "#mas-informacion"
+  }
  }
 }

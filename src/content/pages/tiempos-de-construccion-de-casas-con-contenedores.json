@@ -2197,5 +2197,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 800,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "El tiempo de construcción de una casa contenedor ronda, como estimación, <strong>los 4 a 7 meses</strong>; la fase más larga suele ser la licencia de obra, que marca el ayuntamiento y tarda lo mismo que en una vivienda tradicional.",
+  "datos": [
+   "Con la licencia concedida, la cimentación en parcela y la fabricación en taller avanzan en paralelo.",
+   "Los informes sectoriales y las acometidas con la red lejos son retrasos habituales.",
+   "Elegir un modelo de catálogo y cerrar pronto los acabados ayuda a acortar el plazo.",
+   "En la fase de taller el invierno apenas retrasa: los módulos se fabrican bajo cubierta.",
+   "No conviene habitarla antes de la primera ocupación o la cédula de habitabilidad."
+  ],
+  "enlace": {
+   "texto": "de qué depende cada fase",
+   "destino": "#mas-informacion"
+  }
+ }
 }

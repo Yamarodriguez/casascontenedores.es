@@ -252,5 +252,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Los inconvenientes de las casas contenedor son el ancho interior de unos 2,35 m, el <strong>puente térmico</strong>, la pérdida de rigidez al abrir huecos grandes, la corrosión si se descuida la pintura y el suelo de madera original; cada uno tiene una solución técnica conocida.",
+  "datos": [
+   "El ancho se amplía uniendo dos o más contenedores en paralelo.",
+   "Contra la condensación, aislamiento continuo conforme al DB-HE del CTE.",
+   "Cada hueco grande necesita un refuerzo estructural, normalmente un marco metálico soldado.",
+   "Necesita el mismo proyecto visado y licencia que una vivienda convencional.",
+   "El transporte con grúa exige comprobar antes el acceso a la parcela."
+  ],
+  "enlace": {
+   "texto": "preguntas frecuentes sobre los inconvenientes",
+   "destino": "#mas-informacion"
+  }
  }
 }

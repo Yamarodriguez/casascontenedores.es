@@ -1453,5 +1453,18 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3445,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un contenedor marítimo de segunda mano cuesta en el mercado español <strong>entre 850 y 2.300 €</strong>, sin IVA ni transporte (octubre de 2026), según tipo y modelo; su estado se clasifica en grados como one trip, cargo worthy, wind & watertight o as is.",
+  "datos": [
+   "Wind & watertight es el grado más habitual para almacén, obra o base de una construcción.",
+   "Revisa suelo, puertas y juntas, óxido estructural, olores, placa y año de fabricación.",
+   "Si la placa CSC caducó, ya no sirve para navegar, pero sí en tierra.",
+   "Como vivienda exige licencia de obra mayor y un proyecto técnico visado."
+  ],
+  "enlace": {
+   "texto": "qué revisar antes de comprarlo",
+   "destino": "#mas-informacion"
+  }
+ }
 }

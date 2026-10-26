@@ -1904,5 +1904,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3694,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor de 20 pies</strong> mide 6,058 × 2,438 × 2,591 m por fuera y cuesta en el mercado entre 1.950 y 2.450 € nuevo o entre 850 y 1.500 € usado, sin IVA ni transporte (octubre de 2026).",
+  "datos": [
+   "Interior de 5,898 × 2,352 × 2,393 m, con 33,2 m³ de volumen.",
+   "Tara aproximada de 2.200 a 2.350 kg en el modelo estándar.",
+   "En una sola altura caben unos 11 europalés o entre 9 y 10 palés americanos.",
+   "Sus 13,9 m² interiores dan para almacén de herramientas, mudanza o pequeño taller.",
+   "Para base de una casa compensa un one trip; para trastero suele bastar un WWT."
+  ],
+  "enlace": {
+   "texto": "especificaciones técnicas del 20 pies",
+   "destino": "#mas-informacion"
+  }
+ }
 }

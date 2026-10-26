@@ -2697,5 +2697,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una casa contenedor de 20 pies mide 6,06 x 2,44 x 2,59 m por fuera y ofrece <strong>unos 13,9 m² interiores</strong> con 2,35 m de ancho útil, así que funciona mejor como estudio, alojamiento para invitados u oficina de jardín.",
+  "datos": [
+   "En el mercado, de 600 a 900 €/m² en la gama económica y media (octubre de 2026).",
+   "La versión High Cube llega a 2,90 m exteriores y unos 2,69 m libres.",
+   "Como vivienda fija necesita licencia de obra mayor y proyecto técnico visado.",
+   "Dos módulos apilados dan una casa de dos plantas de unos 13,9 m² cada una.",
+   "Se transporta en camión rígido con pluma, sin permisos de carga ancha."
+  ],
+  "enlace": {
+   "texto": "medidas reales y usos del 20 pies",
+   "destino": "#mas-informacion"
+  }
  }
 }

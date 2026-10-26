@@ -1457,5 +1457,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 3443,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "En la <strong>venta de contenedores marítimos</strong> eliges entre nuevos y usados: como referencia de mercado, uno usado cuesta entre 850 y 2.300 € y uno nuevo entre 1.950 y 4.200 €, sin IVA ni transporte (octubre de 2026).",
+  "datos": [
+   "Grados de estado: nuevo, one trip, cargo worthy y wind & watertight.",
+   "Wind & watertight es el grado habitual para caseta, trastero o módulo fijo.",
+   "El presupuesto incluye el transporte hasta tu dirección.",
+   "Se vende tanto a particulares como a empresas, sin necesidad de ser autónomo.",
+   "También hay entregas en Baleares y Canarias, con un tramo marítimo añadido."
+  ],
+  "enlace": {
+   "texto": "qué estado elegir según el uso",
+   "destino": "#mas-informacion"
+  }
+ }
 }
