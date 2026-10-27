@@ -26,6 +26,7 @@ import { anadirModelos, anadirFaq, tieneFaq, esCiudad } from '../utils/comunes.j
 import { aplicarRenombres } from '../utils/renombres.js';
 import { nombrarCiudad } from '../utils/ciudad.js';
 import { anadirLocal } from '../utils/local.js';
+import { completarDirectorio } from '../utils/directorio.js';
 import { ordenarTipos } from '../utils/tipos.js';
 import { anadirIntro, subirAlIntro } from '../utils/intro.js';
 import { esMaritimos } from '../utils/hero.js';
@@ -112,7 +113,9 @@ if (!conServicios && !pagina.noindex && hayArbolOriginal(pagina)) {
 }
 // Las páginas de ciudad NO llevan el bloque "Casas contenedores en otras zonas
 // de X" (anadirZonas, en comunes.js): el propietario lo quitó el 23/10/2026.
-// El directorio de localidades vive solo en la portada.
+// El directorio de localidades vive solo en la portada (y el de marítimos en
+// /contenedores-maritimos/): las ciudades nuevas se le añaden al final.
+completarDirectorio(bloques, pagina.ruta);
 anadirFaq(bloques, conAcordeon ? ampliacion?.faq || [] : [], { conPortada: ciudad });
 const faq = [...(pagina.faq || []), ...(ampliacion?.faq || [])].map((i) => ({ ...i }));
 // las secciones que la pagina pide llevar al final (campo "alFinal": sus id,
