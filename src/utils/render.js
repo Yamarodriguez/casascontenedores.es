@@ -504,7 +504,12 @@ function pintarSeccion(s, ctx, nivel, anchoPadre = 100) {
   // original) no se pintan: el hueco lo pone la rejilla. Una columna con foto
   // de fondo si cuenta aunque no tenga nada dentro: la foto es contenido.
   const cols = (s.columnas || []).filter((c) => conPeso(c).length > 0 || c.fondo?.imagen);
-  if (!cols.length) return '';
+  if (!cols.length) {
+    // Una seccion de solo separador + ancla no pinta nada, pero el ancla es el
+    // destino de un boton: sin ella el enlace #... no lleva a ningun sitio.
+    return (s.columnas || []).flatMap((c) => c.elementos || [])
+      .filter((e) => e.t === 'ancla').map((e) => pintarElemento(e, ctx, nivel, anchoPadre)).join('');
+  }
 
   // La ampliacion SEO (contenido nuevo al final de la pagina, campo
   // "ampliacion" del JSON): una columna de texto corrido, sin detectores.
