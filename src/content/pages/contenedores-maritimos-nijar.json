@@ -1811,5 +1811,19 @@
     "html": "<p>En Níjar el extra más útil es el <a href=\"/aislamiento-contenedores/\">aislamiento</a> con buena ventilación, porque el sol de casi todo el año convierte la chapa en un horno. Para vestuarios añade aseo y luz. En fincas aisladas compensan las rejas, las cerraduras reforzadas y una instalación solar, y en la costa, una pintura anticorrosión.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Níjar</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el Puerto de Almería por la A-7 y te lo damos puesto en destino.",
+  "datos": [
+   "Sobre todo trabaja en el campo: almacén de abonos, cajas y herramientas y vestuario en los invernaderos.",
+   "Entre invernaderos o en pistas de tierra de la costa, la descarga con grúa encarece el servicio.",
+   "En el interior seco la chapa usada aguanta bien; cerca de San José o Las Negras, vigila el óxido.",
+   "El 20 pies entra por accesos estrechos; el 40 pies da el doble de espacio por viaje, pero pide buen acceso.",
+   "Para una campaña agrícola con fecha de fin, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

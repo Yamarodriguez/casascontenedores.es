@@ -94,7 +94,10 @@ if (perdidos.length) console.warn(`[local] ${pagina.ruta}: h2 no encontrados: ${
 //    pasos, ciudades...) enseña los mismos modelos que la portada: se le
 //    añaden los de superficie que le falten. Las de localidad sin rejilla
 //    (las de contenedores marítimos) la reciben entera. Solo se AÑADE.
-anadirModelos(bloques, modelosM2, { completa: ciudad });
+// (las de contenedores maritimos, no: una rejilla de 15 casas les quitaba la
+// intencion de venta y alquiler; auditoria del 28-10-2026)
+const maritimo = esMaritimos(pagina.ruta, pagina.menu);
+anadirModelos(bloques, modelosM2, { completa: ciudad && !maritimo });
 
 // 3. la ampliación SEO (campo "ampliacion" del JSON: h2/h3 y FAQ nuevos) va
 //    al FINAL del árbol; el contenido original no se toca. Sus preguntas no
@@ -116,7 +119,7 @@ if (!conServicios && !pagina.noindex && hayArbolOriginal(pagina)) {
 // El directorio de localidades vive solo en la portada (y el de marítimos en
 // /contenedores-maritimos/): las ciudades nuevas se le añaden al final.
 completarDirectorio(bloques, pagina.ruta);
-anadirFaq(bloques, conAcordeon ? ampliacion?.faq || [] : [], { conPortada: ciudad });
+anadirFaq(bloques, conAcordeon ? ampliacion?.faq || [] : [], { conPortada: ciudad, maritimo, localidad });
 const faq = [...(pagina.faq || []), ...(ampliacion?.faq || [])].map((i) => ({ ...i }));
 // las secciones que la pagina pide llevar al final (campo "alFinal": sus id,
 // en orden), por detras de la ampliacion: en la portada, los servicios y la

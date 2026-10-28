@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todos los barrios de Bilbao y el precio se da puesto en destino. Los módulos entran por la A-8, que cruza el Gran Bilbao, o por la AP-68 desde el sur, y el corredor del Txorierri sirve para los barrios altos del norte. El Puerto de Bilbao, uno de los grandes puertos de contenedores del Cantábrico, y el Aeropuerto de Bilbao, en Loiu, quedan a pocos kilómetros.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Bilbao</strong> se tramita como cualquier vivienda, con licencia del Ayuntamiento de Bilbao y la Ley 2/2006 de Suelo y Urbanismo del País Vasco, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja en solares urbanos pequeños, en parcelas de ladera de los barrios altos o como estudio junto a una vivienda.",
+   "Lo que más mueve el precio es la descarga: calles empinadas y poco sitio para la grúa.",
+   "Bilbao está en la zona climática C1 del CTE: aislamiento continuo y barrera de vapor contra la humedad.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga.",
+   "Los módulos llegan por la A-8 o la AP-68, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo el término de Níjar, del pueblo al Campo y a la costa del parque, y el precio se da puesto en destino. Los módulos llegan por la A-7, la Autovía del Mediterráneo, que cruza el término de oeste a este, y desde ella salen las carreteras hacia San Isidro, Campohermoso, San José y Agua Amarga. El Puerto de Almería y el Aeropuerto de Almería son las referencias logísticas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Níjar</strong> necesita licencia del Ayuntamiento de Níjar conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La costa del Parque Natural Cabo de Gata-Níjar tiene un plan propio que limita mucho las construcciones nuevas.",
+   "En el Campo de Níjar el suelo agrícola tampoco admite viviendas con facilidad: lo realista es buscar suelo urbano.",
+   "Cerca del mar, la brisa salina pide imprimación y pintura marina; en el interior, frenar el calor.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga.",
+   "Los módulos llegan por la A-7, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

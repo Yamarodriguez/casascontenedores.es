@@ -1811,5 +1811,19 @@
     "html": "<p>Con la lluvia de Bilbao, el extra más útil es la ventilación, para evitar la condensación que estropea lo que se guarda dentro, seguida de un <a href=\"/aislamiento-contenedores/\">aislamiento</a> si va a ser oficina. Para obras y solares sin vigilancia compensan las cerraduras reforzadas y las rejas, y una pintura con los colores corporativos si va a estar a la vista.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Bilbao</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); te lo damos puesto en destino, y en Bilbao pesa más la descarga que el trayecto.",
+  "datos": [
+   "El Puerto de Bilbao, en el Abra, está al lado: el recorrido hasta la villa es corto.",
+   "En solares entre edificios o calles empinadas hace falta grúa con más alcance y, a veces, permiso municipal.",
+   "Para almacén o caseta de obra suele bastar uno de segunda mano; con la humedad, revisa techo, juntas y suelo.",
+   "El 20 pies entra por accesos estrechos; el 40 pies da el doble de espacio por viaje, pero pide buen acceso.",
+   "Para una obra de rehabilitación con fecha de fin, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

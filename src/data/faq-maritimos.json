@@ -1,0 +1,37 @@
+{
+ "_nota": "Preguntas frecuentes de las paginas de contenedores maritimos de ciudad: sustituyen a las de la portada, que son de casas (auditoria del 28-10-2026). {L} es la localidad. Las cifras son las de /contenedores-maritimos/ y /medidas-contenedores-maritimos/ (mercado, octubre de 2026). Lo aplica anadirFaq (src/utils/comunes.js).",
+ "preguntas": [
+  {
+   "pregunta": "¿Cuánto cuesta un contenedor marítimo en {L}?",
+   "respuesta": "<p>Como referencia del mercado español (octubre de 2026), un contenedor usado cuesta entre 850 y 2.300 € y uno nuevo entre 1.950 y 4.200 €, <strong>sin IVA ni transporte</strong>. En {L} te damos el precio puesto en destino: suma el trayecto hasta tu parcela y el tipo de descarga. Tienes el detalle por tipo en <a href=\"/precios-contenedores-maritimos/\">precios de contenedores marítimos</a>.</p>"
+  },
+  {
+   "pregunta": "¿Qué medida me conviene, 20 o 40 pies?",
+   "respuesta": "<p>Un 20 pies mide 6,06 × 2,44 × 2,59 m por fuera y ofrece unos 13,9 m²; un 40 pies mide 12,19 × 2,44 × 2,59 m y ronda los 28,3 m². El 20 pies entra por caminos estrechos y se descarga con camión pluma; el 40 pies da el doble de espacio por cada viaje, pero necesita buen acceso. Si vas a estar dentro, el High Cube suma unos 30 cm de altura. Todas las cotas, en <a href=\"/medidas-contenedores-maritimos/\">medidas de los contenedores</a>.</p>"
+  },
+  {
+   "pregunta": "¿Nuevo o de segunda mano?",
+   "respuesta": "<p>Para almacén, caseta de obra o trastero suele bastar uno de <a href=\"/contenedores-maritimos-segunda-mano/\">segunda mano</a>: es estanco y cuesta menos. Si va a ser la base de una vivienda, una oficina o un local, compensa uno nuevo (de un solo viaje), con la chapa y el suelo sin desgaste. Antes de comprar uno usado, mira las puertas, las juntas, el suelo y que no entre luz por ningún punto.</p>"
+  },
+  {
+   "pregunta": "¿Cómo llega el contenedor a mi parcela en {L}?",
+   "respuesta": "<p>El de 20 pies suele viajar en camión con pluma propia, que lo deja en el suelo sin más medios; el de 40 pies va en plataforma y a menudo necesita autogrúa. Lo que decide el coste y la maniobra es el último tramo: ancho del camino, curvas, cables, pendiente y sitio para estabilizar la grúa. Cuéntanos cómo es el acceso y te lo confirmamos antes. Más detalle en <a href=\"/transporte-contenedores-maritimos/\">transporte de contenedores</a>.</p>"
+  },
+  {
+   "pregunta": "¿Necesito permiso para poner un contenedor en {L}?",
+   "respuesta": "<p>Depende del uso y del suelo, y lo decide el Ayuntamiento de {L}. Un contenedor como almacén desmontable suele tramitarse con una comunicación previa o una licencia menor; si va a ser vivienda, es obra mayor con proyecto. Si se descarga u ocupa la vía pública, hace falta autorización municipal. Pregunta en urbanismo antes de la entrega; te contamos lo esencial en <a href=\"/permisos/\">permisos</a>.</p>"
+  },
+  {
+   "pregunta": "¿Puedo alquilarlo en lugar de comprarlo?",
+   "respuesta": "<p>Sí. El <a href=\"/alquiler-contenedores-maritimos/\">alquiler</a> encaja cuando el uso tiene fecha de fin: una obra, una mudanza, una campaña agrícola o un evento. Se firma un contrato con duración, cuota, entrega y recogida y una fianza que se devuelve si el contenedor vuelve en buen estado. Si el uso se alarga más de lo previsto, suele salir mejor comprarlo.</p>"
+  },
+  {
+   "pregunta": "¿Cómo preparo el terreno?",
+   "respuesta": "<p>Basta con una superficie firme y nivelada, sin barro ni blandones, y apoyos bajo las cuatro esquinas: bloques de hormigón, traviesas o pequeñas zapatas. Así el contenedor no toca el suelo, ventila por debajo y las puertas cierran bien. Deja salida al agua de lluvia y espacio delante de las puertas para abrirlas del todo.</p>"
+  },
+  {
+   "pregunta": "¿Se puede adaptar con ventanas, aislamiento o luz?",
+   "respuesta": "<p>Sí. Se le pueden abrir puertas y ventanas, poner <a href=\"/aislamiento-contenedores/\">aislamiento</a> y ventilación para que no se caliente al sol, <a href=\"/electricidad-contenedores/\">instalación eléctrica</a> o placas solares, pintura anticorrosión y cierres reforzados. Así un contenedor sirve como oficina, taller, vestuario o local, además de almacén.</p>"
+  }
+ ]
+}

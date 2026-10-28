@@ -18,6 +18,7 @@
  */
 import portada from '../content/pages/casas-contenedores.json';
 import zonasGeneradas from '../data/zonas.json';
+import faqMaritimos from '../data/faq-maritimos.json';
 import { fichas } from './paginas.js';
 import { esMaritimos } from './hero.js';
 
@@ -51,6 +52,7 @@ const REJILLA = iModelos >= 0 && i3D > iModelos ? portada.bloques.slice(iModelos
 
 /** El bloque de preguntas frecuentes de la portada. */
 const FAQ = iFaq >= 0 ? portada.bloques[iFaq] : null;
+const FAQ_MARITIMOS = faqMaritimos.preguntas || [];
 
 /** Rotulos de superficie de la portada ("Contenedores casas 30 m2"...), con
  *  su texto original, para reutilizarlos en las paginas que los pierdan. */
@@ -215,7 +217,7 @@ export function anadirModelos(bloques, modelosM2 = {}, { completa = false } = {}
  * Devuelve true si la pagina se queda con un acordeon propio (es decir, si la
  * ampliacion NO debe pintar su propia seccion de preguntas).
  */
-export function anadirFaq(bloques, nuevas = [], { conPortada = false } = {}) {
+export function anadirFaq(bloques, nuevas = [], { conPortada = false, maritimo = false, localidad = '' } = {}) {
   const enHtml = (items) => items.map(({ pregunta, respuesta }) =>
     `<div class="faq-item"><h3 class="faq-question">${String(pregunta).trim()}</h3>` +
     `<div class="faq-answer">${/^\s*</.test(respuesta) ? respuesta : `<p>${String(respuesta).trim()}</p>`}</div></div>`).join('');
@@ -241,10 +243,16 @@ export function anadirFaq(bloques, nuevas = [], { conPortada = false } = {}) {
   if (!conPortada || !FAQ) return false;
 
   const seccion = clonar(FAQ);
-  if (nuevas.length) {
-    const texto = [...elementos([seccion])].find((e) => e.t === 'texto' && /class="faq-item"/i.test(e.html || ''));
-    if (texto) texto.html = enHtml(nuevas) + texto.html;
+  const texto = [...elementos([seccion])].find((e) => e.t === 'texto' && /class="faq-item"/i.test(e.html || ''));
+  // las de contenedores maritimos llevan sus propias preguntas en vez de las
+  // de la portada, que son de casas (src/data/faq-maritimos.json)
+  if (texto && maritimo && localidad) {
+    texto.html = enHtml(FAQ_MARITIMOS.map(({ pregunta, respuesta }) => ({
+      pregunta: pregunta.replaceAll('{L}', localidad),
+      respuesta: respuesta.replaceAll('{L}', localidad),
+    })));
   }
+  if (texto && nuevas.length) texto.html = enHtml(nuevas) + texto.html;
   bloques.push(seccion);
   return true;
 }
