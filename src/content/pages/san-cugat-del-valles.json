@@ -2728,5 +2728,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 10011,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en San Cugat del Vallés</strong> necesita licencia de obra mayor del Ayuntamiento y un proyecto de arquitecto conforme a la ley del suelo de Catalunya, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo edificable es el urbano residencial del casco y las urbanizaciones, además del parque empresarial de Can Sant Joan.",
+   "La Serra de Collserola es Parc Natural y su suelo protegido no admite viviendas nuevas.",
+   "Muchas parcelas están cerca de torrentes de la sierra: el estudio geotécnico es clave antes de cimentar.",
+   "La cédula de habitabilidad la expide la Generalitat al terminar la obra.",
+   "Comprueba el distintivo ambiental del camión: el municipio tiene Zona de Bajas Emisiones desde 2021."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

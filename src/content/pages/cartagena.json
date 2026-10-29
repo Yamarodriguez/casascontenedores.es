@@ -2573,5 +2573,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1443,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Cartagena</strong> necesita licencia de obra mayor del Ayuntamiento de Cartagena conforme a la Ley 13/2015 LOTURM de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El Campo de Cartagena es casi todo suelo rústico: allí cabe la vivienda vinculada a una explotación agrícola.",
+   "Cerca del Mar Menor rigen la Ley 3/2020 y la Ley 19/2022; revisa esas protecciones antes de comprar.",
+   "Las ramblas descargan con fuerza en episodios de DANA: eleva la solera fuera de los cauces.",
+   "En zona climática B3 y junto al mar, pide anticorrosión reforzada y una buena protección solar.",
+   "Al terminar se presenta una declaración responsable de primera ocupación; no hay cédula de habitabilidad autonómica."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9964,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Logroño</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el puerto de Bilbao es la referencia marítima y el transporte con grúa se cierra según el destino final.",
+  "datos": [
+   "En las bodegas del vino de Rioja se usa como almacén o caseta en la parcela de viñedo.",
+   "En los polígonos de La Portalada, Cantabria y El Sequero sirve de módulo de obra o almacén industrial.",
+   "Por el cierzo conviene fijar bien los apoyos en las cantoneras y revisar los cierres a menudo.",
+   "En el Casco Antiguo, junto a la Concatedral de la Redonda, las exigencias de licencia son mayores.",
+   "Para la vendimia o una obra puntual, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

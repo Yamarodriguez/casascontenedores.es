@@ -1811,5 +1811,19 @@
     "html": "<p>En Valdemoro, para un taller o despacho en la parcela, los extras más útiles son el aislamiento, que suaviza el calor del verano y el frío del invierno, la ventilación y la instalación eléctrica. Para almacenes en polígono, cerraduras de seguridad e iluminación. En fincas sin luz, una placa solar sencilla.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Valdemoro</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-4 y la R-4 desde el puerto seco de Coslada; se pide como almacén en naves y caseta de obra.",
+  "datos": [
+   "Los polígonos logísticos, con naves grandes y viales anchos, admiten un 40 pies o un High Cube.",
+   "En calles de adosados con aparcamiento a ambos lados, el 20 pies es más manejable.",
+   "Descargar en una calle residencial puede exigir permiso de ocupación de vía pública: avísanos al pedir precio.",
+   "El clima seco de la meseta trata bien la chapa, aunque el sol del verano reseca las juntas.",
+   "Alquilar encaja si el uso tiene fecha de fin, como una obra, un pico de stock o una mudanza."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

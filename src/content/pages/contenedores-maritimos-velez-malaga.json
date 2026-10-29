@@ -1811,5 +1811,19 @@
     "html": "<p>En Vélez-Málaga conviene añadir ventilación y <a href=\"/aislamiento-contenedores/\">aislamiento</a> si se guarda fruta, abonos o material sensible al calor. Cerca del mar, la pintura anticorrosión es obligada. En fincas aisladas de la Axarquía compensan las rejas, las cerraduras reforzadas y una pequeña instalación solar para la luz y para una bomba de riego.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Vélez-Málaga</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el trayecto desde el puerto de Málaga por la A-7 es corto, y aquí pesa más subirlo a una finca de la Axarquía que el viaje.",
+  "datos": [
+   "Las fincas de aguacates y mangos lo usan como almacén y caseta de riego.",
+   "Los pescadores del puerto de Caleta de Vélez lo emplean como cuarto para aparejos.",
+   "En la vega y los polígonos entra un 40 pies; en las lomas con curvas cerradas, casi siempre solo el 20 pies.",
+   "Cerca de la playa de Torre del Mar o de Caleta, revisa a fondo el óxido de bajos, esquinas y bisagras.",
+   "Alquilar encaja si el uso tiene fecha de fin, como la campaña del aguacate o una obra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

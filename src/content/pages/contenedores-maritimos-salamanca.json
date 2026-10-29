@@ -1833,5 +1833,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5594,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Salamanca</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por el puerto seco de ZALDESA, en el Corredor Atlántico, y por la A-62 o la A-66, con el trayecto cerrado en la oferta.",
+  "datos": [
+   "En las explotaciones ganaderas del Campo Charro se usa como almacén de pienso, aperos y maquinaria.",
+   "En ZALDESA y los polígonos del cinturón industrial sirve de oficina de obra o de módulo logístico.",
+   "En la vega del Tormes conviene comprobar el nivel freático y el riesgo de avenida antes de apoyarlo.",
+   "En la Ciudad Vieja se descarga en un punto cercano y el 40 pies se traslada con maquinaria más pequeña.",
+   "La Zona de Bajas Emisiones de la capital se aplica de forma progresiva: revisa el distintivo del camión."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

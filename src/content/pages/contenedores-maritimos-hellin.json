@@ -1811,5 +1811,19 @@
     "html": "<p>Con el sol de Hellín, el <a href=\"/aislamiento-contenedores/\">aislamiento</a> del techo y unas rejillas de ventilación marcan la diferencia si dentro se guarda fruta o se trabaja. Un color claro ayuda a reflejar el calor. En fincas aisladas, conviene montar rejas y un cierre de seguridad, y un pequeño panel solar permite tener luz donde no llega la red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Hellín</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); suele venir del puerto de Cartagena por la A-30, y lo que más hay que estudiar es el tramo final por pistas y ramblas.",
+  "datos": [
+   "Las explotaciones de frutales, almendro y cereal lo usan como almacén de aperos, y los cazadores como caseta en la sierra.",
+   "Para pedanías de calles estrechas o fincas de sierra con cuestas, el 20 pies es más seguro.",
+   "El sol degrada la pintura del techo y reseca las gomas de las puertas: revisa esas zonas.",
+   "Para la recogida de la fruta o del almendro y para la Tamborada, el alquiler encaja mejor.",
+   "Un color claro refleja el calor, y las rejillas de ventilación ayudan si guardas fruta."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

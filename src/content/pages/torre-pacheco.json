@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio a todo Torre-Pacheco y sus pedanías con precio <strong>puesto en destino</strong>. La AP-7 y las autovías que cruzan el Campo de Cartagena conectan el término con Murcia y Cartagena. El puerto de referencia es Cartagena y el aeropuerto más cercano es el Internacional de la Región de Murcia, a poca distancia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Torre-Pacheco</strong> necesita licencia del Ayuntamiento de Torre-Pacheco según su plan general y la Ley 13/2015 de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En suelo no urbanizable la vivienda nueva está muy limitada, y la cuenca del Mar Menor añade normas ambientales.",
+   "En las urbanizaciones con golf encaja una vivienda de dos o tres módulos, según las normas de cada complejo.",
+   "Algunos suelos arcillosos de la llanura piden una cimentación más cuidada.",
+   "Zona climática B3, de inviernos templados: el aislamiento se centra en el confort de verano.",
+   "El montaje rápido permite instalar la casa sin interferir con las campañas de cultivo."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

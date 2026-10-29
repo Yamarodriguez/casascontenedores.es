@@ -2557,5 +2557,19 @@
     "html": "<p>Damos servicio en Andújar: en la ciudad, en la vega y en las fincas de Sierra Morena. Los módulos llegan por la autovía A-4, que recorre el sur del término; como referencias aéreas están el Aeropuerto de Córdoba y el Aeropuerto Federico García Lorca Granada-Jaén. El presupuesto se da siempre <strong>puesto en destino</strong>, según el acceso a cada parcela.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Andújar</strong> necesita licencia del Ayuntamiento de Andújar conforme a la Revisión de su PGOU y a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la vega encaja una vivienda o casa de campo; en Sierra Morena, un refugio para fincas de caza.",
+   "Dentro del Parque Natural Sierra de Andújar las normas del espacio protegido recortan mucho lo construible.",
+   "Si la finca está junto al Guadalquivir, revisa los mapas oficiales de zonas inundables.",
+   "Las pistas de la sierra y el terreno granítico encarecen el transporte y la cimentación.",
+   "Los módulos llegan por la A-4; en la romería de la Virgen de la Cabeza los accesos a la sierra se saturan."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

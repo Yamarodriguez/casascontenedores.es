@@ -1811,5 +1811,19 @@
     "html": "<p>En Vigo, la combinación de lluvia y salitre hace casi obligatoria una buena <a href=\"/pintura-contenedores/\">pintura protectora</a> si el contenedor va a durar años. La ventilación evita que se condense agua dentro, algo que agradecen las redes y las herramientas. Si se va a usar como taller u oficina, añade aislamiento y electricidad; en fincas apartadas, rejas y una instalación solar sencilla.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Vigo</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del propio puerto de Vigo, con su terminal de contenedores, y aquí el coste lo sube más el relieve de cuestas y laderas que el viaje.",
+  "datos": [
+   "Al estar tan cerca del puerto, hay buena oferta de usados para fincas, talleres o almacenes.",
+   "La humedad atlántica castiga el techo y las esquinas inferiores: revisa la chapa y el suelo.",
+   "En polígonos cabe un 40 pies; en las parroquias de monte, entre muros de piedra, mejor un 20 pies.",
+   "Armadores y negocios de pesca lo usan para guardar artes y redes; revisa bien la estanqueidad.",
+   "Con lluvia y salitre, una buena pintura protectora y ventilación alargan mucho su vida."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

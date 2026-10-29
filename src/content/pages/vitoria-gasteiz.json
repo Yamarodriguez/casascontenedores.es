@@ -2573,5 +2573,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Vitoria-Gasteiz</strong> se tramita con licencia del Ayuntamiento conforme a la Ley 2/2006 de Suelo y Urbanismo del País Vasco y al nuevo Plan General, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja en el suelo urbano residencial de los concejos; en el no urbanizable agrícola de la Llanada está muy restringida.",
+   "Salburua es un sitio Ramsar del Anillo Verde, y los Montes de Vitoria también limitan la vivienda nueva.",
+   "La ciudad está en la zona climática D1, con heladas prolongadas y niebla: aislamiento continuo por el exterior.",
+   "El Casco Medieval es peatonal y en pendiente: el camión con grúa no entra y hay que descargar cerca.",
+   "El río Zadorra tiene zonas de flujo preferente en parte de la periferia: comprueba la parcela."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo Vilanova i la Geltrú y el precio se da <strong>puesto en destino</strong>. La C-32 enlaza con Barcelona y con Tarragona, la C-31 recorre la costa y la C-15 sube a Vilafranca del Penedès. El Puerto de Barcelona y el Aeropuerto de Barcelona-El Prat son las referencias logísticas, junto al puerto de Tarragona hacia el sur.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Vilanova i la Geltrú</strong> necesita licencia del Ajuntament según el Texto refundido de la Ley de urbanismo de Cataluña (DL 1/2010) y su plan de ordenación municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja en parcelas de los barrios residenciales, como segunda residencia cerca del mar o como ampliación.",
+   "Los espacios protegidos del macizo del Garraf limitan mucho la construcción, y en el litoral rige la Ley de Costas.",
+   "En la franja litoral la chapa necesita chorreado, imprimación y pintura de calidad marina.",
+   "En el centro histórico las calles son estrechas y la grúa necesita permisos.",
+   "El plazo ronda los 4 a 7 meses; evita montar en Carnaval o en temporada alta de verano."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

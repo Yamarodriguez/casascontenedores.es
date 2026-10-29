@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todo el término de Tudela, y lo que presupuestamos es la casa puesta en destino. El viaje se hace por la AP-68, que une el País Vasco con Zaragoza siguiendo el Ebro, y por la AP-15 desde Pamplona; la N-232 sirve para los recorridos más cortos por la Ribera. El puerto de Bilbao es la referencia marítima habitual, y los aeropuertos más cercanos son los de Zaragoza y Pamplona.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Tudela</strong> necesita licencia del Ayuntamiento de Tudela dentro del DFL 1/2017 (TRLFOTU) de Navarra y de su planeamiento municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Lo que más encarece es la cercanía al Ebro: en la vega inundable hay que elevar la casa y reforzar la cimentación.",
+   "El cierzo sopla fuerte del noroeste: ancla bien los módulos y cierra la fachada que mira al viento.",
+   "Cerca de las Bardenas Reales y en suelo no urbanizable las restricciones aumentan y apenas cabe la vivienda.",
+   "La llanura de la Ribera y las autopistas abaratan la llegada del camión y el trabajo de la grúa.",
+   "El plazo ronda los 4 a 7 meses; los informes de inundabilidad pueden alargar la licencia."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

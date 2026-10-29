@@ -2557,5 +2557,19 @@
     "html": "<p>Cieza está en nuestra zona de servicio dentro de la Región de Murcia. El contenedor llega por la A-30, la autovía Albacete-Cartagena, o por la A-33 desde Fuente la Higuera, y se reparte por la RM-511, la RM-512 o la RM-714 según la finca. Para contenedores de importación la referencia es el Puerto de Cartagena. Siempre con presupuesto puesto en destino.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Cieza</strong> necesita licencia del Ayuntamiento de Cieza conforme a la Ley 13/2015 de Ordenación Territorial y Urbanística de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En las huertas y fincas de suelo no urbanizable, construir una vivienda es muy difícil.",
+   "Parte del término está en el espacio protegido del cañón de Almadenes y en un LIC, con restricciones añadidas.",
+   "Mira primero la inundabilidad: en la vega del Segura o junto a una rambla, un estudio previo evita sorpresas.",
+   "Con heladas en invierno y veranos muy calurosos, pide aislamiento continuo, cubierta ventilada y colores claros.",
+   "Los módulos llegan por la A-30 o la A-33, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

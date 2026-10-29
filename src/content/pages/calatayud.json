@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en todo el término de Calatayud y cada presupuesto se cierra <strong>puesto en destino</strong>. La A-2, la Autovía del Nordeste entre Madrid y Zaragoza, pasa junto a la ciudad y es la vía de llegada natural, y la N-234 se dirige hacia Daroca y el valle del Jiloca. Como referencias quedan la plataforma logística y el aeropuerto de Zaragoza, y los puertos de Valencia y Barcelona.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Calatayud</strong> necesita licencia del Ayuntamiento de Calatayud dentro del Texto refundido de la Ley de Urbanismo de Aragón (DL 1/2014), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la vega del Jalón y del Jiloca, los suelos aluviales pueden pedir una cimentación más cuidada.",
+   "Con heladas frecuentes y cierzo del noroeste, cierra la fachada norte y abre la casa al sur.",
+   "Cerca del casco histórico, con monumentos mudéjares Patrimonio de la Humanidad, consulta antes las limitaciones.",
+   "En las laderas de yeso puede hacer falta un estudio geotécnico, y en las de viña los caminos encarecen la grúa.",
+   "Está a medio camino entre Madrid y Zaragoza, y los módulos llegan por la A-2."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

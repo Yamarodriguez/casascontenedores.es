@@ -2582,5 +2582,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1188,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Gipuzkoa</strong> necesita licencia de cada ayuntamiento de la provincia, sobre su PGOU, conforme a la Ley 2/2006 de Suelo y Urbanismo del País Vasco, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En los montes de suelo no urbanizable, ampliar un caserío con vivienda nueva está muy restringido.",
+   "En Donostialdea y el Bajo Bidasoa, los planes territoriales parciales condicionan además el suelo disponible.",
+   "En las laderas de flysch se cimenta con zapatas o micropilotes y muros de contención; en los fondos de valle, con losa.",
+   "Donostia-San Sebastián está en la zona climática D1, con lluvia abundante y galernas que traen salitre.",
+   "Las pistas de caserío y cascos peatonales como la Parte Vieja de Donostia limitan el paso de la góndola."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

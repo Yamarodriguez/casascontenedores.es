@@ -1811,5 +1811,19 @@
     "html": "<p>Con el sol del sur de Tenerife, el aislamiento y la ventilación son casi imprescindibles si vas a guardar algo sensible al calor. Cerca del mar compensa una pintura anticorrosión y en tono claro. Para fincas alejadas, rejas y cerraduras reforzadas, y una placa solar, que en Adeje rinde todo el año, te da luz sin acometida.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Adeje</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); desembarca en el Puerto de Santa Cruz de Tenerife y baja por la Autopista del Sur, la TF-1, puesto en destino.",
+  "datos": [
+   "Buena parte acaba al servicio del turismo: almacén de hoteles, comercios y obras de la Costa Adeje.",
+   "En las calles de urbanización de la costa el 20 pies es lo más práctico; el 40 pies, en polígonos.",
+   "En las medianías la chapa oscura se calienta mucho al sol: repintarla en tono claro ayuda.",
+   "En calles estrechas de la costa o laderas de medianías, la grúa necesita más espacio y sube el precio.",
+   "Para una reforma de hotel o un almacén de temporada alta, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1812,5 +1812,19 @@
     "html": "<p>Para la sierra de Castril, la transformación clave es el <strong>aislamiento térmico</strong>, que evita condensación y hielo dentro. Si el cortijo está lejos de todo, unas rejas, un buen cierre y un pequeño panel solar dejan el contenedor protegido y con luz propia, sin necesidad de red eléctrica.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Castril</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); viaja por autovía hasta el Altiplano y entra por la A-326, con el tramo final de pista estudiado antes de salir.",
+  "datos": [
+   "Trabaja sobre todo como almacén de leña, aperos o pienso en los cortijos de la sierra.",
+   "Con el frío, revisa que la goma de las puertas no esté cuarteada y que la cubierta no acumule nieve.",
+   "Las pistas de sierra y las calles junto a la peña aconsejan el 20 pies, más manejable para la grúa.",
+   "Las empresas de turismo activo del río Castril y el embalse del Portillo lo usan para guardar material.",
+   "Para la reforma de una casa del pueblo o la recogida de leña, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo Castelldefels, del llano a las urbanizaciones de la ladera, y el precio se da <strong>puesto en destino</strong>. La C-32 conecta con Barcelona y con Sitges por la costa, y la C-31 recorre el litoral del Baix Llobregat. El Puerto de Barcelona y el Aeropuerto de Barcelona-El Prat están a muy poca distancia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Castelldefels</strong> necesita licencia del Ajuntament de Castelldefels conforme al Texto refundido de la Ley de urbanismo de Cataluña (DL 1/2010), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Las laderas altas están dentro del Parque Natural del Macizo del Garraf, donde no se permite construir.",
+   "En primera línea de mar se aplica la Ley de Costas: consulta la ficha urbanística antes de comprar.",
+   "En las urbanizaciones de ladera, las calles empinadas piden grúas de más alcance y muros o pilotes.",
+   "Cerca de la playa, el salitre exige chorreado, imprimación y pintura marina, con revisión periódica de juntas.",
+   "Los módulos llegan por la C-32 o la C-31, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

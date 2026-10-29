@@ -2558,5 +2558,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1190,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Badajoz</strong> necesita la licencia de cada ayuntamiento de la provincia y cumplir la Ley 11/2018 de ordenación territorial y urbanística sostenible de Extremadura (LOTUS), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Badajoz está en la zona climática C4: protección solar, ventilación cruzada y acabado exterior claro frente al calor.",
+   "En las Vegas Bajas del Guadiana los suelos aluviales y arcillosos piden estudio geotécnico antes de cimentar.",
+   "Para habitarla hace falta la cédula de habitabilidad de la Junta, además de la licencia de primera ocupación.",
+   "El suelo rústico de regadío tiene más restricciones, y algunas zonas junto al Guadiana son inundables.",
+   "En el casco antiguo, con la Alcazaba y numerosos Bienes de Interés Cultural, hay condiciones patrimoniales adicionales."
+  ],
+  "enlace": {
+   "texto": "permisos y licencias",
+   "destino": "/permisos/"
+  }
+ }
 }

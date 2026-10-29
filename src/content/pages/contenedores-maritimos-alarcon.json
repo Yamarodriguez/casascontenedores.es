@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9914,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alarcón</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-3 desde el puerto de Valencia y, en el casco histórico, se entrega en el punto más próximo con acceso.",
+  "datos": [
+   "Sirve sobre todo como almacén de aperos y cosecha de cereal, legumbre o viñedo en las fincas de La Manchuela.",
+   "Casi todo el término es suelo rústico de secano: antes del ayuntamiento hace falta la calificación urbanística.",
+   "El casco es conjunto histórico: cualquier contenedor visible necesita el visto bueno de la Consejería de Cultura.",
+   "Para un uso turístico junto al embalse conviene un high cube sobre una base bien nivelada.",
+   "Si la parcela está en la ZEC Hoces de Alarcón, consúltalo en el Ayuntamiento antes de pedir permisos."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

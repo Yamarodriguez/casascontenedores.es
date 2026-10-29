@@ -1823,5 +1823,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9960,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Reus</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale hoy sobre todo del Port de Barcelona y llega por la AP-7 o la A-7, con la plataforma CIM el Camp como punto de paso.",
+  "datos": [
+   "En las explotaciones de avellano del Baix Camp se usa como almacén de maquinaria y de cosecha.",
+   "Para un almacén de avellana basta un 20 pies con ventilación; si además quieres taller, un 40 pies.",
+   "En el centro histórico, con edificios modernistas protegidos como la Casa Navàs, hace falta permiso de ocupación de vía.",
+   "La Zona de Baixes Emissions del centro funciona en horario laboral diurno: tenlo en cuenta al fijar la entrega.",
+   "En el suelo agrícola del Baix Camp, la instalación solo cabe ligada a una explotación existente."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

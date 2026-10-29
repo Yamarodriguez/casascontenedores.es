@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9912,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Torrejón de Ardoz</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el Puerto Seco de Coslada, en pleno Corredor del Henares, es prácticamente vecino.",
+  "datos": [
+   "En los polígonos de Las Fronteras y Las Monjas se usa como almacén auxiliar para industria y logística.",
+   "La actividad ligada a la Base Aérea de Torrejón y al INTA lo pide como módulo de oficina.",
+   "Cerca de la Base Aérea rigen servidumbres aeronáuticas que pueden limitar la altura del contenedor.",
+   "Junto al Henares y sus arroyos, comprueba antes la inundabilidad y nivela bien los apoyos.",
+   "Para dejarlo fijo necesitas declaración responsable o licencia de obra menor del Ayuntamiento."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

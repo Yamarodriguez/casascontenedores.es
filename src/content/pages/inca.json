@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo el término de Inca y su entorno del Raiguer, y cerramos el <strong>precio puesto en destino</strong>, sin sorpresas de porte. Los módulos llegan al puerto de Palma y suben por la Ma-13, la autopista que une Palma con Inca y sigue hacia Alcúdia. El Aeropuerto de Palma es la llegada más cómoda, y la línea de tren entre Palma e Inca es una buena alternativa para venir a ver la obra.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Inca</strong> necesita licencia del Ayuntamiento de Inca según su Plan General y la Ley 12/2017 de urbanismo de las Illes Balears, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el casco, con patios traseros alargados, encaja un estudio o una ampliación de un módulo al fondo.",
+   "En suelo rústico la vivienda nueva es muy restrictiva, y las laderas de la Serra de Tramuntana tienen protección añadida.",
+   "Al estar en el interior, Inca se libra del salitre; lo que pesa es la grúa en calles estrechas.",
+   "El plazo ronda los 4 a 7 meses; en Inca lo marca sobre todo la licencia municipal.",
+   "Los módulos llegan al puerto de Palma y suben por la Ma-13, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

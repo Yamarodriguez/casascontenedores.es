@@ -1823,5 +1823,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4276,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Tarragona</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del depósito más cercano y te lo damos descargado con pluma o grúa en destino.",
+  "datos": [
+   "El polígono petroquímico de Tarragona, uno de los mayores de España, lo usa como almacén y taller.",
+   "La actividad portuaria y pesquera del Port de Tarragona lo emplea como apoyo logístico.",
+   "En la Costa Daurada se piden módulos y trasteros de temporada para el turismo.",
+   "El mestral y el ambiente salino aceleran la corrosión: buen anclaje y protección anticorrosiva.",
+   "Aunque no sea vivienda, necesita declaración responsable o licencia de obra menor del ayuntamiento."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

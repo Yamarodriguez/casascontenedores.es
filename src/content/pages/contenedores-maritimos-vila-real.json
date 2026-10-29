@@ -1811,5 +1811,19 @@
     "html": "<p>Para una fábrica de Vila-real puede compensar un contenedor con estanterías, puertas laterales o una ventana para convertirlo en oficina. En los huertos, lo útil es ventilación y una pintura clara que refleje el sol. Si queda lejos del casco, añade rejas y cerraduras reforzadas, y una placa solar para tener luz o cargar herramientas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Vila-real</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del cercano Puerto de Castelló por la N-340 o la AP-7, con un porte contenido, y lo piden sobre todo las empresas cerámicas.",
+  "datos": [
+   "Las fábricas de azulejo y esmaltes lo usan para almacenar muestras, recambios y palés junto a la nave.",
+   "Si vas a cargar palés de cerámica, revisa el suelo y las vigas transversales: un piso débil se hunde.",
+   "Las naves de los polígonos admiten un 40 pies o un High Cube; en huertos y calles antiguas, el 20 pies.",
+   "En un huerto rodeado de muros y con entrada estrecha puede hacer falta otra grúa o más maniobra.",
+   "En los huertos de la Plana Baixa sirve como caseta cerrada para cajas y herramientas de la naranja."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

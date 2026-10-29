@@ -1811,5 +1811,19 @@
     "html": "<p>En Alcorcón, si el contenedor va a hacer de taller u oficina, los extras más útiles son el aislamiento, la ventilación y la instalación eléctrica. Para almacenes con mercancía de valor, cerraduras de seguridad y rejas. La pintura con la imagen de tu empresa sirve para identificar el contenedor en el polígono o en la obra.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alcorcón</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto seco de Coslada por la A-5, la M-40 o la M-50, y te lo damos puesto en destino.",
+  "datos": [
+   "Sirve sobre todo como almacén en naves y talleres, caseta de obra y trastero en reformas.",
+   "Los polígonos admiten un 40 pies o un High Cube; en los barrios de bloques lo práctico es el 20 pies.",
+   "En una calle residencial suele hacer falta permiso de ocupación de vía pública y cortar el tráfico unos minutos.",
+   "Para ampliar un taller, revisa que el suelo aguante la transpaleta y que las puertas no tengan holguras.",
+   "Para una reforma o las fiestas de septiembre, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

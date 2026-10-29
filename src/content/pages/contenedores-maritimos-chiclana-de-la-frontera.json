@@ -1811,5 +1811,19 @@
     "html": "<p>Para Chiclana recomendamos pintura anticorrosión cerca del mar y de las marismas, y ventilación para evitar condensaciones. Si el contenedor va a ser un trastero en la parcela, la pintura en tonos que combinen con el pinar ayuda a integrarlo. En fincas sin luz, una pequeña placa solar; y para herramientas, una buena cerradura.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Chiclana de la Frontera</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de la Bahía de Cádiz por la A-48, y lo delicado suele ser el último tramo por caminos de arena.",
+  "datos": [
+   "En las parcelas del diseminado, entre pinos, funciona como trastero o como cuarto de aperos.",
+   "Los caminos de arena pueden ser blandos y pedir camión con buena tracción; pinos y cancelas limitan la grúa.",
+   "Cerca de la playa y de las salinas, revisa la corrosión del techo y de los bajos del contenedor usado.",
+   "En suelo no urbanizable y en el entorno del parque natural hay limitaciones: consulta antes al ayuntamiento.",
+   "Para chiringuitos, hoteles y empresas náuticas en temporada de verano, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

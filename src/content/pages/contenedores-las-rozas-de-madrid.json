@@ -1813,5 +1813,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 10200,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Las Rozas de Madrid</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el depósito más cercano y lo descargamos con grúa en tu parcela.",
+  "datos": [
+   "En las urbanizaciones de chalés las calles suelen ser estrechas y con curvas: comprueba el giro del camión.",
+   "Se usa como trastero en el jardín, oficina en los parques empresariales o caseta en promociones residenciales.",
+   "Apóyalo sobre dados de hormigón nivelados, con cámara de aire, para que no se acumule la humedad de invierno.",
+   "Un contenedor apoyado sin obra suele bastar con declaración responsable; con cimentación, licencia de obra mayor.",
+   "También entregamos en Majadahonda, Boadilla del Monte, Torrelodones y Pozuelo de Alarcón."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

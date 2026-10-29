@@ -2643,5 +2643,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1265,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Lleida</strong> necesita licencia de obra mayor del ayuntamiento de cada municipio de la provincia conforme al texto refundido de la Ley de Urbanismo de Cataluña (Decreto Legislativo 1/2010), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La provincia reúne tres perfiles climáticos: la capital en D3, las cotas más bajas en C3 y el Pirineo en E1.",
+   "La boira del valle del Segre trae niebla persistente en invierno: ventilación cruzada contra la condensación.",
+   "En la Horta de regadío el suelo no urbanizable admite almacenes agrícolas, no vivienda.",
+   "En la capital, la Seu Vella y el Centre Històric tienen protección patrimonial.",
+   "El contenedor entra por el Puerto de Barcelona o el de Tarragona y llega por la A-2 o la AP-2."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

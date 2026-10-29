@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4329,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Avilés</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por carretera desde la terminal de El Musel, en Gijón, porque el puerto de Avilés mueve sobre todo mercancía general.",
+  "datos": [
+   "Los polígonos de la siderurgia, el aluminio y el zinc lo piden como oficina modular o vestuario de obra.",
+   "En las parroquias rurales predomina el suelo no urbanizable: un uso permanente exige más trámites.",
+   "En Galiana o el Rivero, con soportales y calles estrechas, la grúa apenas tiene sitio para maniobrar.",
+   "La humedad y el salitre de la ría aceleran la corrosión: refuerza el tratamiento y deja ventilación cruzada.",
+   "Algunos suelos industriales heredados de la siderurgia arrastran contaminación: descártala antes de instalar nada."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

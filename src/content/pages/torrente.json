@@ -2743,5 +2743,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 10107,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Torrente</strong> necesita licencia de obra mayor del Ayuntamiento, con proyecto de arquitecto visado conforme al TRLOTUP de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "No hay cédula de habitabilidad: al terminar se presenta una declaración responsable de primera ocupación.",
+   "El barranco de Torrent cruza el término: revisa la cartografía del PATRICOVA antes de fijar la cota de cimentación.",
+   "En la llanura de l'Horta Sud hay limos, arcillas y freático somero; El Vedat tiene relieve calcáreo con pinar.",
+   "Zona climática B3, con veranos calurosos y húmedos: ventilación cruzada y aislamiento continuo por el exterior.",
+   "Los módulos llegan desde Valenciaport por la A-7, la CV-33 o la CV-36."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5598,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Sevilla</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el Puerto de Sevilla es el único puerto comercial marítimo de interior de España, con entrada por esclusa.",
+  "datos": [
+   "En los polígonos y factorías aeronáuticas del cinturón industrial se usa como oficina de obra y almacén auxiliar.",
+   "Las explotaciones agroalimentarias de la vega lo piden como almacén y cámara auxiliar.",
+   "Colocarlo exige al menos una declaración responsable, según el artículo 138 de la LISTA.",
+   "Dentro del Conjunto Histórico y en la vega del Guadalquivir el control es más estricto; comprueba la inundabilidad.",
+   "El trayecto final por carretera se apoya en la SE-30, la A-4 y la A-49, con el transporte incluido."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

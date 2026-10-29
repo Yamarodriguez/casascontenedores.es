@@ -2556,5 +2556,19 @@
     "html": "<p>Nuestro precio para Utrera es siempre <strong>puesto en destino</strong>, sea en el casco, en una urbanización o en una finca de la campiña. La A-376 la une con Sevilla en un trayecto corto, y por el oeste se enlaza con la autopista AP-4 y la N-4 hacia Cádiz. El puerto de Sevilla y el aeropuerto de Sevilla, ambos muy próximos, son las referencias logísticas para la llegada de mercancía.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Utrera</strong> necesita licencia del Ayuntamiento de Utrera, que aplica su planeamiento general y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Muchas familias que trabajan en Sevilla buscan aquí una casa de varios módulos en urbanización o parcela.",
+   "Los suelos arcillosos de la campiña se hinchan con la lluvia y se agrietan con la sequía: cimentación bien estudiada.",
+   "En suelo rústico la vivienda está muy limitada, y el complejo endorreico de lagunas de Utrera está protegido.",
+   "Utrera está en la zona climática B4 del CTE: el aislamiento debe frenar sobre todo la radiación solar.",
+   "El plazo ronda los 4 a 7 meses; evita la época de lluvias, cuando los caminos de tierra se vuelven impracticables."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

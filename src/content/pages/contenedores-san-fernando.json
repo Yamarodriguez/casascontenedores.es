@@ -1850,5 +1850,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 10198,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en San Fernando</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del depósito más cercano de la Bahía de Cádiz y llega por carretera hasta tu parcela.",
+  "datos": [
+   "En astilleros y talleres náuticos se usa como almacén de repuestos y aparejos, con refuerzo anticorrosivo por el salitre.",
+   "En la Costilla y Camposoto se acondiciona como chiringuito o punto de venta para el turismo de playa.",
+   "El término es estrecho y limita con marismas y salinas que restringen el acceso en algunas zonas.",
+   "Cerca de las marismas el terreno es blando: ancla el contenedor por sus esquineras a dados de hormigón.",
+   "Si la parcela linda con las marismas puede sumarse la servidumbre de protección de la Ley de Costas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

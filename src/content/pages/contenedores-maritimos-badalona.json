@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5312,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Badalona</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); como su puerto es deportivo y pesquero, la carga sale del Port de Barcelona y entra por la B-20, la C-31 o la N-II.",
+  "datos": [
+   "En los polígonos de Les Guixeres y Montigalà se usa como nave auxiliar u oficina modular.",
+   "En barrios de ladera como Canyet, Pomar o Bufalà sirve de trastero o de ampliación doméstica.",
+   "En Dalt de la Vila, con calles estrechas y patrimonio protegido, el paso de un camión grande puede quedar limitado.",
+   "La Serralada de Marina es parque no urbanizable: ahí casi no caben las instalaciones permanentes.",
+   "Para recoger la carga dentro de las rondas, el camión necesita distintivo ambiental en días laborables."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

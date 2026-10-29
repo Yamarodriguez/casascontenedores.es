@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos en todo el término de Tomelloso, siempre con precio de la casa puesta en destino. El transporte circula por la CM-42, que enlaza la ciudad con Alcázar de San Juan y Toledo, o por las carreteras que conectan con la A-4 y con Albacete. El puerto que solemos usar es el de Valencia, y el aeropuerto más práctico, Madrid-Barajas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Tomelloso</strong> necesita licencia del Ayuntamiento de Tomelloso, que aplica el TRLOTAU castellanomanchego y su plan de ordenación, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En rústico la vivienda está muy limitada y exige parcelas mínimas; cerca de un bombo puede haber protección.",
+   "En el casco, las cuevas excavadas en el subsuelo obligan a revisar con cuidado la cimentación.",
+   "El terreno llano y los caminos agrícolas anchos facilitan la llegada del camión y la grúa.",
+   "Veranos muy calurosos y heladas: salón al sur bajo aleros, fachada oeste cerrada y ventilación nocturna.",
+   "La cubierta plana admite placas solares, muy rentables con el sol manchego."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

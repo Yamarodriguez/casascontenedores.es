@@ -1811,5 +1811,19 @@
     "html": "<p>Para El Puerto recomendamos pintura anticorrosión y ventilación, por la humedad salina. Si el contenedor guarda vino o productos sensibles, el aislamiento ayuda a mantener la temperatura estable. En parcelas de pinar sin luz, una placa solar sencilla; y si va a quedarse en un lugar apartado, rejas y una cerradura reforzada.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en El Puerto de Santa María</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por el puerto de la Bahía de Cádiz, a pocos kilómetros, y se usa mucho como almacén de bodegas y hostelería.",
+  "datos": [
+   "La humedad de la bahía y las marismas trae salitre: revisa los bajos, las esquinas y el techo del usado.",
+   "En polígonos y bodegas con patio amplio cabe un 40 pies; en el centro histórico, mejor el 20 pies.",
+   "Los caminos de arena blanda y los pinos de las urbanizaciones complican la grúa y mueven el precio.",
+   "En la Feria de Primavera y en verano, chiringuitos y casetas piden almacenes temporales de alquiler.",
+   "Llegamos por la A-4, la AP-4 y la A-491, con el contenedor puesto en destino."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

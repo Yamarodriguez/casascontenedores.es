@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo Colmenar Viejo y el precio se da <strong>puesto en destino</strong>. La M-607 trae los módulos desde Madrid pasando por Tres Cantos; desde el casco, carreteras regionales salen hacia Soto del Real, Hoyo de Manzanares y los pueblos de la sierra. El Aeropuerto Adolfo Suárez Madrid-Barajas es la referencia aérea, y el puerto de Valencia, la marítima para el centro peninsular.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Colmenar Viejo</strong> necesita licencia del Ayuntamiento de Colmenar Viejo conforme a la Ley 9/2001 del Suelo de la Comunidad de Madrid y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Gran parte del término está en el Parque Regional de la Cuenca Alta del Manzanares, Reserva de la Biosfera.",
+   "Ahí las viviendas nuevas en suelo rústico están prácticamente descartadas: lo realista es buscar suelo urbano.",
+   "El granito aflora en muchas parcelas: encarece la excavación, pero da una base firme a la cimentación.",
+   "Los caminos de tierra entre muros de piedra de las fincas pueden limitar el camión y la grúa.",
+   "El plazo ronda los 4 a 7 meses; la licencia y el tiempo de la sierra marcan el calendario."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

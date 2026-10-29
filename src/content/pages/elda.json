@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo el término de Elda y el precio se da <strong>puesto en destino</strong>. La A-31, la autovía que recorre el Vinalopó entre Alicante y el interior, pasa junto a la ciudad y facilita la llegada del camión. El puerto de referencia es el de Alicante y el aeropuerto más cercano, el de Alicante-Elche.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Elda</strong> necesita licencia del Ayuntamiento de Elda según su plan general y el TRLOTUP (Decreto Legislativo 1/2021) de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En suelo no urbanizable la vivienda aislada solo cabe con condiciones muy estrictas, y los montes pueden tener protección forestal.",
+   "Las parcelas en ladera hacia las sierras pueden pedir muros o una cimentación escalonada.",
+   "Una parcela llana en el valle, con acceso desde la A-31, simplifica la descarga y abarata el montaje.",
+   "El invierno de interior es más frío que en la costa: orienta la casa al sur y cuida el aislamiento.",
+   "Para el montaje, conviene evitar la semana de Moros y Cristianos, a principios de junio."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

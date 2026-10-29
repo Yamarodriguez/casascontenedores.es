@@ -1813,5 +1813,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Mijas</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale normalmente del puerto de Málaga y llega por la A-7 o la AP-7 en camión con grúa.",
+  "datos": [
+   "En la playa se monta como chiringuito o barra lista para abrir por temporada.",
+   "En Mijas Pueblo, La Cala y Calahonda sirve de almacén y trastero para urbanizaciones y comunidades.",
+   "Muchas calles son estrechas y en pendiente: revisa el acceso y busca una superficie firme y nivelada.",
+   "El sol y el salitre castigan cortes y soldaduras, donde el contenedor pierde su recubrimiento original.",
+   "Aunque no sea para vivir, necesita al menos declaración responsable o licencia de obra menor del Ayuntamiento."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

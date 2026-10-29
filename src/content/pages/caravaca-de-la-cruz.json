@@ -2557,5 +2557,19 @@
     "html": "<p>Cubrimos Caravaca de la Cruz y el resto del Noroeste murciano. El contenedor llega por la autovía RM-15 desde Murcia, enlazando con la A-7, y a las pedanías por la RM-517, la RM-714 o la RM-715. Para importación, la referencia es el Puerto de Cartagena. Damos servicio en Caravaca con presupuesto puesto en destino, transporte y montaje incluidos.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Caravaca de la Cruz</strong> necesita licencia del ayuntamiento conforme a la Ley 13/2015 de Ordenación Territorial y Urbanística de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Gran parte del término es suelo rústico, y sierras como Mojantes o el Gavilán tienen protección ambiental.",
+   "En las fincas de sierra, la pendiente y el suelo calizo rocoso pueden exigir nivelar y anclar sobre roca.",
+   "Los inviernos con heladas frecuentes piden más aislamiento, barrera de vapor y mejores carpinterías.",
+   "En pedanías como Archivel, Barranda o Navares encajan alojamientos rurales de dos o tres módulos.",
+   "Los módulos llegan por la RM-15 desde Murcia; hacia las pedanías hay caminos angostos y curvas cerradas."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

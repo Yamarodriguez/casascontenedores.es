@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Cartagena</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale de la terminal del muelle de Santa Lucía y te lo damos descargado con grúa en destino.",
+  "datos": [
+   "En el Campo de Cartagena se usa como almacén agrícola estanco para aperos, abonos y cosecha.",
+   "En el casco histórico las calles son estrechas y con pendiente; a La Manga solo se entra por una vía.",
+   "Junto al Mar Menor el salitre acelera la corrosión de juntas y bisagras: revisa los sellos con frecuencia.",
+   "Si queda fijo en una explotación agrícola, sigue el trámite de licencia de obra menor del Ayuntamiento.",
+   "Para una obra temporal o una campaña agrícola con fecha de fin, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1837,5 +1837,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5597,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Segovia</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); la provincia no tiene puerto, y la terminal intermodal más cercana está en Coslada, conectada por la AP-61.",
+  "datos": [
+   "La industria del cochinillo y el embutido lo usa como cámara frigorífica auxiliar.",
+   "En metal, construcción, madera y mueble sirve como oficina de obra y almacén de herramientas.",
+   "En el turismo rural de la comarca funciona como módulo de temporada para alojamiento o recepción.",
+   "En suelo rústico solo se autorizan usos ligados a la explotación agroganadera; en polígonos el trámite es más ágil.",
+   "Por la N-110 se llega a los pueblos de la comarca; en invierno prevé aislamiento máximo y carga de nieve."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

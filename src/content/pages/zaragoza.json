@@ -2571,5 +2571,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Zaragoza</strong> se tramita con licencia de obra mayor del ayuntamiento de cada municipio de la provincia, según el Decreto Legislativo 1/2014 (TRLUA) de Aragón, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la capital rige el PGOUZ, y la huerta y la estepa son en buena parte suelo no urbanizable.",
+   "La Reserva Natural de los Sotos y Galachos y las zonas inundables del Ebro, el Gállego y el Huerva limitan parcelas.",
+   "El cierzo racheado del noroeste obliga a revisar anclajes y estanqueidad de puertas y ventanas.",
+   "Bajo las gravas del Ebro hay yesos: el estudio geotécnico debe valorar los sulfatos en el hormigón.",
+   "La capital está en zona D3; la franja baja de la provincia baja a C3 y las zonas altas suben a E1."
+  ],
+  "enlace": {
+   "texto": "permisos por municipio",
+   "destino": "/permisos/"
+  }
  }
 }

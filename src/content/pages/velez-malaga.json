@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo el término de Vélez-Málaga, del casco a la costa y las lomas, y el precio se da puesto en destino. Los módulos llegan por la A-7, la Autovía del Mediterráneo, que recorre el litoral, y por la N-340 hacia los núcleos costeros. La A-356 enlaza con el interior. El Puerto de Málaga y el Aeropuerto de Málaga-Costa del Sol son las referencias logísticas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Vélez-Málaga</strong> se tramita con licencia del Ayuntamiento de Vélez-Málaga según su Plan General y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Lo más seguro es buscar suelo urbano en núcleos como Torre del Mar o Caleta de Vélez.",
+   "En el diseminado de la Axarquía construir una vivienda nueva en suelo rústico es muy difícil.",
+   "En las lomas de aguacates y mangos, las pendientes y los carriles estrechos encarecen el camión y la grúa.",
+   "En la vega del río Vélez cuenta el riesgo de inundación, y los informes de aguas alargan el plazo.",
+   "El plazo ronda los 4 a 7 meses; evita montar en verano, cuando la costa se llena."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

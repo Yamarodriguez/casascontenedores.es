@@ -2573,5 +2573,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1191,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Navarra</strong> necesita licencia del ayuntamiento de cada municipio, según su Plan General y el Decreto Foral Legislativo 1/2017 (TRLFOTU), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En los municipios pequeños predomina el suelo no urbanizable; el urbano se concentra en la Comarca de Pamplona.",
+   "Lo habitual es una vivienda en un pueblo de la Cuenca o un almacén agrícola en la Ribera.",
+   "Navarra mantiene la cédula de habitabilidad, que se pide junto a la licencia de primera ocupación.",
+   "Pamplona está en zona D1, la Ribera baja a C2 con cierzo y el Pirineo sube a E1 con nieve.",
+   "Sin puerto propio, el módulo llega por carretera desde Bilbao o Pasaia por la A-15."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

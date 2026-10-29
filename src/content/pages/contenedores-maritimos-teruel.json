@@ -1823,5 +1823,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5600,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Teruel</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega a la capital y a la comarca por la A-23, la N-234 y la N-330.",
+  "datos": [
+   "La ganadería porcina y la producción de jamón con Denominación de Origen lo usan como almacén.",
+   "El aeropuerto de Teruel, dedicado al mantenimiento y desguace de aeronaves, genera demanda de módulos de almacenamiento.",
+   "Cerca del conjunto mudéjar se piden locales u oficinas temporales, siempre fuera de los entornos protegidos.",
+   "Con zona D2 en la capital y E1 en las sierras, pide aislamiento reforzado si se va a ocupar.",
+   "Aunque el terreno sea tuyo, colocar un contenedor en Teruel no está libre de trámites municipales."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>Para un uso de oficina en un polígono de Arganda compensa añadir aislamiento, climatización e instalación eléctrica completa. Si va a ser almacén en el campo, bastan ventilación, rejas y una cerradura reforzada; una pequeña placa solar da luz sin necesidad de acometida. Una pintura en el color corporativo ayuda a integrarlo en la imagen de la empresa.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Arganda del Rey</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-3 o la M-50 hasta los polígonos del municipio y te lo damos puesto en destino.",
+  "datos": [
+   "En los polígonos se usa como almacén extra de las naves o como oficina a pie de muelle.",
+   "Los viales anchos de los polígonos admiten un 40 pies o un High Cube sin complicaciones.",
+   "En urbanizaciones de calles estrechas o en caminos entre viñas, el 20 pies es más fácil de colocar.",
+   "En una parcela en ladera o con el suelo blando de la vega puede hacer falta una grúa más potente.",
+   "Para la vendimia o una obra con fecha de fin, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

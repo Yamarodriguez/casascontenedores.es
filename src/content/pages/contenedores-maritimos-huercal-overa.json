@@ -1811,5 +1811,19 @@
     "html": "<p>En Huércal-Overa el extra más útil es la ventilación, sobre todo si se guarda pienso o material agrícola, y el <a href=\"/aislamiento-contenedores/\">aislamiento</a> si va a ser oficina o vestuario. En fincas aisladas compensan las rejas, las cerraduras reforzadas y una instalación solar para la luz, ya que muchas no tienen conexión a la red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Huércal-Overa</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Almería o el de Cartagena por la A-7, y aquí trabaja sobre todo en explotaciones agrícolas y ganaderas.",
+  "datos": [
+   "Las explotaciones ganaderas lo usan como almacén de piensos; el suelo debe soportar palés y sacos.",
+   "En el campo, con caminos de tierra estrechos y ramblas, el 20 pies es lo más práctico.",
+   "A una finca con rambla o pendiente hace falta llegar con un camión grúa de más alcance.",
+   "El clima seco conserva la chapa usada, pero revisa el techo: las tormentas de otoño descargan mucha agua.",
+   "Para la recolección de la almendra o la reforma de un cortijo, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

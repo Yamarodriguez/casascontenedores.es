@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 8744,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Zamora</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); como la provincia no tiene puerto, llega por carretera desde la plataforma intermodal de Salamanca (Zaldesa) por la A-66, la A-62 o la A-11.",
+  "datos": [
+   "En el secano oriental de la provincia sirve como almacén agrícola o caseta de riego.",
+   "En la ganadería extensiva del oeste se usa como módulo para las explotaciones.",
+   "Para aperos basta un 20 pies, con unos 13,9 m² interiores; para maquinaria, el 40 pies.",
+   "Los caminos de concentración parcelaria del alfoz suelen aguantar el camión aunque no estén asfaltados.",
+   "Junto al Duero o el Valderaduey hay zona inundable cartografiada: compruébalo antes de fijar la parcela."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

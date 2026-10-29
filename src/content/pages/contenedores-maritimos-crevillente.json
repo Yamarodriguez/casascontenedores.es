@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 8743,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Crevillente</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale normalmente del puerto de Alicante por la A-7, y lo que más condiciona la entrega es el terreno, no la distancia.",
+  "datos": [
+   "En pedanías de huerta como El Realengo o San Felipe Neri se usa como almacén agrícola.",
+   "En los polígonos I-10 e Industrial Este, junto a la A-7, sirve de nave u oficina.",
+   "El casco antiguo, en la ladera de la sierra, tiene calles estrechas y pendiente poco aptas para la grúa.",
+   "Cerca de El Hondo el aire es salino: refuerza la pintura anticorrosión del contenedor.",
+   "Para aperos basta un 20 pies, con unos 13,9 m² interiores; para maquinaria, mejor el 40 pies."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

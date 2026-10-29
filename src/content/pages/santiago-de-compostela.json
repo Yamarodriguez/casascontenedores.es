@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo el término de Santiago de Compostela, de la ciudad a las parroquias del rural, y el precio se da puesto en destino. Los módulos llegan por la AP-9, el eje atlántico gallego, o por la A-54 desde Lugo, y la N-550 y la AG-56 reparten el tráfico hacia el sur y la costa. El Aeropuerto de Santiago-Rosalía de Castro y el Puerto de A Coruña son las referencias logísticas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Santiago de Compostela</strong> necesita licencia del Concello de Santiago de Compostela según su Plan General y la Ley 2/2016 del Suelo de Galicia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja sobre todo en las parroquias del rural compostelano, en parcelas de núcleo rural con condiciones de parcela mínima.",
+   "En el entorno del casco histórico y del Camino de Santiago la protección del patrimonio es muy estricta.",
+   "La lluvia encarece: aislamiento continuo, cubiertas con buena pendiente y drenajes perimetrales.",
+   "Las pistas estrechas entre muros de piedra de las parroquias complican la llegada del camión.",
+   "Separar el módulo del suelo y ventilar la cámara inferior evita humedades por capilaridad."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

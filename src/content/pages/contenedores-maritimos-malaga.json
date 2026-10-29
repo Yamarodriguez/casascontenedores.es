@@ -1823,5 +1823,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Málaga</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto de Málaga o de la bahía de Algeciras y llega a toda la provincia por la A-7 o la A-45.",
+  "datos": [
+   "En la Costa del Sol se pide para chiringuitos, módulos de hostelería y alojamiento turístico modular.",
+   "En el Parque Tecnológico de Andalucía, en Campanillas, se usa como oficina para empresas.",
+   "En primera línea de playa refuerza la pintura y revisa juntas y cantoneras más a menudo.",
+   "El suelo rústico de los Montes de Málaga y de la vega del Guadalhorce limita mucho los usos.",
+   "El centro histórico de la capital está peatonalizado y con zona de bajas emisiones: la góndola no entra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

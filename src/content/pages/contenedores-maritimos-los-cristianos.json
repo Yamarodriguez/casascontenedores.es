@@ -1812,5 +1812,19 @@
     "html": "<p>Junto al mar de Los Cristianos, la mejora más útil es una pintura de grado marino que frene el salitre, con rejillas de ventilación para la humedad interior. Para negocios del puerto y de la zona comercial, puertas de persiana, iluminación, estanterías y cerraduras reforzadas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Los Cristianos</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); la TF-1 llega casi hasta la bahía, así que pesa más la descarga que el trayecto.",
+  "datos": [
+   "Sirve sobre todo de almacén náutico o comercial: aparejos, equipo de excursiones por mar o género de tiendas.",
+   "En una bahía tan expuesta revisa la corrosión de esquineros, techo y bajos de cualquier usado.",
+   "En el casco, de calles estrechas, lo manejable es el 20 pies; en un hotel con entrada ancha, el 40 pies.",
+   "Colocarlo puede exigir cortar una calle o pedir permiso de ocupación de vía pública en Arona.",
+   "Para reformas de hoteles o la temporada alta, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

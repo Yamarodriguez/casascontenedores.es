@@ -1848,5 +1848,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4077,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Valencia</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); en la provincia sale de Valenciaport, el primer puerto de contenedores del Mediterráneo español, con transporte directo por la V-30, la A-7 o la A-3.",
+  "datos": [
+   "En la huerta y los campos de cítricos de la provincia sirve como almacén de aperos, abono o cosecha.",
+   "En polígonos como Vara de Quart o Fuente del Jarro, en Paterna, trabaja como oficina de obra o trastero.",
+   "En el litoral de la Malvarrosa, el Cabanyal o Pinedo pide anticorrosión reforzada frente al salitre.",
+   "Los caminos de huerta con acequias y las calles de Ciutat Vella condicionan el camión y la grúa.",
+   "Si se queda en la parcela, el TRLOTUP pide declaración responsable o licencia de obra menor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

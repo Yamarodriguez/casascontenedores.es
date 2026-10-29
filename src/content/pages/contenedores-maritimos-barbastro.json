@@ -1811,5 +1811,19 @@
     "html": "<p>En una bodega del Somontano el extra más útil es el aislamiento, que mantiene estable la temperatura del vino o del material. Para guardar equipos de turismo activo conviene añadir ventilación, para que neoprenos y cuerdas se sequen sin coger humedad. En fincas alejadas, las rejas, las cerraduras reforzadas y una placa solar para la iluminación completan el equipamiento.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Barbastro</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde los puertos de Barcelona o Tarragona por la A-22 y te lo damos puesto en destino.",
+  "datos": [
+   "Las bodegas del Somontano lo usan como almacén de barricas y de material de vendimia.",
+   "En las lomas de viña, con pistas estrechas, el 20 pies se coloca mejor que el 40 pies.",
+   "Con las nieblas y la nieve del invierno, revisa el techo y las esquinas superiores para que no acumulen agua.",
+   "Para guardar neoprenos y cuerdas de las empresas de turismo activo de Guara, añade ventilación.",
+   "Alquilar encaja para el almacenaje extra de la vendimia o para una feria del vino del Somontano."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

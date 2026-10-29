@@ -1811,5 +1811,19 @@
     "html": "<p>Para guardar aceite o cosecha en Alcañiz conviene añadir aislamiento y ventilación, porque el verano del Bajo Aragón calienta mucho la chapa. En Motorland se piden contenedores con instalación eléctrica y buena iluminación para usarlos como taller. En masías alejadas, las rejas, una cerradura reforzada y una placa solar completan el equipamiento.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alcañiz</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la N-232 o la N-420 desde los puertos de Tarragona o Castellón, y te lo damos puesto en destino.",
+  "datos": [
+   "Las almazaras y fincas de olivar del Bajo Aragón lo usan para guardar mantas, cajas y maquinaria.",
+   "Los equipos que trabajan en Motorland lo piden como taller o almacén, con instalación eléctrica.",
+   "El cierzo arrastra polvo y tierra: revisa puertas y juntas de un usado antes de comprarlo.",
+   "Los caminos de las masías pueden ser estrechos y con piedras; con cierzo fuerte, la descarga se aplaza.",
+   "Para la campaña de la aceituna o un evento en Motorland, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

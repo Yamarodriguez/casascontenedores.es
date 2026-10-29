@@ -2728,5 +2728,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Cornellá de Llobregat</strong> necesita el permiso del Ayuntamiento y la cédula de habitabilidad de primera ocupación, conforme al Decret Legislatiu 1/2010 de urbanismo de Cataluña, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El municipio es casi todo suelo urbano consolidado: lo realista es ampliar una vivienda existente con un módulo.",
+   "El poco suelo no urbanizable pertenece al Parc Agrari del Baix Llobregat, protegido para uso agrícola.",
+   "Es una llanura aluvial con nivel freático somero cerca del cauce: se aconseja losa de cimentación y estudio geotécnico.",
+   "Parte del término está en la Zona de Bajas Emisiones de las Rondes: compruébalo antes de programar el transporte.",
+   "En las calles estrechas del centro, la grúa suele necesitar ocupación temporal de la vía pública."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

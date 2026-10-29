@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo Majadahonda y el noroeste madrileño, y el presupuesto se entrega con el <strong>precio puesto en destino</strong>. Los módulos viajan primero por la A-6, la carretera de La Coruña, y por la M-50, que bordea el municipio. Si vienen de importación, entran normalmente por el puerto de Valencia. El Aeropuerto Adolfo Suárez Madrid-Barajas es la referencia aérea.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Majadahonda</strong> necesita licencia del Ayuntamiento de Majadahonda según su Plan General y la Ley 9/2001 del Suelo de la Comunidad de Madrid, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En las zonas de chalés encaja una vivienda de dos plantas; en el jardín, un estudio o despacho de un módulo.",
+   "El suelo no urbanizable protegido, como el del Monte del Pilar, no admite viviendas.",
+   "Las calles estrechas de algunas urbanizaciones y el arbolado complican la maniobra de la grúa.",
+   "Majadahonda está en la zona climática D3 del CTE: aislamiento generoso y carpinterías de altas prestaciones.",
+   "Los módulos llegan por la A-6 y la M-50, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

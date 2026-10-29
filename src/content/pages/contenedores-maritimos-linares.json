@@ -1811,5 +1811,19 @@
     "html": "<p>Con el calor del verano de Jaén, el <a href=\"/aislamiento-contenedores/\">aislamiento</a> y la ventilación son los extras más útiles si el contenedor guarda aceite, productos o documentos. Para uso industrial se pide instalación eléctrica e iluminación. En fincas de olivar alejadas compensa añadir rejas y cerraduras reforzadas, porque la maquinaria y las herramientas son un objetivo habitual de los robos.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Linares</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-4 desde los puertos de Málaga, Algeciras o Sevilla, y la distancia al puerto pesa en el precio.",
+  "datos": [
+   "Las almazaras y cooperativas lo usan como almacén auxiliar en campaña; los olivareros, para varas y mantas.",
+   "El clima seco conserva bien la chapa usada, pero el sol del verano reseca las gomas de las puertas.",
+   "En los polígonos entra un 40 pies; entre hileras de olivos con poco margen, mejor el 20 pies.",
+   "Tras las lluvias de otoño los carriles del olivar pueden quedar blandos: revísalos antes de la entrega.",
+   "Para la campaña de la aceituna o la Feria de San Agustín, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2557,5 +2557,19 @@
     "html": "<p>Nuestra zona de servicio es Alcaudete entero, casco y campiña. Los módulos llegan por la N-432, que une Badajoz con Granada y cuenta con una variante que evita el casco, y por la A-316, enlazada con el núcleo por la A-6051. La oferta se cierra <strong>puesto en destino</strong> y cuenta también con el último tramo de camino hasta las fincas de olivar.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Alcaudete</strong> necesita licencia del Ayuntamiento de Alcaudete conforme a su PGOU y a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Lo natural es una casa de campo en finca de olivar, una vivienda en parcela urbana o un módulo auxiliar.",
+   "En el suelo rústico de las fincas de olivar la vivienda está muy restringida: mira antes el PGOU.",
+   "Las Reservas Naturales Laguna Honda y Laguna del Chinche tienen su propia protección.",
+   "Los llanos arcillosos se hinchan y retraen con la humedad y pueden pedir una cimentación adaptada.",
+   "Los módulos llegan por la N-432 o la A-316; en campaña de aceituna los caminos tienen mucho tráfico."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

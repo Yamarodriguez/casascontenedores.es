@@ -1811,5 +1811,19 @@
     "html": "<p>En el clima seco y soleado de Arona compensa aislar y ventilar el contenedor si vas a guardar algo sensible. Cerca del mar, la pintura anticorrosión es imprescindible. Si la parcela está apartada, añade rejas y cerraduras reforzadas, y aprovecha el sol del sur con una placa solar para tener luz sin acometida.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Arona</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega en barco al Puerto de Santa Cruz de Tenerife y baja al sur por la TF-1 hasta tu parcela.",
+  "datos": [
+   "Lo piden el puerto de Los Cristianos y los negocios turísticos de la costa como almacén cerrado.",
+   "Cerca del mar, en Los Cristianos o Las Galletas, revisa bajos, esquinas y bisagras por el salitre.",
+   "En las laderas de Valle San Lorenzo o del casco, la pendiente y las curvas limitan el tamaño.",
+   "En temporada alta, el tráfico turístico de la costa obliga a planificar mejor la maniobra de la grúa.",
+   "Para una obra o el Carnaval de Los Cristianos, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

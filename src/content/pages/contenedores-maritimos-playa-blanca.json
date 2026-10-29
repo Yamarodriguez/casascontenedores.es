@@ -1812,5 +1812,19 @@
     "html": "<p>Para el uso náutico de Playa Blanca encaja una <strong>pintura marina contra el salitre</strong>, estanterías para equipos de buceo y kayak, ventilación para secar neoprenos y cerraduras de seguridad. Si va a ser taquilla, una ventana con persiana y luz solar lo dejan listo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Playa Blanca</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega en barco al Puerto de Arrecife y baja por la LZ-2 hasta el extremo sur de Lanzarote, con precio puesto en destino.",
+  "datos": [
+   "Lo usan empresas de excursiones, escuelas de buceo, el puerto deportivo y gestoras de villas como almacén o taquilla.",
+   "Junto al mar del Rubicón el salitre avanza deprisa: revisa techo, esquinas y cierres en uno usado.",
+   "La llanura deja pasar tráileres; entre muros y piscinas de villas, un 20 pies se coloca con más holgura.",
+   "Lo que encarece es salvar con grúa muros, jardines o piscinas dentro de una villa o un complejo.",
+   "Antes de comprar, consulta al Ayuntamiento de Yaiza qué planeamiento se aplica hoy a tu parcela."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

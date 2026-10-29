@@ -2557,5 +2557,19 @@
     "html": "<p>Playa Blanca, en el sur de Lanzarote, está cubierta por nuestra zona de servicio, con el coste calculado hasta la propia parcela. Tras entrar por mar al Puerto de Arrecife, sigue por la LZ-2, el tramo sur del eje que cruza Lanzarote desde Órzola. El puerto de Playa Blanca conecta por ferri con Corralejo, y el Aeropuerto César Manrique-Lanzarote facilita visitar la parcela.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Playa Blanca</strong> necesita licencia del Ayuntamiento de Yaiza conforme a la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El planeamiento de Yaiza está en una situación especial: pregunta qué se aplica hoy a tu parcela antes de diseñar.",
+   "Al este, el Monumento Natural de Los Ajaches limita mucho la edificación en esa parte del sur.",
+   "Los módulos llegan en barco al Puerto de Arrecife y bajan por la LZ-2; la llanura del Rubicón facilita la grúa.",
+   "Con el alisio del nordeste, el módulo puede hacer de pantalla y dejar el patio a sotavento.",
+   "Cerca del paseo marítimo el salitre pide imprimación anticorrosión, pintura marina y revisar juntas y soldaduras."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

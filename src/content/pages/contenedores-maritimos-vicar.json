@@ -1811,5 +1811,19 @@
     "html": "<p>En Vícar el extra más útil es la ventilación, porque el calor dentro de un contenedor cerrado puede estropear abonos, semillas o material plástico. Para vestuarios, añade <a href=\"/aislamiento-contenedores/\">aislamiento</a>, aseo y luz. En fincas sin vigilancia compensan las rejas, las cerraduras reforzadas y una instalación solar.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Vícar</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el trayecto desde el puerto de Almería por la A-7 es muy corto, y aquí trabaja casi como una herramienta más del invernadero.",
+  "datos": [
+   "Las explotaciones lo usan como almacén de abonos, cajas, plásticos y herramientas, y como vestuario de cuadrillas.",
+   "Entre invernaderos, sin sitio para estabilizar el camión grúa o con cables cerca, la descarga es más costosa.",
+   "En las naves de comercialización cabe un 40 pies; en caminos estrechos y en el pueblo viejo, el 20 pies.",
+   "Revisa que el suelo de madera esté sano, porque soportará palés y sacos de abono.",
+   "La ventilación evita que el calor estropee abonos, semillas o material plástico dentro del contenedor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

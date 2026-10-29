@@ -1811,5 +1811,19 @@
     "html": "<p>Si el contenedor va a guardar herramientas o productos de la huerta, conviene añadir ventilación y aislamiento, porque la chapa se calienta mucho en los veranos de la vega. En fincas aisladas son útiles las rejas, una cerradura reforzada y una pequeña instalación solar para la luz. Una <a href=\"/pintura-contenedores/\">pintura</a> en tono tierra ayuda a integrarlo en el paisaje.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Aranjuez</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Valencia por carretera y entra por la A-4 o la R-4, puesto en destino.",
+  "datos": [
+   "Las explotaciones de la vega del Tajo lo usan como almacén de cajas, riego y herramientas.",
+   "En tierras húmedas, apóyalo sobre durmientes o bloques para que el aire circule por debajo.",
+   "El casco histórico, con tráfico restringido y fachadas protegidas, es el tramo más delicado.",
+   "Una huerta recién regada o un paso bajo las ramas de los sotos puede obligar a aplazar la descarga.",
+   "Para la campaña de la fresa y el espárrago o las Fiestas del Motín, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

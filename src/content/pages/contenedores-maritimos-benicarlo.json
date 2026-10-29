@@ -1811,5 +1811,19 @@
     "html": "<p>Cerca del mar, una buena pintura anticorrosión es la mejora más importante para un contenedor en Benicarló. En la huerta compensa añadir ventilación para que no se condense humedad dentro y, si la parcela está lejos del casco, rejas y cerraduras reforzadas. Una placa solar pequeña da luz sin necesidad de acometida.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Benicarló</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); suele salir del Puerto de Castelló y sube por la AP-7 o la N-340 hasta la huerta, el puerto o los polígonos.",
+  "datos": [
+   "En la huerta de la alcachofa se usa como almacén de cajas y aperos para los agricultores.",
+   "En el puerto pesquero sirve de cuarto para las redes y el material de los pescadores.",
+   "En la huerta, con caminos estrechos y entradas entre muretes, el 20 pies es más fácil de colocar.",
+   "Cerca del puerto o de la playa, revisa bajos, esquinas y bisagras: el aire salino ataca la pintura dañada.",
+   "Alquilar encaja para la campaña de la alcachofa, las Fallas o una obra con fecha de fin."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

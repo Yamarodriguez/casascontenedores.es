@@ -1811,5 +1811,19 @@
     "html": "<p>En Almansa interesa el <a href=\"/aislamiento-contenedores/\">aislamiento</a> para que el contenedor no sea un horno en verano ni una nevera en invierno, y una ventilación que evite condensaciones. Si va a estar en un lugar expuesto al viento, conviene anclarlo. Las rejas, la pintura en colores corporativos y un kit solar completan el equipamiento según el uso.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Almansa</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde los puertos de Valencia o Alicante por la A-31 y la A-35, y te lo damos puesto en destino.",
+  "datos": [
+   "Las fábricas de calzado y las empresas de los polígonos lo usan como almacén o taller.",
+   "En el campo sirve de caseta de aperos o refugio en fincas de secano y pinar.",
+   "Con viento y heladas sufren las juntas y el techo, donde el agua acumulada se hiela.",
+   "En los polígonos cabe un 40 pies; en las calles que suben al castillo, el 20 pies es lo práctico.",
+   "Si sopla viento fuerte en el corredor, la descarga con grúa se aplaza por seguridad."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

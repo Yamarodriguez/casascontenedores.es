@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo Castro Urdiales, del núcleo a pueblos como Sámano, Otañes, Islares o Mioño, y el precio se da <strong>puesto en destino</strong>. La A-8, la Autovía del Cantábrico, conecta con Bilbao y con Santander, y la N-634 recorre la costa. El Puerto de Bilbao, el de Santander y el Aeropuerto de Bilbao son las referencias logísticas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Castro Urdiales</strong> necesita licencia del Ayuntamiento de Castro Urdiales conforme a la Ley 5/2022 de Cantabria y su planeamiento municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la franja litoral se aplica la Ley de Costas y el casco histórico tiene protección patrimonial.",
+   "En suelo rústico la vivienda nueva es muy restringida: consulta urbanismo antes de comprar la parcela.",
+   "En terrenos de antiguas explotaciones mineras, la cimentación necesita un estudio geotécnico cuidadoso.",
+   "Con lluvias frecuentes y salitre, pide pintura de calidad marina y un aislamiento continuo con barrera de vapor.",
+   "Los módulos llegan por la A-8 o la N-634, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

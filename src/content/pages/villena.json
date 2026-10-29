@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo el término de Villena y el precio se da <strong>puesto en destino</strong>. La A-31 atraviesa el municipio y lo une con Alicante y Madrid, y desde su entorno salen las conexiones por autovía hacia Yecla y la Región de Murcia. El puerto de referencia es Alicante y el aeropuerto más cercano, el de Alicante-Elche.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Villena</strong> se tramita con licencia del Ayuntamiento de Villena, que aplica su plan general y el TRLOTUP, la ley del suelo valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja en fincas rústicas del campo de viñedo y olivo y en parcelas de las afueras.",
+   "En suelo no urbanizable la vivienda aislada solo se permite con condiciones estrictas, y las sierras suman limitaciones.",
+   "Los inviernos fríos con heladas exigen aislamiento grueso, barrera de vapor y carpinterías de calidad.",
+   "El terreno llano y el acceso por la A-31 facilitan el transporte; cerca de antiguas zonas húmedas, estudia la cimentación.",
+   "El plazo ronda los 4 a 7 meses; evita montar en las fiestas de Moros y Cristianos de septiembre."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

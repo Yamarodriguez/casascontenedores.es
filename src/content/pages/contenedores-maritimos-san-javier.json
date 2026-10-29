@@ -1811,5 +1811,19 @@
     "html": "<p>Cerca del Mar Menor, el extra más importante es una buena <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> de calidad marina. Para almacenes agrícolas, el aislamiento del techo y las rejillas de ventilación reducen el calor interior en verano. Y si el contenedor queda en una finca aislada, rejas, cerraduras de seguridad y una pequeña instalación solar dan tranquilidad y luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en San Javier</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Cartagena por la AP-7 y te lo damos puesto en destino.",
+  "datos": [
+   "Los agricultores del Campo de Cartagena lo usan como almacén cerrado de cajas y maquinaria.",
+   "En la costa lo aprovechan escuelas de vela, chiringuitos y empresas de alquiler de embarcaciones.",
+   "En La Manga los accesos estrechos pueden obligar a usar grúa o camiones más pequeños.",
+   "Cerca de la laguna revisa esquinas, largueros y bisagras: la humedad salina acelera la corrosión.",
+   "El alquiler encaja en campañas agrícolas, en el verano de la costa o en los festivales de jazz y teatro."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

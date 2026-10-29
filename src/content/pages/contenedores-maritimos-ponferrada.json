@@ -1811,5 +1811,19 @@
     "html": "<p>En Ponferrada hay que pensar en el frío: <a href=\"/aislamiento-contenedores/\">aislamiento</a> si se va a trabajar dentro o a guardar producto delicado, y ventilación para que las nieblas no condensen en el techo. Un tono pizarra lo integra en los pueblos de la comarca. Para una finca aislada, rejas, cerraduras de seguridad y un panel solar que alimente la luz y un enchufe.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Ponferrada</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-6, que cruza El Bierzo, con el puerto de Vigo como referencia marítima y precio puesto en destino.",
+  "datos": [
+   "Bodegas de la DO Bierzo, fruticultores y productores de castaña lo usan como almacén en sus fincas.",
+   "En los pueblos de ladera, con curvas y pistas de tierra, lo sensato es el contenedor de 20 pies.",
+   "Las abolladuras del techo acumulan agua y se oxidan antes con los ciclos de hielo y deshielo.",
+   "Con nieve o hielo en las cotas altas, lo prudente es esperar unos días para hacer la entrega.",
+   "Para la vendimia, la recogida de la fruta o las fiestas de la Encina, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

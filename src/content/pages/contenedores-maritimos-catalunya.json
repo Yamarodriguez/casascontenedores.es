@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Catalunya</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Port de Barcelona o del Port de Tarragona, el que quede más cerca de tu comarca, y te lo damos puesto en destino.",
+  "datos": [
+   "En el llano de Lleida es habitual como almacén de fruta, cereal o vino, protegido del sol y la niebla.",
+   "En los polígonos del Vallès y el área metropolitana de Barcelona se usa como módulo de obra u oficina.",
+   "El interior de las Rondas de Barcelona tiene Zona de Bajas Emisiones: revisa antes el acceso del camión.",
+   "En el litoral el salitre obliga a revisar juntas y pintura; en el Pirineo pesa la nieve sobre la cubierta.",
+   "Para obra temporal en el Vallès o almacén de temporada en la costa, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

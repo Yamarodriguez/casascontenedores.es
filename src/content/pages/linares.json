@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en todo el término de Linares con precio <strong>puesto en destino</strong>. Linares enlaza con la A-4, el eje entre Madrid y Andalucía, a la altura de Bailén, y con la A-32 hacia Baeza y Úbeda. El aeropuerto de referencia es el Federico García Lorca Granada-Jaén, y para la mercancía marítima los puertos andaluces más utilizados son los de Málaga, Algeciras y Sevilla.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Linares</strong> necesita licencia del Ayuntamiento de Linares según su planeamiento general y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En zonas del antiguo distrito minero puede haber galerías o rellenos: la cimentación exige estudio previo.",
+   "El entorno del conjunto arqueológico de Cástulo y el patrimonio minero tienen protección.",
+   "Linares está en la zona C4 del CTE: el aislamiento de cubierta es clave contra el calor.",
+   "En el olivar lo práctico suele ser un módulo de apoyo con aseo y almacén para la campaña.",
+   "Los módulos llegan por la A-4, a la altura de Bailén, o por la A-32, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

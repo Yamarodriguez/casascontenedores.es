@@ -1811,5 +1811,19 @@
     "html": "<p>En Ceuta la pintura anticorrosión es el primer extra a valorar, por el salitre. Si el contenedor va a ser oficina, vestuario o almacén de productos sensibles, añade aislamiento y ventilación para combatir la humedad. Para mercancía de valor, cerraduras de seguridad y rejas, y en ubicaciones sin red eléctrica, una pequeña instalación solar.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Ceuta</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); cruza el Estrecho en barco desde el puerto de Algeciras y te lo damos puesto en destino, con el paso incluido.",
+  "datos": [
+   "Con un territorio pequeño y muy urbanizado, sirve de almacén para comercios, caseta de obra o trastero.",
+   "El ambiente marino llega a toda la ciudad: descarta los usados con corrosión que atraviese el metal.",
+   "En barriadas con calles estrechas y en cuesta se usa el 20 pies; el 40 pies, en la zona portuaria.",
+   "Indícanos la fecha al pedir precio, porque el calendario del barco influye en la entrega.",
+   "Para la feria de agosto de la Virgen de África o una obra con fecha de fin, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

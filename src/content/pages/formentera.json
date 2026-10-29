@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en toda Formentera, de La Savina y Sant Francesc a Sant Ferran, Es Pujols, Es Caló y El Pilar de la Mola, con un <strong>precio puesto en destino</strong> que ya incluye el porte. Las piezas llegan en barco al puerto de La Savina desde Ibiza y recorren la isla por su carretera principal, que la atraviesa de punta a punta. El aeropuerto más cercano es el de Ibiza.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Formentera</strong> necesita licencia del Consell Insular, que aquí hace de ayuntamiento, conforme a la Ley 12/2017 de urbanismo de las Illes Balears, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo rústico apenas admite vivienda nueva; fuera de los núcleos, lo realista es ampliar viviendas ya legales.",
+   "La doble insularidad sube el precio: los módulos viajan en barco a Ibiza y luego a La Savina.",
+   "Ningún punto queda lejos del mar, así que la chapa pide chorreado, imprimación y pintura marina.",
+   "La estética exige revestir y encalar la casa, a la escala de las casas payesas.",
+   "Conviene evitar el verano para el montaje, cuando la isla regula la entrada de vehículos."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

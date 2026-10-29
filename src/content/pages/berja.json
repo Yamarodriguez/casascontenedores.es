@@ -2557,5 +2557,19 @@
     "html": "<p>Damos servicio en Berja y sus pedanías con <strong>presupuesto puesto en destino</strong>. El acceso principal es la A-347, que enlaza la A-7, la Autovía del Mediterráneo, a la altura de Adra con la A-348 en Alcolea y cruza el término. Para recibir material, lo más próximo es el Puerto de Almería, con el Aeropuerto de Almería como segundo punto de referencia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Berja</strong> necesita licencia del Ayuntamiento de Berja, que aplica su PGOU y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En las pedanías y las faldas de la Sierra de Gádor abunda el suelo rústico, con límites estrictos para vivir.",
+   "Al pie de la sierra aparece la roca, y la cimentación puede pedir muros de contención.",
+   "Berja está en la zona climática B3: aislamiento para frenar el sol del verano y guardar el calor nocturno.",
+   "Es una zona conocida por la falta de viento, lo que permite porches y grandes ventanales al sur.",
+   "Sin salitre en el ambiente, basta con la protección anticorrosión habitual de la chapa."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

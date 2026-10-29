@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9847,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Getafe</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el Puerto Seco de Madrid, en Coslada, por la A-4, la A-42 o la M-50, con transporte y maniobra de grúa incluidos.",
+  "datos": [
+   "En los polígonos de Los Ángeles, San Marcos o El Rosón se usa como almacén u oficina junto a la nave.",
+   "La cadena de proveedores aeronáuticos en torno a Airbus lo emplea como taller o almacén de componentes.",
+   "En el entorno de la Base Aérea puede haber servidumbres aeronáuticas: confírmalo antes de fijar la descarga.",
+   "Las calles estrechas alrededor de la catedral de la Magdalena limitan el giro de la góndola.",
+   "Cerca del Manzanares conviene reforzar la ventilación frente a la niebla y la humedad."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

@@ -2573,5 +2573,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Huelva</strong> necesita licencia del ayuntamiento de cada municipio de la provincia conforme a la Ley 7/2021 (LISTA) de Andalucía, con informes de Costas en ría y marisma, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la capital rige un PGOU de 1999 adaptado a la LOUA: comprueba sobre qué documento se resuelve tu solicitud.",
+   "En la comarca fresera de Lepe, Moguer y Palos, el suelo rústico solo admite módulos vinculados a la explotación.",
+   "Las Marismas del Odiel son Reserva de la Biosfera y Red Natura 2000, y Doñana suma otra capa de protección.",
+   "En los cabezos bastan zapatas; junto a la marisma, con freático casi superficial, mejor losa o pilotes.",
+   "El salitre de la confluencia del Odiel y el Tinto pide revisar el anticorrosivo más a menudo."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

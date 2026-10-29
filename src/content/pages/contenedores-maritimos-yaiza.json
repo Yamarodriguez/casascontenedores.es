@@ -1811,5 +1811,19 @@
     "html": "<p>En Yaiza, donde el paisaje manda, compensa pintar el contenedor en blanco o en el tono oscuro del picón para que no destaque. Para guardar vino, uva o pienso conviene añadir aislamiento y ventilación, porque el sol del sur calienta mucho la chapa. Y en fincas sin luz, una placa solar y unas rejas resuelven iluminación y seguridad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Yaiza</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); se suma el flete hasta el puerto de Arrecife y el trayecto por la LZ-2, y aquí trabaja sobre todo en el campo y el turismo de naturaleza.",
+  "datos": [
+   "En La Geria guarda aperos y cajas de las viñas de malvasía, y en Uga el pienso de los camellos.",
+   "El viento trae salitre hasta el interior, y la costa de El Golfo o Janubio es muy agresiva.",
+   "En La Geria cabe un 40 pies; en el pueblo y la subida a Femés, mejor el 20 pies.",
+   "Entrar por caminos de picón entre viñas o colocarlo sobre un muro de piedra aumenta el coste.",
+   "Pintarlo en blanco o en el tono oscuro del picón evita que destaque en el paisaje."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

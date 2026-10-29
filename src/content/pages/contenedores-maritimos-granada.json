@@ -1838,5 +1838,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5486,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Granada</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); suele entrar por el Puerto de Motril-Granada y sube por la A-44, con Málaga y Almería como apoyo según disponibilidad.",
+  "datos": [
+   "En los polígonos de Juncaril o Asegra se usa como almacén junto a la nave u oficina modular de obra.",
+   "En la Vega hace de caseta de aperos o almacén de campaña vinculado a la explotación.",
+   "Al Albaicín, el Sacromonte y el Realejo no llega el camión-grúa: la descarga se hace fuera del casco antiguo.",
+   "En invierno, la nieve reduce el gálibo de las carreteras hacia Sierra Nevada y puede retrasar la entrega.",
+   "La sismicidad de la zona obliga a aplicar la norma sismorresistente en anclajes y cimentación."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>En Alcobendas, los extras más pedidos son los que convierten el contenedor en oficina o caseta de obra: aislamiento, ventanas, electricidad y climatización. Para almacén en polígono, cerraduras de seguridad e iluminación. En urbanizaciones, la pintura en un color discreto ayuda a que encaje con el entorno y con las normas de la comunidad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alcobendas</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-1 desde el puerto seco de Coslada, a muy poca distancia, y te lo damos puesto en destino.",
+  "datos": [
+   "Se usa como almacén de empresas, caseta y oficina de obra y trastero temporal en reformas.",
+   "El clima seco de Madrid conserva bien la chapa: en un usado mira que la estructura esté recta.",
+   "En polígonos y solares de obra caben un 40 pies o un High Cube; en patios de chalé, el 20 pies.",
+   "En urbanizaciones con control de acceso o calles con tráfico puede hacer falta permiso de ocupación de vía.",
+   "Para una obra, una mudanza o un evento corporativo con fecha de fin, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

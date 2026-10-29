@@ -1812,5 +1812,19 @@
     "html": "<p>Para un contenedor en la costa de Salobreña lo más útil es una <strong>pintura marina</strong> que frene el salitre, junto con rejillas de ventilación contra la humedad. En las fincas de la vega, cerraduras reforzadas y un pequeño equipo solar permiten usarlo como almacén seguro de fruta y herramientas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Salobreña</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-7 o la N-340, o por mar a través del Puerto de Motril, con precio puesto en destino.",
+  "datos": [
+   "En la vega guarda cajas de aguacate, mango o chirimoya; en la playa, hamacas, sombrillas y material de negocio.",
+   "En las calles empinadas al pie del peñón lo práctico es el 20 pies; en la vega llana entra un 40 pies.",
+   "Cerca del mar, déjalo bien pintado y con ventilación desde el principio para que no se quede la humedad salina.",
+   "En algunos carriles de la vega el tráiler largo no siempre gira: comprueba el acceso antes de comprar.",
+   "Para la temporada de playa, la recogida de fruta o las fiestas de la Virgen del Rosario, alquilar encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

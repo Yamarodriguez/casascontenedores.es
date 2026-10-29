@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5595,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Valladolid</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); como la provincia no tiene puerto, llega por carretera desde el Puerto de Bilbao por la A-62 o la A-11.",
+  "datos": [
+   "La automoción de los polígonos de la capital y el alfoz lo usa como oficina de obra o almacén auxiliar.",
+   "La industria agroalimentaria y del vino lo emplea como almacén o cámara de campaña, y el campo como caseta de aperos.",
+   "Para recambios basta un 20 pies, con unos 13,9 m² interiores; el 40 pies ofrece unos 28,3 m².",
+   "Las nieblas por inversión térmica y las heladas piden apoyos nivelados, buen drenaje y revisar la pintura.",
+   "Junto al Pisuerga o el Esgueva, comprueba antes el riesgo de inundación con el ayuntamiento."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

@@ -2557,5 +2557,19 @@
     "html": "<p>Damos servicio en Albuñol y en todos sus núcleos, de La Rábita a El Pozuelo. Por tierra se entra con la autovía A-7 y la N-340, que recorren la costa; si viene por mar, el puerto de referencia es el Puerto de Motril. Para subir a la Contraviesa se estudia el camino concreto, y el presupuesto se da siempre <strong>puesto en destino</strong>.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Albuñol</strong> necesita licencia del Ayuntamiento de Albuñol, también para La Rábita y El Pozuelo, conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En La Rábita o El Pozuelo encaja un módulo de playa; en la Contraviesa, una caseta en finca de viña.",
+   "En el suelo rústico de muchas fincas de la sierra, la vivienda está muy restringida.",
+   "Cerca de la rambla de Albuñol o la de Huarea, consulta la cartografía de inundabilidad antes de diseñar.",
+   "Frente al Mediterráneo el acero pide tratamiento anticorrosión; en la sierra, las curvas encarecen la grúa.",
+   "Los módulos llegan por la A-7 y la N-340, con el Puerto de Motril como referencia por mar."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

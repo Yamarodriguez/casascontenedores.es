@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todo el término de Aranjuez y el precio se da <strong>puesto en destino</strong>. Desde Madrid la vía principal es la A-4, la Autovía del Sur, y la R-4 de peaje como alternativa; la M-305 enlaza con Chinchón y la comarca de Las Vegas. Como referencias logísticas quedan el Aeropuerto Adolfo Suárez Madrid-Barajas y, para los contenedores que llegan por mar, el puerto de Valencia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Aranjuez</strong> necesita licencia del Ayuntamiento de Aranjuez conforme a su planeamiento y a la Ley 9/2001 del Suelo de la Comunidad de Madrid, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Tiene sentido sobre todo en urbanizaciones y parcelas alejadas del conjunto histórico, Patrimonio Mundial.",
+   "Cerca de El Regajal y el Mar de Ontígola las restricciones aumentan: pregunta antes en urbanismo.",
+   "Las tierras de vega del Tajo y el Jarama son blandas y a menudo inundables: hay que elevar la casa.",
+   "En los páramos aparecen yesos que conviene estudiar antes de hormigonar la cimentación.",
+   "Los módulos llegan por la A-4 o la R-4; con heladas o lluvias fuertes, la vega se vuelve barro."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

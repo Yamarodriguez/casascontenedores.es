@@ -1812,5 +1812,19 @@
     "html": "<p>Con los veranos del valle, la transformación más útil en Andújar es el <strong>aislamiento térmico</strong> con ventilación. Si la finca de sierra queda lejos de todo, unas rejas, un cierre reforzado y un pequeño equipo solar dejan el contenedor como almacén cerrado y con luz propia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Andújar</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la autovía A-4, que recorre el sur del término, y te lo damos puesto en destino.",
+  "datos": [
+   "En la vega sirve de almacén en fincas de olivar, cereal o algodón; en la sierra, de caseta en cotos de caza.",
+   "En la vega y los polígonos entra un 40 pies; en las pistas de Sierra Morena, mejor el de 20 pies.",
+   "Con el calor del valle, píntalo en color claro y añade ventilación si va a estar a pleno sol.",
+   "Subir a una finca de sierra por pista puede requerir un camión más pequeño o una grúa de más alcance.",
+   "Para la romería de la Virgen de la Cabeza o una montería, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

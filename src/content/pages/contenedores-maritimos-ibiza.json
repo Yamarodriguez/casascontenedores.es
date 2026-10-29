@@ -1811,5 +1811,19 @@
     "html": "<p>Con el sol y el salitre de Ibiza, la pintura protectora y el aislamiento son casi obligados si el contenedor va a durar o a usarse como oficina o vestuario. Para negocios, la pintura también permite que quede integrado con la estética de la isla. Rejas, cerradura de seguridad y una placa solar son muy útiles en fincas sin luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Ibiza</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); viaja en barco desde la península hasta el puerto de Eivissa, y en la isla ese trayecto marítimo ya va incluido en el presupuesto.",
+  "datos": [
+   "Muchas fincas están al final de caminos estrechos con muros de piedra: el 20 pies es el más habitual.",
+   "El 40 pies encaja en polígonos, hoteles con patios amplios y solares con buen acceso.",
+   "De mayo a octubre, hoteles, clubes y empresas de eventos alquilan almacén extra para mobiliario y bebidas.",
+   "Programar la entrega fuera de la temporada alta suele facilitar mucho la operación.",
+   "Si va a quedar fijo en suelo rústico, consulta antes con el ayuntamiento o el Consell."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

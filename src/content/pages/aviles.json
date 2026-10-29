@@ -2556,5 +2556,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1536,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Avilés</strong> necesita licencia del Ayuntamiento de Avilés, según su Plan General de Ordenación y el TROTU, el Decreto Legislativo 1/2004 de Asturias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Avilés está en la zona climática C1 y el salitre de la ría pide un tratamiento anticorrosión reforzado.",
+   "En la marisma rellenada el nivel freático es alto, así que los apoyos deben ir elevados.",
+   "El casco antiguo es Conjunto Histórico-Artístico, con calles como Galiana o el Rivero y condiciones adicionales.",
+   "Además de la licencia de primera ocupación, hace falta la cédula de habitabilidad del Principado.",
+   "Las líneas regulares de contenedores llegan a El Musel, en Gijón; desde allí, el módulo viaja por carretera."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

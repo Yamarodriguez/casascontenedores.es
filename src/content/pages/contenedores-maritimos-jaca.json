@@ -1811,5 +1811,19 @@
     "html": "<p>En el clima de Jaca el <a href=\"/aislamiento-contenedores/\">aislamiento</a> y la ventilación son casi obligatorios si el contenedor guarda material de esquí o ropa, para evitar condensación y moho. Una instalación eléctrica con iluminación y enchufes facilita el trabajo en tiendas y escuelas. La pintura en tonos oscuros o el revestimiento de madera ayudan a cumplir las normas estéticas de montaña.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Jaca</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-23 y la N-330, y en invierno la nieve puede aplazar la entrega.",
+  "datos": [
+   "Guarda equipos de esquí y turismo activo, sirve de caseta de obra y resguarda leña y forraje en el valle.",
+   "En uno usado revisa el techo: la nieve acumulada pesa y cualquier abolladura retiene agua que se congela.",
+   "Por las curvas y los accesos estrechos, el 20 pies suele ser lo práctico; en polígonos cabe un 40 pies.",
+   "Las entregas se planifican fuera de los días de nevada, porque en invierno pueden exigirse cadenas.",
+   "Para la temporada de esquí o una obra de verano, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

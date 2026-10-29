@@ -1812,5 +1812,19 @@
     "html": "<p>En una finca del valle de Agaete encajan rejas y <a href=\"/seguridad-contenedores/\">cerraduras de seguridad</a>, ventilación contra la humedad y una placa solar para la luz. Junto al puerto, la prioridad es una <strong>pintura marina contra el salitre</strong> y un buen aislamiento si va a guardar género de hostelería.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Puerto de las Nieves</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por mar a Gran Canaria y sube por la GC-2 hasta Agaete, con presupuesto hasta la dirección de entrega.",
+  "datos": [
+   "Junto al muelle hace de almacén pesquero o de hostelería; valle arriba, de cuarto de aperos en fincas de café y mango.",
+   "En fincas de ladera con accesos empinados encaja el 20 pies; junto al muelle cabe un 40 pies.",
+   "En el valle, más húmedo, vigila las entradas de agua por el techo; junto al puerto, el óxido del salitre.",
+   "Cerca del Parque Natural de Tamadaba o en suelo rústico, consulta antes al Ayuntamiento de Agaete.",
+   "Para la cosecha del valle o la Fiesta de la Rama, en agosto, el alquiler por temporada encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

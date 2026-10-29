@@ -1811,5 +1811,19 @@
     "html": "<p>En Benalmádena, cerca del mar, la <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> es casi imprescindible. Si el contenedor se va a usar como oficina o taller, el aislamiento y la instalación eléctrica lo hacen habitable. Para un almacén náutico conviene añadir ventilación, y en zonas con poco movimiento, rejas y una cerradura reforzada.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Benalmádena</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del puerto de Málaga, entra por la A-7 o la AP-7 y te lo dejamos en el punto exacto que indiques.",
+  "datos": [
+   "En Puerto Marina se usa para material náutico, y en la hostelería y el ocio como trastero.",
+   "Con el aire salino del litoral, revisa bajos, esquinas y juntas, y dale una mano de pintura protectora.",
+   "En muchas calles y parcelas solo cabe un 20 pies, que se maneja mejor en las curvas de las urbanizaciones.",
+   "Las calles empinadas, los aparcamientos llenos de la Costa y el poco espacio del Pueblo obligan a planificar la descarga.",
+   "Para una reforma, una obra o la temporada alta del puerto, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

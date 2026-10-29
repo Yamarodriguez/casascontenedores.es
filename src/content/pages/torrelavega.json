@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo Torrelavega y el precio se da <strong>puesto en destino</strong>. La A-8, la Autovía del Cantábrico, conecta con Santander y Asturias, y la A-67 enlaza con Santander y con la Meseta por el valle del Besaya. El Puerto de Santander y el Aeropuerto Seve Ballesteros-Santander son las referencias logísticas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Torrelavega</strong> necesita licencia del Ayuntamiento de Torrelavega conforme a la Ley 5/2022 de Cantabria y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En las zonas inundables del Besaya y el Saja rigen las limitaciones de la planificación hidrológica.",
+   "En suelo rústico la vivienda nueva está muy restringida; en los pueblos encaja como anexo, taller o almacén ganadero.",
+   "Los terrenos de aluvión de la vega piden una cimentación estudiada.",
+   "La lluvia frecuente obliga a invertir en impermeabilización, cubiertas con pendiente y aleros amplios.",
+   "Los módulos llegan bien conectados por la A-8 y la A-67, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

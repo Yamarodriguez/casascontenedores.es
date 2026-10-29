@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo Boadilla del Monte, del casco y el entorno del palacio a las urbanizaciones, siempre con <strong>precio puesto en destino</strong>. La casa llega por la M-50, que pasa junto al municipio, o por la M-501, la carretera de los pantanos. Si algún módulo es de importación, entra por el puerto de Valencia. El Aeropuerto Adolfo Suárez Madrid-Barajas es la referencia aérea.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Boadilla del Monte</strong> necesita licencia del ayuntamiento con su Plan General, dentro de la Ley 9/2001 del Suelo de la Comunidad de Madrid, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Urbanizaciones como Las Lomas o Valdepastores pueden fijar normas propias de acabados, colores y cubiertas.",
+   "El monte forma parte del Parque Regional del Curso Medio del Río Guadarrama, donde no se levantan viviendas.",
+   "Las encinas y los pinos protegidos limitan dónde se apoya la grúa y pueden pedir algún informe.",
+   "Boadilla está en la zona climática D3: aislamiento cuidado, sin puentes térmicos y carpinterías herméticas.",
+   "Si la calle de la urbanización es privada, acuerda con la comunidad el paso del camión y la grúa."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

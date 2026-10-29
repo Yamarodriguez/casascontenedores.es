@@ -1838,5 +1838,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4079,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Barcelona</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); buena parte sale directamente de las terminales del Port de Barcelona y entra por las Rondes, la A-2 o la AP-7.",
+  "datos": [
+   "En el entorno del 22@ se usa para oficinas modulares y espacios de coworking.",
+   "En la Zona Franca sirve de nave auxiliar para la industria, con buen acceso desde las Rondes.",
+   "Dentro de las Rondes B-10 y B-20, el camión necesita distintivo ambiental en días laborables.",
+   "En los deltas del Besòs y del Llobregat, con suelo blando y nivel freático alto, la base necesita más refuerzo.",
+   "Descargar en la calle casi siempre exige permiso de ocupación de vía pública, sobre todo en las superilles."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

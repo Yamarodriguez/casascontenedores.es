@@ -1827,5 +1827,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en La Rioja</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por carretera desde el Puerto de Bilbao por la AP-68, sin puerto riojano de por medio.",
+  "datos": [
+   "El suelo industrial de El Sequero, entre Arrúbal y Agoncillo, concentra buena parte de la descarga.",
+   "En las bodegas de la DOCa Rioja trabaja como caseta o almacén de aperos y maquinaria.",
+   "El cierzo del valle del Ebro exige anclajes firmes y puertas y ventanas bien selladas.",
+   "En un viñedo de suelo no urbanizable hay que tramitar declaración responsable o licencia antes de instalarlo.",
+   "Logroño es el único municipio riojano obligado a delimitar una zona de bajas emisiones."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2557,5 +2557,19 @@
     "html": "<p>Atendemos Ohanes con un <strong>presupuesto que llega hasta la parcela</strong>. El camión llega por la A-348, que cruza el municipio, y sube al pueblo por la AL-3404, entre Canjáyar y Abla, o por la AL-4402 desde Beires. Lo más cercano en puerto y aeropuerto es, en ambos casos, Almería.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Ohanes</strong> necesita licencia del Ayuntamiento de Ohanes, que aplica la Ley 7/2021 (LISTA) de Andalucía y el planeamiento municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Parte del término está en el Parque Nacional y el Parque Natural de Sierra Nevada, con la construcción muy restringida.",
+   "Fuera de los parques, en suelo rústico, la vivienda también está muy limitada.",
+   "Ohanes está en zona D3 del CTE: aislamiento generoso, rotura de puente térmico y barrera de vapor.",
+   "La AL-4402 y la AL-3404 son estrechas y con curvas, y limitan el tamaño del camión y la grúa.",
+   "En la ladera, los módulos de 20 pies se suben mejor y se escalonan en terrazas."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

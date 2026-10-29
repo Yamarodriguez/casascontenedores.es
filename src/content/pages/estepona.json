@@ -2728,5 +2728,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Estepona</strong> necesita licencia de obra mayor del Ayuntamiento de Estepona sobre su PGOU, conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La falda de Sierra Bermeja es suelo rústico de especial protección por la Red Natura 2000: ahí la vivienda casi nunca cabe.",
+   "Toda la fachada litoral está sujeta a la Ley de Costas y su servidumbre de protección.",
+   "En las urbanizaciones de ladera se puede construir, pero la cimentación se adapta a la pendiente.",
+   "Los arroyos que bajan de la sierra crean zonas inundables: revisa la cartografía antes de comprar la parcela.",
+   "El PGOU vigente es de 1994, así que pide la calificación urbanística exacta antes de firmar el proyecto."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

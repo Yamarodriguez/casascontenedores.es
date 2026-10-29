@@ -1811,5 +1811,19 @@
     "html": "<p>En Mérida el extra más útil es el <a href=\"/aislamiento-contenedores/\">aislamiento</a>, porque con el sol del verano extremeño el interior de un contenedor sin tratar se vuelve un horno. La ventilación y una pintura clara en la cubierta ayudan mucho. En fincas aisladas compensan las rejas, las cerraduras reforzadas y un panel solar para la luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Mérida</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); como Extremadura no tiene costa, suele llegar desde el puerto de Sevilla por la A-66, la Ruta de la Plata.",
+  "datos": [
+   "En las Vegas del Guadiana las explotaciones de regadío lo usan como almacén de aperos y abonos.",
+   "El Festival de Teatro Clásico lo usa en verano como camerino y apoyo logístico.",
+   "Lejos del mar la corrosión avanza despacio, pero el sol marca abolladuras y pintura vieja del techo.",
+   "En el casco histórico, con calles estrechas y paso limitado, o en fincas de dehesa, mejor el 20 pies.",
+   "Para la campaña de riego o de recolección en las vegas, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

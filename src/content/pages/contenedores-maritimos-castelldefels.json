@@ -1811,5 +1811,19 @@
     "html": "<p>Cerca del mar, la mejor inversión en Castelldefels es una <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> de calidad marina. Para guardar material náutico conviene añadir ventilación que evite olores y moho. En negocios de playa, rejas y cerradura reforzada; y si no hay acometida, una pequeña instalación solar para la luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Castelldefels</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el Puerto de Barcelona está muy cerca, así que pesa más la descarga que la distancia.",
+  "datos": [
+   "Clubes náuticos, escuelas de vela y kitesurf y chiringuitos lo usan para guardar tablas, velas y material de temporada.",
+   "En la ladera del Garraf, con calles empinadas y curvas cerradas, el 20 pies suele ser la única opción.",
+   "En el llano y los polígonos cercanos a la C-32, un 40 pies o un High Cube entra sin dificultad.",
+   "Junto a la playa la chapa usada sufre más: revisa el óxido en bajos, esquinas y bisagras.",
+   "Para la temporada de playa o una obra en las urbanizaciones, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

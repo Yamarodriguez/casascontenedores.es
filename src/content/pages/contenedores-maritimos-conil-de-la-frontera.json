@@ -1811,5 +1811,19 @@
     "html": "<p>En Conil, junto al Atlántico, la <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> es lo primero que se añade. Para almacenar hortalizas o material de pesca conviene ventilación, y para usar el contenedor como oficina de una escuela de surf, aislamiento y electricidad. En la campiña, una placa solar soluciona la luz sin necesidad de red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Conil de la Frontera</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del puerto de la Bahía de Cádiz y entra por la A-48 o la N-340, con el viento y el salitre como factores clave.",
+  "datos": [
+   "Sirve de almacén en las huertas de la campiña y de cuarto de material para la almadraba y el puerto.",
+   "En los carriles de huertas, con arena blanda o curvas cerradas, el 20 pies es la medida más práctica.",
+   "Con levante fuerte la grúa puede no trabajar: tenlo en cuenta al fijar el día de la entrega.",
+   "Con el salitre atlántico, revisa bajos, esquinas, juntas y cierres, y píntalo antes de colocarlo cerca del mar.",
+   "Para la campaña de la almadraba o el verano, con fecha de fin, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

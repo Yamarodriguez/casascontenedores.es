@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5490,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en León</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por carretera desde el Puerto de Gijón (El Musel) por la AP-66 y la A-66.",
+  "datos": [
+   "En el alfoz se usa como almacén de la industria farmacéutica y agroalimentaria; en la vega, para aperos.",
+   "En la zona E1 los apoyos no deben moverse con la helada y las juntas no deben agarrotarse con el hielo.",
+   "Las nevadas y los puertos de montaña hacia Asturias pueden obligar a ajustar la fecha de entrega.",
+   "La vega del Bernesga conserva riesgo de inundabilidad: compruébalo antes de elegir la parcela.",
+   "Para una obra o un traslado, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

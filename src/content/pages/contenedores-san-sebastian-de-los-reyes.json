@@ -1813,5 +1813,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 10196,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en San Sebastián de los Reyes</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del punto de distribución más cercano de la Comunidad de Madrid y te lo damos puesto en destino.",
+  "datos": [
+   "En los polígonos industriales del municipio funciona como almacén o taller auxiliar.",
+   "En los chalés de las urbanizaciones residenciales se usa como trastero o caseta de jardín.",
+   "Veranos calurosos e inviernos fríos: prevé ventilación cruzada y apoyos nivelados que eviten la humedad bajo el módulo.",
+   "El Ayuntamiento puede pedir declaración responsable o licencia de obra menor según el uso y la duración.",
+   "Para una caseta u oficina de obra con fecha de fin, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

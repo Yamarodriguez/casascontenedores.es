@@ -2557,5 +2557,19 @@
     "html": "<p>Nuestra zona de servicio abarca Almuñécar entero, desde la playa hasta los valles interiores. Por carretera entra con la autovía A-7 o la N-340, que enlazan con Málaga y con Motril; como referencias de llegada están el Puerto de Motril y el Aeropuerto de Málaga-Costa del Sol. El presupuesto se da <strong>puesto en destino</strong>, según el acceso real.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Almuñécar</strong> necesita licencia del Ayuntamiento de Almuñécar conforme a su PGOU y a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Lo habitual es una segunda residencia o alojamiento turístico junto al mar, o una casa de campo entre subtropicales.",
+   "Los Peñones de San Cristóbal y la ZEC Tesorillo-Salobreña tienen su propia protección en la costa.",
+   "Las fincas en bancal de los valles del Verde y del Seco piden cimentación adaptada y una grúa con alcance.",
+   "Cerca de la playa, el salitre exige pintura marina y tornillería inoxidable.",
+   "Los módulos llegan por la A-7 o la N-340; descargar en pleno verano complica la maniobra."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

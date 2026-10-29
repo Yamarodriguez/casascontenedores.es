@@ -1812,5 +1812,19 @@
     "html": "<p>Según la zona, en Candelaria cambian las mejoras útiles. En la costa, <strong>pintura antisalitre</strong> y ventilación. En medianías, <a href=\"/aislamiento-contenedores/\">aislamiento del contenedor</a> frente al fresco y la humedad, y placas solares en parcelas sin luz. Para negocios, iluminación interior, estanterías y cerraduras reforzadas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Candelaria</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del cercano Puerto de Santa Cruz de Tenerife y llega por la TF-1 o la TF-28, lo que contiene el transporte.",
+  "datos": [
+   "En la costa sirve de almacén a comercios, hostelería y empresas de obra del área de Santa Cruz.",
+   "En las laderas del Valle de Güímar se usa como trastero o cuarto de aperos en parcelas familiares.",
+   "En la costa entra sin problema un 40 pies; en los barrios de medianías, lo práctico es el 20 pies.",
+   "Abajo revisa el óxido por salitre; arriba, la estanqueidad de puertas y juntas frente a la humedad.",
+   "Las peregrinaciones a la Basílica generan necesidades temporales de almacén que el alquiler resuelve bien."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

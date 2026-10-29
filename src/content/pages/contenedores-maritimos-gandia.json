@@ -1811,5 +1811,19 @@
     "html": "<p>Para la huerta, el extra más útil es la ventilación, que evita que la fruta o el material se recalienten. En la playa, la pintura anticorrosión protege del salitre. Si vas a usar el contenedor como oficina de obra o caseta de vigilancia, añade aislamiento y luz; y si queda en un campo apartado, rejas y una placa solar.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Gandía</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Valencia por la AP-7 o la N-332, y lo difícil suele ser el último tramo por los caminos de la huerta.",
+  "datos": [
+   "Entre acequias y naranjos que tapan el giro, en el campo manda el 20 pies.",
+   "Los almacenes de cítricos, el polígono y los solares cerca de la playa admiten un 40 pies o un High Cube.",
+   "En el Grau y la playa, con humedad salina alta, elige chapa más entera y dale una mano de pintura.",
+   "El alquiler encaja con la campaña de la naranja, las obras de invierno en la playa y las Fallas.",
+   "Para la huerta, el extra más útil es la ventilación, que evita que la fruta se recaliente."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1827,5 +1827,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Jaén</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Málaga por la A-45 o desde Algeciras.",
+  "datos": [
+   "En el olivar sustituye a la nave tradicional como almacén de aperos y cosecha.",
+   "En almazaras y cooperativas trabaja como módulo auxiliar, sobre todo en campaña.",
+   "En el casco antiguo de la capital, en ladera, la grúa necesita un tramo de acceso amplio y llano.",
+   "En zona C4 un contenedor sin ventilación cruzada acumula mucho calor; ayuda pintar la cubierta en claro.",
+   "Entregamos en toda la provincia, incluidas la campiña y las comarcas de Úbeda y Baeza."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

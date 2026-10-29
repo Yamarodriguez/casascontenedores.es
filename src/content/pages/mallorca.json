@@ -2665,5 +2665,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 5772,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Mallorca</strong> necesita la llicència municipal d'obres del ayuntamiento y cumplir la Ley 12/2017 de urbanismo de las Illes Balears y el PTIM, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Todo módulo cruza primero en barco hasta Palma o Alcúdia, y hay que reservar bodega en el ferry de carga.",
+   "Predomina el sòl rústic, con usos estrictos; el suelo urbano se concentra en Palma, Alcúdia y la costa.",
+   "La Serra de Tramuntana es Patrimonio Mundial y tiene la máxima protección frente a cualquier construcción nueva.",
+   "Casi toda la isla está en zona B3 del CTE, con humedad muy alta todo el año y salitre en costa.",
+   "El terreno calcáreo con karst simplifica la cimentación, salvo en rellenos o zonas bajas."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

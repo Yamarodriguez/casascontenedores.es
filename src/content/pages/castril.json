@@ -2557,5 +2557,19 @@
     "html": "<p>Damos servicio en Castril y en sus cortijos y pedanías. El contenedor llega por la A-326, la carretera que une Huéscar con Pozo Alcón y pasa junto al pueblo; para los tramos de sierra se estudia el acceso concreto. El presupuesto se da <strong>puesto en destino</strong>, contando con el transporte y la descarga hasta tu parcela.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Castril</strong> necesita licencia del Ayuntamiento de Castril conforme a la Ley 7/2021 (LISTA) de Andalucía y encaja más como casa rural o refugio de sierra, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El Parque Natural Sierra de Castril ocupa buena parte del término y la Peña es Monumento Natural: allí apenas se edifica.",
+   "En suelo rústico la vivienda depende de condiciones muy estrictas; averigua primero la clase de suelo de tu parcela.",
+   "Las heladas y nevadas del Altiplano piden más aislamiento y barrera de vapor contra la condensación en el acero.",
+   "Las pistas de montaña y las calles bajo la peña pueden exigir un camión más corto o una grúa de más brazo.",
+   "Los módulos llegan por la A-326, entre Huéscar y Pozo Alcón, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

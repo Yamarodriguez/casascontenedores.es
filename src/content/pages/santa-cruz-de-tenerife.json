@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo el término de Santa Cruz de Tenerife, del centro a los caseríos de Anaga, y el precio se da puesto en destino, con el barco incluido. Los módulos desembarcan en el propio Puerto de Santa Cruz y salen por la TF-5 hacia el norte, la TF-1 hacia el sur o la TF-11 hacia San Andrés. Los aeropuertos de Tenerife Norte y Tenerife Sur son las referencias aéreas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Santa Cruz de Tenerife</strong> necesita licencia del Ayuntamiento de Santa Cruz de Tenerife según su Plan General y la Ley 4/2017 del Suelo de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Buena parte del término está en el Parque Rural de Anaga, con un plan rector que limita mucho lo nuevo.",
+   "En El Sobradillo o Barranco Grande, con parcelas amplias, encaja una vivienda de dos o tres módulos.",
+   "Los módulos llegan en barco desde la península, y las calles empinadas complican la llegada de la grúa.",
+   "Zona climática α3: el aislamiento sirve sobre todo para evitar el sobrecalentamiento de la chapa y la condensación.",
+   "En las laderas funcionan mejor los módulos escalonados, con cimentaciones a distinta cota."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

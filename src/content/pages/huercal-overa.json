@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo el término de Huércal-Overa y el precio se da puesto en destino. Los módulos llegan por la A-7, la Autovía del Mediterráneo, que conecta el municipio con Murcia y con Almería, y por la autovía del Almanzora hacia el interior del valle. Los puertos de Almería y Cartagena y el Aeropuerto de Almería son las referencias logísticas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Huércal-Overa</strong> necesita licencia del Ayuntamiento de Huércal-Overa según su planeamiento y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Levantar una vivienda nueva en el campo es muy difícil: lo seguro es buscar suelo urbano en el casco o las pedanías.",
+   "En las ramblas hay que estudiar bien la cimentación frente a las avenidas de agua.",
+   "Los veranos muy calurosos del interior piden aislamiento grueso, cámara ventilada y colores claros.",
+   "Evita montar con las tormentas de otoño, que dejan los caminos de tierra intransitables unos días.",
+   "Los módulos llegan por la A-7 o por la autovía del Almanzora, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

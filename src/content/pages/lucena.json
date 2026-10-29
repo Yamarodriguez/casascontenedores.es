@@ -2556,5 +2556,19 @@
     "html": "<p>En Lucena y sus aldeas entregamos la casa con el precio cerrado <strong>puesto en destino</strong>. La A-45, la autovía entre Córdoba y Antequera, pasa junto a la ciudad y la conecta con Córdoba al norte y con Málaga al sur. El puerto de Málaga y los aeropuertos de Málaga y Córdoba son las referencias logísticas más cercanas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Lucena</strong> necesita licencia del Ayuntamiento de Lucena conforme a su planeamiento general y a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En ensanches y urbanizaciones funciona una vivienda de dos alturas con terraza sobre el porche.",
+   "En las lomas hacia la Sierra de Aras, la pendiente y los carriles estrechos encarecen grúa y cimentación.",
+   "Las zonas próximas a espacios naturales de la Subbética o a vías pecuarias tienen limitaciones añadidas.",
+   "Con veranos calurosos y heladas en las lomas, pide aislamiento continuo y buena carpintería.",
+   "Los módulos llegan por la A-45, entre Córdoba y Antequera, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

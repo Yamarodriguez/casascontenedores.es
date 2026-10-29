@@ -2577,5 +2577,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Valladolid</strong> necesita licencia de obra mayor del ayuntamiento de cada municipio de la provincia, conforme a la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Lo más frecuente es una parcela urbana en la capital o en un municipio del alfoz.",
+   "En suelo rústico la ley solo admite usos vinculados a la explotación agraria, no una vivienda libre.",
+   "La capital está en la zona climática D2, y las cotas altas de la provincia suben a E1: aislamiento continuo por fuera.",
+   "El Pisuerga y el Esgueva tienen tramos con antecedentes de inundación: consulta la cartografía antes de construir.",
+   "En Castilla y León no hay cédula de habitabilidad: al acabar se pide la licencia de primera ocupación."
+  ],
+  "enlace": {
+   "texto": "permisos por municipio",
+   "destino": "/permisos/"
+  }
  }
 }

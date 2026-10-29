@@ -1811,5 +1811,19 @@
     "html": "<p>Para Aranda lo más útil es el <a href=\"/aislamiento-contenedores/\">aislamiento</a>, que amortigua el salto entre el calor de agosto y las heladas de enero, junto con aireadores que eviten goteos por condensación. Si va a quedar a la vista entre viñedos, un tono tierra lo integra. En fincas alejadas, refuerza la puerta con una reja y añade un pequeño equipo fotovoltaico para la luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Aranda de Duero</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra normalmente por Bilbao o Santander y llega por la A-1, la A-11 o la N-122, puesto en destino.",
+  "datos": [
+   "Las bodegas de la Ribera del Duero lo usan como almacén de cajas, botellas o barricas vacías.",
+   "Sin salitre, lo que castiga a un usado son las heladas en las juntas y el agua en las abolladuras del techo.",
+   "En el llano y los polígonos entra un 40 pies; por un camino de viñedo con curvas, mejor el de 20 pies.",
+   "Las pistas entre viñas y los caminos de concentración parcelaria se embarran con lluvia.",
+   "Para la vendimia o el festival Sonorama de agosto, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

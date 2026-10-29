@@ -1812,5 +1812,19 @@
     "html": "<p>En el clima húmedo del Valle de La Orotava, lo que más aprovecha a un contenedor son las rejillas de ventilación y un tratamiento contra la condensación. Las huertas de medianías sin vecinos cerca piden cerraduras de seguridad y, si hace falta luz, un pequeño equipo fotovoltaico. Cerca del mar, pintura marina.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Los Realejos</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el Puerto de Santa Cruz de Tenerife por la Autopista del Norte, y lo que más varía es la descarga.",
+  "datos": [
+   "En la costa guarda cajas y abonos de las plataneras; en medianías, aperos de las huertas de papas.",
+   "Con el alisio lo importante es la estanqueidad: gomas en buen estado y techo sin abolladuras.",
+   "Las calles empinadas y los bancales hacen del 20 pies el tamaño más práctico.",
+   "En un bancal de medianías la grúa necesita más alcance o maniobras extra.",
+   "Para las Cruces y Fuegos de Mayo o una reforma, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

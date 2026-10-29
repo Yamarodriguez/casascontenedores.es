@@ -1811,5 +1811,19 @@
     "html": "<p>Con el calor del Guadalentín, el aislamiento y la ventilación son imprescindibles si vas a guardar piensos, productos fitosanitarios o material delicado. En granjas y fincas aisladas, unas rejas y una cerradura reforzada evitan sustos. Si no hay luz cerca, una pequeña instalación solar ilumina el interior y carga herramientas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Lorca</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega sobre todo desde el puerto de Cartagena por la A-7, y en un término tan extenso la distancia pesa en el precio.",
+  "datos": [
+   "En el valle del Guadalentín guarda piensos y aperos, o sirve de caseta en granjas de porcino.",
+   "El clima seco trata bien la chapa, pero el sol de verano reseca las juntas de las puertas.",
+   "En los llanos cabe un 40 pies; en pedanías de sierra con pistas estrechas, mejor el 20 pies.",
+   "Las lluvias torrenciales pueden dañar las pistas rurales: avisa si hay ramblas que cruzar.",
+   "Para la Semana Santa, la Feria de septiembre o una campaña agrícola, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

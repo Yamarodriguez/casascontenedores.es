@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos el término de Loja entero, del casco a las fincas de la sierra, y la cifra que te damos es puesto en destino, con la entrega en la parcela incluida. La A-92 cruza el municipio y lo une con Granada por el este y con Antequera y Sevilla por el oeste. Para la carga marítima solemos tirar del puerto de Málaga, y los aeropuertos más próximos son el de Granada-Jaén y el de Málaga.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Loja</strong> necesita licencia del Ayuntamiento de Loja conforme a la Ley 7/2021 (LISTA) de Andalucía y al planeamiento municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el casco en cuesta encaja una vivienda compacta; en la vega del Genil, una casa baja con huerta.",
+   "Las parcelas de ladera del casco y las sierras piden muros o una cimentación escalonada.",
+   "El conjunto histórico de la alcazaba tiene normas estéticas, y Los Infiernos de Loja limita su entorno.",
+   "Con heladas en la vega, Loja pide aislamiento serio en paredes, techo y suelo, con barrera de vapor.",
+   "Los módulos llegan por la A-92, con precio puesto en destino; conviene montar en meses secos."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

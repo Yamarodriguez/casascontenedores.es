@@ -1812,5 +1812,19 @@
     "html": "<p>Para un almacén de pesca en Morro Jable conviene <strong>pintura marina contra el salitre</strong>, rejillas de ventilación que eviten la condensación y cerraduras robustas. En un negocio de playa, una placa solar para la iluminación y unas estanterías interiores lo convierten en un trastero muy útil.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Morro Jable</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por mar a Fuerteventura y baja por la FV-2 hasta la península de Jandía.",
+  "datos": [
+   "Cerca del puerto se usa como almacén de redes, nasas y aparejos de pesca o de material náutico.",
+   "Hoteles y negocios de playa lo aprovechan como trastero o caseta de obra en reformas.",
+   "La brisa salina y la calima deterioran antes techo y bajos; las puertas deben cerrar herméticas.",
+   "A pie de costa entra un 40 pies; en las laderas de detrás del pueblo, mejor el 20 pies.",
+   "Antes de comprar, comprueba que el Ayuntamiento de Pájara lo permite y que no estás en el Parque Natural."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

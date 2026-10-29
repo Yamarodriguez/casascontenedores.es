@@ -2557,5 +2557,19 @@
     "html": "<p>Puerto de Santiago está dentro de lo que cubrimos, y el importe se entrega <strong>puesto en destino</strong>. Después del tramo marítimo, la TF-1, la Autopista del Sur, atraviesa el sur de Tenerife y la carretera de la costa oeste lleva el módulo hasta Santiago del Teide. Para visitar la parcela, lo más próximo es llegar por el Aeropuerto de Tenerife Sur o por el Puerto de Los Cristianos.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Puerto de Santiago</strong> necesita licencia del Ayuntamiento de Santiago del Teide conforme a la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Las parcelas bajan en pendiente al mar: funcionan dos o tres módulos escalonados, cada uno con su terraza.",
+   "La roca volcánica condiciona la cimentación y a veces obliga a muros o apoyos escalonados.",
+   "Descarta antes que el solar esté afectado por el Parque Rural de Teno o por su ZEC y ZEPA.",
+   "El macizo de Teno frena el alisio: aquí mandan el sol y el calor, con pérgolas, aleros y ventilación cruzada.",
+   "El módulo cruza a Tenerife y recorre el sur hasta la costa oeste; en calles en cuesta puede pedir grúa larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

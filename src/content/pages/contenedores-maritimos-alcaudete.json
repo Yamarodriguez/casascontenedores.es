@@ -1812,5 +1812,19 @@
     "html": "<p>En un olivar alejado del casco, pon por delante la seguridad (rejas, cerraduras antirrobo) y deja resuelta la luz con un pequeño equipo de electricidad solar. Si se va a usar en verano o con heladas, un <strong>aislamiento térmico</strong> evita que se convierta en un horno o en una nevera.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alcaudete</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la N-432 o por la A-316 enlazada con la A-6051, y te lo damos puesto en destino.",
+  "datos": [
+   "Casi todo gira alrededor del olivar: sirve de almacén para redes, abonos y maquinaria de la recogida.",
+   "La industria de dulces y mantecados navideños lo aprovecha como almacén extra en temporada alta.",
+   "Entre hileras de olivos el 20 pies es el más fácil; en el polígono Los Llanos compensa un 40 pies.",
+   "Los obstáculos reales para camión y grúa son las callejas bajo el castillo y los carriles de tierra.",
+   "Para la campaña de aceituna o la temporada navideña, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

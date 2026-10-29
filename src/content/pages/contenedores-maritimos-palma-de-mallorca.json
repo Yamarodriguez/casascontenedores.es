@@ -1811,5 +1811,19 @@
     "html": "<p>En Palma los extras más pedidos son la ventilación y el aislamiento, porque la chapa al sol del verano balear se calienta mucho, y la pintura anticorrosión para los que quedan junto al mar. En fincas y solares sin vigilancia compensan las rejas, las cerraduras reforzadas y una pequeña instalación solar para la luz interior.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Palma de Mallorca</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); al precio se suma el flete en barco desde Barcelona o Valencia hasta el Puerto de Palma, y te lo damos puesto en destino.",
+  "datos": [
+   "Hoteles, restaurantes, varaderos y empresas náuticas lo usan como almacén; en las fincas de las afueras, como trastero.",
+   "Junto al Portitxol o los varaderos, revisa en uno usado el óxido de los bajos, las esquinas y los marcos.",
+   "En Son Castelló o Son Rossinyol un 40 pies aprovecha el viaje; en el casco antiguo, mejor el 20 pies.",
+   "Desde el puerto lo reparte la Ma-20; lo difícil es el último tramo, con calles estrechas y accesos restringidos.",
+   "Para la temporada turística, una reforma o las fiestas de Sant Sebastià, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

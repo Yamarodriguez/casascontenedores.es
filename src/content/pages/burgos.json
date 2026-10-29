@@ -2558,5 +2558,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1262,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Burgos</strong> necesita la licencia de obra mayor de cada ayuntamiento de la provincia y cumplir la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Burgos está en la zona climática E1, la más fría del Código Técnico: aislamiento exterior al máximo nivel.",
+   "La cimentación debe quedar por debajo de la profundidad de helada, en las terrazas del Arlanzón o en los páramos.",
+   "No hay cédula autonómica: la habitabilidad la acredita la licencia municipal de primera ocupación.",
+   "El entorno de la Catedral y el Camino de Santiago tienen protección propia y calles peatonalizadas.",
+   "Sin puerto en la provincia, el contenedor llega por carretera desde Bilbao o Gijón hasta Villafría."
+  ],
+  "enlace": {
+   "texto": "permisos y licencias",
+   "destino": "/permisos/"
+  }
+ }
 }

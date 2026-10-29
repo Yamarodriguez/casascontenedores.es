@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo Granollers y el precio se da <strong>puesto en destino</strong>. La C-17 conecta con Barcelona y Vic, la AP-7 pasa junto a la ciudad camino de Girona y Tarragona, y la C-60 baja hacia Mataró y el Maresme. El Puerto de Barcelona y el Aeropuerto de Barcelona-El Prat son las referencias marítima y aérea.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Granollers</strong> necesita licencia del Ajuntament de Granollers conforme al Texto refundido de la Ley de urbanismo de Cataluña (DL 1/2010) y su POUM, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Con el suelo urbano tan aprovechado, encaja en un solar entre medianeras, como ampliación o como estudio en el patio.",
+   "En el suelo no urbanizable del Congost y los espacios agrícolas del Vallès, la vivienda nueva queda prácticamente descartada.",
+   "En los solares del centro la grúa ocupa la calle y necesita permiso de vía pública.",
+   "Las nieblas del valle favorecen condensaciones: pide barrera de vapor continua y puentes térmicos bien tratados.",
+   "Si la casa está cerca del centro, evita montar en jueves de mercado."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

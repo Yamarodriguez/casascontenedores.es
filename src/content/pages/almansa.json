@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos el término municipal de Almansa al completo, y el precio de la casa incluye dejarla puesta en destino. Hasta allí los módulos viajan por la A-31, la autovía que une Madrid con Alicante, y por la A-35, que baja hacia Xàtiva y Valencia. Por mar, todo llega a través de Valencia o Alicante, ciudades que también tienen los aeropuertos más cercanos.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Almansa</strong> necesita licencia del Ayuntamiento de Almansa conforme a sus normas urbanísticas y al TRLOTAU de Castilla-La Mancha, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja como primera vivienda en suelo urbano o como casa de campo de una planta con porche al sur.",
+   "Fuera del suelo urbano, construir una vivienda exige parcela mínima y justificar el uso.",
+   "El viento del corredor entre la meseta y el mar obliga a anclar bien los módulos y reforzar carpinterías.",
+   "El entorno del castillo y del casco histórico tiene condiciones de protección del patrimonio.",
+   "Los módulos llegan por la A-31 y la A-35; evita para el montaje los días de viento y las Fiestas Mayores."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

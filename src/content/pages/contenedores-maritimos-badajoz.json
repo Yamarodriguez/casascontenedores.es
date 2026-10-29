@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4330,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Badajoz</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del punto de almacenaje más cercano por la autovía que une Madrid con Lisboa y llega con la descarga incluida.",
+  "datos": [
+   "En las Vegas Bajas se usa como almacén agrícola de aperos o cosecha en las fincas de regadío.",
+   "Los caminos rurales de la vega son estrechos: la grúa necesita sitio y suelo firme para las cantoneras.",
+   "Con arcillas expansivas y nivel freático alto en la vega, puede hacer falta una base de reparto de cargas.",
+   "Con los veranos muy calurosos de la zona C4, una oficina necesita protección solar y ventilación.",
+   "El tráfico con Elvas no tiene controles sistemáticos, así que la frontera no añade trámites al transporte."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

@@ -2563,5 +2563,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 8333,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Catalunya</strong> necesita licencia de obra mayor de cada ayuntamiento conforme al Decret Legislatiu 1/2010 TRLU, más la cédula de habitabilidad de primera ocupación, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Catalunya es de las pocas comunidades que exige cédula de habitabilidad antes de dar de alta luz y agua.",
+   "En suelo no urbanizable la vivienda nueva casi siempre va ligada a una explotación o a una masía catalogada.",
+   "Lo habitual es una parcela urbana en urbanizaciones del Vallès, el Maresme o el Penedès.",
+   "Barcelona y Girona están en zona C2, Tarragona en B3, Lleida entre C3 y D3 y el Pirineo en E1.",
+   "En el Empordà la tramuntana obliga a reforzar el anclaje; en el Pirineo hay que prever nieve."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

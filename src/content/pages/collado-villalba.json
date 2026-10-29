@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo Collado Villalba y la sierra noroeste de Madrid, con el <strong>precio puesto en destino</strong>. Los módulos llegan por la A-6, que atraviesa el municipio, y desde aquí suben a otros pueblos de la sierra por la carretera de Navacerrada. Si vienen de importación, entran por el puerto de Valencia. El Aeropuerto Adolfo Suárez Madrid-Barajas es la referencia aérea.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Collado Villalba</strong> necesita licencia del Ayuntamiento de Collado Villalba conforme a la Ley 9/2001 del Suelo de la Comunidad de Madrid, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo no urbanizable, con dehesas, riberas del río Guadarrama y monte, no admite viviendas nuevas.",
+   "Al pie del Guadarrama hiela y nieva: aislamiento generoso, barrera de vapor impecable y cubierta preparada para la nieve.",
+   "En parcelas con bolos de granito, los módulos pueden apoyarse entre las rocas sin necesidad de volarlas.",
+   "Lo ideal es montar entre primavera y otoño, evitando heladas y nevadas que complican el trabajo con grúa.",
+   "Los módulos llegan por la A-6, que atraviesa el municipio, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

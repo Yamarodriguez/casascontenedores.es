@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en el municipio entero de Ponferrada y la casa se presupuesta entregada en la parcela, es decir, puesta en destino. Los módulos entran por la A-6, que atraviesa El Bierzo, y desde la ciudad se reparten por la N-536 hacia los valles del sur y por carreteras comarcales. El aeropuerto de León es el más cercano, y el puerto de Vigo es la salida marítima de referencia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Ponferrada</strong> necesita licencia del Ayuntamiento de Ponferrada conforme a la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el llano y las pedanías cercanas cabe una vivienda familiar; en las laderas de viñedo, una pieza pequeña con porche.",
+   "Muchas parcelas están en ladera y piden muros, cimentación escalonada o una grúa de más alcance.",
+   "Las fincas del fondo del valle, con buen acceso desde la A-6, son mucho más sencillas de ejecutar.",
+   "Las heladas y nieblas del invierno favorecen la condensación: aislamiento grueso continuo y barrera de vapor bien solapada.",
+   "Junto a los ríos y en los Montes Aquilianos las limitaciones crecen; consulta los permisos antes de comprar."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

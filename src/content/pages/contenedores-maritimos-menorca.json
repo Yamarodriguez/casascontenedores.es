@@ -1811,5 +1811,19 @@
     "html": "<p>En Menorca muchos clientes piden pintar el contenedor en verde, blanco o tonos piedra para que se integre en el paisaje rural. Para usarlo como taller u oficina conviene añadir aislamiento y ventilación, que además reducen la condensación del invierno húmedo. En llocs apartados, un cierre reforzado y un pequeño kit fotovoltaico permiten dejar herramientas a buen recaudo y tener luz aunque no llegue el tendido.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Menorca</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega en barco a Maó o Ciutadella y recorre la isla por la Me-1.",
+  "datos": [
+   "En los llocs del interior guarda forraje, maquinaria y herramientas; en Maó, Ciutadella y Fornells, material náutico.",
+   "En Alaior y Ciutadella amplía talleres y almacenes ligados al calzado y la bisutería.",
+   "La tramontana lleva sal a toda la isla: esquinas, bajos y puertas se oxidan rápido sin pintura.",
+   "En caminos rurales entre paredes de piedra seca el 20 pies es casi siempre la opción práctica.",
+   "En una isla Reserva de la Biosfera, su gran ventaja es que se instala y se retira sin obra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

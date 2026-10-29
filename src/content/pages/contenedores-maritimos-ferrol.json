@@ -1811,5 +1811,19 @@
     "html": "<p>Con el clima de Ferrol lo primero es una buena <a href=\"/pintura-contenedores/\">pintura anticorrosión</a>, y lo segundo, aireadores que impidan que el agua se condense en el techo. Si se va a trabajar dentro, añade aislamiento y luz. En fincas alejadas de la parroquia, una reja en la puerta y un candado de disco dan tranquilidad, y una placa pequeña alcanza para iluminar aunque el sol escasee en invierno.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Ferrol</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega al puerto de Ferrol o al de A Coruña, entra por la AP-9 o la AG-64 y sirve mucho a la industria auxiliar del naval.",
+  "datos": [
+   "La lluvia y el salitre de la ría atacan los puntos dañados: revisa techo, bajos, esquinas y juntas de las puertas.",
+   "En las parroquias, con caminos entre muros de piedra y curvas cerradas, el 20 pies es casi siempre lo práctico.",
+   "Un prado empapado tras días de lluvia no aguanta igual que una solera de hormigón: dinos dónde apoyará.",
+   "En días de temporal se aplaza la descarga con grúa.",
+   "Antes de pagar, echa agua sobre el techo y mira desde dentro si gotea."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

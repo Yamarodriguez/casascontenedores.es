@@ -2577,5 +2577,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1439,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Oviedo</strong> necesita licencia del Ayuntamiento de Oviedo según su PGO y el Decreto Legislativo 1/2004 (TROTU) de Asturias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En parroquias y núcleos rurales el TROTU admite la vivienda unifamiliar en la quintana tradicional.",
+   "El Catálogo de edificios protegidos se centra en el casco urbano y la zona monumental.",
+   "Desde el Decreto 73/2018 no hay cédula: hace falta la licencia municipal de primera ocupación.",
+   "El casco está en zona D1, con orbayu y humedad alta; la colina central obliga a cimentar en pendiente.",
+   "El módulo llega desde El Musel o Avilés por la A-66, y el centro tiene Zona de Bajas Emisiones."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>Cerca del mar de Nerja lo más importante es la <a href=\"/pintura-contenedores/\">pintura anticorrosión</a>, que protege la chapa del salitre. Si el contenedor guarda fruta o productos sensibles, la ventilación y el aislamiento reducen el calor y la humedad. En fincas lejanas, rejas y cierres reforzados aportan seguridad, y una placa solar da luz sin necesidad de red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Nerja</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-7 desde Málaga o desde la costa de Granada, con salida a la N-340.",
+  "datos": [
+   "En las fincas de aguacate y mango de las laderas se usa como almacén de cajas y herramientas.",
+   "Los negocios turísticos lo aprovechan como espacio auxiliar o trastero.",
+   "Con tantos bancales y caminos estrechos, el 20 pies es la medida más habitual en Nerja.",
+   "Cerca de la costa el salitre acelera el óxido: revisa bajos, esquinas y bisagras, o píntalo antes.",
+   "Un camino de tierra que sube entre aguacates pide más tiempo y maquinaria que una calle llana."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

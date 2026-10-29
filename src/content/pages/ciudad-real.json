@@ -2577,5 +2577,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1267,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Ciudad Real</strong> necesita licencia de cada ayuntamiento conforme al TRLOTAU de Castilla-La Mancha, aprobado por el Decreto Legislativo 1/2023, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En suelo rústico del Campo de Calatrava hace falta antes la calificación urbanística que exige la ley.",
+   "La capital está en la zona climática D3: heladas en invierno y veranos muy calurosos piden aislamiento reforzado.",
+   "El relieve volcánico tiene maares y lagunas: algunas parcelas cerca del agua quedan bajo dominio público hidráulico.",
+   "Al terminar se pide licencia de primera ocupación o declaración responsable; no hay cédula de habitabilidad autonómica.",
+   "Sin puerto propio, los módulos llegan por carretera desde Valencia por la A-43 y la A-3, o desde Sevilla."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

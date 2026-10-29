@@ -1811,5 +1811,19 @@
     "html": "<p>En Estepona la pintura anticorrosión es casi imprescindible por la cercanía al mar, y también permite que el contenedor quede integrado en un jardín o una villa. Si se usa como oficina de obra o taller, añade aislamiento y ventilación para soportar el calor. Para guardar herramientas de valor, rejas y una cerradura reforzada.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Estepona</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde los puertos de Algeciras o Málaga por la AP-7, y lo que más mueve el precio es la pendiente.",
+  "datos": [
+   "Las urbanizaciones suben hacia la sierra con calles empinadas y curvas cerradas: el 20 pies es el que mejor encaja.",
+   "En solares de obra grandes y zonas llanas junto a la costa, un 40 pies da más espacio por viaje.",
+   "El salitre llega a casi todas las urbanizaciones: revisa esquinas, techo y bisagras, y píntalo al recibirlo.",
+   "Algunas comunidades de propietarios limitan los horarios de camiones o piden entrar por una cancela.",
+   "Las reformas de villas en los meses tranquilos y los chiringuitos en verano suelen tirar del alquiler."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

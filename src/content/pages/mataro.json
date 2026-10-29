@@ -2733,5 +2733,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 9792,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Mataró</strong> necesita licencia del Ajuntament de Mataró según su Pla General y el Decreto Legislativo 1/2010 de urbanismo de Cataluña, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Les Cinc Sènies es espacio agrario protegido: solo admite usos agrarios, sin vivienda ni construcciones auxiliares.",
+   "El suelo urbano del núcleo y polígonos como Pla d'en Boet o El Rengle son la opción realista.",
+   "El sauló da buena capacidad portante, pero junto a las rieras hay aluviales y el geotécnico es imprescindible.",
+   "En la franja de costa la humedad marina obliga a vigilar la corrosión de cantoneras y chapa.",
+   "En el nucli antic, de calles estrechas, la grúa exige pedir antes ocupación de vía pública."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

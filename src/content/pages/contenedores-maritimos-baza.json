@@ -1811,5 +1811,19 @@
     "html": "<p>En Baza el extra más útil es el <a href=\"/aislamiento-contenedores/\">aislamiento</a>, porque en el altiplano la chapa pasa de helada en invierno a muy caliente en verano. La ventilación evita condensaciones que estropean piensos y herramientas. En fincas aisladas compensan las rejas, las cerraduras reforzadas y una instalación solar para la luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Baza</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde los puertos de Almería o Motril por la A-92N, un trayecto más largo que en la costa.",
+  "datos": [
+   "Las explotaciones de cereal, olivar, almendro y ovino lo usan para guardar aperos, piensos y herramientas.",
+   "Lejos del mar la chapa usada se conserva bien, pero las heladas castigan las gomas de las puertas.",
+   "En el casco antiguo o en los caminos de tierra entre cárcavas, el 20 pies es lo más práctico.",
+   "Tras las lluvias, un camino embarrado o con pendiente obliga a usar un camión grúa con más alcance.",
+   "Alquilar encaja para la cosecha de cereal o almendra, el Cascamorras de septiembre o una obra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

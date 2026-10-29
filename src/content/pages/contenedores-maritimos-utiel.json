@@ -1812,5 +1812,19 @@
     "html": "<p>La meseta de Utiel alterna inviernos fríos y veranos calurosos, por lo que el aislamiento térmico es la reforma más acertada, en especial si el contenedor va a guardar vino o a funcionar como oficina. En viñedos y parcelas sin acometida encaja la electricidad solar, y en fincas aisladas, las rejas y cerraduras reforzadas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Utiel</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega del Puerto de Valencia por la A-3, que pasa junto al núcleo, y suele servir de almacén en bodegas, la cooperativa y viñedos de Bobal.",
+  "datos": [
+   "Para un trastero en Casas de Medina o un almacén de aperos en el viñedo basta uno usado.",
+   "En bodegas y fincas amplias cabe un 40 pies, de unos 12 m; en el casco medieval, mejor un 20 pies.",
+   "Lo que mueve el coste es la descarga: calles estrechas del centro o grúa trabajando entre viñas.",
+   "Tras tormentas fuertes, los caminos junto a la rambla de la Torre pueden limitar el acceso del camión.",
+   "En la vendimia, el alquiler resuelve el almacén temporal de bodegas y cooperativa."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

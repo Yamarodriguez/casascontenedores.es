@@ -2556,5 +2556,19 @@
     "html": "<p>Llevamos la casa a cualquier punto del término de Écija y la presupuestamos <strong>puesta en destino</strong>. La A-4, la Autovía del Sur entre Sevilla y Córdoba, pasa junto a la ciudad y es la vía de llegada habitual, y desde Écija salen carreteras hacia Osuna, Estepa y Palma del Río. El puerto de Sevilla y el aeropuerto de Sevilla son las referencias logísticas más cercanas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Écija</strong> necesita licencia del Ayuntamiento de Écija conforme a su planeamiento general y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Écija está en la zona climática B4: la chapa al sol se recalienta y manda aislar frente a la radiación.",
+   "En el suelo rústico de la campiña la vivienda tiene requisitos estrictos, y junto al Genil hay zonas inundables.",
+   "El casco histórico, con sus palacios e iglesias barrocas, está protegido por el planeamiento.",
+   "En la vega del Genil el suelo puede ser arcilloso, y la cimentación debe ajustarse a ello.",
+   "Los módulos llegan por la A-4, entre Sevilla y Córdoba, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

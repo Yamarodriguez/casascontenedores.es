@@ -1811,5 +1811,19 @@
     "html": "<p>Cerca del mar lo prioritario en Dénia es una <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> de calidad marina. Para negocios de playa, la ventilación evita olores y humedades. Las rejas y cerraduras reforzadas protegen el material en temporada baja, y una placa solar da luz en parcelas sin red. El aislamiento ayuda a que el interior no se caliente demasiado.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Dénia</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la AP-7 y la N-332 desde los puertos de Valencia o Alicante, y lo que más complica es el último tramo.",
+  "datos": [
+   "Negocios del puerto, escuelas náuticas y chiringuitos lo usan como almacén junto al mar.",
+   "En Les Rotes y las laderas del Montgó, con calles estrechas y curvas, se coloca mejor un 20 pies.",
+   "Cerca del mar, revisa los bajos, las esquinas y las bisagras: el aire salino acelera la corrosión.",
+   "En verano el tráfico complica la entrega, así que planificar la fecha ayuda a ajustar el coste.",
+   "Para la temporada de playa o los Bous a la mar, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

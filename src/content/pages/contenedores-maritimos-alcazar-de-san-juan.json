@@ -1811,5 +1811,19 @@
     "html": "<p>En Alcázar recomendamos <a href=\"/aislamiento-contenedores/\">aislamiento</a> y ventilación si se trabaja dentro o se guardan productos sensibles al calor, porque la chapa al sol se calienta mucho. Una pintura clara ayuda a reflejar la radiación. Si queda junto a una laguna o en un paraje sin vigilancia, refuerza las puertas y añade un panel solar para la iluminación.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alcázar de San Juan</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); suele salir del puerto de Valencia y llega por la CM-42 o la N-420, puesto en destino.",
+  "datos": [
+   "Las bodegas, queserías y empresas logísticas de los polígonos lo usan como almacén.",
+   "En la llanura casi cualquier finca admite un 40 pies; en el casco, mejor el de 20 pies.",
+   "El sol de La Mancha castiga la pintura del techo y las heladas las juntas: revisa ambas en un usado.",
+   "Los pasos sobre o bajo las vías del tren y los caminos embarrados son el tramo más delicado.",
+   "Para la vendimia y la cosecha, cuando las cooperativas necesitan almacén extra, alquilar encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

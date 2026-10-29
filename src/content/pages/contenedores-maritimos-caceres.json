@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5308,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Cáceres</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); la provincia no tiene puerto, así que llega por carretera desde Huelva o Sevilla con la descarga con grúa incluida.",
+  "datos": [
+   "En la dehesa, el porcino ibérico, el ovino y el corcho lo piden sobre todo como almacén de aperos.",
+   "En la Ciudad Vieja, con calles empedradas y estrechas, hay que descargar fuera del recinto amurallado.",
+   "El Centro Histórico es zona de bajas emisiones, con acceso sujeto a autorización municipal.",
+   "Dentro de la ZEPA Llanos de Cáceres y Sierra de Fuentes, el margen para instalarlo se estrecha.",
+   "Con el verano muy caluroso y seco, píntalo en tono claro y ventílalo si va a estar cerrado."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

@@ -2558,5 +2558,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1346,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Álava</strong> necesita licencia de obra mayor del ayuntamiento de cada municipio alavés, con proyecto de arquitecto, conforme a la Ley 2/2006 de Suelo y Urbanismo del País Vasco, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo no urbanizable alavés solo admite vivienda ligada a una explotación agrícola o ganadera del titular.",
+   "Vitoria-Gasteiz está en la zona climática D1, y los municipios más altos de la provincia pasan a E1.",
+   "El acero conduce el frío: sin aislamiento continuo por el exterior aparecen puentes térmicos en invierno.",
+   "Los módulos llegan desde el Puerto de Bilbao por la AP-68 o por la A-1 hasta Vitoria-Gasteiz.",
+   "En la Rioja Alavesa y la Llanada es habitual usarlos como caseta de bodega o almacén de aperos."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

@@ -2625,5 +2625,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 920,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Gandía</strong> necesita licencia del Ayuntamiento de Gandia conforme al TRLOTUP (Decreto Legislativo 1/2021) de la Comunitat Valenciana, con el PATIVEL en la costa, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la huerta de cítricos y la Marjal de la Safor la vivienda nueva está muy restringida.",
+   "Lo habitual es la parcela urbana de la playa, el Grau o Marxuquera.",
+   "En la marjal el freático alto obliga a valorar una losa o una cimentación especial.",
+   "El contenedor llega desde el Puerto de Valencia, porque el de Gandia no mueve contenedores.",
+   "Gandía está en la zona B3, con humedad alta y lluvias torrenciales de otoño: cuida aislamiento y estanqueidad."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

@@ -2622,5 +2622,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 9000,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Alcorcón</strong> necesita licencia de obra mayor del Ayuntamiento de Alcorcón, con proyecto de arquitecto, conforme a la Ley 9/2001 del Suelo de la Comunidad de Madrid, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Apenas queda suelo rústico: lo típico es ampliar un solar edificado o un módulo en los polígonos periféricos.",
+   "Las arcillas expansivas de la cuenca de Madrid, las de la alfarería local, piden un estudio geotécnico.",
+   "Alcorcón está en la zona climática D3: aislamiento continuo por el exterior y ventilación cruzada en verano.",
+   "Los polígonos reciben bien el camión y la grúa; en el casco antiguo, más estrecho, conviene revisarlo.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

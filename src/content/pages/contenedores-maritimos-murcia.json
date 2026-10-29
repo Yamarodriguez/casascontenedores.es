@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Murcia</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale casi siempre del muelle de Santa Lucía, en el Puerto de Cartagena, y llega por la A-30.",
+  "datos": [
+   "En las explotaciones hortofrutícolas de la huerta se usa refrigerado para la cosecha y la postcosecha.",
+   "En los polígonos de los ejes de la A-7 y la A-30 funciona como nave auxiliar.",
+   "Los caminos de huerta cruzan acequias y puentes de carga limitada que a veces impiden el paso de una góndola.",
+   "En la vega del Segura el suelo es aluvial: reserva un tramo firme para las patas de la grúa.",
+   "Los puertos de Alicante y Valencia, por la A-7, quedan como alternativa para acortar el trayecto final."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

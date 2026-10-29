@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todo el término de Alzira con el <strong>precio puesto en destino</strong>. El transporte entra por la A-7, la Autovía del Mediterráneo, que pasa junto a la ciudad, y por las carreteras comarcales que la unen con Carcaixent, Algemesí y el resto de la Ribera. El puerto de referencia es el Puerto de Valencia, a menos de una hora, y el aeropuerto más cercano es el de Valencia en Manises.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Alzira</strong> necesita licencia del Ayuntamiento de Alzira conforme a su plan general y al TRLOTUP (Decreto Legislativo 1/2021) de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja en un solar urbano, como casita en un huerto con licencia o como ampliación de una vivienda.",
+   "Buena parte del término tiene riesgo de inundación del Júcar: el PATRICOVA y la confederación pesan mucho.",
+   "En la llanura cercana al río, la cota de inundación obliga a elevar el suelo de la casa.",
+   "En suelo no urbanizable de huerta y en el entorno de La Murta, la vivienda es muy limitada.",
+   "Los módulos llegan por la A-7; evita las lluvias fuertes de otoño si el camino es de tierra."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

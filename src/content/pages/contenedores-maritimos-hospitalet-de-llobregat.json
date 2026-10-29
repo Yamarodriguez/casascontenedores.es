@@ -1811,5 +1811,19 @@
     "html": "<p>En L'Hospitalet los extras más útiles son el aislamiento y la ventilación si el contenedor va a ser oficina o taller, y la <a href=\"/pintura-contenedores/\">pintura</a> con colores corporativos si va a estar a la vista en la calle. En solares y obras sin vigilancia compensan las cerraduras reforzadas, los candados antirrobo y las rejas en las ventanas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en L'Hospitalet de Llobregat</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el Puerto de Barcelona está al lado por la Ronda Litoral, así que pesa más la descarga.",
+  "datos": [
+   "Se usa como almacén de comercios y talleres, caseta en las obras de la Gran Via y apoyo en ferias.",
+   "En el polígono de Pedrosa cabe un 40 pies; en Collblanc o Santa Eulàlia, casi siempre el 20 pies.",
+   "En una calle o un solar entre edificios hace falta grúa de más alcance y permiso de ocupación de la vía.",
+   "Si va a quedar a la vista en la calle, conviene una chapa en mejor estado o pintarlo.",
+   "Para una obra, una mudanza de negocio o un congreso en la Gran Via, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

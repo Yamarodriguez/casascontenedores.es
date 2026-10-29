@@ -1809,5 +1809,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5491,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Lleida</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); viaja tierra adentro desde el Puerto de Barcelona o el de Tarragona por la A-2, la AP-2 o la N-240.",
+  "datos": [
+   "En la Horta sirve de almacén o caseta para aperos y cosecha, con más margen que un uso residencial.",
+   "En los polígonos del Segre trabaja como módulo de oficina u obra, y en la Fira como módulo temporal.",
+   "La boira invernal deja humedad constante: vigila la pintura y los cierres del contenedor.",
+   "El Centre Històric sube en pendiente hacia la Seu Vella por calles estrechas: revisa el acceso de la grúa.",
+   "Para la cosecha o una obra puntual, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

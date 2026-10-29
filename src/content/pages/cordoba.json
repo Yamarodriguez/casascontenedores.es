@@ -2621,5 +2621,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Córdoba</strong> necesita licencia de obra mayor de cada ayuntamiento conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La capital está en la zona B4 del CTE, la de veranos más severos: aísla por fuera y ventila la cubierta.",
+   "En la Sierra abundan las parcelaciones con edificaciones irregulares: comprueba el régimen del suelo antes de comprar.",
+   "La LISTA distingue el rústico común del especialmente protegido, muy presente en la Sierra cordobesa.",
+   "En la vega y la campiña, de suelos arcillosos y margosos, el estudio geotécnico es imprescindible.",
+   "Sin puerto propio, los módulos llegan desde el puerto de Sevilla por la A-4, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

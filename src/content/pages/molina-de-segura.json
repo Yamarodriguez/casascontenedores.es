@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo el término de Molina de Segura y el precio es puesto en destino, con la casa colocada en tu parcela. La A-30, la autovía que une Murcia con Albacete y Madrid, atraviesa el municipio y lo deja a pocos minutos de la capital regional. Para la carga marítima trabajamos con el puerto de Cartagena, y el aeropuerto más próximo es el Internacional de la Región de Murcia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Molina de Segura</strong> necesita licencia del Ayuntamiento de Molina de Segura conforme a la Ley 13/2015 de ordenación territorial y urbanística de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En urbanizaciones como Altorreal o La Alcayna encaja una vivienda de dos o tres módulos con piscina.",
+   "En la huerta y el secano no urbanizable las condiciones para levantar vivienda son estrictas.",
+   "Cerca del Segura hay que estudiar la humedad y el riesgo de inundación antes de cimentar.",
+   "Algunos terrenos del campo tienen yesos o arcillas expansivas que piden una cimentación adaptada.",
+   "El calor es el gran problema: aislamiento potente en cubierta y fachadas, mejor con cubierta ventilada."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

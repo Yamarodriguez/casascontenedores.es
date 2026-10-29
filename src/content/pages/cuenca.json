@@ -2577,5 +2577,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1445,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Cuenca</strong> necesita licencia de cada ayuntamiento conforme al Decreto Legislativo 1/2023 (TRLOTAU) de Castilla-La Mancha, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Cuenca capital está en la zona climática D2: heladas y nevadas piden aislamiento exterior y cubierta con pendiente.",
+   "En el casco antiguo de la capital solo cabe rehabilitación con criterios de Patrimonio.",
+   "La humedad del fondo de las hoces del Júcar y del Huécar obliga a romper bien los puentes térmicos.",
+   "Sin puerto propio, los módulos llegan desde el puerto de València por la A-3 y la A-40, o la N-320.",
+   "En la Serranía y las pedanías, el camino rural o forestal decide si la entrega se hace en un tramo."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

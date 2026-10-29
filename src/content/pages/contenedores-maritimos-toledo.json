@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5601,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Toledo</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); su último tramo arranca en el Puerto Seco de Coslada y sigue por carretera hasta tu parcela.",
+  "datos": [
+   "En el polígono de Santa María de Benquerencia se usa como almacén auxiliar.",
+   "Los talleres de damasquinado y espadería lo aprovechan como taller o almacén de materiales.",
+   "En los municipios de La Sagra hace de caseta de aperos para la agricultura.",
+   "En la Vega del Tajo, suelo rústico protegido, hay que comprobar la inundabilidad antes de instalarlo.",
+   "Para dejarlo de forma permanente necesitas declaración responsable o licencia de obra menor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

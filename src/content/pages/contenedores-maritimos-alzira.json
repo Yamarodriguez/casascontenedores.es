@@ -1811,5 +1811,19 @@
     "html": "<p>Si el contenedor va a pasar el verano al sol en un huerto, merece la pena aislarlo y abrirle rejillas de ventilación para que no se convierta en un horno. En parcelas apartadas se agradecen rejas y cerradura reforzada, y una pequeña placa solar permite tener luz o mover una bomba sin llevar cable hasta la caseta.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alzira</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto de Valencia, a menos de una hora, y baja por la A-7 hasta la Ribera Alta, puesto en destino.",
+  "datos": [
+   "Trabaja sobre todo para la naranja: cajas, abonos y herramientas en los huertos de la Ribera Alta.",
+   "Cerca del Júcar o en zonas que se encharcan, apóyalo sobre tacos para que los bajos no toquen el barro.",
+   "En los huertos, con caminos entre acequias y giros cerrados, lo normal es el 20 pies.",
+   "Las calles del casco antiguo, en la antigua isla del Júcar, son estrechas para el camión.",
+   "Para la campaña de naranja o las fiestas de los Santos de la Piedra, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

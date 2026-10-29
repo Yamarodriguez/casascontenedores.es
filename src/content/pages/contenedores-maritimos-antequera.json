@@ -1811,5 +1811,19 @@
     "html": "<p>En Antequera, si el contenedor va a guardar mercancía, conviene añadir ventilación para evitar la condensación de las nieblas de la vega. Para oficinas o talleres, el <a href=\"/aislamiento-contenedores/\">aislamiento</a> y la instalación eléctrica son esenciales. En fincas alejadas, unas rejas y una cerradura de seguridad dan tranquilidad, y una pintura en tonos tierra integra el contenedor en el campo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Antequera</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); suele cargarse en el puerto de Málaga y llega por la A-45 o la A-92, puesto en destino.",
+  "datos": [
+   "Es el gran cruce de caminos de Andalucía, con un área logística y un puerto seco conectado con los puertos.",
+   "Las naves de distribución lo usan como almacén, y los cortijos de la vega como cuarto de herramientas y abonos.",
+   "Las nieblas de la vega favorecen la humedad interior: un usado bien sellado y con ventilación es clave.",
+   "En polígonos y fincas llanas rinde el 40 pies; en el casco histórico, con cuestas, mejor el de 20 pies.",
+   "Para la Real Feria de Agosto o una temporada de mucha distribución, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>Con el calor de las Vegas Altas, el extra más útil es el <a href=\"/aislamiento-contenedores/\">aislamiento</a>, junto con rejillas de ventilación para que no se acumule el calor dentro. Si el contenedor guarda productos fitosanitarios, la ventilación es imprescindible. En fincas alejadas del casco compensa añadir rejas, candados reforzados y un pequeño equipo solar para iluminar el interior.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Don Benito</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la N-430 o por la A-5 desde Miajadas, y lo que más pesa en el precio es la distancia desde el puerto.",
+  "datos": [
+   "Las fincas de tomate, maíz, arroz y fruta de las Vegas Altas lo usan para aperos, abonos y cajas.",
+   "Los caminos de servicio de la vega son llanos y rectos: en casi todas las fincas entra un 40 pies.",
+   "Evita los días después de un riego o una tormenta, cuando la tierra blanda puede atascar el camión.",
+   "El clima seco conserva la chapa, pero el sol del verano reseca las gomas de las puertas.",
+   "Para la campaña de verano o una feria en FEVAL, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

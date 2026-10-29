@@ -1811,5 +1811,19 @@
     "html": "<p>En el clima lluvioso de Irun conviene añadir ventilación para evitar condensaciones y una buena <a href=\"/pintura-contenedores/\">pintura anticorrosión</a>. En caseríos aislados, rejas, cerradura reforzada y una pequeña instalación solar para la luz. Si el contenedor va a ser oficina en una empresa logística, añade aislamiento, ventanas y calefacción.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Irun</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Pasaia o el de Bilbao por la AP-8 y sirve sobre todo a la logística fronteriza.",
+  "datos": [
+   "Lo usan empresas de transporte, agencias de aduanas y constructoras, y en los caseríos guarda forraje y aperos.",
+   "La lluvia constante castiga la chapa usada: revisa techo, bajos y juntas, y colócalo sobre bloques con ligera inclinación.",
+   "En las zonas logísticas cabe un 40 pies; en barrios estrechos y caminos de caserío, mejor el 20 pies.",
+   "Un caserío con camino estrecho, empinado y mojado pide más maniobra y, a veces, un camión más pequeño.",
+   "Para picos de mercancía o el Alarde de San Marcial, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

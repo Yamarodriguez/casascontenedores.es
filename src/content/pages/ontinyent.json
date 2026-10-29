@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos Ontinyent y sus partidas rurales, siempre con el <strong>precio puesto en destino</strong>. La conexión principal es la autovía CV-40, que une Xàtiva con Alcoy pasando por la ciudad, y la A-7 enlaza con la costa y con el Puerto de Valencia. También se puede llegar desde el interior hacia Villena. Los aeropuertos de referencia son el de Valencia y el de Alicante.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Ontinyent</strong> necesita licencia del Ayuntamiento de Ontinyent con su plan general y el TRLOTUP (Decreto Legislativo 1/2021) de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En suelo no urbanizable la vivienda aislada está muy restringida y exige parcela mínima.",
+   "Las sierras del término y los cauces de barranco tienen protecciones propias.",
+   "Los bancales y laderas hacia el Clariano obligan a hacer muros o pilares.",
+   "Sin salitre, lo que sube el presupuesto es el aislamiento, más grueso por el frío del invierno.",
+   "En las urbanizaciones de las afueras encaja una vivienda de dos o tres módulos con jardín y garaje."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

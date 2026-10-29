@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9962,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Algeciras</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); convive con uno de los puertos de más tráfico de España y te lo llevamos con transporte y descarga incluidos en el presupuesto.",
+  "datos": [
+   "Los operadores logísticos y transitarios del puerto lo usan como oficina modular o almacén.",
+   "La industria química y petroquímica de la bahía lo pide como módulo de obra o taller auxiliar.",
+   "Los accesos al puerto tienen tráfico pesado en ciertas franjas: coordina la hora de entrega.",
+   "El levante obliga a anclarlo con firmeza y a revisar pintura y juntas frente al salitre.",
+   "Fuera de los parques naturales, el suelo rústico común admite instalaciones aisladas según la LISTA."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

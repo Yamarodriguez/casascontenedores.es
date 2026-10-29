@@ -1811,5 +1811,19 @@
     "html": "<p>Para Miranda recomendamos <a href=\"/aislamiento-contenedores/\">aislamiento</a> si se va a trabajar dentro en invierno, y ventilación para que las nieblas no dejen agua condensada. En polígonos o fincas sin vigilancia, una reja interior y un candado antirrobo son casi imprescindibles. Un panel solar resuelve la luz, y pintarlo con los colores corporativos ayuda a integrarlo en las instalaciones de una empresa.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Miranda de Ebro</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el puerto de Bilbao queda cerca y la AP-68 lo trae hasta la ciudad.",
+  "datos": [
+   "Las empresas químicas, logísticas y de transformación de los polígonos lo usan como almacén o taller.",
+   "En las pedanías y fincas de la vega sirve como caseta de aperos o almacén agrícola.",
+   "Las nieblas y heladas del valle castigan techo y bajos donde ya falta pintura: revísalos.",
+   "Ojo al último tramo: pasos bajo las vías del tren y caminos agrícolas que se embarran con lluvia.",
+   "Para una obra o una parada técnica en una planta, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

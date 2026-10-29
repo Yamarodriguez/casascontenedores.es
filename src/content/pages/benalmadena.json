@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo Benalmádena, desde la costa hasta el Pueblo, y la cantidad que te damos es puesto en destino, con la casa ya montada en la parcela. La A-7 y la autopista AP-7 cruzan el municipio y lo conectan con Málaga y con el resto de la Costa del Sol. El puerto de Málaga queda muy cerca y el aeropuerto de Málaga-Costa del Sol está prácticamente al lado.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Benalmádena</strong> necesita licencia del Ayuntamiento de Benalmádena conforme a su plan general y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Buena parte del municipio está en ladera, y las parcelas suelen pedir muros y cimentación escalonada.",
+   "En primera línea de Benalmádena Costa se aplica la Ley de Costas, y el salitre exige pintura marina.",
+   "Las urbanizaciones suelen fijar normas propias de alturas, retranqueos y estética.",
+   "En Arroyo de la Miel encaja una ampliación o un despacho independiente en el jardín.",
+   "Evita montar en verano, cuando el tráfico de la costa complica el paso del camión y la grúa."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

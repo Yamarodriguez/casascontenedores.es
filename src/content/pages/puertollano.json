@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos todo el término de Puertollano y damos el precio con la casa puesta en destino. Usamos la A-41, la autovía que une la ciudad con Ciudad Real, y la N-420, que la conecta con Córdoba y el Valle de Alcudia. Los contenedores parten habitualmente del puerto de Valencia, y el aeropuerto con más conexiones es Madrid-Barajas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Puertollano</strong> necesita licencia del Ayuntamiento de Puertollano conforme al TRLOTAU de Castilla-La Mancha y a su plan de ordenación, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Hacia el Valle de Alcudia y Sierra Madrona, con espacios protegidos de gran valor, las limitaciones aumentan.",
+   "El estudio de parcela debe revisar la clase de suelo y si hay afecciones por antiguas zonas mineras.",
+   "Con veranos muy calurosos, aísla bien la cubierta, mejor con cámara ventilada, y limita los huecos al oeste.",
+   "Las parcelas en ladera de los cerros encarecen cimentación y grúa; en llano, la colocación es sencilla.",
+   "Con tantas horas de sol, la casa contenedor encaja bien con placas solares en la cubierta."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

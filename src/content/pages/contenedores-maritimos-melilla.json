@@ -1811,5 +1811,19 @@
     "html": "<p>En Melilla la pintura protectora frente al salitre es el extra más recomendable. Si el contenedor va a ser oficina o almacén de productos delicados, el aislamiento y la ventilación ayudan a controlar el calor y la humedad. Para mercancía de valor, cerraduras de seguridad y rejas; y donde no haya acometida, una instalación solar sencilla.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Melilla</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); viaja en barco desde Málaga, Almería o Motril hasta el puerto de Melilla, y luego los trayectos son cortos.",
+  "datos": [
+   "Con poco suelo libre, sirve de almacén para comercios, caseta de obra y espacio extra para empresas del puerto.",
+   "En barrios de calles estrechas el 20 pies es la medida que más se coloca.",
+   "El 40 pies y el High Cube tienen sentido en la zona portuaria, los polígonos y solares grandes.",
+   "El clima es suave pero salino: examina la parte inferior, el techo y las juntas de las puertas.",
+   "Para la feria de septiembre o una reforma con fecha de fin, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

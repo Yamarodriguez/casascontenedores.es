@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5376,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Cantabria</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale de la terminal de Raos, en el Puerto de Santander, o de Bilbao, y llega por la A-8 o la A-67.",
+  "datos": [
+   "La ganadería vacuna y láctea de los valles lo pide sobre todo como almacén de aperos o pienso.",
+   "En Torrelavega y la Bahía de Santander se usa como oficina de obra o contenedor de almacenamiento.",
+   "Los caminos de muchos núcleos rurales son estrechos y con pendiente: compruébalos antes de la entrega.",
+   "Con la lluvia y la humedad, eleva bien los apoyos y revisa el drenaje en las arcillas de valle.",
+   "Un contenedor permanente en suelo rústico próximo a un núcleo necesita licencia de obra menor o declaración responsable."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

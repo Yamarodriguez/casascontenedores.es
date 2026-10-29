@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Zaragoza</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); en la provincia llega por la Terminal Marítima de Zaragoza, un puerto seco en Mercazaragoza, y se reparte por la AP-68, la A-2 o la A-23.",
+  "datos": [
+   "En la huerta zaragozana sirve como caseta de riego o almacén de aperos.",
+   "En los polígonos logísticos e industriales, junto a PLAZA, trabaja como nave auxiliar u oficina modular.",
+   "El cierzo puede desplazar un contenedor mal fijado: ánclalo bien en parcelas abiertas de la estepa o la huerta.",
+   "En el Casco Histórico rige una zona de bajas emisiones que solo admite distintivo C, ECO o Cero.",
+   "Los caminos rurales y las acequias de la huerta condicionan el paso de la góndola."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2557,5 +2557,19 @@
     "html": "<p>El interior de Valencia forma parte de nuestra zona de servicio, con Requena y sus aldeas. El contenedor llega por la A-3, la autovía Madrid-Valencia, o por la N-322 y la N-330, hasta el casco, sus aldeas o tus fincas. Los contenedores de importación entran por el Puerto de Valencia. Damos servicio en Requena con el presupuesto siempre puesto en destino.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Requena</strong> necesita licencia del Ayuntamiento de Requena conforme al Decreto Legislativo 1/2021 (TRLOTUP) de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Entre viñedos de Bobal encajan alojamientos de enoturismo, casas de campo en finca o casetas de aperos.",
+   "Tras la DANA, revisa la parcela frente a ramblas y al Magro: elevar la cimentación cambia el coste.",
+   "El Parque Natural de las Hoces del Cabriel estrecha todavía más lo edificable dentro de sus límites.",
+   "Con heladas, la chapa fría genera condensación si no hay aislamiento continuo y barrera de vapor.",
+   "Orienta las estancias al sur para ganar sol en invierno y deja la fachada norte casi ciega."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

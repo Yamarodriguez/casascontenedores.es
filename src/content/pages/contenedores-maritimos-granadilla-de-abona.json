@@ -1811,5 +1811,19 @@
     "html": "<p>Con viento, sol y arena, un contenedor en Granadilla de Abona agradece una buena pintura protectora y juntas en buen estado. El aislamiento y la ventilación son útiles si vas a guardar material sensible al calor. En parcelas aisladas, rejas y cerraduras reforzadas, y una placa solar, que aquí rinde muchas horas al año, para tener luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Granadilla de Abona</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega al Puerto de Santa Cruz de Tenerife y baja por la TF-1, y en la descarga el factor a vigilar es el viento.",
+  "datos": [
+   "En los polígonos junto a la autopista y el puerto industrial de Granadilla trabaja como almacén, taller u oficina.",
+   "En El Médano y los barrios de costa, de calles más estrechas, es más fácil un 20 pies.",
+   "En zonas muy expuestas la grúa debe esperar a que amaine, y eso puede subir el coste.",
+   "El polvo y la arena entran por cualquier rendija: las puertas tienen que cerrar estancas.",
+   "En la costa el viento lleva salitre y arena; revisa la corrosión en bajos y esquinas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos al casco de Hellín y a todas sus pedanías, y el precio que te damos es con la casa puesta en destino. El transporte va por la A-30, la autovía que une Albacete con Murcia, o la N-301, que sigue el mismo corredor. Los contenedores suelen llegar por el puerto de Cartagena, y en avión lo más cómodo es volar a la Región de Murcia o a Albacete.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Hellín</strong> necesita licencia del Ayuntamiento de Hellín conforme al TRLOTAU de Castilla-La Mancha y su planeamiento municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En suelo rústico la vivienda tiene condiciones estrictas, y en las riberas del Mundo y junto al Talave hay protecciones añadidas.",
+   "Los suelos de yesos o margas de algunas zonas obligan a revisar bien la cimentación.",
+   "El sol del verano pide una cubierta muy aislada, mejor ventilada o con segunda piel.",
+   "En las fincas de secano y sierra se plantean casas autónomas, con placas solares y depósito de agua.",
+   "Para el montaje conviene evitar la Semana Santa, cuando la Tamborada llena las calles."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

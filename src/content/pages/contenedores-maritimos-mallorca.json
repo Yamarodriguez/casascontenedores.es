@@ -1811,5 +1811,19 @@
     "html": "<p>Para Mallorca recomendamos pintura anticorrosión en la costa y aislamiento térmico en el interior, donde el verano calienta mucho la chapa. La pintura también ayuda a integrar el contenedor en el paisaje, algo que se valora en la isla. Si va a una finca sin luz, una placa solar; y si guarda material de valor, rejas y cerradura de seguridad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Mallorca</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por mar al puerto de Palma o al de Alcúdia y se reparte por la Ma-13, la Ma-19 y la Ma-1.",
+  "datos": [
+   "Hoteles, chiringuitos y comercios lo usan como almacén; las empresas náuticas, como cuarto de material.",
+   "En los polígonos de Palma cabe un 40 pies; en los pueblos de la Tramuntana, lo práctico es el 20 pies.",
+   "En la costa el salitre corroe la chapa y en el interior pesa más el sol: revisa techo y bajos.",
+   "Si va a quedar fijo en suelo rústico, consulta antes al ayuntamiento y al Consell de Mallorca.",
+   "El alquiler sigue la temporada: almacén extra en verano y obras de reforma en invierno."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en toda Menorca, de Maó y Es Castell a Ciutadella, pasando por Alaior, Es Mercadal, Ferreries y Sant Lluís, siempre con <strong>precio puesto en destino</strong>. La casa llega en barco al puerto de Maó o al de Ciutadella y recorre la isla por la Me-1, que la cruza de punta a punta. El Aeropuerto de Menorca, junto a Maó, es la llegada más cómoda.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Menorca</strong> necesita licencia del ayuntamiento de su municipio conforme al Plan Territorial Insular y la Ley 12/2017 de urbanismo de las Illes Balears, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo rústico está muy protegido y la vivienda nueva fuera de los núcleos es excepcional.",
+   "S'Albufera des Grau y el litoral del Camí de Cavalls añaden limitaciones a cualquier proyecto.",
+   "Los ayuntamientos suelen exigir revestir y encalar la chapa, y eso sube el precio.",
+   "La tramontana arrastra sal tierra adentro y pide anclajes, carpinterías de calidad y pintura marina.",
+   "Los módulos viajan en barco hasta Maó o Ciutadella; un solar urbano del centro de la isla es lo más económico."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

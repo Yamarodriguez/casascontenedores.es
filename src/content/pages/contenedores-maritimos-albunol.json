@@ -1812,5 +1812,19 @@
     "html": "<p>Para un contenedor junto al mar en La Rábita o El Pozuelo, una <a href=\"/pintura-contenedores/\">pintura anticorrosiva</a> frena el salitre. En una finca aislada de la sierra, lo que más sentido tiene es reforzar las puertas con cerradura antirrobo y añadir un pequeño equipo solar para luz y herramientas, sin depender de la red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Albuñol</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-7 y la N-340, con el Puerto de Motril como referencia, y te lo damos puesto en destino.",
+  "datos": [
+   "Junto a los invernaderos de La Rábita y El Pozuelo sirve de almacén cerrado para cajas, abonos y herramientas.",
+   "Entre los bancales de la Contraviesa, con pistas angostas, se impone el 20 pies porque gira mejor.",
+   "Cerca del mar el salitre avanza rápido: revisa óxido en bajos, esquinas y techo antes de comprar uno usado.",
+   "El pueblo cabecera, en ladera y con calles estrechas, complica el último tramo del transporte.",
+   "Para una campaña hortícola o las fiestas de San Patricio, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

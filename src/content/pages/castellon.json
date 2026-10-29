@@ -2643,5 +2643,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1271,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Castellón</strong> necesita licencia de obra mayor de cada ayuntamiento conforme al Decreto Legislativo 1/2021 TRLOTUP de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La zona climática sube de B3 en la costa a C3, D3, D2 y E1 hacia el interior de la provincia.",
+   "En la marjal litoral el nivel freático es alto: consulta la inundabilidad del PATRICOVA y eleva la solera.",
+   "La huerta de cítricos de La Plana es suelo no urbanizable; lo habitual es una parcela urbana o urbanizable.",
+   "En el litoral rigen la Ley de Costas y el PATIVEL, además de espacios de la Red Natura 2000.",
+   "En la capital, Castelló de la Plana, ordena el suelo el Plan General Estructural aprobado en diciembre de 2021."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

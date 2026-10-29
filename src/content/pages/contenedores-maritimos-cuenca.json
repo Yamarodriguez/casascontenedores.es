@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5429,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Cuenca</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); recorre carretera desde el puerto de València por la A-3 y la A-40, o por la N-320 hacia la Manchuela.",
+  "datos": [
+   "En la Serranía sirve de almacén o caseta de obra en explotaciones forestales y de secano.",
+   "El casco antiguo de la capital, entre las hoces, tiene calles medievales que un camión-grúa no puede recorrer.",
+   "Con heladas y nevadas, colócalo sobre apoyos nivelados y con drenaje para el agua de deshielo.",
+   "Incluso un uso temporal exige declaración responsable o licencia de obra menor del ayuntamiento.",
+   "En el casco histórico protegido por la UNESCO hace falta además el visto bueno de Patrimonio."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

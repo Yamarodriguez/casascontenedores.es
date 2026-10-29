@@ -1809,5 +1809,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 10199,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en San Cugat del Vallés</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); te lo damos puesto en destino, con la descarga incluida en el presupuesto.",
+  "datos": [
+   "En las urbanizaciones con pendiente o en las calles estrechas del casco antiguo, el camión y la grúa necesitan espacio para maniobrar.",
+   "En chalés con jardín se usa sobre todo como trastero exterior para herramientas, muebles de temporada o material de obra.",
+   "Colocarlo suele pedir una comunicación previa o una licencia de obra menor, según el uso y el tiempo que vaya a quedarse.",
+   "Prepara una superficie firme y nivelada que apoye bien las esquineras del contenedor durante la descarga.",
+   "El high cube añade altura interior y facilita el aislamiento si lo vas a acondicionar para un uso prolongado."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

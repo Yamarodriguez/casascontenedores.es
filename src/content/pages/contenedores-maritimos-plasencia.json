@@ -1811,5 +1811,19 @@
     "html": "<p>Para el verano de Plasencia lo más útil es el <a href=\"/aislamiento-contenedores/\">aislamiento</a> del techo y una ventilación que deje salir el aire caliente, sobre todo si se guarda pienso o fruta. Una pintura verde o tierra lo integra en la dehesa. En fincas apartadas, rejas y cerraduras de seguridad, y una placa solar que dé luz sin necesidad de llevar la red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Plasencia</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde los puertos de Lisboa o Huelva por la A-66 o la EX-A1, con precio puesto en destino en la ciudad y su comarca.",
+  "datos": [
+   "En las dehesas guarda pienso y aperos, y las cooperativas lo usan para cajas en la campaña de la cereza.",
+   "El verano extremeño castiga la pintura del techo y reseca las gomas: revisa esas zonas en uno usado.",
+   "En el casco amurallado o en fincas de sierra con pistas de granito, lo sensato es el 20 pies.",
+   "Encarece llegar a una dehesa por camino de tierra, cruzar un vado o apoyarlo en roca con desnivel.",
+   "Para la campaña de la cereza o el Martes Mayor de agosto, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

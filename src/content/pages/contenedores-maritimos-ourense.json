@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Ourense</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por el Puerto de Vigo y llega por la A-52, y se reparte por la provincia por la N-120, la N-525 y la N-540.",
+  "datos": [
+   "Las bodegas del Ribeiro, la Ribeira Sacra y Valdeorras lo usan como almacén de vino.",
+   "En el polígono de San Cibrao das Viñas funciona como nave auxiliar de la industria química.",
+   "Sobre granito con roca somera, el apoyo suele resolverse con anclajes sencillos en vez de losa.",
+   "Junto a la Ponte Vella las calles son peatonales y empinadas, y los ríos condicionan accesos.",
+   "Para una bodega, lo habitual es un 40 pies dry van con buena ventilación frente a las nieblas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

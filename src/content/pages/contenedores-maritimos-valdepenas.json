@@ -1811,5 +1811,19 @@
     "html": "<p>Para el calor de Valdepeñas lo más útil es <a href=\"/aislamiento-contenedores/\">aislar el contenedor</a>, sobre todo el techo, y abrir rejillas de ventilación si se guardan productos de bodega. Pintarlo de un color claro baja la temperatura interior. Si queda en una finca sin vigilancia, refuerza puertas con rejas y candado de seguridad, y añade una placa solar para tener luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Valdepeñas</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-4, en pleno eje entre Madrid y Andalucía, y trabaja sobre todo para las bodegas de la DO Valdepeñas y la logística.",
+  "datos": [
+   "Las bodegas lo usan para guardar botellas, cajas y material enológico, y los agricultores como caseta de aperos.",
+   "El verano manchego castiga la pintura: si el techo tiene ampollas o está descolorido, pronto aparecerá el óxido.",
+   "Junto a la A-4 entra un 40 pies; en el casco y los caminos del sur, mejor 20 pies.",
+   "Meterlo en el patio de una bodega del casco exige más maniobras y, a veces, una grúa más grande.",
+   "En la vendimia el alquiler encaja bien: las bodegas necesitan más espacio solo unas semanas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

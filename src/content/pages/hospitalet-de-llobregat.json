@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todos los barrios de L'Hospitalet de Llobregat, de Collblanc a Bellvitge, y el precio se da puesto en destino. Los módulos entran por la Gran Via, la Ronda Litoral o la Ronda de Dalt y por la A-2, según el barrio. El Puerto de Barcelona y el Aeropuerto de Barcelona-El Prat quedan a pocos minutos de la ciudad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en L'Hospitalet de Llobregat</strong> necesita licencia del Ajuntament según el Plan General Metropolitano y el Texto refundido de la Ley de urbanismo de Cataluña (DL 1/2010), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Aquí se plantea en un solar entre medianeras, en un patio interior o como ampliación sobre lo construido.",
+   "Descargar en una calle estrecha de Collblanc o La Torrassa exige grúa de gran alcance y corte de calle.",
+   "Las medianeras obligan a cuidar el aislamiento acústico y la protección contra incendios.",
+   "La ciudad está en la zona C2 del CTE; el ruido de tráfico y aviones pide reforzar el aislamiento.",
+   "Con la licencia y el permiso de ocupación de la calle, el montaje se hace en uno o dos días."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

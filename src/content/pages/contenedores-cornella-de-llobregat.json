@@ -1813,5 +1813,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 10195,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Cornellá de Llobregat</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Barcelona, a pocos kilómetros, por la B-10 o la A-2, con la descarga incluida.",
+  "datos": [
+   "En los polígonos del Baix Llobregat sirve de almacén auxiliar cuando el espacio de la nave no alcanza.",
+   "En solares de obra se usa como vestuario, oficina o almacén de materiales mientras dura el proyecto.",
+   "La Zona de Bajas Emisiones de las Rondas afecta a algunos vehículos: revisa el acceso antes de la entrega.",
+   "En calles estrechas puede hacer falta autorización municipal para colocar la grúa.",
+   "Si el uso es temporal puede bastar una comunicación previa; si es permanente, hace falta licencia de obras."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

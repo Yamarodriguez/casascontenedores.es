@@ -2557,5 +2557,19 @@
     "html": "<p>Trabajamos el término de Adra completo y cada <strong>presupuesto se cierra puesto en destino</strong>. Los módulos viajan por la A-7, la Autovía del Mediterráneo, que atraviesa el término de un extremo a otro, y se desvían por la N-340 y la N-340a para alcanzar el casco y los núcleos del litoral. Para las fincas del interior, la A-347 sube hacia Berja. Como puntos de apoyo logístico y de llegada quedan el Puerto de Almería y el Aeropuerto de Almería.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Adra</strong> necesita licencia del Ayuntamiento de Adra conforme a su PGOU y a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Cerca de las playas encaja una segunda residencia de dos módulos; en el campo, vestuarios o casetas de aperos.",
+   "En las fincas de invernadero levantar una vivienda es muy difícil, y junto a la Albufera de Adra aún más.",
+   "Comprueba si la parcela cae en las zonas inundables que rodean el cauce del río Adra.",
+   "Adra está en la zona climática A4 del CTE: el aislamiento debe parar sobre todo el calor del verano.",
+   "Los módulos llegan por la A-7 y la N-340, con precio puesto en destino en todo el término."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

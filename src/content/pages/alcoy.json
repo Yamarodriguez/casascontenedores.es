@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos Alcoy y su entorno de montaña con precio <strong>puesto en destino</strong>. La autovía A-7 conecta la ciudad con Alicante por el sur y con el interior valenciano por el norte, y la N-340 sigue siendo una alternativa. El puerto de referencia es Alicante, y también Valencia, y el aeropuerto más cercano es el de Alicante-Elche.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Alcoy</strong> necesita licencia del Ayuntamiento de Alcoy conforme a su plan general y al TRLOTUP, la ley del suelo de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja una vivienda de dos o tres módulos bien aislada, un refugio en un mas o módulos escalonados en barranco.",
+   "Los parques naturales de la Font Roja y la Serra de Mariola restringen mucho las construcciones.",
+   "Las laderas obligan a muros o cimentación escalonada, y los caminos de montaña complican la grúa.",
+   "El clima de montaña pide aislamiento continuo con barrera de vapor para evitar condensaciones.",
+   "Para el montaje evita las heladas, la nieve y las fiestas de Moros y Cristianos."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

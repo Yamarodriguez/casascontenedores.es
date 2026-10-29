@@ -1811,5 +1811,19 @@
     "html": "<p>Para oficinas o casetas de obra en Sagunto, el contenedor necesita <a href=\"/aislamiento-contenedores/\">aislamiento</a>, electricidad y climatización. Cerca del mar, una pintura anticorrosión marina. En polígonos y fincas sin vigilancia, rejas y cerraduras reforzadas, y una placa solar si no hay conexión a la red. Para el polvo de zonas industriales, rejillas con filtro.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Sagunto</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el puerto comercial del propio término y la AP-7, la A-7 y la A-23 acortan el transporte, con precio puesto en destino.",
+  "datos": [
+   "Las empresas industriales y logísticas del puerto lo usan como almacén u oficina; en la huerta, como almacén de aperos.",
+   "Cerca del puerto o de la playa, revisa en uno usado los bajos, las esquinas y las bisagras por el salitre.",
+   "Al pie del castillo o en caminos estrechos de la huerta, mejor un 20 pies, que maniobra con facilidad.",
+   "Un camino entre naranjos o una calle del casco antiguo puede exigir grúa y más tiempo de descarga.",
+   "Para paradas técnicas en fábricas o campañas de la naranja, el alquiler se ajusta a la duración real."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

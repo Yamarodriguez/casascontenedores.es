@@ -2557,5 +2557,19 @@
     "html": "<p>El término de Motril, con todos sus núcleos, entra en nuestra cobertura. Los módulos llegan por las autovías A-7 y A-44 y por las carreteras N-340 y N-323, y si vienen por mar, por el Puerto de Motril. La ciudad también está bien conectada con el Aeropuerto Federico García Lorca Granada-Jaén. El presupuesto es siempre <strong>puesto en destino</strong>.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Motril</strong> necesita el visto bueno del Ayuntamiento de Motril conforme a la Ley 7/2021 (LISTA) de Andalucía y a la Revisión de su PGOU, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La Charca de Suárez y los acantilados de Calahonda-Castell de Ferro son espacios protegidos del término.",
+   "En la vega del Guadalfeo el acceso es llano, pero el aluvión puede pedir una cimentación más estudiada.",
+   "En las laderas de la sierra de Lújar, la pendiente encarece la grúa y la obra.",
+   "Pegados al mar, los módulos necesitan una capa extra de defensa del acero frente al salitre.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

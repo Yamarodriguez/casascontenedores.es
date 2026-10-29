@@ -1812,5 +1812,19 @@
     "html": "<p>En una bodega o finca de Jumilla, las mejoras más útiles son el aislamiento térmico, cuando el contenedor guarde vino, cajas o productos delicados, y la electricidad solar donde no haya acometida. Si el paraje queda apartado, añade rejas y cerraduras antirrobo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Jumilla</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); la importación entra por el Puerto de Cartagena y llega por la A-33 o la N-344.",
+  "datos": [
+   "Trabaja sobre todo en bodegas y fincas: material de vendimia, aperos en viñas de Monastrell y piensos para cabras.",
+   "Si va a pasar años a la intemperie, descarta los usados con corrosión perforante en la cubierta o los bajos.",
+   "En los llanos de viñedo cabe un 40 pies; en fincas de sierra con caminos estrechos, mejor un 20 pies.",
+   "El precio sube en pistas pedregosas de sierra o en patios de bodega con poco espacio de maniobra.",
+   "Para la vendimia o las fiestas de Moros y Cristianos, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4327,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Álava</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega siempre por carretera desde el puerto de Bilbao, con transporte y descarga con grúa incluidos en el precio puesto en destino.",
+  "datos": [
+   "Álava no tiene salida al mar, así que cada unidad recorre un tramo final por carretera hasta tu parcela.",
+   "En la provincia se usa como caseta de aperos o forraje, almacén junto a naves de polígono y módulo de obra.",
+   "Las heladas del interior alavés no dañan el acero, pero conviene ventilarlo para evitar la condensación.",
+   "En una finca rural, el camino debe aguantar un camión articulado y la grúa necesita suelo firme.",
+   "Colocarlo pide declaración responsable o licencia de obra menor según la ordenanza de cada ayuntamiento."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

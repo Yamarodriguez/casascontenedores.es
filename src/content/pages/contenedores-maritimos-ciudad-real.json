@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Ciudad Real</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por carretera desde el puerto de Valencia o el de Sevilla, porque es una provincia de interior sin puerto propio.",
+  "datos": [
+   "En el viñedo, el olivar y el cereal del Campo de Calatrava guarda maquinaria, aperos o cosecha.",
+   "En ferias agroalimentarias como FENAVIN sirve de caseta de campaña, stand u oficina temporal.",
+   "En una finca rústica, primero va la calificación urbanística del TRLOTAU y después la licencia municipal.",
+   "Muchas fincas se alcanzan por caminos rurales sin asfaltar: prepara una superficie firme y nivelada para la descarga.",
+   "El clima continental de la zona D3 aconseja aislar cubierta y paredes si se ocupa todo el año."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

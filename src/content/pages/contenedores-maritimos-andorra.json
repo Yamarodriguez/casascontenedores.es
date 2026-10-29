@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5596,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Andorra</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por carretera desde el Port de Barcelona y pasa un despacho de aduana que gestionamos dentro del precio puesto en destino.",
+  "datos": [
+   "Andorra queda fuera del IVA comunitario, así que todo contenedor que entra pasa por la aduana.",
+   "Las estaciones de esquí lo usan para pistas, taquillas y eventos de temporada.",
+   "En invierno las carreteras pueden exigir cadenas o cerrar por nieve: deja margen en la fecha de entrega.",
+   "En las parroquias altas, nivela bien los apoyos sobre la pendiente y vigila la nieve sobre el techo.",
+   "En temporada de esquí, comercios y estaciones prefieren el alquiler a comprar un módulo para unos meses."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

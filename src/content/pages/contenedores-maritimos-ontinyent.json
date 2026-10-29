@@ -1811,5 +1811,19 @@
     "html": "<p>En el clima de Ontinyent, con inviernos fríos y veranos de mucho calor, el aislamiento es casi obligatorio si vas a guardar algo sensible o pasar tiempo dentro. Añade ventilación para evitar la condensación, una pintura que proteja la chapa, rejas si la finca queda aislada y una placa solar para tener luz sin acometida.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Ontinyent</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto de Valencia por la A-7 y la CV-40, un trayecto más largo que en la costa.",
+  "datos": [
+   "La industria textil y del hogar lo usa como almacén industrial en los polígonos.",
+   "En las partidas de olivos y almendros sirve de caseta sin hacer obra.",
+   "Sin salitre envejece bien, pero las abolladuras del techo retienen agua que se hiela en invierno.",
+   "Para un almacén textil, el 40 pies y el High Cube dejan sitio para estanterías altas.",
+   "En las fincas altas y casas de las sierras, el último tramo puede ser de tierra y con fuerte pendiente."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

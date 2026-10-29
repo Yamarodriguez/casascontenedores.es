@@ -2556,5 +2556,19 @@
     "html": "<p>Cualquier parcela del término de Úbeda entra en nuestra zona, y el precio que te damos es <strong>puesto en destino</strong>. La A-32 la une con Baeza y con la A-4 a la altura de Bailén, y se prolonga hacia el este de la provincia. La N-322 es la otra vía histórica de la comarca. El aeropuerto de referencia es el Federico García Lorca Granada-Jaén, y los puertos más utilizados son Málaga, Algeciras y Valencia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Úbeda</strong> requiere licencia del Ayuntamiento de Úbeda, con su planeamiento general y la Ley 7/2021 (LISTA) andaluza como marco, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El casco histórico, Patrimonio de la Humanidad junto al de Baeza, está muy protegido y no admite una casa contenedor.",
+   "Entre los olivares de La Loma, en suelo rústico, la vivienda está muy condicionada: consulta antes con urbanismo.",
+   "En las laderas hacia el Guadalquivir, la pendiente y los carriles estrechos encarecen el camión y la cimentación.",
+   "Por la altitud, los inviernos son más fríos que en la campiña y piden aislamiento continuo sin puentes térmicos.",
+   "Un alojamiento rural de uno o dos módulos tiene salida por el turismo del patrimonio y de Cazorla."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

@@ -1823,5 +1823,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en La Coruña</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale de la terminal del Muelle Este del Puerto de A Coruña y llega por la AP-9 o la A-6.",
+  "datos": [
+   "Punta Langosteira, en Arteixo, se reserva a graneles y mercancías peligrosas: los contenedores no pasan por allí.",
+   "En la capital todo el tráfico pasa por el istmo, que actúa como cuello de botella para el camión.",
+   "En la Ciudad Vieja, de calles estrechas, conviene acordar el punto exacto de descarga antes de entrar.",
+   "Se pide sobre todo como oficina para empresas de servicios y TIC o almacén ligado al puerto y la pesca.",
+   "Entregamos en Arteixo, Culleredo, Cambre, Oleiros y el resto de Galicia."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

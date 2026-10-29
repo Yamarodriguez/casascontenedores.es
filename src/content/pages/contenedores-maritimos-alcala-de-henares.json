@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9845,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alcalá de Henares</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); suele salir del Puerto Seco de Coslada, conectado por tren con varios puertos, y el tramo final va incluido en el presupuesto.",
+  "datos": [
+   "En los polígonos del corredor del Henares se usa como almacén, taller u oficina modular.",
+   "Buena parte del casco histórico está peatonalizado y no admite el paso de una góndola ni el giro de la grúa.",
+   "En la vega, la humedad y las nieblas de la zona D3 aconsejan ventilarlo si queda cerrado.",
+   "El 40 pies da unos 28,3 m² interiores; para una oficina pequeña basta un 20 pies, con unos 13,9 m².",
+   "Un contenedor de obra con fecha de fin suele requerir declaración responsable y encaja bien en alquiler."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

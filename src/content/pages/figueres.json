@@ -2573,5 +2573,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Figueres</strong> necesita llicència d'obres del Ayuntamiento de Figueres sobre el POUM, conforme al Decreto Legislativo 1/2010 (TRLUC) de Cataluña, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El no urbanizable agrícola de la Plana de l'Empordà no admite vivienda nueva de recreo, solo usos agrarios o masías catalogadas.",
+   "La tramuntana obliga a reforzar anclajes y cubiertas, y con ráfagas fuertes se suspende la maniobra de grúa.",
+   "El entorno de la Rambla y del museo Dalí es peatonal: la descarga se hace en un punto cercano.",
+   "En la llanura aluvial de la Muga, el Fluvià y el Manol conviene un estudio geotécnico previo.",
+   "Al terminar necesitas la cédula de habitabilidad de primera ocupación de la Agència de l'Habitatge de Catalunya."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

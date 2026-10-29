@@ -1823,5 +1823,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9961,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Santa Coloma de Gramanet</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); se prepara en origen y coordinamos la entrega en tu dirección del Barcelonès.",
+  "datos": [
+   "Se usa sobre todo como trastero o módulo de almacenaje cuando la vivienda no dispone de uno propio.",
+   "Durante una reforma o una construcción funciona como oficina de obra o caseta temporal.",
+   "Para dejarlo de forma permanente, resuelve antes la consulta previa municipal: de comunicación previa a licencia de obra menor.",
+   "El 20 pies entra por accesos estrechos; el 40 pies da el doble de espacio por viaje, pero pide buen acceso.",
+   "Para un traslado puntual o una obra con fecha de fin, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

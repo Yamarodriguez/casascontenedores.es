@@ -1811,5 +1811,19 @@
     "html": "<p>En Tomelloso no conviene escatimar en <a href=\"/aislamiento-contenedores/\">aislamiento</a> ni en ventilación si dentro se guardan productos de bodega o se trabaja, porque la chapa al sol se calienta mucho. Pintarlo de blanco, como las casas manchegas, ayuda a reflejar el calor. En una viña lejos del pueblo, una cerradura de seguridad y una placa solar pequeña completan el equipo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Tomelloso</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por la CM-42 y la llanura facilita mucho el trabajo del camión y la grúa.",
+  "datos": [
+   "Bodegas y cooperativas lo usan como almacén de botellas, cajas o productos enológicos.",
+   "Si va a guardar productos de bodega, pide uno limpio y sin olores.",
+   "El sol manchego castiga la pintura del techo y las heladas dañan las juntas: revísalas.",
+   "Descargar en tierra de labor recién llovida encarece, porque el camión puede quedarse atascado.",
+   "Durante la vendimia y las fiestas de la Virgen de las Viñas se alquila como almacén adicional."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

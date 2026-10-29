@@ -1823,5 +1823,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9995,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Telde</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto de la Luz por la GC-1, tras el tramo marítimo desde la Península.",
+  "datos": [
+   "En los polígonos de Salinetas, El Goro y Las Rubiesas se usa como almacén de material o herramienta.",
+   "La agricultura de exportación de las medianías lo emplea para aperos, abono o cosecha.",
+   "En Salinetas o Melenara se adapta como local de temporada para hostelería.",
+   "En el litoral de Salinetas, Melenara o Tufia se suma la Ley de Costas al permiso municipal.",
+   "Cerca de los yacimientos prehispánicos o de los cascos de San Juan y San Francisco rige la protección patrimonial."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

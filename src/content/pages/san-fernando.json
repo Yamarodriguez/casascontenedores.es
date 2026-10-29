@@ -2733,5 +2733,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 10010,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en San Fernando</strong> necesita licencia del Ayuntamiento de San Fernando conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La mayor parte del término está protegida por el Parque Natural Bahía de Cádiz y no admite edificación nueva.",
+   "Lo habitual es construir en el suelo urbano consolidado de la Isla de León, ampliando o sustituyendo sobre parcela ya edificada.",
+   "Marismas y freático alto: el estudio geotécnico condiciona la cimentación en estos suelos blandos y salinos.",
+   "El ambiente marino acelera la corrosión, así que la imprimación anticorrosiva reforzada es imprescindible.",
+   "Desde febrero de 2026 rige la Zona de Bajas Emisiones en el centro y el ámbito del PEPRICH."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

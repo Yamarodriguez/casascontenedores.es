@@ -2557,5 +2557,19 @@
     "html": "<p>Costa Teguise la cubrimos con precios calculados puesto en destino. El módulo viaja por mar hasta el Puerto de Arrecife, en Los Mármoles, y llega por la LZ-1 hasta la parcela. Para visitar el proyecto, el Aeropuerto César Manrique-Lanzarote queda al otro lado de la capital.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Costa Teguise</strong> necesita licencia del Ayuntamiento de Teguise, no del de Arrecife, conforme a la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El Plan General de Teguise tiene en marcha una modificación en Costa Teguise: pregunta si afecta a tu parcela.",
+   "Suele plantearse como alojamiento turístico o estudio vacacional; confirma si el uso admitido es residencial o turístico.",
+   "Con el alisio del nordeste, el contenedor hace de cortavientos y deja una terraza abrigada al sur.",
+   "En primera línea, la arena y la sal lijan la chapa: tornillería inoxidable y pintura marina clara.",
+   "Los módulos llegan en barco al Puerto de Arrecife y suben por la LZ-1, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

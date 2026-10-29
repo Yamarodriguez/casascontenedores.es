@@ -1823,5 +1823,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9911,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en San Cristóbal de la Laguna</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); desembarca en la Dársena del Este del puerto de Santa Cruz de Tenerife y completa por carretera el tramo final.",
+  "datos": [
+   "En el entorno de la Universidad se usa como aula modular; en la vega, como almacén de aperos y cosecha.",
+   "La vega llana del valle de Aguere facilita la descarga frente a las laderas hacia la costa norte.",
+   "En la franja costera baja, el salitre obliga a vigilar más a menudo el mantenimiento de la chapa.",
+   "El casco histórico, Patrimonio Mundial, tiene calles estrechas y peatonales: revisa antes el itinerario de entrega.",
+   "En Tejina y Valle de Guerra el suelo es rústico agrícola y solo admite los usos que permite la ley."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

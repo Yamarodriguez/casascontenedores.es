@@ -2577,5 +2577,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1448,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Ávila</strong> necesita la licencia del ayuntamiento de cada municipio de la provincia y cumplir la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La capital está en la zona climática E1, la más severa: aislamiento continuo por el exterior y cubierta para nieve.",
+   "No hay cédula autonómica: basta la licencia de primera ocupación tras el certificado final de obra.",
+   "Dentro de la muralla, Patrimonio Mundial, el Plan Especial del Conjunto Histórico limita mucho las obras.",
+   "En el suelo rústico del alfoz no todas las categorías admiten vivienda unifamiliar: pide antes la calificación.",
+   "El contenedor llega por carretera desde Bilbao, Gijón o Valencia; en Las Hervencias o Vicolozano se descarga fácil."
+  ],
+  "enlace": {
+   "texto": "permisos y licencias",
+   "destino": "/permisos/"
+  }
+ }
 }

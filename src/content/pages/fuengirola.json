@@ -2728,5 +2728,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Fuengirola</strong> necesita licencia de obra mayor del Ayuntamiento de Fuengirola sobre su PGOU, conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El término es casi todo suelo urbano: lo habitual es sustituir o ampliar en una parcela ya edificada.",
+   "Todo el frente litoral está sujeto a la Ley de Costas, con su servidumbre de protección junto al paseo marítimo.",
+   "Junto al río y en primera línea hay rellenos y nivel freático alto; en Torreblanca y Los Pacos, laderas pronunciadas.",
+   "La entrega suele pedir ocupación de vía pública para la grúa, y varias calles del centro están en zona de bajas emisiones.",
+   "Al terminar, el Ayuntamiento pide declaración responsable de ocupación en vez de cédula."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos Totana y sus pedanías, y el presupuesto se da siempre puesto en destino. La A-7, la Autovía del Mediterráneo, pasa junto al casco y conecta con Murcia y Lorca. Desde Totana sale también la RM-3 hacia Mazarrón. Para la llegada de mercancía, el puerto de referencia es Cartagena, y el aeropuerto más cercano es el Internacional de la Región de Murcia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Totana</strong> se tramita con licencia del Ayuntamiento de Totana, que aplica su plan general dentro de la Ley 13/2015 de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el llano del Guadalentín encaja una vivienda de una planta o un módulo agrícola con almacén y aseo.",
+   "El Parque Regional de Sierra Espuña tiene su propia normativa de protección y limita las parcelas cercanas.",
+   "Las ramblas que bajan al Guadalentín pueden restringir parcelas por riesgo de inundación: pregunta en urbanismo antes de comprar.",
+   "Los veranos del valle son muy calurosos: aislamiento generoso de techo y paredes y cubierta ventilada.",
+   "El plazo ronda los 4 a 7 meses; la licencia y los informes sectoriales suelen ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

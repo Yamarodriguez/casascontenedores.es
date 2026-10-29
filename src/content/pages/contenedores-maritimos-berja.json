@@ -1812,5 +1812,19 @@
     "html": "<p>Un cortijo aislado de Berja agradece rejas y cerraduras de alta resistencia, además de una modesta <strong>instalación solar</strong> allí donde no llega la red eléctrica. Si va a ser un taller o un trastero de uso diario, un buen aislamiento lo hace llevadero tanto en verano como en las noches frías de invierno.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Berja</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); suele descargarse en el Puerto de Almería y sube desde la A-7 por la A-347, a la altura de Adra.",
+  "datos": [
+   "Lo que más se pide es un almacén cerrado en los cortijos y fincas repartidos por el término.",
+   "En pedanías y cortijos de ladera, con accesos estrechos y curvas, el 20 pies suele ser lo razonable.",
+   "El ambiente seco y sin salitre trata bien la chapa usada; vigila que la cubierta no encharque agua.",
+   "En las fincas del piedemonte de la Sierra de Gádor, la grúa tiene que buscar dónde apoyarse.",
+   "Para una obra, una mudanza o la romería de la Virgen de Gádor, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

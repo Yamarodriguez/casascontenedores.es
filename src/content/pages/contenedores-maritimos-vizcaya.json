@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5311,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Bizkaia (Vizcaya)</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto de Bilbao, con terminal en el Abra exterior, y llega por carretera a la costa o a los valles del interior.",
+  "datos": [
+   "La industria metalúrgica de la ría lo usa como oficina, vestuario de obra o almacén de taller.",
+   "En los valles del interior sirve de caseta de aperos para las explotaciones agrarias.",
+   "Cada municipio tiene su propio PGOU, y en Getxo o Bermeo se suma la Ley de Costas.",
+   "Dentro de la Reserva de la Biosfera de Urdaibai rige la Ley 5/1989, con más restricciones.",
+   "Bilbao tiene Zona de Bajas Emisiones en Abando e Indautxu: compruébala antes de fijar la ruta."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

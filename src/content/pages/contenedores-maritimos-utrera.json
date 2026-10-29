@@ -1811,5 +1811,19 @@
     "html": "<p>Con el calor de la campiña sevillana, el <a href=\"/aislamiento-contenedores/\">aislamiento</a> y la ventilación son los extras más útiles si guardas pienso, productos o documentos. En urbanizaciones, una pintura en colores suaves ayuda a integrarlo en el jardín. Y en fincas aisladas, las rejas, una cerradura reforzada y una placa solar dan seguridad y luz sin necesidad de red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Utrera</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el cercano puerto de Sevilla por la A-376, un trayecto corto que abarata el transporte frente a municipios del interior.",
+  "datos": [
+   "Las fincas de cereal y olivar y las ganaderías de bravo lo usan como almacén de pienso, herramientas o aperos.",
+   "Si el suelo es arcilloso, apóyalo en dados de hormigón: en invierno retiene agua y oxida los bajos.",
+   "En la campiña y los polígonos entra un 40 pies; en las urbanizaciones, el 20 pies se coloca mejor.",
+   "Tras las lluvias los caminos de arcilla se vuelven resbaladizos: ajusta la fecha de entrega a su estado.",
+   "Para la Feria de Consolación, en septiembre, el alquiler da espacio cerrado a las casetas durante unos días."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1531,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Andorra</strong> necesita licencia de obra mayor del Comú de cada parroquia según su POUP y la LGOTU, la ley de urbanismo andorrana, no la española, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Al terminar la obra, el Govern expide la cèdula d’habitabilitat de primera ocupación.",
+   "Los requisitos cambian entre parroquias como Andorra la Vella, Encamp u Ordino: pide la calificación al Comú.",
+   "La cubierta debe calcularse para la sobrecarga de nieve de la alta montaña, algo que el contenedor no trae de serie.",
+   "La Vall del Madriu-Perafita-Claror es Patrimonio Mundial, y los aludes condicionan la licencia en ladera.",
+   "Los módulos llegan por carretera desde el Port de Barcelona, por La Seu d’Urgell o por el túnel de Envalira."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

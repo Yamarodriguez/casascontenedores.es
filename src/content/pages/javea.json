@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en todo el término de Jávea y el precio se fija <strong>puesto en destino</strong>. Llegamos por la AP-7 y la N-332, y desde allí por las carreteras comarcales que bajan hasta el casco, el puerto y el Arenal. Los puertos de referencia son Valencia y Alicante, y los aeropuertos más próximos, los de Valencia y Alicante-Elche.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Jávea</strong> necesita licencia del Ayuntamiento de Jávea según su plan general y el TRLOTUP de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En las urbanizaciones de ladera hacia el Cabo de la Nao encajan módulos escalonados con terrazas y vistas.",
+   "El Parque Natural del Montgó y la Ley de Costas limitan buena parte del entorno; muchas urbanizaciones añaden normas estéticas.",
+   "Los terrenos rocosos de los cabos pueden exigir muros y una cimentación más trabajada.",
+   "Jávea está en la zona B4 del CTE: aislamiento contra el calor y pintura marina contra el salitre.",
+   "Los módulos llegan por la AP-7 y la N-332, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

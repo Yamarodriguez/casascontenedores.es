@@ -1811,5 +1811,19 @@
     "html": "<p>En Sanlúcar, con tanta humedad y salitre, la <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> alarga mucho la vida del contenedor. Para bodegas o almacenes de alimentos interesa añadir ventilación o aislamiento, que estabilizan la temperatura. En el puerto, un contenedor refrigerado puede guardar pescado y marisco, y en fincas alejadas, la energía solar da luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Sanlúcar de Barrameda</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de la Bahía de Cádiz por la A-480 y te lo damos puesto en destino.",
+  "datos": [
+   "Las bodegas de manzanilla lo usan como almacén auxiliar de botellas, cajas y material.",
+   "En el puerto pesquero de Bonanza sirve a armadores y comercializadores de pescado y marisco.",
+   "En las calles estrechas del Barrio Alto el 20 pies es más manejable; en fincas y polígonos entra un 40 pies.",
+   "Sobre arena blanda el camión grúa necesita un apoyo estable para descargar con seguridad.",
+   "Alquilar compensa en la vendimia, en una obra o en las carreras de caballos de agosto en la playa."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>Para guardar muebles terminados o madera, el contenedor agradece <a href=\"/aislamiento-contenedores/\">aislamiento</a> y ventilación, que evitan condensaciones con los contrastes de temperatura del Altiplano. Si va a quedar en una finca, añade rejas y cerraduras reforzadas. Una placa solar pequeña da luz sin depender de la red, y una pintura en tonos tierra lo integra en el paisaje de viñedo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Yecla</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde los puertos de Alicante o Valencia por la A-33, y al estar lejos del mar el transporte pesa más en el coste.",
+  "datos": [
+   "Las fábricas de muebles lo usan como almacén de piezas, embalajes o producto terminado.",
+   "En las fincas guarda maquinaria, aperos y cajas de vendimia, y las bodegas lo alquilan en campaña.",
+   "Las heladas y las lluvias de otoño castigan el techo y las juntas: revisa que no entre agua.",
+   "Los polígonos admiten un 40 pies o un High Cube; en caminos estrechos entre viñas, un 20 pies.",
+   "Para guardar muebles o madera conviene aislamiento y ventilación contra las condensaciones."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Córdoba</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega del puerto de Sevilla, o de Málaga o Algeciras, y te lo damos puesto en destino en la vega o en la Sierra.",
+  "datos": [
+   "En el olivar de la campiña sirve de almacén de aceituna, maquinaria o aperos durante la campaña.",
+   "En la Judería el acceso de camiones grandes está limitado: la descarga se planifica mejor en el Ensanche.",
+   "Polígonos como Las Quemadas y el Parque Joyero lo usan como almacén para comercios y empresas.",
+   "Con la zona B4 y sus veranos extremos, conviene aislamiento exterior, cubierta ventilada y sombreamiento.",
+   "En una parcelación irregular de la Sierra, comprueba antes con la Gerencia de Urbanismo su régimen legal."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

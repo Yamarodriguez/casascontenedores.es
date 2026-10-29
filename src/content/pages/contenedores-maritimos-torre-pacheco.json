@@ -1811,5 +1811,19 @@
     "html": "<p>Si el contenedor va a guardar productos agrícolas o fitosanitarios, la ventilación es imprescindible. Para conservar género fresco hay <a href=\"/contenedor-refrigerado/\">contenedores refrigerados</a>. El aislamiento del techo reduce el calor, una pintura protectora frena la humedad y, en fincas apartadas, las rejas y una placa solar dan seguridad y luz sin red eléctrica.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Torre-Pacheco</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Cartagena por la AP-7, y el terreno llano facilita la descarga.",
+  "datos": [
+   "Las fincas hortícolas lo usan como almacén de cajas, plásticos y fitosanitarios.",
+   "Los almacenes de manipulado lo aprovechan como espacio auxiliar, y los complejos residenciales como trastero o taller.",
+   "En campaña, coordina la entrega para no coincidir con tractores y camiones de recolección.",
+   "Las urbanizaciones con accesos controlados o calles estrechas requieren más planificación.",
+   "Durante las campañas de lechuga, brócoli o melón, alquilarlo unos meses encaja mejor que comprarlo."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

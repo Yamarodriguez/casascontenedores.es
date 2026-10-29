@@ -2733,5 +2733,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Talavera de la Reina</strong> necesita licencia de obra mayor del Ayuntamiento de Talavera de la Reina conforme al TRLOTAU de Castilla-La Mancha, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Se construye en el suelo urbano del núcleo y los polígonos; en la vega solo caben usos agrícolas o autorizados.",
+   "La confluencia del Tajo y el Alberche es llanura de inundación: compruébalo antes de elegir parcela cerca del río.",
+   "Zona climática C4, con veranos calurosos: protección solar y ventilación cruzada antes que calefacción.",
+   "Sin puerto en la comarca, los módulos llegan desde el nodo intermodal de Coslada por la A-5 o la N-502.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

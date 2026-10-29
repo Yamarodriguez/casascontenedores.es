@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5310,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Cádiz</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale de las dársenas de la Bahía o del Puerto Bahía de Algeciras y entra en la capital por los puentes del istmo.",
+  "datos": [
+   "Los astilleros y la industria naval auxiliar lo piden sobre todo como oficina de obra o vestuario.",
+   "En la Zona Franca y los polígonos vecinos se usa como contenedor de almacenamiento.",
+   "En el casco intramuros, con calles estrechas y zona de bajas emisiones, se descarga fuera de las murallas.",
+   "Junto a la costa o en el Parque Natural Bahía de Cádiz, el ayuntamiento añade un informe previo.",
+   "El salitre de la Bahía desgasta la pintura; con revisiones periódicas funciona bien como almacén."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

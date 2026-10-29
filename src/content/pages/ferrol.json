@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo el término de Ferrol y cada cifra que damos es con la casa puesta en destino. El transporte entra por la AP-9, la Autopista del Atlántico, que termina en la ciudad, o por la AG-64 desde la zona de Vilalba y la A-8. El puerto de Ferrol es la referencia marítima natural, y los aeropuertos más próximos son los de A Coruña y Santiago.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Ferrol</strong> necesita licencia del Concello de Ferrol conforme a la Ley 2/2016 del Suelo de Galicia y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la franja litoral se suman la Ley de Costas y la Red Natura de la Costa Ártabra.",
+   "Cerca de la ría y del Atlántico la chapa pide chorreado, imprimación y pintura de uso naval.",
+   "Con tanta lluvia, fabricar en taller evita semanas de obra al descubierto; en la parcela solo se monta.",
+   "Las fincas en ladera o con caminos entre muros de piedra encarecen el acceso de la grúa.",
+   "Conviene montar entre primavera y principios de otoño, en días sin temporal ni rachas fuertes."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

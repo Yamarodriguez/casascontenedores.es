@@ -2550,5 +2550,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Granada</strong> necesita licencia de obra mayor del ayuntamiento de cada municipio de la provincia conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el suelo urbano de la capital y del cinturón, como Zubia u Ogíjares, el trámite es la licencia habitual.",
+   "En la Vega, protegida por su valor agrario, la vivienda aislada solo entra con condiciones estrictas.",
+   "La sismicidad de la Vega y de Sierra Nevada obliga a arriostrar la cimentación y reforzar anclajes.",
+   "Cerca del Genil el freático es somero: un estudio geotécnico decide entre losa o zapatas.",
+   "El contenedor llega por el puerto de Motril y la A-44; Málaga y Almería sirven de alternativa."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

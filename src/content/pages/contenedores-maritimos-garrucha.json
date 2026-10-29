@@ -1811,5 +1811,19 @@
     "html": "<p>En Garrucha el extra más importante es una buena <a href=\"/pintura-contenedores/\">pintura anticorrosión</a>, porque el salitre del puerto no perdona. Si va a guardar aparejos, añade ventilación para que las redes se sequen sin olores. Si va a ser almacén de un restaurante o comercio, el aislamiento y unas cerraduras reforzadas son muy útiles.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Garrucha</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Almería o el de Cartagena por la A-7, con salida por Vera, y aquí sirve sobre todo junto al puerto pesquero.",
+  "datos": [
+   "Los pescadores lo usan para guardar aparejos y redes; con ventilación, se secan sin olores.",
+   "En el casco, de calles estrechas, el 20 pies es casi siempre la opción más práctica.",
+   "En una explanada junto al puerto la descarga es sencilla; en una calle estrecha del casco, el coste sube.",
+   "El salitre acelera la corrosión de la chapa usada: revisa bajos, esquinas y marcos de las puertas.",
+   "Para un negocio de playa en verano o una obra con fecha de fin, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

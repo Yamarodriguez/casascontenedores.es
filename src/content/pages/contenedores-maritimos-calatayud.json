@@ -1811,5 +1811,19 @@
     "html": "<p>Con las heladas y los veranos calurosos de Calatayud, el <a href=\"/aislamiento-contenedores/\">aislamiento</a> es el extra que más mejora el uso del contenedor, sobre todo si guarda vino, fruta o productos sensibles a la temperatura. En fincas alejadas conviene añadir rejas y cerraduras reforzadas, y una placa solar resuelve la luz. La pintura en tonos tierra lo integra en el paisaje de cerros.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Calatayud</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde los puertos de Valencia o Barcelona y entra por la A-2, o por la A-23 y la N-234 desde Valencia.",
+  "datos": [
+   "Se ve en las fincas de frutales de la vega del Jalón y en las bodegas de la DO Calatayud.",
+   "En la vega, con caminos amplios entre frutales, un 40 pies es lo más práctico para cajas y maquinaria.",
+   "En las laderas de viñedo, con pistas estrechas y curvas cerradas, el 20 pies se coloca mejor.",
+   "Las heladas endurecen las gomas de las puertas: revisa juntas y abolladuras del techo al recibirlo.",
+   "Para la vendimia, la recogida de la fruta o las fiestas de San Roque, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

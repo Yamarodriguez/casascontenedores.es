@@ -1811,5 +1811,19 @@
     "html": "<p>Con los veranos de Alcalá de Guadaíra, el aislamiento térmico es casi obligado si el contenedor va a ser oficina, vestuario o almacén de productos delicados, y la ventilación ayuda a sacar el aire caliente. En polígonos, cerraduras de seguridad e instalación eléctrica; en la campiña, una placa solar y unas rejas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alcalá de Guadaíra</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Sevilla, muy cerca, por la A-92 o la SE-40, y te lo damos puesto en destino.",
+  "datos": [
+   "Suele acabar como almacén auxiliar en las naves de los polígonos, caseta de obra o cuarto de aperos.",
+   "Los viales anchos de los polígonos admiten un 40 pies o un High Cube; en el casco, mejor el 20 pies.",
+   "El reto del usado aquí es el calor: la chapa se recalienta en verano y las juntas se resecan.",
+   "En una finca de la campiña, el camino de tierra puede complicar la descarga cuando llueve.",
+   "Para picos de stock, la feria o una campaña agrícola con fecha de fin, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en todo el término de Yecla y el precio se da puesto en destino. La A-33 une Yecla con Jumilla y con el corredor de la A-31, que lleva hacia Alicante y Madrid. Para la llegada de mercancía, los puertos de referencia son Alicante y Valencia, y el aeropuerto más próximo es el de Alicante-Elche.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Yecla</strong> necesita licencia del Ayuntamiento de Yecla según su plan general y la Ley 13/2015 de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja como vivienda de campo entre viñedos de la DO Yecla o como casa compacta junto al casco.",
+   "En suelo rústico la vivienda aislada tiene muchas limitaciones, y el monte del Arabí suma restricciones propias.",
+   "Los inviernos del Altiplano son fríos, con heladas: aislamiento grueso y carpinterías con rotura de puente térmico.",
+   "La tradición del mueble facilita encontrar carpinteros que personalicen el interior de los módulos.",
+   "Para montar, mejor primavera u otoño: se evitan las heladas y el calor de pleno verano."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

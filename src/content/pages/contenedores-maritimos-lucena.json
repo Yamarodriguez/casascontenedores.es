@@ -1811,5 +1811,19 @@
     "html": "<p>En la industria de Lucena se piden contenedores con <a href=\"/electricidad-contenedores/\">instalación eléctrica</a>, iluminación y ventilación para usarlos como taller o almacén de trabajo diario. Si guardas muebles o madera, el aislamiento evita condensaciones. En fincas de olivar apartadas, las rejas, una cerradura reforzada y una placa solar completan el equipamiento.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Lucena</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); suele salir del puerto de Málaga y llega directo por la A-45.",
+  "datos": [
+   "Lo usan sobre todo los fabricantes de muebles y de frío industrial como almacén de producto y recambios.",
+   "Si guardas muebles o tableros, revisa filtraciones en techo y juntas: la humedad estropea la madera.",
+   "En los polígonos lo habitual es el 40 pies; en fincas de olivar en ladera, el 20 pies.",
+   "Subir por un carril empinado del olivar o entrar en una calle estrecha del centro exige más maniobras.",
+   "Para picos de producción o las Fiestas Aracelitanas, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

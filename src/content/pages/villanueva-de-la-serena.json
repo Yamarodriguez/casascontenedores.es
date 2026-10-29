@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo el término de Villanueva de la Serena y el precio se ofrece puesto en destino. La N-430 comunica la ciudad con Don Benito y Mérida hacia el oeste y con Castilla-La Mancha hacia el este, y la conexión con la A-5 se hace por Miajadas. Las referencias para mercancía de larga distancia son los puertos de Sevilla y Lisboa, y el aeropuerto más próximo es el de Badajoz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Villanueva de la Serena</strong> necesita licencia del Ayuntamiento conforme a su plan general y a la Ley 11/2018 (LOTUS) de Extremadura, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Buena parte de La Serena es Red Natura 2000 por sus aves esteparias: confirma la protección de la finca.",
+   "En el suelo rústico de la vega y de las dehesas, la vivienda está muy condicionada.",
+   "En las fincas alejadas de las redes, el coste sube porque luz y agua se resuelven por cuenta propia.",
+   "Está en la zona climática C4 del CTE, con veranos severos: aislamiento generoso y rotura de puente térmico.",
+   "Junto al Guadiana o al Zújar conviene estudiar el suelo, porque un terreno blando refuerza la cimentación."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

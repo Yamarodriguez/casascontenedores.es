@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Castellón</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale de PortCastelló, desde el muelle del Centenario o las dársenas de El Grao, y te lo dejamos con grúa en tu parcela.",
+  "datos": [
+   "En el clúster cerámico sirve de almacén auxiliar para palés y materia prima de las fábricas de azulejo y fritas.",
+   "En la huerta de cítricos, no urbanizable, el TRLOTUP limita los usos y el PATRICOVA puede añadir condiciones.",
+   "En la marjal litoral, con nivel freático alto, eleva la base y asegura un buen drenaje bajo la solera.",
+   "La zona B3 de la costa sube a C3, D3 o E1 hacia el interior, donde importa aislar del frío.",
+   "Para obra temporal en los polígonos o la cosecha de cítricos, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2557,5 +2557,19 @@
     "html": "<p>Arrecife está dentro de nuestra zona de servicio, con oferta cerrada puesto en destino. Los módulos desembarcan en el Puerto de Arrecife, junto al Muelle de Los Mármoles, y la circunvalación LZ-3 los reparte hacia la LZ-1 en dirección norte o la LZ-2 en dirección sur. Para quien viene a ver el proyecto, el Aeropuerto César Manrique-Lanzarote está en el vecino San Bartolomé.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Arrecife</strong> se tramita con licencia del Ayuntamiento de Arrecife y la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Suele ser un proyecto urbano: vivienda compacta entre medianeras, anexo en una parcela o estudio para alquilar.",
+   "Los módulos desembarcan en el Muelle de Los Mármoles y el recorrido urbano hasta la parcela es corto y llano.",
+   "En las calles estrechas del centro, la grúa puede necesitar permiso de ocupación de vía.",
+   "En primera línea, revisa la servidumbre de costas y la cercanía de la ZEC Sebadales de Guasimeta.",
+   "El alisio sopla casi todo el año: abre los huecos principales hacia el lado resguardado."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

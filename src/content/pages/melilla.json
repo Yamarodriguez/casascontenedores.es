@@ -2733,5 +2733,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 10105,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Melilla</strong> necesita licencia de obra mayor sobre el PGOU de la ciudad autónoma, que no tiene ley autonómica del suelo y aplica el Real Decreto Legislativo 7/2015, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo urbano del ensanche está muy consolidado: lo habitual es aprovechar un solar o una azotea.",
+   "Al terminar no hay cédula autonómica: el título de ocupación es la licencia municipal.",
+   "Melilla está en zona A3 del CTE, con poniente, levante, salitre y a veces arena del Sáhara.",
+   "Refuerza el anticorrosivo en cortes, soldaduras y huecos, donde el salitre ataca primero el acero.",
+   "El módulo llega por el Puerto de Melilla, sobre todo desde Málaga, y pasa despacho aduanero con IPSI en vez de IVA."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

@@ -2733,5 +2733,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Roquetas de Mar</strong> necesita licencia del Ayuntamiento de Roquetas de Mar, sobre su PGOU de 2009, conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el suelo agrícola de invernaderos del Campo de Dalías solo caben construcciones ligadas a la explotación.",
+   "El litoral tiene servidumbre de Costas, y cerca están Punta Entinas-Sabinar y la Ribera de la Algaida.",
+   "Está en la zona climática A4, la más cálida: sombreamiento, ventilación cruzada y pintura marina en cada corte.",
+   "Comprueba el nivel freático de la parcela, porque el acuífero de la zona está salinizado.",
+   "En las urbanizaciones de Aguadulce los viales suelen ser estrechos y condicionan la maniobra del camión con pluma."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

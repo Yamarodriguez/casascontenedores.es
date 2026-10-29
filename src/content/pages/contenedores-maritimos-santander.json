@@ -1811,5 +1811,19 @@
     "html": "<p>En Santander la <strong>pintura anticorrosión</strong> es el extra más recomendable, por el salitre y la lluvia. Si el contenedor se va a usar como oficina, vestuario o taller, añade aislamiento y ventilación para evitar condensación. Para un almacén con cosas de valor, rejas y una cerradura de seguridad; y si no hay acometida, una pequeña instalación solar.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Santander</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); muchos salen del propio puerto de Santander, y lo que más pesa en el precio es la maniobra urbana.",
+  "datos": [
+   "Se pide sobre todo como almacén de negocios y naves, caseta de obra y espacio auxiliar en clubes náuticos.",
+   "En los barrios altos, calles empinadas o patios interiores, lo práctico es el 20 pies.",
+   "Con lluvia, viento del nordeste y salitre, revisa techo, bajos y gomas de las puertas de un usado.",
+   "En calles en pendiente puede hacer falta permiso para ocupar la calle durante la descarga.",
+   "Durante la Semana Grande de julio se alquilan almacenes temporales para material y mobiliario."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

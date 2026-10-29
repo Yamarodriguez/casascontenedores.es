@@ -2728,5 +2728,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Coslada</strong> necesita licencia del Ayuntamiento de Coslada conforme a la Ley 9/2001 del Suelo de la Comunidad de Madrid, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Coslada es casi todo suelo urbano consolidado; el no urbanizable lo protege el Parque Regional del Sureste.",
+   "Dentro de las isófonas de mayor nivel de Barajas, el uso residencial queda descartado por la servidumbre acústica.",
+   "En zona climática D3, el contenedor pide aislamiento térmico y también acústico por el ruido aeronáutico.",
+   "Los yesos y arcillas del Corredor del Henares exigen estudio geotécnico y cementos sulforresistentes.",
+   "El Puerto Seco de Madrid está en el propio Coslada, con accesos por la A-2, la M-40 y la M-45."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en cualquier punto del término de Miranda de Ebro y cotizamos la casa puesta en destino. El camión entra por la AP-1 y la AP-68, que se cruzan junto a la ciudad, y por la N-I, mientras la N-124 enlaza con La Rioja. El puerto de Bilbao es la salida marítima natural, y los aeropuertos de Vitoria y Bilbao quedan muy cerca.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Miranda de Ebro</strong> se tramita en el Ayuntamiento de Miranda de Ebro bajo la Ley 5/1999 de urbanismo de Castilla y León y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Fuera del suelo urbano la vivienda está muy limitada, y las riberas del Ebro arrastran restricciones por inundabilidad.",
+   "El entorno del Parque Natural Montes Obarenes-San Zadornil exige especial cuidado con cualquier proyecto.",
+   "En la vega, cerca del Ebro, puede haber que elevar la casa o reforzar la cimentación por el nivel freático.",
+   "Nieblas y heladas favorecen condensaciones: aislamiento sin cortes y barrera de vapor en todas las esquinas.",
+   "La vega es llana y las autopistas pasan al lado, lo que facilita el transporte de los módulos."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

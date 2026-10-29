@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo el término de Navalcarnero y el precio se da <strong>puesto en destino</strong>. La A-5, la Autovía del Suroeste, trae los módulos desde Madrid y sigue hacia Extremadura, y la M-600 conecta con Brunete y el noroeste. El Aeropuerto Adolfo Suárez Madrid-Barajas es la referencia aérea, y el puerto de Valencia la marítima.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Navalcarnero</strong> necesita licencia del Ayuntamiento de Navalcarnero conforme a la Ley 9/2001 del Suelo de la Comunidad de Madrid y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El Parque Regional del Curso Medio del río Guadarrama no admite viviendas nuevas.",
+   "El casco histórico, en torno a la Plaza de Segovia, tiene protección propia y limita mucho los materiales.",
+   "En las urbanizaciones encaja una vivienda de dos o tres módulos en U alrededor de un patio.",
+   "Los suelos arcillosos se hinchan con la lluvia y piden una cimentación bien estudiada.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

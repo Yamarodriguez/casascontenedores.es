@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5309,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Burgos</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); se prepara en el almacén más próximo, enlazado con los puertos de Bilbao y Gijón, y se reparte desde Villafría.",
+  "datos": [
+   "En Villalonquéjar, con la automoción y los componentes, se usa sobre todo como oficina modular.",
+   "En la comarca sirve de almacén de campaña, y en pedanías como Villafría, de caseta de aperos.",
+   "Junto a la Catedral y el Camino de Santiago, la descarga se organiza en un punto accesible cercano.",
+   "Con las heladas y nevadas de la zona E1, apóyalo sobre una base nivelada y vigila el drenaje.",
+   "Las nieblas invernales dejan una humedad persistente: revisa la pintura con cierta frecuencia."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

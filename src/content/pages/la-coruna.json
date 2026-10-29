@@ -2622,5 +2622,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en La Coruña</strong> necesita licencia del concello de cada municipio de la provincia conforme a la Ley 2/2016 del suelo de Galicia y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La Ley 2/2016 distingue suelo urbano, núcleo rural, urbanizable y rústico; la capital es casi toda urbana consolidada.",
+   "Galicia no expide cédula autonómica: la obra se cierra con la licenza de primeira ocupación del Concello.",
+   "La capital está en la zona C1 del CTE y los concellos de interior a mayor cota pasan a D1.",
+   "El viento del noroeste y la humedad marina piden reforzar anclajes y cuidar la estanqueidad.",
+   "La Torre de Hércules, la Ciudad Vieja y la Ley de Costas añaden protección en la capital."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

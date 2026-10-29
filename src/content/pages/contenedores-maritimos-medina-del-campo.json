@@ -1811,5 +1811,19 @@
     "html": "<p>En la meseta conviene pensar en el <a href=\"/aislamiento-contenedores/\">aislamiento</a> si vas a trabajar dentro o a guardar algo sensible al frío o al calor. Unas rejillas evitan condensaciones en las nieblas de invierno. Para una finca apartada, pide refuerzo antirrobo en las puertas y una placa fotovoltaica para la luz. Un tono tierra lo integra en el campo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Medina del Campo</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-6, y en la llanura casi todos los accesos admiten un 40 pies.",
+  "datos": [
+   "Los agricultores de cereal y viñedo lo usan como almacén de aperos y semillas, y las bodegas de Rueda también compran.",
+   "Sin salitre, el mayor enemigo es el agua que se queda en el techo y se hiela en invierno.",
+   "En el casco histórico, con plazas porticadas, o en caminos de viñedo con curvas, manda el 20 pies.",
+   "En tierra de labor blanda tras las lluvias o en patios pequeños, la grúa necesita más maniobras.",
+   "Para la cosecha, la vendimia o las ferias renacentistas, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

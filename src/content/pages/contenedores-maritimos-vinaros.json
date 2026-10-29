@@ -1811,5 +1811,19 @@
     "html": "<p>Para un contenedor en el puerto de Vinaròs, lo prioritario es una buena pintura anticorrosión. En las fincas del interior compensan la ventilación y el aislamiento, porque el sol del verano calienta mucho la chapa. Si queda apartado, añade rejas y cierres reforzados, y una placa solar te dará luz sin necesidad de traer la red eléctrica.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Vinaròs</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto de Castelló o del de Tarragona por la AP-7 o la N-340 y se reparte entre el puerto pesquero y el secano.",
+  "datos": [
+   "La flota del langostino lo usa como espacio cerrado para redes, cajas y motores.",
+   "Junto al puerto, el salitre aprovecha cualquier golpe en la pintura: revisa esquinas, bisagras y base.",
+   "En el puerto y los polígonos cabe un 40 pies; en las masías del interior, el 20 pies es lo habitual.",
+   "Una finca del secano con camino pedregoso hacia el Puig puede pedir un camión grúa más potente.",
+   "Las comparsas del Carnaval lo alquilan para guardar trajes y carrozas durante meses."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

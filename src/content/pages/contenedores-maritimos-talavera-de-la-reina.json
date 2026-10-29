@@ -1811,5 +1811,19 @@
     "html": "<p>Con los veranos de Talavera, el aislamiento y la ventilación son útiles si el contenedor va a ser taller, oficina o almacén de productos delicados. En invierno, el aislamiento evita condensaciones. En fincas apartadas, rejas y cerraduras de seguridad protegen la maquinaria, y una placa solar da luz donde no llega la red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Talavera de la Reina</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); Talavera está lejos de los puertos, así que el viaje por la A-5 pesa en el precio.",
+  "datos": [
+   "En la comarca se usa como cuarto de aperos en fincas y explotaciones de regadío, dehesa y vacuno.",
+   "Los talleres de cerámica y las empresas de los polígonos lo compran como almacén.",
+   "En el casco antiguo y en fincas con cancelas y caminos de tierra, el 20 pies se maneja mejor.",
+   "Un camino de tierra que se embarra con las lluvias pide más maniobra en la descarga.",
+   "Las ferias de San Isidro y San Mateo, y Las Mondas, necesitan almacenes temporales en alquiler."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

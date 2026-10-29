@@ -2573,5 +2573,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1266,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en León</strong> necesita licencia de obra mayor del ayuntamiento de cada municipio de la provincia conforme a la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "León está en la zona climática E1, la más severa de invierno del CTE, con heladas y nevadas habituales.",
+   "Pide aislamiento continuo por el exterior y una cubierta con pendiente para evacuar la nieve.",
+   "En la capital, el Plan Especial del Conjunto Urbano controla las obras junto a la Catedral y San Isidoro.",
+   "El suelo rústico de la vega del Bernesga suele admitir como mucho una caseta o un almacén agrícola.",
+   "El contenedor llega desde el Puerto de Gijón por la AP-66 y la A-66."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

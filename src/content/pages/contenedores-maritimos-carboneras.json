@@ -1812,5 +1812,19 @@
     "html": "<p>Entre las reformas de un contenedor en Carboneras destaca la <strong>pintura anticorrosión</strong>, que frena el ambiente marino junto al puerto y las playas, junto con una ventilación que evite calor y humedad acumulados. Para oficinas de obra en la cementera o la desaladora, conviene instalar electricidad, climatización y ventanas con rejas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Carboneras</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-7 y la AL-5105 y trabaja sobre todo en la industria, el puerto y la pesca.",
+  "datos": [
+   "La cementera, la desaladora, las piscifactorías y el desmantelamiento de la central térmica piden almacenes, vestuarios y casetas de obra.",
+   "La flota pesquera lo usa como cuarto para guardar redes y aparejos junto al puerto.",
+   "Junto al mar, revisa el óxido en bajos, travesaños y bisagras, y que las juntas de goma sellen.",
+   "En la zona industrial entra el 40 pies o el High Cube; en el casco antiguo, mejor el 20 pies.",
+   "Para el desmantelamiento de la central o la temporada de playa, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

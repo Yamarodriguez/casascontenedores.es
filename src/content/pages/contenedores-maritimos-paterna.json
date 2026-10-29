@@ -1811,5 +1811,19 @@
     "html": "<p>Para oficinas o casetas de obra en Paterna conviene un contenedor con <a href=\"/aislamiento-contenedores/\">aislamiento</a>, instalación eléctrica y climatización. Para almacén, ventilación que evite humedades. En polígonos, rejas y cerraduras reforzadas, y en zonas residenciales, una pintura que lo integre en el jardín. Un suelo reforzado ayuda si vas a mover palés con transpaleta.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Paterna</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega rápido desde el puerto de Valencia por la V-30 o la A-7, y la CV-35 lo acerca al Parque Tecnológico y a las zonas de chalets.",
+  "datos": [
+   "Las empresas de Fuente del Jarro y del Parque Tecnológico lo usan como almacén extra o espacio auxiliar.",
+   "En polígonos con calles anchas y muelles se trabaja con un 40 pies; en zonas residenciales, mejor un 20 pies.",
+   "En un jardín con árboles o una calle estrecha puede hacer falta grúa de más alcance: avisa si hay cables.",
+   "Si va a guardar material de oficina o archivo, un contenedor usado debe ser totalmente estanco.",
+   "Para obras, picos de actividad o la Cordà de finales de agosto, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

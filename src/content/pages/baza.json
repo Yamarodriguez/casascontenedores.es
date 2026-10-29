@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo el término de Baza y la comarca del altiplano, y el precio se da puesto en destino. Los módulos llegan por la A-92N, que une Baza con Guadix y Granada por un lado y con Murcia por el otro, y desde ella salen las carreteras hacia los pueblos de la Hoya. El Aeropuerto de Granada y los puertos de Almería y Motril son las referencias logísticas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Baza</strong> necesita licencia del Ayuntamiento de Baza conforme a su planeamiento general y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Los inviernos fríos del altiplano exigen más aislamiento, buena carpintería y calefacción eficiente.",
+   "En las zonas de cárcavas y laderas arcillosas, la cimentación necesita un estudio geotécnico cuidadoso.",
+   "El Parque Natural de la Sierra de Baza tiene plan propio, y el término forma parte del Geoparque de Granada.",
+   "Junto a una casa cueva, un módulo puede servir de ampliación, cocina o dormitorio.",
+   "Los módulos llegan por la A-92N; para montar, evita las heladas fuertes y las fechas del Cascamorras."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

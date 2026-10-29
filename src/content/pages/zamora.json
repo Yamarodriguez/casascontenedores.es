@@ -2586,5 +2586,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Zamora</strong> necesita licencia de obra mayor del ayuntamiento de cada municipio de la provincia, según la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Lo habitual es una parcela urbana en un barrio periférico de la capital o en un pueblo del alfoz.",
+   "En suelo rústico común, una vivienda aislada solo cabe con autorización de uso excepcional.",
+   "El casco antiguo de la capital es Conjunto Histórico-Artístico, con su propio Plan Especial.",
+   "La capital está en la zona climática D2 y los municipios más altos en E1: prioriza la rotura de puente térmico.",
+   "Junto al Duero y al Valderaduey hay tramos inundables; en la vega, pide estudio geotécnico."
+  ],
+  "enlace": {
+   "texto": "permisos por municipio",
+   "destino": "/permisos/"
+  }
  }
 }

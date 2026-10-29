@@ -2728,5 +2728,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 9810,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Reus</strong> necesita licencia del Ajuntament de Reus conforme al Decret Legislatiu 1/2010 (TRLUC) de Cataluña y cédula de habitabilidad, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Lo habitual es un solar urbano en un barrio residencial o una nave modular en un polígono.",
+   "En suelo agrícola de avellano del Baix Camp solo cabe un módulo vinculado a una explotación en activo.",
+   "Reus está en la zona climática C3: pesan más la protección solar y la ventilación cruzada que el frío.",
+   "Las gravas y arcillas de las rieras varían de una parcela a otra: el geotécnico decide entre zapatas o losa.",
+   "Sin la cédula del Decret 141/2012 no se puede escriturar la vivienda ni contratar los suministros."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

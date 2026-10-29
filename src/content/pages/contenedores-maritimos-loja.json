@@ -1811,5 +1811,19 @@
     "html": "<p>Si el contenedor va a una finca de Loja, conviene añadir ventilación para evitar que los productos guardados cojan humedad. Para usarlo como taller o refugio, el <a href=\"/aislamiento-contenedores/\">aislamiento</a> es casi obligatorio por las heladas de invierno. En fincas aisladas suman rejas y una cerradura reforzada, y una placa solar permite tener luz sin traer la red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Loja</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); desde el puerto de Málaga el trayecto es corto y la A-92 cruza el municipio.",
+  "datos": [
+   "El olivar y la vega del Genil lo usan como almacén; las empresas de los polígonos, como trastero de stock.",
+   "Sin salitre, la chapa sufre por las lluvias de invierno y el sol: revisa que el techo no tenga zonas hundidas.",
+   "Con acceso amplio desde la A-92 cabe un 40 pies; en las cuestas del casco, mejor el 20 pies.",
+   "Los caminos de tierra de las fincas se complican con la lluvia y alargan la descarga.",
+   "Para la campaña de aceituna o la feria, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

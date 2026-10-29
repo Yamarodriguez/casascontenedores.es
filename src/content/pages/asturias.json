@@ -2645,5 +2645,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1146,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Asturias</strong> necesita la licencia de cada concejo y cumplir el TROTU, el Decreto Legislativo 1/2004 de urbanismo del Principado, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La región abarca tres zonas climáticas del CTE: C1 en la costa, D1 en Oviedo y E1 en la montaña.",
+   "Para habitarla hace falta cédula de habitabilidad autonómica además de la licencia municipal de primera ocupación.",
+   "En un núcleo rural manda la categoría de suelo no urbanizable que fije el planeamiento de cada concejo.",
+   "Los Picos de Europa, la Red Natura 2000 y la Ley de Costas restringen la edificación.",
+   "Cerca del mar, en Gijón o Avilés, el salitre obliga a reforzar el tratamiento anticorrosivo."
+  ],
+  "enlace": {
+   "texto": "permisos y licencias",
+   "destino": "/permisos/"
+  }
+ }
 }

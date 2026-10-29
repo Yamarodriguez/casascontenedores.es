@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a Vila-real y a todo su término con el <strong>precio puesto en destino</strong>. Los accesos principales son la AP-7 y la N-340, que atraviesan la Plana de norte a sur, y la carretera hacia Onda y el interior. El puerto de referencia es el Puerto de Castelló, muy cerca, y los aeropuertos son el de Castellón y el de Valencia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Vila-real</strong> se tramita con licencia del Ayuntamiento de Vila-real, que aplica su plan general dentro del TRLOTUP (Decreto Legislativo 1/2021) valenciano, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El terreno es casi todo llano y bien comunicado, así que la llegada del camión rara vez es un problema.",
+   "Junto al Millars hay terrenos inundables que piden cimentación elevada, y el paraje del Termet tiene limitaciones propias.",
+   "En el suelo no urbanizable de huerta, la vivienda nueva tiene requisitos estrictos de parcela mínima y uso.",
+   "En los huertos de naranjos encaja un módulo pequeño con porche; en el casco, dos plantas apiladas.",
+   "La cerámica de la propia comarca sirve para revestir suelos, baños y fachadas de los módulos."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

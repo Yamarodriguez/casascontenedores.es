@@ -2552,5 +2552,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en las Islas Baleares</strong> necesita licencia del ayuntamiento de cada municipio dentro de la LUIB (Ley 12/2017) y del Plan Territorial de su isla, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Cada isla tiene un Plan Territorial Insular que fija la parcela mínima y los usos permitidos.",
+   "Fuera de las capitales predomina el suelo rústico, protegido en muchos casos como ANEI o ARIP.",
+   "La cédula de habitabilidad la expide cada Consell Insular; en Eivissa la sustituye la licencia municipal de ocupación.",
+   "El salitre, la humedad y el viento piden protección anticorrosión reforzada en todo el archipiélago.",
+   "El transporte depende del puerto de cada isla: Palma o Alcúdia, Maó, Eivissa o la Savina."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

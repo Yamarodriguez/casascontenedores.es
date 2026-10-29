@@ -1811,5 +1811,19 @@
     "html": "<p>En Torrente, si el contenedor va a ser un taller o un despacho en la parcela, el aislamiento y la electricidad son los extras que más se piden. La ventilación evita que se recaliente en verano. Para trasteros con herramientas o bicicletas, conviene una cerradura de seguridad, y la pintura en tonos suaves ayuda a integrarlo en el jardín.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Torrente</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el puerto de Valencia queda muy cerca, y el precio cambia sobre todo con la descarga.",
+  "datos": [
+   "Los polígonos tienen naves con patio donde cabe sin problema un 40 pies.",
+   "En las urbanizaciones del monte, como El Vedat, las cuestas, curvas y pinos hacen más fácil el 20 pies.",
+   "El clima seco del interior de l'Horta conserva bien la chapa de un contenedor usado.",
+   "En el centro puede hacer falta permiso para ocupar la calle durante la descarga.",
+   "En las Fallas de marzo las comisiones alquilan almacén temporal para material y monumentos."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

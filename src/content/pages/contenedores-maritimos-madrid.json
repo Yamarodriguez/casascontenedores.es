@@ -1823,5 +1823,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Madrid</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto Seco de Coslada, conectado por tren con Valencia, Algeciras, Barcelona y Bilbao.",
+  "datos": [
+   "En los polígonos de Villaverde, Vicálvaro y San Blas se usa como almacén o nave auxiliar.",
+   "En Distrito Centro y Plaza Elíptica hay que planificar acceso, horario y ocupación de vía pública para la grúa.",
+   "El casco antiguo de la capital, con calles estrechas, no admite góndola ni autogrúa.",
+   "Como oficina necesita aislamiento reforzado y una cubierta que evacúe la nieve, como la de Filomena.",
+   "Cubrimos el Corredor del Henares, Móstoles, Getafe y Alcalá de Henares."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

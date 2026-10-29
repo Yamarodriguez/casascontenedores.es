@@ -2665,5 +2665,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Ibiza</strong> necesita licencia de obra del Ayuntamiento de Eivissa, con proyecto de arquitecto, conforme a la LUIB, la ley de urbanismo de las Illes Balears, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El municipio es casi todo urbano: lo habitual es ampliar o rehabilitar en la ciudad, Talamanca o ses Figueretes.",
+   "En suelo rústico mandan el Plan Territorial Insular y las restricciones de las áreas ANEI y ARIP.",
+   "Dalt Vila es Patrimonio Mundial y sus murallas limitan el acceso: hay que coordinar corte de tráfico y horario.",
+   "Cerca del puerto y en ses Feixes el nivel freático sube, algo a tener en cuenta en la cimentación.",
+   "El salitre ataca los huecos nuevos en la chapa: hay que sellarlos y repintarlos con anticorrosión reforzado."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

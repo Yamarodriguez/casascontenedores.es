@@ -2547,5 +2547,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1111,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Cádiz</strong> necesita la licencia de cada ayuntamiento de la provincia conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La capital es casi toda suelo urbano consolidado: lo habitual es ampliar o construir sobre parcela ya edificada.",
+   "Para una vivienda nueva más amplia, lo normal es mirar hacia San Fernando, Chiclana o El Puerto de Santa María.",
+   "La zona A3 es suave en invierno, pero el salitre de levante y poniente exige protección anticorrosiva reforzada.",
+   "Sobre el tómbolo arenoso y las marismas de la Bahía, el nivel freático suele estar alto.",
+   "Andalucía no tiene cédula de habitabilidad: basta la licencia de ocupación o la declaración responsable."
+  ],
+  "enlace": {
+   "texto": "permisos y licencias",
+   "destino": "/permisos/"
+  }
+ }
 }

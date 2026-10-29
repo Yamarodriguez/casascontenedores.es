@@ -1811,5 +1811,19 @@
     "html": "<p>Con el clima de montaña, un contenedor en Alcoy agradece <a href=\"/aislamiento-contenedores/\">aislamiento</a> y ventilación para evitar condensaciones en invierno. Para guardar tejidos o papel conviene que sea totalmente estanco. En fincas apartadas, rejas y cerraduras reforzadas, y un panel solar para la luz. Una pintura en tonos verdes o tierra lo integra en el paisaje.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alcoy</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-7 desde el puerto de Alicante o desde Valencia, y te lo damos puesto en destino.",
+  "datos": [
+   "La industria textil y papelera lo usa como almacén de materia prima; si guardas tejido o papel, que sea estanco.",
+   "Aquí no castiga el salitre sino la humedad del invierno y las heladas: revisa techo, juntas y suelo.",
+   "En los polígonos cabe un 40 pies; en las calles empinadas del centro y los barrancos, mejor un 20 pies.",
+   "Los caminos estrechos hacia la Font Roja o Mariola pueden obligar a usar vehículos más pequeños.",
+   "Las filaes de Moros y Cristianos lo alquilan para guardar trajes y material durante las fiestas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2579,5 +2579,19 @@
  "menu": "menu-2",
  "bandaTitulo": false,
  "postId": 994,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Galicia</strong> necesita licencia de obra mayor del concello, sobre su PXOM, conforme a la Lei 2/2016 do solo de Galicia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo de núcleo rural es el emplazamiento más habitual; en rústico la vivienda nueva está muy restringida.",
+   "A Coruña y Pontevedra son zona climática C1, Lugo D1 y Ourense C3, con lluvia casi constante.",
+   "Aislar por el exterior y sin interrupciones evita condensaciones y protege la chapa del salitre atlántico.",
+   "El terreno de granito y xabre suele pedir zapatas o muretes sobre roca y drenaje en pendiente.",
+   "Al terminar no hay cédula: se pide la licenza de primeira ocupación o una comunicación previa."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

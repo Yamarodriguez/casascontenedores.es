@@ -1811,5 +1811,19 @@
     "html": "<p>En las fincas de Vejer, la ventilación es importante para guardar pienso o grano sin humedad. En El Palmar, la <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> protege del salitre. Si el contenedor se usa como oficina o taller, el aislamiento y la electricidad lo hacen cómodo, y en fincas apartadas una instalación solar da luz sin red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Vejer de la Frontera</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de la Bahía de Cádiz o el de Algeciras y casi siempre acaba en las fincas de La Janda.",
+  "datos": [
+   "Los ganaderos lo usan para guardar pienso, herramientas y maquinaria; en El Palmar, escuelas de surf y chiringuitos.",
+   "Con levante fuerte la grúa no puede descargar con seguridad, así que la fecha depende del viento.",
+   "En las dehesas cabe un 40 pies; en los carriles de El Palmar y las cuestas del casco, el 20 pies.",
+   "La subida al casco histórico es muy empinada, y los carriles de las fincas pueden ser estrechos o arenosos.",
+   "En El Palmar el salitre castiga más la chapa: revisa esquinas, bisagras y suelo antes de comprar."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

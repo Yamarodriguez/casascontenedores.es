@@ -2577,5 +2577,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1441,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Pamplona</strong> necesita licencia del Ayuntamiento de Pamplona conforme al Decreto Foral Legislativo 1/2017 de Navarra y cédula de habitabilidad de clase A, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El municipio es casi todo urbano: lo habitual es una parcela consolidada, una ampliación o el polígono de Landaben.",
+   "El cierzo del norte obliga a reforzar el anclaje y a proteger los huecos de la fachada más expuesta.",
+   "El casco está en la zona D1 del CTE, con nieve y heladas entre finales de noviembre y marzo.",
+   "Antes de comprar parcela, pide una consulta urbanística y revisa la calificación en el visor Geopamplona.",
+   "En el Casco Antiguo rige la Zona de Bajas Emisiones y las calles son estrechas: acuerda acceso y horario."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>En Corralejo casi cualquier contenedor que vaya a quedarse a la intemperie necesita una buena <a href=\"/pintura-contenedores/\">pintura anticorrosión</a>. Si lo vas a usar como oficina de una escuela o como tienda, el aislamiento y unas rejillas de ventilación hacen el interior soportable con el sol de la isla. Las rejas y una placa solar son útiles en fincas sin luz del interior.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Corralejo</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega en barco a Puerto del Rosario y sube por la FV-1, así que al precio se suma el flete marítimo hasta Fuerteventura.",
+  "datos": [
+   "Las escuelas de surf y kite guardan en él tablas y velas; las excursiones a Lobos, su material.",
+   "La sal y el viento con arena atacan esquinas, bajos y bisagras: revisa el óxido antes de comprar.",
+   "El terreno llano facilita la descarga; en el casco, con calles estrechas, se coloca mejor un 20 pies.",
+   "En el interior de La Oliva, un camino de tierra hasta la finca encarece la entrega.",
+   "Para la temporada alta de una escuela de surf o las fiestas del Carmen, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

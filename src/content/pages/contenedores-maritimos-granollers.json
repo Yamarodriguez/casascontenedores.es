@@ -1811,5 +1811,19 @@
     "html": "<p>Si el contenedor va a ser oficina o taller en Granollers, conviene añadir aislamiento, ventanas, climatización y una instalación eléctrica completa. Para almacén, basta con ventilación para evitar condensaciones, rejas y cerradura de seguridad. En un patio a la vista, una <a href=\"/pintura-contenedores/\">pintura</a> en un tono neutro mejora mucho la integración.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Granollers</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el Puerto de Barcelona y los depósitos del área metropolitana quedan muy cerca, y el precio final depende sobre todo de la descarga.",
+  "datos": [
+   "Las naves de los polígonos lo usan como almacén extra sin ampliar la construcción.",
+   "En polígonos con viales anchos y muelles, un 40 pies o un High Cube se descarga sin problemas.",
+   "En el centro, con calles estrechas y patios interiores, lo práctico es el 20 pies con un camión grúa pequeño.",
+   "Antes de comprar, comprueba que el interior no conserve olores de cargas anteriores si vas a guardar género.",
+   "Muchas empresas del Vallès lo alquilan unos meses para un pico de stock sin comprometerse a comprar."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

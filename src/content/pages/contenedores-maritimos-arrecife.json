@@ -1812,5 +1812,19 @@
     "html": "<p>Para uso comercial en Arrecife merece la pena añadir <strong>pintura contra el salitre</strong>, cerraduras de seguridad y una instalación eléctrica sencilla con iluminación interior. Si va a ser oficina, el aislamiento térmico frente al sol de la costa marca la diferencia en el confort diario.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Arrecife</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); se descarga en el Muelle de Los Mármoles y la circunvalación LZ-3 lo reparte por la ciudad.",
+  "datos": [
+   "Lo más habitual es guardar género de tiendas y talleres o montar una oficina provisional de obra.",
+   "Con el aire salino de la costa oriental, cualquier punto de óxido en techo o bajos avanza deprisa.",
+   "En las naves de la periferia entra un 40 pies; en el centro, el 20 pies se coloca con menos maniobra.",
+   "Los cables aéreos, los balcones y las calles estrechas del casco pueden impedir el giro del camión o de la grúa.",
+   "Pregunta en el Ayuntamiento de Arrecife si la ordenanza permite que el contenedor se vea desde la calle."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

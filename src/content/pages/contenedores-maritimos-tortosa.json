@@ -1811,5 +1811,19 @@
     "html": "<p>Para el uso agrícola de Tortosa compensa añadir ventilación, que evita condensaciones y malos olores en abonos y cajas, y aislamiento si se guarda fruta. En fincas aisladas, rejas y cerradura reforzada; y una pequeña instalación solar para la luz. Si el contenedor está expuesto al mestral, conviene anclarlo bien al suelo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Tortosa</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Tarragona o de Valencia por la AP-7 o la N-340; trabaja sobre todo como almacén en fincas de cítricos y olivos.",
+  "datos": [
+   "Las cooperativas del Baix Ebre lo usan como almacén auxiliar en la campaña de cítricos y aceituna.",
+   "La humedad del Ebro favorece el óxido en los bajos: revisa chapa inferior, esquinas y suelo de madera.",
+   "En la huerta llana entra un 40 pies; en los caminos de montaña hacia Els Ports, solo el 20 pies.",
+   "Los caminos de huerta entre acequias y las parcelas en pendiente exigen más maniobras y grúa de mayor alcance.",
+   "Si queda expuesto al mestral, conviene anclarlo bien al suelo y colocarlo sobre bloques."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

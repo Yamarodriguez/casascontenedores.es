@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4326,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Almería</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por carretera desde Algeciras o Alicante, porque el Puerto de Almería no tiene terminal de contenedores en servicio.",
+  "datos": [
+   "En las explotaciones bajo plástico del Poniente, como El Ejido o Roquetas de Mar, sirve de almacén de aperos.",
+   "Las cooperativas agrícolas lo usan como oficina modular o vestuario en los polígonos.",
+   "Con el calor de la zona A4, conviene ventilarlo para que no acumule temperatura dentro.",
+   "La sismicidad y las ramblas torrenciales piden apoyos firmes, nivelados y un buen anclaje.",
+   "Para módulos de temporada en la costa o el acopio de mármol, el alquiler encaja si el uso tiene fecha de fin."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

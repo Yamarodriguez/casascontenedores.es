@@ -1823,5 +1823,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9913,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Dos Hermanas</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del puerto de Sevilla, en el Muelle del Centenario, y llega por la A-4 o la AP-4 con la grúa y la descarga incluidas.",
+  "datos": [
+   "En los polígonos, sobre todo el de la Carretera de la Isla, sirve de nave, taller u oficina.",
+   "La industria del olivar, la aceituna y el aceite lo usa como almacén auxiliar.",
+   "Un 40 pies, con unos 28,3 m² interiores, es habitual como almacén en polígonos ya urbanizados.",
+   "En el entorno de la plaza del Arenal las calles son estrechas para una góndola grande.",
+   "Junto a cauces como el Guadaíra, comprueba la inundabilidad de la parcela antes de instalarlo."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

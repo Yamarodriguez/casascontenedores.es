@@ -2577,5 +2577,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1350,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Ourense</strong> necesita, en cada concello de la provincia, licencia municipal conforme a la Lei 2/2016 do solo de Galicia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En los núcleos rurales cabe la vivienda unifamiliar integrada en la tipología tradicional.",
+   "En suelo rústico de protección el uso típico es la bodega vinculada a una explotación de viñedo.",
+   "Desde la Ley 7/2022 no hay cédula: se presenta comunicación previa de primera ocupación.",
+   "El granito con roca somera suele admitir apoyos puntuales sencillos; la vega del Miño es aluvial.",
+   "La capital está en zona C3; los municipios más altos de la provincia suben a D2 o E1."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>Para usar un contenedor como taller o almacén de muebles en Manacor conviene añadir aislamiento y ventilación, que evitan la humedad del invierno y el calor del verano. En la costa, una pintura anticorrosión de calidad es casi obligada. En una possessió alejada del pueblo, la cerradura antipalanca y una batería con panel solar bastan para tener luz y dormir tranquilo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Manacor</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega al puerto de Palma y viaja hacia el este por la Ma-15, con precio puesto en destino.",
+  "datos": [
+   "Talleres y fábricas de muebles lo usan como almacén; en Porto Cristo guarda material náutico y de pesca.",
+   "En el campo, entre almendros y algarrobos, sirve para guardar maquinaria y aperos.",
+   "En los polígonos cabe un 40 pies o un High Cube; en el centro y los caminos rurales, mejor el 20 pies.",
+   "En Porto Cristo o en una cala revisa el óxido de esquinas, juntas y bajos antes de comprar.",
+   "Para la recogida de la almendra o la temporada turística, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

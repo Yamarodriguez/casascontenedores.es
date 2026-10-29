@@ -1811,5 +1811,19 @@
     "html": "<p>Con el sol de Águilas, el <a href=\"/aislamiento-contenedores/\">aislamiento</a> y la ventilación son importantes si el contenedor guarda producto agrícola o se usa como oficina. Cerca del mar, la pintura anticorrosión protege la chapa. Las horas de sol hacen muy rentable una instalación solar, y en fincas aisladas, rejas y cerraduras reforzadas dan seguridad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Águilas</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale habitualmente del puerto de Cartagena y llega por la AP-7 o la autovía de Lorca, puesto en destino.",
+  "datos": [
+   "Se usa sobre todo en el campo, como almacén de lechuga y hortalizas, y en el puerto como cuarto de aparejos.",
+   "Para guardar producto fresco de las empresas de manipulado conviene valorar un contenedor refrigerado.",
+   "Los caminos agrícolas entre invernaderos, estrechos y sin sitio para girar, complican la entrega.",
+   "En fincas llanas cabe el 40 pies o el High Cube; en el casco y las lomas, mejor el 20 pies.",
+   "Para la campaña de hortalizas o el Carnaval de Águilas, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2577,5 +2577,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1189,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Toledo</strong> necesita licencia de obra mayor de cada ayuntamiento, con proyecto de arquitecto visado conforme al TRLOTAU de Castilla-La Mancha, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En Castilla-La Mancha no hay cédula de habitabilidad: se tramita la licencia de primera ocupación en el consistorio.",
+   "La capital está en zona C4, que sube a D3 en las cotas altas de la provincia.",
+   "Heladas en invierno y veranos muy calurosos: aislamiento continuo por el exterior y ventilación cruzada.",
+   "En el casco histórico de la capital, sobre granito y con fuertes pendientes, la grúa lo tiene difícil.",
+   "Sin puerto marítimo, los módulos llegan desde el Puerto Seco de Coslada por la A-42 o la AP-41."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

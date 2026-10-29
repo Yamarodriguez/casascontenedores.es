@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en todo el término de Sanlúcar de Barrameda, del casco a las fincas del campo, y el presupuesto va puesto en destino, con entrega y colocación en la parcela. La A-480 es la vía principal: une la ciudad con Jerez, donde se enlaza con la AP-4, y sigue hacia Chipiona. Como puerto trabajamos con el de la Bahía de Cádiz, y el aeropuerto más cercano es el de Jerez.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Sanlúcar de Barrameda</strong> necesita licencia del Ayuntamiento de Sanlúcar de Barrameda, que aplica la Ley 7/2021 (LISTA) de Andalucía y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El casco histórico, declarado conjunto histórico, tiene normas estrictas sobre lo que se puede construir.",
+   "En el entorno de Doñana y del Pinar de la Algaida la protección ambiental es muy fuerte.",
+   "En el Barrio Bajo y junto a Bajo de Guía encaja un estudio o una casa compacta en solar urbano.",
+   "El terreno arenoso de la costa pide una cimentación más estudiada, y el salitre, chapa bien protegida.",
+   "Conviene proteger la fachada del levante, que a veces sopla fuerte y seco."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

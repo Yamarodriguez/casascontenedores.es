@@ -1812,5 +1812,19 @@
     "html": "<p>Lo más solicitado en Vera es la <strong>pintura anticorrosión</strong> para los contenedores cercanos a Vera Playa y la ventilación con aislamiento para los almacenes de cítricos y hortalizas. Para negocios turísticos, también interesan las ventanas, la electricidad y la climatización, que lo convierten en oficina o recepción.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Vera</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-7 o la AP-7 desde los puertos de Carboneras o Almería y se coloca con facilidad gracias al terreno llano.",
+  "datos": [
+   "Los cítricos y la horticultura del interior lo usan como almacén de cajas y caseta de riego.",
+   "En las fincas y polígonos cabe un 40 pies, de unos 12 m; en la costa basta un 20 pies.",
+   "Cerca de Vera Playa, el ambiente marino acelera la corrosión: revisa esquinas, bajos y juntas.",
+   "Encarecen la maniobra las calles estrechas del centro y las parcelas junto a ramblas sin firme.",
+   "En temporada turística los hoteles de Vera Playa lo alquilan como almacén extra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

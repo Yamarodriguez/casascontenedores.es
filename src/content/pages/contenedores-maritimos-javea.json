@@ -1811,5 +1811,19 @@
     "html": "<p>En Jávea lo esencial es una buena <a href=\"/pintura-contenedores/\">pintura</a> de calidad marina y, en urbanizaciones con normas estéticas, un color que lo integre en el entorno. Para escuelas náuticas, ventilación para secar el material. En parcelas sin red eléctrica, una placa solar, y siempre rejas y cerraduras reforzadas si va a quedar sin vigilancia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Jávea</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale de los puertos de Valencia o Alicante, y lo que más pesa es subirlo por las urbanizaciones de ladera.",
+  "datos": [
+   "Trabaja para el turismo y la obra: negocios del puerto y del Arenal, escuelas de buceo y constructoras.",
+   "El aire salino de los cabos pide revisar bajos, esquinas y bisagras de cualquier contenedor usado.",
+   "En las calles en curva de los cabos lo normal es un 20 pies; en el valle cabe un 40 pies.",
+   "Una urbanización en ladera puede requerir camión grúa de gran alcance o vehículos más pequeños.",
+   "Para la temporada de verano o las Fogueres de Sant Joan, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

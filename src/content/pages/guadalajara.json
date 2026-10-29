@@ -2577,5 +2577,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Guadalajara</strong> necesita licencia de obra del ayuntamiento de cada municipio de la provincia conforme al Decreto Legislativo 1/2023 (TRLOTAU) de Castilla-La Mancha, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el suelo rústico de la Alcarria y las riberas del Henares el trámite es mucho más restrictivo.",
+   "Los polígonos del Corredor del Henares, como Marchamalo, Cabanillas o Azuqueca, tienen suelo ya preparado para módulos.",
+   "Las arcillas expansivas y los yesos de la Alcarria hacen clave el estudio geotécnico previo.",
+   "La capital está en la zona climática D3, con heladas prolongadas y calor en verano.",
+   "En la provincia, el Parque Natural del Alto Tajo y la Sierra Norte suman restricciones propias."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

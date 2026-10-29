@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a cualquier rincón del término de Guadix, y el precio que te damos es con los módulos puestos en destino, ya colocados en tu parcela. El camión entra por la A-92, que viene de Granada y continúa hacia Almería, o por la A-92N si llega desde Baza y el Altiplano. Los contenedores suelen salir del puerto de Almería, y quien venga en avión tiene a mano el aeropuerto Federico García Lorca Granada-Jaén.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Guadix</strong> necesita licencia del Ayuntamiento de Guadix según su planeamiento y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Las arcillas y limos de la hoya pueden pedir una cimentación más estudiada, y junto a las cárcavas hay que respetar taludes.",
+   "El paisaje de cárcavas forma parte del Geoparque de Granada: en suelo rústico consulta antes qué uso admite la parcela.",
+   "El frío del altiplano manda: aislamiento continuo, sin puentes térmicos, y el salón abierto al sur.",
+   "Las heladas pueden aplazar el hormigonado; conviene trabajar en la parcela entre la primavera y el otoño.",
+   "El camión llega por la A-92 desde Granada o por la A-92N desde Baza."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>En Torrevieja recomendamos siempre una buena pintura anticorrosión, por el salitre. Si el contenedor va a servir de taller u oficina, añade aislamiento y ventilación, porque el sol del verano lo calienta mucho. Para trasteros en chalés, la pintura en tonos claros ayuda a integrarlo; y para guardar herramientas, unas rejas y una cerradura reforzada.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Torrevieja</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Alicante o el de Cartagena por la AP-7.",
+  "datos": [
+   "Las empresas de mantenimiento de piscinas y jardines lo compran como almacén.",
+   "La sal del mar y de las salinas acelera el óxido: descarta cualquier usado con corrosión que atraviese la chapa.",
+   "En las urbanizaciones, con calles estrechas y coches a ambos lados, lo práctico suele ser el 20 pies.",
+   "A veces hay que esperar a que se libere espacio o pedir permiso para ocupar la calle.",
+   "En temporada alta y durante el Certamen de Habaneras se alquila como almacén temporal."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

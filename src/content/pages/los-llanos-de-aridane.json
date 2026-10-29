@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en Los Llanos de Aridane con el <strong>precio puesto en destino</strong>. Los módulos se descargan en el Puerto de Santa Cruz de La Palma y cruzan la isla por la carretera de la Cumbre, a través de sus túneles, hasta el Valle de Aridane. También está cerca el puerto de Tazacorte. El aeropuerto de referencia es el de La Palma.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Los Llanos de Aridane</strong> necesita licencia del Ayuntamiento de Los Llanos de Aridane según su plan general y la Ley 4/2017 del Suelo de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Tras la erupción de Cumbre Vieja hay normas específicas para reconstruir en las zonas afectadas.",
+   "Las zonas cubiertas por la nueva colada tienen limitaciones propias: consulta el régimen de tu parcela.",
+   "Entre plataneras encaja una casa en planta con terraza al mar y espacio para huerto.",
+   "La doble insularidad encarece la llegada: el contenedor viaja a Tenerife y después a La Palma.",
+   "Los módulos se descargan en Santa Cruz de La Palma y cruzan por la carretera de la Cumbre."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

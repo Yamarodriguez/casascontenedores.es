@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo el término de Manacor, de la ciudad a Porto Cristo, s'Illot, Cala Murada, Cala Anguila y Son Macià, con el <strong>precio puesto en destino</strong>. Los módulos llegan al puerto de Palma y viajan hacia el Llevant por la Ma-15, la carretera de Manacor. El Aeropuerto de Palma es la llegada más cómoda para quien quiera venir a ver la obra.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Manacor</strong> necesita licencia del Ayuntamiento de Manacor dentro de la Ley 12/2017 de urbanismo de las Illes Balears y del Plan Territorial de Mallorca, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la ciudad, los solares entre medianeras admiten viviendas de dos plantas con módulos apilados y patio trasero.",
+   "En suelo rústico una vivienda nueva es muy difícil, y buena parte de la costa está protegida como área natural.",
+   "En Porto Cristo y las calas el aire salino exige imprimación y pintura de calidad marina.",
+   "Los caminos rurales entre paredes de piedra seca pueden complicar la llegada del camión y la grúa.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

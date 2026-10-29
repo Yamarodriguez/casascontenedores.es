@@ -2622,5 +2622,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Vizcaya</strong> necesita proyecto de arquitecto y licencia de obra de cada ayuntamiento de la provincia, conforme a la Ley 2/2006 de Suelo y Urbanismo del País Vasco, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la mayor parte de la provincia predomina el suelo no urbanizable, con caseríos en parcela y núcleos rurales.",
+   "El suelo urbano se concentra en la ría y el Bilbao metropolitano, y el industrial en la margen izquierda.",
+   "En Urdaibai la construcción está condicionada por la ley de protección de la Reserva de la Biosfera.",
+   "Bilbao y el litoral están en zona C1 y los valles del interior en D1: prima la estanqueidad.",
+   "En valles estrechos y caminos de caserío, a veces hace falta grúa autopropulsada para descargar."
+  ],
+  "enlace": {
+   "texto": "permisos por municipio",
+   "destino": "/permisos/"
+  }
  }
 }

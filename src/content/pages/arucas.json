@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo Arucas con el <strong>precio puesto en destino</strong>. Tras desembarcar en el Puerto de La Luz y de Las Palmas, el transporte va al norte por la GC-2, la Autovía del Norte, hasta Bañaderos, desde donde se sube al casco y a las medianías. En avión, la llegada es por el aeropuerto de Gran Canaria, en la costa este.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Arucas</strong> necesita licencia del Ayuntamiento de Arucas, que aplica su plan general y la Ley 4/2017 del Suelo de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En medianías la pendiente es lo que más pesa: muchas parcelas en ladera piden muros y cimentación adaptada.",
+   "Entre plataneras y en el suelo rústico de medianías, la vivienda nueva está muy limitada.",
+   "El alisio trae humedad al norte: ventilación cruzada y barrera de vapor continua evitan la condensación.",
+   "El Puerto de La Luz está muy cerca y la GC-2 acorta el trayecto hasta Bañaderos.",
+   "El casco histórico, con la iglesia de San Juan Bautista, tiene condiciones estéticas propias."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

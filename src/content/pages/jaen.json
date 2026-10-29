@@ -2577,5 +2577,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Jaén</strong> necesita licencia del ayuntamiento de cada municipio conforme a la LISTA (Ley 7/2021) de Andalucía y su Reglamento, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La LISTA solo distingue suelo urbano y rústico; en el olivar rústico las condiciones son más estrictas.",
+   "Al no haber cédula de habitabilidad autonómica, el paso final es la declaración responsable de ocupación municipal.",
+   "La capital está en zona C4 del CTE: ventilación cruzada y protección solar contra el calor del verano.",
+   "Los municipios de sierra a mayor cota suben a las zonas D3 o E1 y piden más aislamiento.",
+   "Sin puerto propio, el contenedor entra por Málaga o Algeciras y sube por las autovías del interior."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Palencia</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra desde el Puerto de Santander por la A-62 y la A-67, con el nudo ferroviario de Venta de Baños como punto logístico.",
+  "datos": [
+   "En Tierra de Campos se usa sobre todo como almacén de cereal, normalmente un 40 pies tipo dry van.",
+   "Muchos caminos de concentración parcelaria van sin asfaltar o se embarran: describe el acceso al pedir presupuesto.",
+   "En las terrazas del Carrión las cantoneras apoyan casi sin preparación; en las arcillas de la campiña, nivela antes.",
+   "Cerca de Villamuriel de Cerrato y Venta de Baños sirve de nave auxiliar para proveedores de automoción.",
+   "Los puentes del Canal de Castilla, Bien de Interés Cultural, tienen gálibo y carga limitados para el camión."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

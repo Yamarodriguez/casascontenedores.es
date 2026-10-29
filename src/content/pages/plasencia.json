@@ -2556,5 +2556,19 @@
     "html": "<p>Atendemos el término placentino al completo y presupuestamos la casa puesta en destino. La ruta habitual de los módulos es la A-66, la Autovía Ruta de la Plata, o la EX-A1, que comunica con Navalmoral de la Mata y Moraleja; hacia el Valle del Jerte sube la N-110. Por mar, las rutas más lógicas pasan por Lisboa o Huelva, y por aire, por Madrid o Badajoz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Plasencia</strong> necesita licencia del Ayuntamiento de Plasencia conforme a la Ley 11/2018 (LOTUS) de Extremadura y al planeamiento municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el casco amurallado, las riberas del Jerte y los espacios de la Red Natura se suman limitaciones.",
+   "En la vega, cerca del río, puede hacer falta elevar la casa y revisar la cimentación por las crecidas.",
+   "En las laderas graníticas, la roca y los caminos estrechos complican la excavación y la llegada de la grúa.",
+   "Con veranos de mucho calor, aísla bien la cubierta, mejor con cámara ventilada, y evita huecos grandes al oeste.",
+   "Si el acceso pasa por el Valle del Jerte, evita montar en plena temporada de la cereza."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

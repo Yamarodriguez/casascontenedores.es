@@ -1811,5 +1811,19 @@
     "html": "<p>En la costa de Agüimes merece la pena una <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> de buena calidad y carpinterías bien selladas contra la arena. Si lo vas a usar como oficina o taller, el aislamiento y la ventilación evitan que la chapa se convierta en un horno al sol del sureste. En fincas apartadas del interior, unas rejas y una pequeña placa solar dan seguridad y luz sin depender de la red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Agüimes</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por el Puerto de La Luz y de Las Palmas y baja por la GC-1 hasta Arinaga, puesto en destino.",
+  "datos": [
+   "La mayoría acaba en el polígono de Arinaga, como almacén extra de empresas de logística y talleres.",
+   "En los viales anchos del polígono entra un 40 pies o un High Cube; hacia Temisas, mejor el 20 pies.",
+   "Al aire libre en Arinaga, el salitre y la arena que arrastra el viento castigan esquinas y juntas.",
+   "Lo delicado es el último tramo: el casco antiguo y las carreteras de curvas que suben a Temisas.",
+   "Para una obra en Arinaga o la recogida de la cosecha, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

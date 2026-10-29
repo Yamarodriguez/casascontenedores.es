@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo el término de Mérida y el precio se da puesto en destino. La ciudad es un cruce de autovías: la A-5 la une con Madrid y Badajoz, y la A-66, la Ruta de la Plata, con Sevilla y el norte. El Aeropuerto de Badajoz es la referencia aérea, y los puertos de Sevilla, Huelva o Lisboa son los más cercanos para la llegada de contenedores.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Mérida</strong> necesita licencia del Ayuntamiento de Mérida según su Plan General y la Ley 11/2018 (LOTUS) de Extremadura, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el casco histórico y zonas con protección arqueológica, mover tierra exige al Consorcio de la Ciudad Monumental.",
+   "Si aparecen restos romanos al excavar, puede hacer falta seguimiento y cambiar la cimentación.",
+   "Encaja en urbanizaciones de la periferia y en el entorno de Proserpina como casa de fin de semana.",
+   "Los veranos extremeños piden aislamiento grueso, cubierta ventilada y colores claros en la chapa.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

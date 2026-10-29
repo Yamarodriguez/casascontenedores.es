@@ -2556,5 +2556,19 @@
     "html": "<p>Del casco de Lepe a La Antilla, el precio de la casa se da siempre <strong>puesto en destino</strong>. La A-49, la autovía entre Sevilla, Huelva y Portugal, pasa junto a la ciudad, y la N-431 reparte el tráfico por la costa occidental. El puerto de Huelva es la referencia marítima más cercana, y el aeropuerto de Sevilla, la referencia aérea.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Lepe</strong> necesita licencia del Ayuntamiento de Lepe conforme a su planeamiento y a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En La Antilla y las urbanizaciones de la costa encaja una segunda residencia de dos módulos con terraza.",
+   "La Ley de Costas y el Paraje Natural Marismas del Río Piedras limitan la franja litoral.",
+   "Lepe está en la zona A4 del CTE; junto a las playas el salitre pide anticorrosión más cuidado.",
+   "En los suelos arenosos del litoral la cimentación necesita un estudio previo.",
+   "Conviene montar fuera del verano en la costa y fuera de la campaña de la fresa en el interior."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

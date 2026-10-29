@@ -1811,5 +1811,19 @@
     "html": "<p>En Terrassa, si el contenedor va a servir como oficina o taller, el aislamiento y la electricidad son los extras más pedidos. Para almacenes de empresa, una buena cerradura y rejas en las ventanas aportan seguridad. Si va a una masía sin acometida, una pequeña instalación solar da luz. La pintura personalizada es útil para integrar el contenedor en la imagen de tu negocio.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Terrassa</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del puerto de Barcelona, a menos de una hora, y llega por la C-16, la C-58 o la B-40.",
+  "datos": [
+   "Las empresas industriales y talleres de los polígonos lo usan como almacén de empresa.",
+   "En las masías hacia Sant Llorenç del Munt sirve como trastero o caseta, con caminos en pendiente.",
+   "Los polígonos admiten un 40 pies o un High Cube; en calles estrechas y masías, el 20 pies es más práctico.",
+   "Por las tormentas de final de verano en el Vallès, revisa la placa CSC y que no haya filtraciones.",
+   "Se alquila para obras, reformas de naves, picos de stock o la Fiesta Mayor de verano."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

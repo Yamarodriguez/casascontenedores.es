@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos San Javier, Santiago de la Ribera y la parte de La Manga del término, siempre con precio <strong>puesto en destino</strong>. Llegamos por la AP-7 y por la autovía que une el municipio con Murcia. El puerto de referencia es Cartagena y el aeropuerto más cercano, el Internacional de la Región de Murcia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en San Javier</strong> necesita licencia del Ayuntamiento de San Javier con la Ley 13/2015 de la Región de Murcia como marco, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Junto a la laguna rigen la Ley de Costas y la normativa específica de protección del Mar Menor.",
+   "Cerca de Santiago de la Ribera encaja una vivienda de vacaciones de uno o dos módulos con terraza.",
+   "La humedad salina del Mar Menor ataca la chapa: hay que limpiar, imprimar y usar pintura marina.",
+   "Los terrenos llanos y arenosos de la costa pueden necesitar una cimentación adaptada al nivel freático.",
+   "Para el montaje conviene evitar los meses de verano en la costa, con más tráfico y gente."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

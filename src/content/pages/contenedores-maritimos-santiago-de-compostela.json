@@ -1811,5 +1811,19 @@
     "html": "<p>En Santiago el extra más útil es la ventilación, porque la humedad estropea lo que se guarda dentro de un contenedor cerrado. Si va a ser oficina o punto de atención, añade un buen aislamiento y calefacción. Para fincas aisladas del rural compensan las rejas, las cerraduras reforzadas y una pequeña <a href=\"/electricidad-contenedores/\">instalación eléctrica</a> con panel solar.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Santiago de Compostela</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la AP-9 desde los puertos de A Coruña o Vigo y te lo damos puesto en destino.",
+  "datos": [
+   "En los polígonos del Tambre o de Costa Vella, con buenos accesos, rinde más un 40 pies o un High Cube.",
+   "En las parroquias, con pistas entre muros de piedra, el 20 pies es casi siempre la medida viable.",
+   "Ganaderos y propietarios de fincas forestales lo usan para guardar aperos y maquinaria.",
+   "Con la lluvia constante, revisa que el techo no embalse agua y que el suelo de madera no esté blando.",
+   "Se alquila para obras en el casco, las fiestas del Apóstol de julio o los años santos jacobeos."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

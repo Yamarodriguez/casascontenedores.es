@@ -2556,5 +2556,19 @@
     "html": "<p>En todo el término de Barbastro trabajamos con el precio <strong>puesto en destino</strong>, sin sorpresas de transporte. La A-22 la conecta con Huesca y con Monzón y Lleida, y la A-138 sale hacia el norte en dirección a Aínsa y el Pirineo. Para mercancía de larga distancia los puertos de referencia son Barcelona y Tarragona, y los aeropuertos más próximos son el de Huesca-Pirineos y el de Zaragoza.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Barbastro</strong> necesita el permiso del Ayuntamiento de Barbastro dentro del Texto refundido de la Ley de Urbanismo de Aragón (DL 1/2014), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En las fincas del Somontano encajan proyectos ligados al vino, como un espacio de catas o la casa del guarda.",
+   "Hacia el norte, el Parque Natural de la Sierra y Cañones de Guara impone normas propias.",
+   "Con inviernos fríos y nieblas, abre la planta al sur y cierra la fachada norte frente al viento.",
+   "Una loma con camino de tierra estrecho o un terreno con agua cerca en la vega del Vero encarecen la obra.",
+   "Si la finca es de viña, coordina el montaje para que no coincida con la vendimia."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todo el municipio, del litoral de Vecindario, Doctoral y Pozo Izquierdo hasta el casco de Santa Lucía, y damos el presupuesto con el <strong>precio puesto en destino</strong>. Los módulos desembarcan en el Puerto de La Luz y de Las Palmas, bajan por la GC-1 hasta las salidas de Vecindario y suben después por carretera de montaña hacia el interior. El Aeropuerto de Gran Canaria está a pocos minutos.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Santa Lucía de Tirajana</strong> necesita licencia del Ayuntamiento de Santa Lucía de Tirajana conforme a su Plan General y la Ley 4/2017 del Suelo de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En Vecindario, Sardina y Doctoral encajan viviendas de dos o tres módulos y ampliaciones en planta alta.",
+   "En Pozo Izquierdo el viento es de los más fuertes de la isla: volumen bajo, compacto y bien anclado.",
+   "En las medianías hay espacios naturales y bienes culturales como la Fortaleza de Ansite.",
+   "La franja costera es zona α3 del CTE; en el casco, por la altitud, cuentan también las noches frescas.",
+   "Un solar llano en Vecindario es lo más barato de resolver; subir a la Caldera de Tirajana encarece."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

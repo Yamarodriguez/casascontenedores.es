@@ -1811,5 +1811,19 @@
     "html": "<p>En el clima húmedo de Torrelavega conviene añadir ventilación, para que el forraje y el pienso no cojan humedad, y una buena <a href=\"/pintura-contenedores/\">pintura protectora</a>. En fincas aisladas, rejas y cerradura reforzada; y una pequeña instalación solar para la luz. Si va a ser oficina en una empresa, añade aislamiento, ventanas y calefacción.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Torrelavega</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto de Santander, muy cercano, y llega por la A-8.",
+  "datos": [
+   "Las explotaciones ganaderas lo usan para guardar forraje, pienso y herramientas.",
+   "Las empresas del valle del Besaya lo aprovechan como almacén o taller.",
+   "Colócalo sobre bloques, separado del suelo, para que el agua de los prados no pudra la madera.",
+   "En una finca con camino embarrado o en ladera puede hacer falta una grúa con mayor alcance.",
+   "Se alquila para la temporada de hierba, las fiestas de la Virgen Grande y las ferias ganaderas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1799,5 +1799,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 10201,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Rivas-Vaciamadrid</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del almacén más cercano de la zona y te lo damos puesto en destino, con transporte, grúa y descarga organizados.",
+  "datos": [
+   "En los polígonos se usa como almacén exterior de mercancía, herramienta y existencias de temporada.",
+   "En las promociones en marcha sirve de oficina provisional o de módulo sanitario mientras dura la obra.",
+   "En las urbanizaciones de unifamiliares hace de trastero de jardín o taller, dentro de lo que permita la ordenanza.",
+   "No necesita cimentación: apoya sobre sus cuatro esquineras en una base firme y nivelada.",
+   "Según el uso, el Ayuntamiento puede pedir una declaración responsable o una licencia de obra menor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

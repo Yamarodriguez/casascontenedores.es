@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Móstoles</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el Puerto Seco de Coslada por la A-5 o la M-50 hasta los polígonos.",
+  "datos": [
+   "En polígonos como La Fuensanta o Regordoño la entrega se hace sin cruzar el casco urbano.",
+   "La Plataforma Logística Puerta del Atlántico está dentro del propio término municipal.",
+   "En el casco antiguo, de calles estrechas, hay que coordinar horario de descarga o un corte de tráfico.",
+   "Cerca del Guadarrama hay terrazas aluviales: revisa la solidez del suelo antes de fijar la descarga.",
+   "Para un almacén de polígono, lo habitual es un 40 pies dry van o su versión high cube."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

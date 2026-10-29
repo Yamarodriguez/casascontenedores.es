@@ -1811,5 +1811,19 @@
     "html": "<p>Con el calor del Poniente, el aislamiento y la ventilación son casi obligados si el contenedor guarda fitosanitarios, semillas o material sensible. En fincas sin acometida, una pequeña placa solar da luz. Para evitar robos de herramientas, rejas y cerraduras de seguridad. En la costa, una pintura anticorrosión prolonga su vida útil.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en El Ejido</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega sobre todo desde el puerto de Almería por la A-7 y aquí trabaja como almacén de cajas y fitosanitarios o caseta de invernadero.",
+  "datos": [
+   "Entre invernaderos los caminos son justos y con giros cerrados: el 20 pies es la medida que más se coloca.",
+   "El término es llano; lo que encarece es el acceso dentro de la finca y el giro de la grúa.",
+   "Para guardar fitosanitarios, el contenedor debe cerrarse con llave, tener ventilación y un suelo en buen estado.",
+   "En Almerimar y Balerma, más cerca del mar, revisa la corrosión y añade pintura anticorrosión.",
+   "El alquiler encaja con la campaña hortícola, de otoño a primavera, cuando falta almacén para cajas y envases."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

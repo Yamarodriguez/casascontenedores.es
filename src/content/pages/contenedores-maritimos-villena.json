@@ -1811,5 +1811,19 @@
     "html": "<p>Con los inviernos del Alto Vinalopó, un contenedor de almacén agradece <a href=\"/aislamiento-contenedores/\">aislamiento</a> y ventilación para evitar condensaciones. En fincas apartadas, rejas, cerraduras reforzadas y una pequeña instalación solar. Y una pintura en tonos tierra lo integra en un paisaje de viñas y campos de cereal.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Villena</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Alicante por la A-31 y, por el cruce de autovías, trabaja mucho como almacén en polígonos y naves logísticas.",
+  "datos": [
+   "En las fincas del Alto Vinalopó sirve como caseta de aperos para viticultores y agricultores.",
+   "Las heladas y las lluvias de otoño castigan el techo, las juntas y el suelo de madera.",
+   "Los polígonos admiten un 40 pies o un High Cube; en el casco, al pie del castillo, mejor un 20 pies.",
+   "En invierno conviene vigilar las heladas en los caminos sin asfaltar antes de la entrega.",
+   "Las comparsas de Moros y Cristianos lo alquilan en septiembre para guardar material de fiestas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

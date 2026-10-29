@@ -2557,5 +2557,19 @@
     "html": "<p>Utiel pertenece al territorio que atendemos en el interior de Valencia. El contenedor llega por la A-3, la autovía Madrid-Valencia, que pasa junto al núcleo, o por la N-330, y por la CV-390 hasta urbanizaciones como Casas de Medina. Los contenedores de importación salen del Puerto de Valencia. El presupuesto llega ya con la entrega incluida, sea en el casco o en una urbanización.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Utiel</strong> se tramita con licencia del Ayuntamiento de Utiel bajo el Decreto Legislativo 1/2021 (TRLOTUP) de la Comunitat Valenciana y el planeamiento municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja como vivienda en parcela urbana, casa de fin de semana en Casas de Medina o suite de enoturismo entre viñas.",
+   "La meseta llana y la A-3 abaratan el transporte y la colocación: la grúa trabaja sin pendientes.",
+   "En parcelas cerca del río Magro o de la rambla de la Torre conviene estudiar bien el terreno por las tormentas.",
+   "En el casco medieval, junto a la Iglesia de la Asunción, cualquier actuación debe respetar la protección del patrimonio.",
+   "Los inviernos fríos, con heladas, piden aislamiento continuo, barrera de vapor y carpinterías con rotura de puente térmico."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

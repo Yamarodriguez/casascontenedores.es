@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos en todo el término de Alcañiz con precio <strong>puesto en destino</strong>. La N-232 lo une con Zaragoza hacia el noroeste y con el litoral de Castellón hacia el sureste, y la N-420 lo conecta con Tarragona y con el sur de Teruel. Para mercancía marítima los puertos de referencia son Tarragona y Castellón, y el aeropuerto más cercano con vuelos regulares es el de Zaragoza.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Alcañiz</strong> necesita licencia del Ayuntamiento de Alcañiz conforme a su plan general y al Texto refundido de la Ley de Urbanismo de Aragón (DL 1/2014), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la ciudad encaja una vivienda con patio; en las masías de olivar, una casa de campo con almacén.",
+   "En suelo no urbanizable, donde están las masías y el olivar, las posibilidades de vivienda son limitadas.",
+   "El cierzo del noroeste sopla con fuerza: cierra la fachada al viento y abre la casa al sur.",
+   "Conviene evitar los días de cierzo fuerte y las grandes carreras de Motorland para el montaje.",
+   "Los módulos llegan por la N-232 o la N-420, con precio puesto en destino en todo el término."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

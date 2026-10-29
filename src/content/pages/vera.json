@@ -2557,5 +2557,19 @@
     "html": "<p>Damos servicio en Vera, del casco urbano a Vera Playa, con <strong>presupuesto puesto en destino</strong>. Por la A-7 o la AP-7 se llega a Vera, y la N-340a da entrada al pueblo; la N-332 y la A-352 completan la red. Para situarse: los puertos comerciales de Carboneras y Almería y el Aeropuerto de Almería.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Vera</strong> requiere licencia del Ayuntamiento de Vera conforme a la Ley 7/2021 (LISTA) de Andalucía y a su PGOU, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Los proyectos más naturales miran a la costa: alojamiento turístico o segunda residencia en Vera Playa.",
+   "Cerca del río Antas o de una rambla puede hacer falta elevar la casa o reforzar la cimentación.",
+   "La ZEC Río Antas y la protección del litoral limitan lo que se construye junto al cauce y en primera línea.",
+   "Vera está en la zona climática B4 del CTE: aísla sobre todo contra el calor del verano.",
+   "El terreno llano abarata la colocación; el plazo ronda los 4 a 7 meses, marcado por la licencia."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

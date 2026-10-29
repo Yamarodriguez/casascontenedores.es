@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en todo Puerto de la Cruz con el <strong>precio puesto en destino</strong>. El camión sale del Puerto de Santa Cruz de Tenerife y toma la TF-5, la Autopista del Norte, hasta el Valle de La Orotava, desde donde se baja a la ciudad. El aeropuerto de referencia es el de Tenerife Norte, a poca distancia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Puerto de la Cruz</strong> necesita licencia del Ayuntamiento de Puerto de la Cruz conforme a su plan general y a la Ley 4/2017 del Suelo de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Con poco suelo libre, lo práctico es una vivienda en dos alturas entre medianeras con azotea transitable.",
+   "En La Ranilla y la zona del muelle hay condiciones estéticas específicas por su interés patrimonial.",
+   "Las calles estrechas y el tráfico turístico dejan poco sitio a la grúa: suele hacer falta permiso para ocupar la calle.",
+   "Con el alisio y el mar la humedad es alta: ventilación cruzada y buena barrera de vapor contra la condensación.",
+   "Mejor evitar el montaje en Carnaval o en las fiestas de julio de la Virgen del Carmen."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

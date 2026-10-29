@@ -2539,5 +2539,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Huesca</strong> necesita licencia del ayuntamiento de cada municipio de la provincia conforme al Decreto Legislativo 1/2014 (TRLUA) de Aragón, modificado por la Ley 2/2023, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En suelo no urbanizable agrícola, la vivienda aislada necesita la autorización especial del Consejo Provincial de Urbanismo.",
+   "El Parque Natural de Guara, Ordesa y Monte Perdido y Posets-Maladeta suman restricciones en la provincia.",
+   "La capital está en la zona climática D2 y el Pirineo en E1: el cierzo obliga a sellar bien carpinterías.",
+   "En la Hoya hay que vigilar las arcillas expansivas y la profundidad de la helada al cimentar.",
+   "Al casco antiguo no entra la góndola: se descarga en un punto accesible, como la PLHUS."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

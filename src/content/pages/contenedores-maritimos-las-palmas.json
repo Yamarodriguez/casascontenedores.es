@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5591,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Las Palmas</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega al Puerto de la Luz, hub de transbordo entre África, América y Europa, y se reparte por la GC-1, GC-2 y GC-3.",
+  "datos": [
+   "Para Lanzarote o Fuerteventura se suma un tramo marítimo interinsular tras la travesía desde la Península.",
+   "En el puerto trabaja como almacén auxiliar o taller; en el comercio, como punto de venta de temporada.",
+   "Cerca del mar el salitre y la panza de burro aceleran la oxidación de soldaduras y cantoneras.",
+   "Los barrancos como el Guiniguada concentran riesgo de inundación: pide la consulta urbanística antes.",
+   "Colocarlo de forma permanente exige al menos licencia de obra menor o declaración responsable del Ayuntamiento."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

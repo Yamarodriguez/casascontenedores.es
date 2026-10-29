@@ -2729,5 +2729,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Rubí</strong> necesita licencia del Ajuntament de Rubí conforme al Decret Legislatiu 1/2010 de Cataluña y cédula de habitabilidad de la Generalitat, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Los polígonos La Llana, Can Jardí y La Bastida concentran naves; la vivienda unifamiliar queda para las urbanizaciones.",
+   "La riera de Rubí deja franjas de policía y zonas inundables: revísalas antes de comprar la parcela.",
+   "Rubí está en la zona climática C2, como Barcelona; lo que cambia es el viento del sur y oeste.",
+   "El contenedor entra por el Port de Barcelona y llega por la AP-7, la B-30 o la C-16.",
+   "En el casco antiguo, con calles estrechas, comprueba el punto de descarga y el radio de giro de la grúa."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

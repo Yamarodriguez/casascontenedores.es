@@ -2552,5 +2552,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Teruel</strong> necesita licencia de cada ayuntamiento conforme a la ley del suelo de Aragón y, al terminar, la licencia de primera ocupación, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Aragón suprimió la cédula de habitabilidad: basta la licencia de primera ocupación o una declaración responsable.",
+   "En la capital, el suelo urbano y los barrios pedáneos admiten vivienda; el no urbanizable queda para explotaciones agrarias.",
+   "Teruel capital está en zona D2 y las sierras altas de la provincia en E1, con muchos días de helada.",
+   "Refuerza el aislamiento, rompe el puente térmico de la estructura de acero y calcula la carga de nieve.",
+   "Sin puerto propio, los módulos llegan desde el Puerto de Valencia por la A-23 Autovía Mudéjar."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

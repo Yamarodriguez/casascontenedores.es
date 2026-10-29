@@ -1811,5 +1811,19 @@
     "html": "<p>Con el sol y el viento del sureste, a un contenedor que va a usarse como oficina o taller le conviene aislamiento y rejillas de ventilación. Si queda cerca del mar, la pintura anticorrosión es casi obligada. En fincas apartadas del interior, unas rejas, un cierre reforzado y una placa solar para la luz lo convierten en un almacén seguro y autónomo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Santa Lucía de Tirajana</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); viaja desde el Puerto de La Luz y de Las Palmas por la GC-1 hasta Vecindario o Doctoral.",
+  "datos": [
+   "En Vecindario trabaja como almacén de tiendas, talleres y empresas de reparto.",
+   "Los invernaderos de la costa y las fincas de la Caldera de Tirajana lo usan para cajas y herramientas.",
+   "En Pozo Izquierdo o Doctoral el viento arrastra arena y sal: revisa a fondo esquinas, bajos y puertas.",
+   "Para subir al casco por carretera de montaña, el 20 pies es casi siempre la elección sensata.",
+   "Un solar entre medianeras en Sardina pide camión grúa y, a veces, permiso para ocupar la calle."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

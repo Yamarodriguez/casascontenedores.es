@@ -1811,5 +1811,19 @@
     "html": "<p>Para la huerta de Orihuela recomendamos ventilación y aislamiento si se van a guardar productos que sufren con el calor. En la costa, la pintura anticorrosión es lo primero. En fincas aisladas conviene poner rejas y cerradura reforzada, y una instalación solar sencilla para tener luz sin depender de una acometida.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Orihuela</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega del puerto de Alicante o de Cartagena por la A-7, o por la AP-7 hacia la costa.",
+  "datos": [
+   "En la huerta de la Vega Baja guarda cajas, abonos y herramientas de cítricos y hortalizas.",
+   "En Orihuela Costa se usa como caseta de obra o trastero, pero el salitre ataca la chapa.",
+   "Muchas fincas están al final de caminos junto a acequias y brazales: lo práctico es un 20 pies.",
+   "En almacenes de manipulado y polígonos con buen acceso caben un 40 pies o un High Cube.",
+   "En uso agrícola se cargan sacos pesados: comprueba que el suelo de madera esté firme."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

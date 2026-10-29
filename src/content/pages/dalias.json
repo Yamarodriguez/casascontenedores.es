@@ -2557,5 +2557,19 @@
     "html": "<p>Damos servicio en Dalías y Celín con <strong>presupuesto puesto en destino</strong>. El camión deja la A-7, la Autovía del Mediterráneo, a la altura de Tarambana y sube por la AL-4302 hasta la A-358, que une Berja con El Ejido y atraviesa el municipio. Si hay que viajar, los enlaces marítimo y aéreo más a mano son el Puerto de Almería y el Aeropuerto de Almería.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Dalías</strong> necesita licencia del Ayuntamiento de Dalías conforme a la Ley 7/2021 (LISTA) de Andalucía y el planeamiento municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Gran parte del término es suelo agrícola, donde la vivienda está muy restringida.",
+   "La ZEC Sierras de Gádor y Énix alcanza las zonas altas, con límites todavía mayores.",
+   "Dalías está en la zona climática C3, más exigente en invierno que la costa del Poniente.",
+   "Entre invernaderos, los caminos estrechos y sin sitio para girar complican la llegada del camión y la grúa.",
+   "Los módulos llegan desde la A-7 por la AL-4302 y la A-358, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

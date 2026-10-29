@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo el término de Tortosa y el precio se da <strong>puesto en destino</strong>. La AP-7 pasa cerca camino de Valencia y Tarragona, la C-12 sigue el Ebro hacia el interior y la N-340 recorre el litoral. El puerto de Tarragona es la referencia marítima, y el Aeropuerto de Reus la aérea más próxima.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Tortosa</strong> necesita licencia del Ajuntament de Tortosa conforme al Texto refundido de la Ley de urbanismo de Cataluña (DL 1/2010) y su plan de ordenación municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la huerta del Ebro, los terrenos de aluvión y las crecidas piden cimentación estudiada y elevar la casa.",
+   "El Parque Natural de Els Ports ocupa la parte montañosa del término y tiene normas muy restrictivas.",
+   "El mestral sopla con fuerza en el valle: hay que anclar bien los módulos y proteger la fachada expuesta.",
+   "Encaja como vivienda en el extrarradio, anexo de un mas en fincas de cítricos o refugio pequeño de montaña.",
+   "El plazo ronda los 4 a 7 meses; cerca del río o de un parque natural, los informes previos lo alargan."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

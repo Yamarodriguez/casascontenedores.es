@@ -1827,5 +1827,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9848,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Sabadell</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Port de Barcelona y llega por la C-58 o la B-30, con transporte y descarga con grúa incluidos en el precio.",
+  "datos": [
+   "En polígonos como Sant Pau de Riu-sec se usa como oficina o almacén; en el Eix Macià, como showroom.",
+   "El Parc Agrari, el Parc Fluvial del Ripoll y el Bosc de Can Deu quedan fuera de instalaciones nuevas.",
+   "La Zona de Baixes Emissions se activa por fases: comprueba el distintivo del camión antes de programar la entrega.",
+   "Para un uso continuado, el Ayuntamiento pide declaración responsable si es temporal u obra menor si es permanente.",
+   "El clima interior del Vallès, más frío que la costa, aconseja aislamiento equilibrado y control solar en verano."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

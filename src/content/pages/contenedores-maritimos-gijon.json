@@ -1811,5 +1811,19 @@
     "html": "<p>Con el clima húmedo de Gijón, el extra que más se agradece es la ventilación, para que no se forme condensación dentro y no se estropee lo que guardas. Una <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> protege la chapa del salitre, y el aislamiento ayuda si el contenedor va a hacer de taller u oficina. En fincas sin luz, una pequeña placa solar y unas rejas completan el equipo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Gijón</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); muchos salen directamente del entorno de El Musel, lo que acorta el viaje, y lo delicado es el reparto final por cuestas y caminos rurales.",
+  "datos": [
+   "En los polígonos y naves de la zona oeste, con explanadas amplias, un 40 pies aprovecha cada porte.",
+   "Las caserías, con caminos entre muros de piedra y portillas, obligan a pensar en un 20 pies.",
+   "Aquí el enemigo es la humedad: revisa las soldaduras del techo, donde se estanca la lluvia.",
+   "Para la Semana Negra o la Feria de Muestras, el alquiler encaja mejor que la compra.",
+   "Con el clima húmedo, la ventilación evita la condensación y protege lo que guardas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

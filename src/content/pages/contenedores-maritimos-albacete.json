@@ -1824,5 +1824,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4325,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Albacete</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el Puerto de Alicante por carretera, a través de Almansa, con la descarga con grúa incluida en el precio.",
+  "datos": [
+   "El parque empresarial de Campollano, el mayor de Castilla-La Mancha, lo usa como almacén u oficina modular.",
+   "En la llanura manchega sirve de caseta de aperos o almacén de maquinaria; el 40 pies da unos 28,3 m² interiores.",
+   "Tras la lluvia, el mal drenaje de Los Llanos puede dejar embarrados los caminos de las fincas.",
+   "En la zona D3, con heladas y calor fuerte, conviene ventilarlo si se usa cerrado.",
+   "Para los módulos de uso puntual durante la Feria, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

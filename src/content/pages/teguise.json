@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo el municipio de Teguise, de la Villa y Tahíche a Los Valles y Caleta de Famara, y cerramos el <strong>precio puesto en destino</strong>, sin sorpresas de porte. Los módulos llegan al puerto de Arrecife y suben por la LZ-1 hasta Tahíche, desde donde parten las carreteras hacia la Villa y el interior. El Aeropuerto César Manrique-Lanzarote está a poca distancia. Para La Graciosa, el traslado se organiza por mar desde Órzola.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Teguise</strong> necesita licencia del Ayuntamiento de Teguise según su planeamiento, el Plan Insular de Lanzarote y la Ley 4/2017 del Suelo de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La Villa es conjunto histórico, y el Risco de Famara y La Graciosa están en el Parque Natural del Archipiélago Chinijo.",
+   "En Tahíche, Nazaret o Tao encajan viviendas de una planta, alargadas y blancas, a la manera lanzaroteña.",
+   "Las normas estéticas de Lanzarote, como revestir la chapa o pintar de blanco, suman partidas al presupuesto.",
+   "En Caleta de Famara funciona un volumen compacto con patio protegido del viento y la sal.",
+   "Al ser isla, el flete marítimo también cuenta en el precio final."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

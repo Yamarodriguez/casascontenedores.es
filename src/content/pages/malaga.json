@@ -2556,5 +2556,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1110,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Málaga</strong> necesita, en cualquier municipio de la provincia, licencia de obra mayor del ayuntamiento y proyecto conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la capital, el suelo urbano de Churriana o Puerto de la Torre admite mejor la vivienda unifamiliar.",
+   "Los Montes de Málaga son Parque Natural y suelo rústico protegido, con usos muy restringidos.",
+   "En la vega del Guadalhorce, suelos blandos y nivel freático alto suelen llevar a losa o cimentación profunda.",
+   "En la costa conviene reforzar la protección de las cantoneras frente al salitre.",
+   "Al terminar no hay cédula autonómica: se presenta una declaración responsable de ocupación ante el ayuntamiento."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

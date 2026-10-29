@@ -1811,5 +1811,19 @@
     "html": "<p>Con el calor de la campiña jerezana, aislar el contenedor es casi imprescindible si va a guardar vino, piensos o productos sensibles, y la ventilación ayuda a que el aire no se recaliente. En un cortijo apartado conviene sumar rejas y una cerradura de seguridad. Si no hay luz, una placa solar sencilla da iluminación y carga para herramientas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Jerez de la Frontera</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el puerto de la Bahía de Cádiz queda muy cerca y el terreno llano favorece la descarga.",
+  "datos": [
+   "Encaja como almacén en bodegas y cortijos, como cuadra auxiliar o como caseta de obra.",
+   "En Jerez el enemigo de la chapa es el sol: revisa techo y esquinas y descarta el óxido perforante.",
+   "En los cortijos de la campiña cabe un 40 pies; en el casco histórico, mejor el 20 pies.",
+   "Tras las lluvias los caminos de la campiña se embarran, y eso encarece la entrega en los cortijos.",
+   "Para la vendimia, la Feria del Caballo o el Gran Premio, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

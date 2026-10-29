@@ -1811,5 +1811,19 @@
     "html": "<p>Para un contenedor en el Empordà, recomendamos un buen anclaje frente a la tramontana y una pintura protectora si va cerca del mar. La ventilación evita la condensación, y el aislamiento hace que sirva de taller u oficina. En masías aisladas, conviene sumar rejas, un buen cierre y paneles solares para la luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Figueres</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Barcelona por la AP-7 y, en el campo del Alt Empordà, hay que anclarlo frente a la tramontana.",
+  "datos": [
+   "La llanura facilita llegar a masías y naves, así que el 40 pies o el High Cube son comunes.",
+   "En el centro, de calles estrechas, y en caminos cerrados por muros de piedra seca, se maneja mejor el 20 pies.",
+   "Con tramontana fuerte hay que esperar a que baje el viento para operar con la grúa de forma segura.",
+   "El viento arrastra polvo: revisa las juntas de las puertas, que son las que frenan su entrada.",
+   "Lo compran empresas de transporte ligadas a la frontera, comercios, payeses y ganaderos del Alt Empordà."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

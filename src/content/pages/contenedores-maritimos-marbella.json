@@ -1823,5 +1823,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Marbella</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del puerto de Algeciras o del de Málaga por la A-7 o la AP-7, con acopio en San Pedro de Alcántara.",
+  "datos": [
+   "Se pide para beach clubs y módulos de hostelería de temporada, y como oficina de obra en la Milla de Oro.",
+   "Con salitre constante y lluvias torrenciales en otoño, cuida el anticorrosión y no lo apoyes sobre tierra.",
+   "El casco antiguo, junto a la Plaza de los Naranjos, es peatonal; las urbanizaciones tienen viales privados y accesos controlados.",
+   "Antes de instalarlo pide el informe urbanístico de la parcela en la Delegación de Urbanismo.",
+   "El 20 pies entra por accesos estrechos; el 40 pies da el doble de espacio por viaje, pero pide buen acceso."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

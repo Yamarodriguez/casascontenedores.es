@@ -1812,5 +1812,19 @@
     "html": "<p>Para Viator resultan clave la <strong>ventilación y el aislamiento</strong> para almacenes agrícolas expuestos al sol, y ventanas, electricidad y climatización para oficinas de obra o pequeños talleres. En fincas aisladas del valle del Andarax interesan también las rejas y las cerraduras reforzadas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Viator</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el cercano Puerto de Almería por la A-7 y se usa en fincas de tomate y negocios del área metropolitana.",
+  "datos": [
+   "Las fincas de tomate de la IGP La Cañada-Níjar lo usan como almacén de campaña o caseta.",
+   "En una parcela junto al río Andarax, apóyalo en alto para que no le afecte el agua.",
+   "En la parte llana entra un 40 pies, de unos 12 m; en el casco y las laderas, mejor el 20 pies.",
+   "Encarece la entrega una ladera hacia la Sierra Alhamilla o un camino de tierra sin sitio para la grúa.",
+   "Alquilar encaja si el uso tiene fecha de fin, como una mudanza o la campaña del tomate."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2733,5 +2733,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en San Baudilio de Llobregat</strong> necesita licencia municipal conforme al Decreto Legislativo 1/2010 de Cataluña y al Pla General Metropolità, y cédula de la Generalitat, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El Parc Agrari del Baix Llobregat reserva su suelo a la agricultura: la vivienda va en suelo urbano del casco.",
+   "La llanura del delta tiene nivel freático somero y riesgo de inundación: encarga un geotécnico antes de cimentar.",
+   "La humedad del Llobregat favorece la condensación: aislamiento continuo por el exterior y ventilación cruzada.",
+   "La Zona de Bajas Emisiones exige distintivo ambiental en días laborables y en horario diurno.",
+   "Las termas romanas y las masías tradicionales pueden añadir restricciones si la parcela linda con ellas."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

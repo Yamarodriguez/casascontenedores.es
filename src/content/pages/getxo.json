@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo Getxo y el precio se da <strong>puesto en destino</strong>. Llegamos por la Avanzada, que enlaza con Leioa y con la red de autovías de Bizkaia, y por las carreteras de la margen derecha de la ría. El Puente Bizkaia conecta Las Arenas con Portugalete. El Puerto de Bilbao y el Aeropuerto de Bilbao, muy próximo, son las referencias logísticas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Getxo</strong> necesita licencia del Ayuntamiento de Getxo conforme a la Ley 2/2006 de Suelo y Urbanismo del País Vasco y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Con poco suelo libre, encaja como estudio en el jardín, ampliación de un chalet o vivienda en parcela libre.",
+   "Las ordenanzas de barrios como Neguri son exigentes con la estética del proyecto.",
+   "En la franja costera se aplica la Ley de Costas, con protecciones en los acantilados y el Puerto Viejo.",
+   "La humedad y el salitre piden pintura marina, barrera de vapor y ventilación contra condensaciones.",
+   "Las calles estrechas de Algorta y el Puerto Viejo complican la descarga y piden permisos de ocupación."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

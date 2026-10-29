@@ -2554,5 +2554,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1270,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Cantabria</strong> necesita licencia de obra mayor de cada ayuntamiento cántabro y cumplir la Ley 5/2022 LOTUCA, con proyecto visado por arquitecto, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La cédula autonómica ha desaparecido: al terminar se presenta la declaración responsable de primera ocupación.",
+   "La LOTUCA admite vivienda aislada en suelo rústico próximo al urbano y crea Áreas de Desarrollo Rural.",
+   "Santander y el litoral están en la zona climática C1, que sube a D1 y E1 hacia el interior.",
+   "Con lluvia constante, hacen falta ventilación cruzada, cubierta con pendiente y buen desagüe frente a la condensación.",
+   "En la costa se suma el Plan de Ordenación del Litoral, y en la montaña, los Picos de Europa."
+  ],
+  "enlace": {
+   "texto": "permisos y licencias",
+   "destino": "/permisos/"
+  }
+ }
 }

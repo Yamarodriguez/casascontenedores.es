@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos Maspalomas y el resto de San Bartolomé de Tirajana con el <strong>precio puesto en destino</strong>. Los módulos entran por el Puerto de La Luz y de Las Palmas y bajan al sur por la GC-1, la Autopista del Sur de Gran Canaria. El aeropuerto de referencia es el de Gran Canaria, a medio camino entre la capital y Maspalomas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Maspalomas</strong> necesita licencia del Ayuntamiento de San Bartolomé de Tirajana conforme a la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La Reserva Natural Especial de las Dunas de Maspalomas es intocable, y su entorno y la franja costera tienen límites estrictos.",
+   "En suelo turístico el uso residencial tiene sus propias reglas; en San Fernando encaja una vivienda de dos alturas con azotea.",
+   "El salitre, el sol y la arena que arrastra el viento piden imprimación sólida y pintura marina en tono claro.",
+   "Al precio se suma el envío marítimo hasta Gran Canaria y el traslado por la GC-1.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

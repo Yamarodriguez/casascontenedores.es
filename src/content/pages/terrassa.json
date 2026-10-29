@@ -2573,5 +2573,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Terrassa</strong> necesita licencia de obra mayor del Ayuntamiento de Terrassa sobre el POUM vigente y la ley del suelo de Catalunya, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo urbano consolidado admite ampliaciones y sustituciones; los polígonos, módulos de oficina o almacén.",
+   "La franja norte del término forma parte del Sant Llorenç del Munt, suelo no urbanizable de protección especial.",
+   "La Seu d'Ègara, la Masia Freixa y el patrimonio modernista tienen entornos de protección que limitan las obras.",
+   "Zona climática D2, más fría que Barcelona, con lluvias torrenciales de otoño que activan las rieras.",
+   "El terreno es un cono aluvial de gravas, arenas y arcillas variables: el estudio geotécnico es clave."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

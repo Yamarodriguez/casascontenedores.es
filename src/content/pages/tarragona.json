@@ -2573,5 +2573,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Tarragona</strong> necesita licencia de obra mayor de cada ayuntamiento, con proyecto de arquitecto visado conforme a la Llei d'urbanisme de Catalunya, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Al terminar hacen falta la licencia de primera ocupación y la cédula de habitabilidad catalana para los suministros.",
+   "En la capital, el suelo urbano de Llevant o Ponent admite vivienda; el no urbanitzable queda para usos agrarios.",
+   "Tarragona capital está en zona B3, pero el interior de la provincia sube a C3 o D3 con la altitud.",
+   "El mestral obliga a calcular bien los anclajes de cubierta, y el salitre, a reforzar la protección anticorrosiva.",
+   "Los módulos salen del Port de Tarragona por la AP-7, la A-7 o la A-27."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo el término de Medina del Campo y el precio se entiende con la casa puesta en destino. La A-6 pasa junto a la villa y trae los módulos desde Madrid o desde el noroeste; desde Valladolid se llega por las carreteras que cruzan la Tierra de Medina. Los puertos de Santander y Bilbao son las referencias marítimas, y el aeropuerto de Valladolid el más próximo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Medina del Campo</strong> necesita licencia del Ayuntamiento de Medina del Campo conforme a su plan general y a la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En suelo rústico la vivienda nueva está muy limitada; en las zonas residenciales encaja una casa con patio y cochera.",
+   "Junto al casco histórico y el Castillo de la Mota pueden aplicarse condiciones de protección del patrimonio.",
+   "Las heladas y nieblas de la meseta piden aislamiento sin cortes y barrera de vapor contra condensaciones.",
+   "Los suelos arcillosos de algunas zonas obligan a revisar la cimentación antes de colocar los módulos.",
+   "La llanura y la autovía abaratan el transporte y la grúa hasta la parcela."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

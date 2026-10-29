@@ -2624,5 +2624,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1264,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Cáceres</strong> necesita licencia de obra mayor del ayuntamiento de cada municipio de la provincia y cumplir la Ley 11/2018 LOTUS de Extremadura, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Extremadura mantiene la cédula de habitabilidad autonómica, que se pide antes de la licencia de ocupación.",
+   "En la dehesa y el suelo rústico, la vivienda se reserva a explotaciones agroganaderas o al turismo rural.",
+   "La capital está en zona C4, que sube a D3 y E1 en las sierras: aísla por fuera y sombrea los huecos.",
+   "La Ciudad Vieja es Patrimonio de la Humanidad, y la ZEPA Llanos de Cáceres limita usos en suelo rústico.",
+   "Sin puerto propio, los contenedores llegan por Huelva, Sevilla, Lisboa o Sines, con la A-66 como acceso."
+  ],
+  "enlace": {
+   "texto": "permisos y licencias",
+   "destino": "/permisos/"
+  }
+ }
 }

@@ -2557,5 +2557,19 @@
     "html": "<p>La Región de Murcia entra en nuestra zona de servicio, y Alcantarilla con ella. El contenedor llega por carretera a través de la A-7, la A-30, la RM-15 o la MU-30, según el origen, y los que vienen por mar entran por el Puerto de Cartagena. El importe incluye siempre transporte, grúa y montaje hasta tu parcela.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Alcantarilla</strong> necesita licencia del Ayuntamiento de Alcantarilla conforme a la Ley 13/2015 de Ordenación Territorial y Urbanística de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja sobre todo en solar urbano o parcela de vega; en la huerta no urbanizable la vivienda es muy limitada.",
+   "Los suelos de vega aluvial del Segura son blandos: un estudio de cimentación decide entre zapatas o losa.",
+   "El municipio sufrió riadas históricas del Segura y del Guadalentín; mira qué cerca queda el cauce o una rambla.",
+   "El relieve llano y la A-7, la A-30 y la MU-30 dejan llegar al camión y la grúa sin rodeos.",
+   "Con veranos muy calurosos, la casa gira alrededor de la sombra: voladizo a sur y pocos huecos a poniente."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

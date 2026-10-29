@@ -1811,5 +1811,19 @@
     "html": "<p>Si el contenedor va a guardar vino, uva o producto delicado en una finca de Masdache, el aislamiento y unas rejillas de ventilación evitan que el sol convierta la chapa en un horno. En Puerto del Carmen, la prioridad es una pintura anticorrosión que aguante la brisa marina. Y para una viña sin enganche eléctrico, una placa solar y un cierre con rejas resuelven luz y seguridad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Tías</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega al puerto de Arrecife y baja por la LZ-2 hasta Puerto del Carmen o el interior.",
+  "datos": [
+   "En Puerto del Carmen lo usan hoteles, restaurantes y empresas de buceo como almacén o cuarto de material.",
+   "Entre Tías, Masdache y La Geria guarda aperos de las fincas de malvasía volcánica.",
+   "En las calles del pueblo y en los caminos entre muros de La Geria, el 20 pies se maneja mejor.",
+   "El polvo y el picón se cuelan por cualquier rendija: comprueba que las puertas cierran herméticas.",
+   "El alquiler encaja en la vendimia de La Geria o en las fiestas del Carmen en verano."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todo el término de Palma y el precio se da puesto en destino, con el transporte marítimo incluido. Los módulos desembarcan en el Puerto de Palma y circulan por la Ma-20, la Vía de Cintura, que reparte el tráfico hacia la Ma-19, la Ma-13 o la Ma-1. El Aeropuerto de Palma de Mallorca, en Son Sant Joan, queda junto a la ciudad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Palma de Mallorca</strong> necesita licencia del Ayuntamiento de Palma conforme a la Ley 12/2017 de urbanismo de las Illes Balears y al Plan Territorial de Mallorca, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo rústico de la isla está muy protegido: lo realista es un solar urbano, un estudio o una ampliación.",
+   "Todo llega en barco: el flete y la descarga en el puerto suman, así que compensa fabricar módulos muy acabados.",
+   "Palma está en la zona climática B3 del CTE: el aislamiento debe frenar sobre todo el calor y la humedad.",
+   "En primera línea de la bahía el salitre pide imprimación y pintura de calidad marina en la chapa.",
+   "Evita que el montaje coincida con la temporada turística, cuando el tráfico y las restricciones a camiones complican la descarga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

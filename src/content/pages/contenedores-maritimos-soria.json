@@ -1814,5 +1814,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5599,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Soria</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por carretera desde el Puerto de Bilbao, o desde Barcelona o Valencia, por la A-15.",
+  "datos": [
+   "El sector de la madera de pinares y sabinares lo usa como almacén de aperos, maquinaria y grano.",
+   "Los polígonos ligados a las energías renovables y la construcción lo emplean como caseta de obra o taller.",
+   "En pistas forestales y en el casco antiguo de la capital, la nieve y el hielo pueden condicionar la fecha de descarga.",
+   "Con heladas frecuentes, prevé apoyos elevados que faciliten el drenaje y que la nieve no bloquee las puertas.",
+   "El 20 pies entra por accesos estrechos; el 40 pies da el doble de espacio por viaje, pero pide buen acceso."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

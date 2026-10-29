@@ -1811,5 +1811,19 @@
     "html": "<p>Con los veranos del Guadalentín, un contenedor que vaya a usarse como almacén o caseta agradece aislamiento y ventilación. Si se guardan productos sensibles al calor, puede convenir un <a href=\"/contenedor-refrigerado/\">contenedor refrigerado</a>. Y para fincas aisladas, rejas, cerraduras reforzadas y un panel solar dan seguridad y luz sin depender de la red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Totana</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-7 desde el puerto de Cartagena y se usa sobre todo como almacén en las fincas de regadío y las granjas del Guadalentín.",
+  "datos": [
+   "Lejos del salitre de la costa, un contenedor de segunda mano se conserva bien si se cuida.",
+   "En el llano y los polígonos cabe un 40 pies o High Cube; en la falda de Sierra Espuña, un 20 pies.",
+   "Lo que encarece la descarga son los caminos agrícolas estrechos, los pasos sobre ramblas y las laderas hacia la sierra.",
+   "Las cuadrillas de recolección lo usan como vestuario o almacén, y las naves como cuarto de material.",
+   "Alquilar encaja si el uso tiene fecha de fin, como la campaña de recolección o una obra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

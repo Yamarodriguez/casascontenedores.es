@@ -1824,5 +1824,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9843,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Leganés</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); pasa por el Puerto Seco de Madrid, en Coslada, y sigue por las rondas M-40, M-45 y M-50.",
+  "datos": [
+   "En los polígonos sirve de almacén o módulo de obra para empresas farmacéuticas, de automoción y de logística.",
+   "El camión-grúa llega a Prado Overa y Nuestra Señora de Butarque sin cruzar tramos urbanos estrechos.",
+   "Cerca de los arroyos Butarque y Culebro conviene comprobar el terreno antes de apoyarlo.",
+   "En la mayoría de los casos se tramita por declaración responsable desde la Ley 1/2020.",
+   "Entregamos también en Getafe, Fuenlabrada, Alcorcón, Móstoles y Madrid capital."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

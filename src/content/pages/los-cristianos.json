@@ -2557,5 +2557,19 @@
     "html": "<p>Llegamos a Los Cristianos con el importe <strong>puesto en destino</strong>, grúa y acceso incluidos. Por mar hasta Tenerife y luego por carretera: la TF-1, la Autopista del Sur, o la TF-28 hacen de entrada a la bahía de Los Cristianos. El Puerto de Los Cristianos y el Aeropuerto de Tenerife Sur son las referencias para quien viene a visitar la parcela.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Los Cristianos</strong> necesita licencia del Ayuntamiento de Arona, al que pertenece el núcleo, conforme a la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Con poco suelo libre ganan los modelos que crecen hacia arriba: dos módulos apilados con azotea.",
+   "El Monumento Natural de la Montaña de Guaza limita el crecimiento del núcleo al este.",
+   "En solares entre medianeras puede hacer falta grúa de gran alcance y corte de calle.",
+   "El salitre de la bahía y la calima piden pintura de grado marino en tonos claros.",
+   "Los módulos llegan por la TF-1 o la TF-28, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

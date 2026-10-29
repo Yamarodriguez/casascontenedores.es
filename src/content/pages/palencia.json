@@ -2577,5 +2577,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1449,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Palencia</strong> necesita licencia del ayuntamiento de cada municipio conforme a la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En los pueblos de Tierra de Campos lo habitual es la parcela urbana del núcleo; el rústico queda para el almacén agrícola.",
+   "Las terrazas del Carrión, de gravas y arenas, cimentan bien; las arcillas de la campiña piden estudio geotécnico.",
+   "La capital está en la zona climática D1 y la Montaña Palentina sube a E1, con nieve regular.",
+   "Al terminar la obra se presenta la declaración responsable de primera ocupación: Castilla y León no exige cédula.",
+   "Varios puentes del Canal de Castilla tienen gálibo y carga limitados: revisa la ruta antes de la entrega."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

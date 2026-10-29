@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4221,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Asturias</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale de El Musel o del depósito más cercano y llega por carretera a cualquier concejo, de costa o de interior.",
+  "datos": [
+   "El Musel, en Gijón, tiene terminal de contenedores; el puerto de Avilés mueve sobre todo mercancía general.",
+   "En los concejos rurales se usa como almacén de aperos y forraje para la ganadería.",
+   "En el eje industrial Gijón-Avilés sirve de oficina de obra y de vestuario en los polígonos.",
+   "Gijón, Oviedo y Avilés deben delimitar una Zona de Bajas Emisiones, que puede afectar al camión.",
+   "Con el clima oceánico y el salitre de la costa, ventila bien y mantén la pintura protectora."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos el término de Aranda de Duero y sus alrededores; el precio que damos incluye la casa puesta en destino. El camión trae los módulos por la A-1, la Autovía del Norte entre Madrid y Burgos, y por la A-11 y la N-122, que siguen el valle del Duero. Los contenedores entran normalmente por Bilbao o Santander, y quien venga en avión tiene Madrid-Barajas como opción principal.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Aranda de Duero</strong> necesita licencia del Ayuntamiento de Aranda de Duero conforme a su plan general y a la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En urbanizaciones encaja una vivienda familiar; en las fincas de viñedo, un módulo de apoyo o de enoturismo.",
+   "En las riberas del Duero y del Arandilla pesan la inundabilidad y los espacios de la Red Natura.",
+   "En el subsuelo pueden aparecer galerías de antiguas bodegas: el estudio de parcela debe comprobarlo.",
+   "La Ribera está entre las zonas más frías del CTE: aislamiento grueso y carpinterías de calidad.",
+   "Los módulos llegan por la A-1 sin rodeos; evita la vendimia y los días de niebla espesa para el montaje."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

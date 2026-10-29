@@ -2577,5 +2577,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1348,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Lugo</strong> necesita licencia de obra mayor del concello de cada municipio de la provincia conforme a la Ley 2/2016 do solo de Galicia y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En las parroquias lo más frecuente es una vivienda en núcleo rural, la clase de suelo pensada para ella.",
+   "El rústico ganadero está reservado a naves y almacenes ligados a la actividad agraria.",
+   "La capital está en la zona D1 del CTE y los núcleos de montaña suben a E1.",
+   "La lluvia constante pide aislamiento continuo, barrera de vapor y cubierta ventilada contra la condensación.",
+   "Galicia no tiene cédula: la obra se cierra con la licenza de primeira ocupación municipal."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

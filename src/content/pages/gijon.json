@@ -2652,5 +2652,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1440,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Gijón</strong> necesita licencia de obra mayor del Ayuntamiento de Gijón sobre su Plan General, conforme al TROTU (Decreto Legislativo 1/2004) de Asturias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Fuera de la ciudad, lo típico es una parcela de núcleo rural en parroquias como Somió, Cabueñes o Deva.",
+   "El suelo no urbanizable de interés agrario solo admite construcciones vinculadas a la explotación.",
+   "Gijón está en la zona climática C1: la estanqueidad pesa tanto como el aislamiento.",
+   "Las calles peatonales de Cimadevilla, Conjunto Histórico, no admiten el camión góndola.",
+   "Los ríos Piles y Peñafrancia tienen zonas inundables: compruébalo antes de elegir parcela."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

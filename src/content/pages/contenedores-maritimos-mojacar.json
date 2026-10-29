@@ -1812,5 +1812,19 @@
     "html": "<p>En Mojácar tiene sentido pintar el contenedor de blanco o tonos claros para que encaje con la imagen del pueblo, con una <strong>pintura anticorrosión</strong> en la costa. Para negocios turísticos, también interesan las ventanas, la electricidad y la climatización, que lo convierten en oficina, recepción o almacén ventilado.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Mojácar</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-7 y la A-370, y una parcela llana de costa sale más sencilla que el pueblo.",
+  "datos": [
+   "Hoteles, apartamentos y chiringuitos lo usan para guardar hamacas, sombrillas y mobiliario de temporada.",
+   "En las calles empinadas del cerro solo un 20 pies maniobra con cierta facilidad.",
+   "En la zona de playas, un 40 pies o un High Cube dan más espacio para almacén.",
+   "Si se ve desde la calle, color y emplazamiento deben respetar las normas estéticas del municipio.",
+   "En las fincas de la Sierra Cabrera sirve de caseta de aperos, aunque las pistas limitan al camión grúa."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

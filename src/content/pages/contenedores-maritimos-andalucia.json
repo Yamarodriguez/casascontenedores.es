@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 8740,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Andalucía</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale sobre todo de la Bahía de Algeciras, primer puerto de contenedores de España, o del puerto más cercano a tu provincia.",
+  "datos": [
+   "En el olivar y la campiña de Jaén y Córdoba se usa como almacén de aperos y maquinaria agrícola.",
+   "En la agricultura bajo plástico de Almería y Huelva sirve de almacén u oficina de campo.",
+   "En rústico la LISTA suele exigir vincularlo a una explotación agraria o a un uso compatible.",
+   "En cascos históricos como Sevilla, Córdoba o Granada la exigencia crece, y la Zona de Bajas Emisiones afecta al camión.",
+   "Para obras, ferias o campañas agrícolas que no justifican la compra, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

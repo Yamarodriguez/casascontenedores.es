@@ -2613,5 +2613,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Sabadell</strong> necesita licencia del Ajuntament de Sabadell sobre su Pla General Municipal d'Ordenació, conforme a la ley del suelo de Cataluña, y cédula de habitabilidad, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El Rodal y el Parc Agrari son suelo no urbanizable protegido y no admiten vivienda nueva.",
+   "Lo habitual es un solar urbano en un barrio consolidado o un patio de nave para un módulo de oficina.",
+   "Lejos del mar, los inviernos son más marcados que en la costa: refuerza el aislamiento continuo por el exterior.",
+   "En las terrazas del Ripoll, consulta antes el visor de inundabilidad de la Agència Catalana de l'Aigua.",
+   "En el centro histórico la grúa suele exigir ocupación de vía pública y, a veces, corte parcial de calle."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

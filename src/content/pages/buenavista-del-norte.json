@@ -2557,5 +2557,19 @@
     "html": "<p>Nuestra zona de servicio llega hasta Buenavista del Norte, y el importe se da <strong>puesto en destino</strong>. Desembarca en el Puerto de Santa Cruz de Tenerife y sigue por la TF-5 y luego por la TF-42, la carretera de la costa norte, que pasa por Icod de los Vinos y Garachico antes de entrar en la Isla Baja. Si necesitas viajar para ver la parcela, el aeropuerto más cercano es el de Tenerife Norte-Ciudad de La Laguna.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Buenavista del Norte</strong> necesita licencia del ayuntamiento según el planeamiento municipal y la Ley 4/2017 del Suelo de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Gran parte del término está dentro del Parque Rural de Teno, donde la edificación está muy limitada.",
+   "Tiene más sentido en el llano de la Isla Baja o en los núcleos que en suelo rústico de ladera.",
+   "Hacia Masca o Teno, las carreteras estrechas y con curvas obligan a usar camiones y grúas pequeños.",
+   "El alisio trae humedad: aislamiento con barrera de vapor, ventilación cruzada y extracción en baño y cocina.",
+   "El módulo desembarca en Santa Cruz y llega por la TF-5 y la TF-42, la carretera de la costa norte."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

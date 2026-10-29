@@ -1812,5 +1812,19 @@
     "html": "<p>Entre las heladas del invierno y los veranos tan calurosos, en Caravaca compensa sobre todo aislar el contenedor, más aún si va a ser oficina de cantera o refugio en finca. En fincas alejadas del casco encajan también rejas y cerraduras reforzadas y una instalación de electricidad solar para tener luz sin acometida.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Caravaca de la Cruz</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por el Puerto de Cartagena y llega por la RM-15, puesto en tu finca o nave.",
+  "datos": [
+   "Se usa como almacén en explotaciones de ovino o caprino, caseta entre frutales y viñas u oficina de cantera.",
+   "Las heladas del invierno castigan la chapa usada: revisa juntas, suelo y techo antes de comprar.",
+   "En fincas de sierra y caminos de pedanías entra mejor el 20 pies; el polígono de Cavila admite el 40 pies.",
+   "Si va a una finca, comprueba que el planeamiento municipal admite esa instalación en suelo rústico.",
+   "Para las fiestas de los Caballos del Vino o una obra con fecha de fin, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

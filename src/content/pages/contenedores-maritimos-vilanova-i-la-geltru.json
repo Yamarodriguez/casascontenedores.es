@@ -1811,5 +1811,19 @@
     "html": "<p>Cerca del puerto de Vilanova compensa una buena <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> y ventilación para que redes y aparejos no cojan humedad ni olores. En las masías del interior son útiles las rejas, una cerradura reforzada y una pequeña instalación solar. Si el contenedor va a ser oficina, añade aislamiento, ventanas y climatización.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Vilanova i la Geltrú</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Barcelona o de Tarragona por la C-32 y trabaja mucho junto al puerto pesquero.",
+  "datos": [
+   "La flota pesquera y los clubes náuticos lo usan para guardar redes, aparejos y material.",
+   "Cerca del puerto la chapa usada se oxida más deprisa: revisa bajos, bisagras y juntas y prevé repintado.",
+   "En la zona portuaria y los polígonos cabe un 40 pies; en el casco y hacia las masías, el 20 pies.",
+   "En las masías y viñas del interior del término sirve como almacén de aperos o de cosecha.",
+   "Alquilar encaja si el uso tiene fecha de fin, como una reforma, el Carnaval o la vendimia."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

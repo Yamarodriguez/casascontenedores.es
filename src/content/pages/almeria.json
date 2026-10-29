@@ -2622,5 +2622,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1108,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Almería</strong> necesita licencia de obra mayor del ayuntamiento de cada municipio conforme a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Almería es zona A4 del CTE, la más árida de la península: prima la protección solar sobre el aislamiento.",
+   "La falla de Carboneras obliga a cumplir la norma sismorresistente en el anclaje y la cimentación.",
+   "En cortijos e invernaderos, el artículo 22 de la LISTA admite la vivienda aislada que no forme asentamiento.",
+   "El Puerto de Almería no tiene terminal de contenedores: los módulos llegan por la A-7 desde Algeciras o Alicante.",
+   "Cerca de una rambla, el estudio geotécnico y la cimentación merecen especial atención."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>En el clima de montaña de Ronda, si el contenedor guarda barricas o productos sensibles, el <a href=\"/aislamiento-contenedores/\">aislamiento</a> evita los saltos de temperatura entre el día y la noche. Una ventilación adecuada reduce la condensación del invierno. Para integrarlo en el paisaje serrano, la pintura en verde oscuro o marrón funciona bien, y la energía solar resuelve la luz en fincas sin red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Ronda</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-397 desde la Costa del Sol, la A-374 o la A-367, y cada oferta incluye el porte hasta la finca.",
+  "datos": [
+   "Las bodegas de la Serranía lo usan para barricas, los ganaderos para pienso y los alojamientos rurales como espacio auxiliar.",
+   "Las carreteras admiten camiones de 40 pies, pero en muchos caminos de finca se usa el 20 pies.",
+   "Aquí la chapa no sufre salitre, sino humedad y heladas: revisa que las puertas cierren bien.",
+   "En terrenos con pendiente hace falta un camión grúa capaz de estabilizarse; un buen acceso abarata mucho.",
+   "Para la vendimia o la Feria de Pedro Romero, el alquiler por temporada encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

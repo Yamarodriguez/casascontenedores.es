@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todo el término de Don Benito y a sus pedanías, y cada presupuesto se da puesto en destino. El transporte entra por la N-430, que une la ciudad con Mérida y con Villanueva de la Serena, y enlaza con la A-5 a la altura de Miajadas. Para los envíos de largo recorrido sirven de referencia los puertos de Sevilla y Lisboa, y el aeropuerto más cercano es el de Badajoz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Don Benito</strong> necesita licencia del Ayuntamiento de Don Benito conforme a la Ley 11/2018 (LOTUS) de Extremadura, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el suelo rústico de la vega, dedicado al regadío, levantar una casa tiene más condiciones.",
+   "Don Benito está en la zona climática C4, de veranos muy severos: el aislamiento debe frenar la radiación.",
+   "El terreno llano de la vega abarata la llegada del camión y la colocación con grúa.",
+   "Junto a cauces o acequias revisa el terreno: si el suelo es blando o húmedo, cambia la cimentación.",
+   "Los módulos llegan por la N-430, que enlaza con la A-5 en Miajadas, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

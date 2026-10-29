@@ -1811,5 +1811,19 @@
     "html": "<p>En Guadix lo primero que se suele añadir es <a href=\"/aislamiento-contenedores/\">aislamiento</a>, porque la chapa en invierno se enfría mucho y genera condensación. Si guardas maquinaria o productos agrícolas, una ventilación con rejillas evita la humedad. En fincas alejadas del casco compensan las rejas, una cerradura reforzada y una placa solar para la luz, y una pintura en tonos tierra lo integra en el paisaje.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Guadix</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del puerto de Almería por la A-92 y trabaja sobre todo en las fincas de almendro, cereal y hortaliza.",
+  "datos": [
+   "Con el clima seco la chapa usada envejece despacio; revisa que las juntas de las puertas frenen la nieve.",
+   "En las naves y fincas llanas de la hoya caben sin apuros el 40 pies y el High Cube.",
+   "En el casco antiguo y los caminos que bordean las cárcavas, el 20 pies es más fácil de colocar.",
+   "Los caminos de tierra de la vega se embarran en invierno y piden más maniobra.",
+   "En invierno la chapa se enfría mucho: el aislamiento evita la condensación."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

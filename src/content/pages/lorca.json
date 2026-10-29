@@ -2622,5 +2622,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 8996,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Lorca</strong> necesita licencia del Ayuntamiento de Lorca, tramitada en su Gerencia de Urbanismo, conforme a la Ley 13/2015 (LOTURM) de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el término predomina el suelo no urbanizable: diputaciones rurales, huerta del Guadalentín y sierras protegidas.",
+   "El historial sísmico y los limos de vega obligan a estudio geotécnico y diseño sismorresistente.",
+   "El núcleo urbano está en la zona C3 del CTE, el litoral en B3 y las pedanías altas en D3.",
+   "Cabo Cope y Puntas de Calnegre es Parque Regional, y el resto del litoral está sujeto a la Ley de Costas.",
+   "El contenedor entra por el Puerto de Cartagena y llega a Lorca por la A-7."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

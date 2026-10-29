@@ -1823,5 +1823,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Lugo</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Ferrol o el de A Coruña por la A-6, la A-54 o la N-VI.",
+  "datos": [
+   "En las explotaciones agrícolas y ganaderas del rústico se usa como almacén de aperos o pienso.",
+   "El recinto amurallado tiene puertas y calles estrechas poco pensadas para una góndola larga.",
+   "En las parroquias del rural, el ancho de las pistas y las curvas cerradas condicionan la entrega.",
+   "La lluvia no es problema para el acero; vigila la corrosión en los cortes cuando se abren huecos.",
+   "Para una obra o las ferias ganaderas, como San Froilán, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

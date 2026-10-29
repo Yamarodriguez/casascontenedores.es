@@ -1811,5 +1811,19 @@
     "html": "<p>El sol del verano ilicitano calienta mucho la chapa, así que si vas a guardar materiales delicados, como pieles o adhesivos del calzado, conviene añadir aislamiento y ventilación. Para los contenedores que van a la costa, la pintura anticorrosión alarga su vida. En partidas apartadas, unas rejas y una instalación solar para la luz dan seguridad y comodidad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Elche</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el puerto de Alicante y el aeropuerto de Alicante-Elche quedan muy cerca, y lo que se planifica es el tramo final por el campo.",
+  "datos": [
+   "La industria del calzado lo usa como almacén de cajas, pieles y componentes cuando la nave se queda pequeña.",
+   "En las partidas rurales, entre muros de huertos y palmeras, un 20 pies es más fácil de colocar.",
+   "El clima seco del Camp d'Elx cuida la chapa; en La Marina o El Altet ya se nota el salitre.",
+   "Si va a una parcela dentro del Palmeral, consulta antes qué está permitido.",
+   "Para guardar pieles o adhesivos con el sol del verano, añade aislamiento y ventilación."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

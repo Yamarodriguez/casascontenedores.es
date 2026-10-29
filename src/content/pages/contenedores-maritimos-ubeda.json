@@ -1811,5 +1811,19 @@
     "html": "<p>Para guardar aceite o envases en Úbeda conviene añadir <a href=\"/aislamiento-contenedores/\">aislamiento</a> y ventilación, porque el sol del verano calienta mucho la chapa. En obras del casco histórico se agradece una pintura en tonos piedra que reduzca el impacto visual. En fincas apartadas, rejas, cerraduras reforzadas y una pequeña instalación solar dan seguridad y luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Úbeda</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-32 desde los puertos de Málaga, Algeciras o Valencia y es, ante todo, un almacén para el olivar de La Loma.",
+  "datos": [
+   "Almazaras, cooperativas y olivareros lo usan para guardar mantas, varas, maquinaria y envases durante la campaña.",
+   "En el alto de La Loma entra un 40 pies; en las laderas hacia el Guadalquivir, el 20 pies es lo manejable.",
+   "Cerca del casco histórico, las calles estrechas y empedradas exigen más maniobra y a veces un camión menor.",
+   "Tras las lluvias de otoño el firme de los carriles de olivar se ablanda: revisa el último tramo.",
+   "Si vas a guardar aceite o aceituna, comprueba que el interior esté limpio y sin olores."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2729,5 +2729,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 10014,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Baracaldo</strong> necesita licencia de obra mayor del Ayuntamiento de Baracaldo y cumplir la Ley 2/2006 de Suelo y Urbanismo del País Vasco, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El País Vasco no tiene cédula de habitabilidad: la acredita la licencia municipal de primera ocupación.",
+   "El Regato y los barrios altos conservan suelo no urbanizable; solo se puede construir en suelo urbano.",
+   "En antiguos terrenos siderúrgicos, como Urban Galindo o el BEC, puede pedirse una investigación previa del suelo.",
+   "Baracaldo está en la zona C1, con lluvia y salitre de la ría: aislamiento exterior y protección anticorrosiva.",
+   "El módulo llega desde el Puerto de Bilbao por la Variante Sur Metropolitana; en San Vicente revisa el acceso."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

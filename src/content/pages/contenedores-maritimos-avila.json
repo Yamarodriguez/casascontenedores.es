@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4328,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Ávila</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); la provincia no tiene puerto, así que llega por carretera desde Bilbao, Gijón o Valencia, puesto en destino.",
+  "datos": [
+   "En el valle Amblés se usa para guardar los aperos y el forraje de la ganadería y la agricultura.",
+   "En los polígonos de Las Hervencias y Vicolozano sirve de oficina de obra y vestuario industrial.",
+   "En el recinto amurallado suele descargarse cerca y moverse con maquinaria más pequeña hasta la parcela.",
+   "El acero aguanta las heladas de la zona E1, pero vigila la nieve acumulada en la cubierta.",
+   "Alquilar encaja si el uso tiene fecha de fin, como una obra en el valle Amblés."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

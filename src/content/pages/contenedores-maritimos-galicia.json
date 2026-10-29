@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4219,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Galicia</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del puerto más cercano a tu concello, casi siempre A Coruña o Vigo, y viaja por la AP-9, la A-6 o la A-52.",
+  "datos": [
+   "El último tramo hasta una parcela en pendiente o sobre xabre puede necesitar grúa y no solo camión pluma.",
+   "En las rías el salitre obliga a repasar juntas y pintura más a menudo; en Lugo y Ourense pesan las heladas.",
+   "En Lugo y Ourense se usa mucho como almacén en explotaciones agroganaderas.",
+   "En suelo de núcleo rural el trámite suele ser más ágil que en suelo rústico.",
+   "En primera línea rige la servidumbre de la Ley de Costas: comprueba antes si tu parcela queda dentro."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

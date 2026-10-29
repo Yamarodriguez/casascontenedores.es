@@ -1811,5 +1811,19 @@
     "html": "<p>Para guardar pieles, tejidos o calzado conviene un contenedor con <a href=\"/aislamiento-contenedores/\">aislamiento</a> y ventilación, que evitan condensaciones y olores. Si se usará como taller, una instalación eléctrica y buena iluminación. En parcelas apartadas, rejas y cerraduras reforzadas, y una pintura que lo integre en el paisaje de monte.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Elda</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el camión llega desde el puerto de Alicante por la A-31, y aquí trabaja sobre todo como almacén de pieles, hormas o calzado en las fábricas.",
+  "datos": [
+   "En los polígonos, con calles amplias, entra sin problema un 40 pies o un High Cube.",
+   "En el casco o en los caminos de monte hacia las sierras es más práctico un 20 pies.",
+   "El clima seco del Vinalopó conserva bien la chapa; revisa techo, suelo de madera y puertas antes de comprar.",
+   "Las comparsas de Moros y Cristianos también los usan para guardar trajes y material todo el año.",
+   "Para pieles o tejidos, el aislamiento y la ventilación evitan condensaciones y olores."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1812,5 +1812,19 @@
     "html": "<p>Con la arena y la sal que trae el alisio, en Costa Teguise conviene una <a href=\"/pintura-contenedores/\">pintura marina contra el salitre</a>, rejillas de ventilación protegidas, <strong>estanterías para tablas y velas</strong> y cerraduras robustas. Si va a ser recepción o taller de reparación, añade luz y enchufes.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Costa Teguise</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega en barco al Puerto de Arrecife, en Los Mármoles, y sube por la LZ-1, con el flete a Lanzarote dentro del coste.",
+  "datos": [
+   "Escuelas de windsurf y negocios de alquiler de material lo usan para guardar tablas, velas y kayaks.",
+   "La sal y la arena que arrastra el alisio castigan primero el techo y las bisagras de las puertas.",
+   "En parcelas hoteleras entra un 40 pies o un High Cube para mástiles; junto a un local, un 20 pies.",
+   "Dentro del núcleo, el límite son barreras, glorietas ajustadas y jardines que la grúa debe salvar.",
+   "Para guardar mobiliario mientras se reforma un hotel, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9910,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Parla</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto Seco de Madrid, en Coslada, y llega por la A-42 y la M-409 con la descarga con grúa incluida en el precio.",
+  "datos": [
+   "En los polígonos Ciudad de Parla, La Ermita o Parla Progresa se usa como oficina, almacén o vestuario.",
+   "Dentro de la Zona de Bajas Emisiones del casco, activa a diario, confirma la ruta y la ventana de descarga.",
+   "Para una oficina de obra basta un 20 pies acondicionado; un vestuario con almacén encaja mejor en un 40 pies.",
+   "En la Dehesa Boyal y el Cerro de la Cantueña no se admiten instalaciones nuevas sin autorización expresa.",
+   "Un uso temporal va con declaración responsable; uno permanente, con licencia de obra menor del Ayuntamiento."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

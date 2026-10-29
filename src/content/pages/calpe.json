@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en todo el término de Calpe y el precio se calcula <strong>puesto en destino</strong>. Llegamos por la AP-7 y la N-332, que conectan con Alicante y Valencia, y desde ahí por las calles del municipio y de las urbanizaciones. El puerto de referencia es Alicante y el aeropuerto más próximo, el de Alicante-Elche.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Calpe</strong> necesita licencia del Ayuntamiento de Calpe, con su plan general y el TRLOTUP de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El Parque Natural del Penyal d'Ifac y las salinas están protegidos, y la costa queda bajo la Ley de Costas.",
+   "Muchas parcelas están en pendiente: los muros de contención y la cimentación escalonada pesan en el presupuesto.",
+   "Calpe está en la zona climática B4: el aislamiento prioriza el verano y controla la humedad.",
+   "Las calles estrechas y con curvas de las urbanizaciones complican la llegada del camión y la grúa.",
+   "Para montar, evita el verano y las fiestas de Moros y Cristianos de octubre."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

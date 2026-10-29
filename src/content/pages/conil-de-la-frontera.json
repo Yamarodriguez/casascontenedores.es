@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todo el término de Conil de la Frontera, del casco a la campiña y la costa, con un precio puesto en destino que incluye la casa entregada en la parcela. La A-48 une Conil con Chiclana y Cádiz por el norte y con Vejer por el sur, y la N-340 completa los accesos hacia el Campo de Gibraltar. El puerto de trabajo es el de la Bahía de Cádiz y el aeropuerto más cercano, el de Jerez.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Conil de la Frontera</strong> necesita licencia del Ayuntamiento de Conil de la Frontera conforme a la Ley 7/2021 (LISTA) de Andalucía y su planeamiento, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la campiña hay muchas viviendas en suelo rústico en situación irregular, y no todas se pueden regularizar.",
+   "En el litoral se aplica la Ley de Costas: pide a urbanismo la situación exacta de la parcela.",
+   "El levante y el poniente soplan con fuerza en la Costa de la Luz y piden anclajes sólidos.",
+   "Cerca de la playa, los suelos arenosos pueden necesitar una cimentación especial para el módulo.",
+   "Los módulos llegan por la A-48 o la N-340, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

@@ -1812,5 +1812,19 @@
     "html": "<p>Para uso ganadero o de aperos en el interior de Puerto del Rosario encajan rejas y cerraduras de seguridad, ventilación y una placa solar. En la ciudad, una <a href=\"/pintura-contenedores/\">pintura anticorrosión para contenedores</a> y aislamiento frente al sol convierten el contenedor en un almacén o una oficina cómodos.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Puerto del Rosario</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); desembarca en el puerto de la propia ciudad y sale por la FV-1 o la FV-2, así que el trayecto por carretera es corto.",
+  "datos": [
+   "En la capital hace de almacén logístico o comercial; en el interior, de almacén de aperos o de ganado.",
+   "Con alisio y calima frecuentes, revisa que las puertas cierren estancas para que no entre polvo.",
+   "En la ciudad y sus polígonos llanos entra un 40 pies; en fincas o entre medianeras, mejor un 20 pies.",
+   "Cerca del Paisaje Protegido de Vallebrón o en suelo rústico, pregunta antes en el Ayuntamiento.",
+   "Para obras o picos de género en un comercio, el alquiler evita inmovilizar dinero en un almacén."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>Con el sol de Puertollano, el <a href=\"/aislamiento-contenedores/\">aislamiento</a> de la cubierta y una buena ventilación son casi obligatorios si se trabaja dentro. Una pintura clara reduce el calor de la chapa. En fincas alejadas del valle, una reja y un cierre de seguridad, junto con un kit solar, dan protección y luz en una de las zonas con más horas de sol del país.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Puertollano</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-41 desde Ciudad Real o por la N-420 desde Córdoba, con precio puesto en destino en la ciudad y su comarca.",
+  "datos": [
+   "El complejo petroquímico, las plantas solares y sus empresas de servicios lo usan como almacén, taller o caseta.",
+   "Aquí el mayor desgaste lo produce el sol, que degrada la pintura del techo de uno usado.",
+   "En fincas del Valle de Alcudia con caminos de tierra y curvas cerradas, el 20 pies se coloca mejor.",
+   "Las zonas industriales tienen accesos restringidos o control de entrada: avísalo al pedir el presupuesto.",
+   "Para paradas técnicas en las plantas, el Santo Voto o una reforma, el alquiler encaja mejor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

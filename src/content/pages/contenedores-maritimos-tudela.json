@@ -1811,5 +1811,19 @@
     "html": "<p>Con el sol de agosto en la Ribera compensa añadir <a href=\"/aislamiento-contenedores/\">aislamiento</a> y rejillas si dentro se guarda género o se trabaja. Para una caseta en plena huerta, lejos del casco, unas rejas soldadas, un cierre antipalanca y un panel fotovoltaico para la bombilla son buena inversión. Y si va a quedar a la vista, pintarlo en ocre o arcilla lo funde con el paisaje bardenero.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Tudela</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por la AP-68 o la AP-15, con el puerto de Bilbao como entrada habitual, y sirve sobre todo a la huerta y la conserva de la Ribera.",
+  "datos": [
+   "En la vega, uno de segunda mano basta para guardar cajas, abonos y maquinaria pequeña frente al sol y el cierzo.",
+   "Las nieblas del invierno meten humedad: revisa las gomas de las puertas, los bajos y las abolladuras del techo.",
+   "Por las pistas llanas llega un 40 pies; en caminos de huerta con acequias, mejor el 20 pies.",
+   "Una parcela de huerta blanda tras las lluvias o junto a un canal de riego pide más tiempo de descarga.",
+   "Alquilar encaja si el uso tiene fecha de fin, como la campaña del espárrago o del pimiento."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

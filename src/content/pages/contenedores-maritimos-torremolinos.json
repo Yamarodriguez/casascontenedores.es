@@ -1811,5 +1811,19 @@
     "html": "<p>En Torremolinos lo más pedido es la <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> en colores que encajen con la fachada o el jardín, porque el contenedor suele quedar a la vista. Para hostelería conviene añadir ventilación, y para oficinas o almacenes con mercancía valiosa, aislamiento, luz y una cerradura de seguridad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Torremolinos</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Málaga por la A-7, y la clave está en el acceso y el horario de descarga.",
+  "datos": [
+   "Hoteles, restaurantes y chiringuitos lo usan como almacén en un municipio sin apenas suelo libre.",
+   "El 20 pies es el formato más habitual: cabe en un patio o una parcela pequeña.",
+   "Las cuestas hacia el Bajondillo y los aparcamientos llenos de La Carihuela complican la entrega.",
+   "Cerca de la playa el salitre trabaja rápido: mira soldaduras, bajos y cerraduras antes de aceptarlo.",
+   "Se alquila durante la reforma de un hotel, para eventos de verano o en la Feria de San Miguel."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

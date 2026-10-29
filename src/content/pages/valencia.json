@@ -2740,5 +2740,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Valencia</strong> se tramita en cada ayuntamiento de la provincia bajo el TRLOTUP (Decreto Legislativo 1/2021), la ley del suelo valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la capital, la huerta perimetral está protegida por el Plan de Acción Territorial de la Huerta y es no urbanizable.",
+   "La Albufera y la Devesa del Saler son espacio natural protegido, con restricciones muy estrictas para construir.",
+   "La llanura del Turia sufre episodios de gota fría recogidos en el PATRICOVA: revisa drenaje y cota de cimentación.",
+   "Junto al litoral, la Ley de Costas y el salitre obligan a un mantenimiento propio del acero.",
+   "El plazo ronda los 4 a 7 meses, y los módulos salen de Valenciaport por la V-30 o la A-7."
+  ],
+  "enlace": {
+   "texto": "permisos por municipio",
+   "destino": "/permisos/"
+  }
  }
 }

@@ -2617,5 +2617,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Fuenlabrada</strong> se tramita ante el Ayuntamiento de Fuenlabrada, con licencia o declaración responsable, conforme a la Ley 9/2001 del Suelo de la Comunidad de Madrid, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo es casi todo urbano: lo habitual es ampliar o sustituir en una parcela de vivienda unifamiliar.",
+   "La vaguada del arroyo Culebro es suelo protegido y no admite vivienda nueva.",
+   "Fuenlabrada está en la zona climática D3, con heladas en invierno y calor fuerte en verano.",
+   "Cerca de las vaguadas de los arroyos puede haber rellenos blandos: pide un estudio geotécnico previo.",
+   "Madrid suprimió la cédula de habitabilidad: al final basta la declaración responsable de primera ocupación."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

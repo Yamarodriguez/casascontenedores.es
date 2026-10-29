@@ -1823,5 +1823,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Huesca</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); Aragón no tiene puerto, así que hace escala en la red logística de Zaragoza y llega a la provincia por la A-23 y la PLHUS.",
+  "datos": [
+   "Las explotaciones agroganaderas de la Hoya y el Somontano lo usan como almacén o módulo auxiliar.",
+   "En polígonos como PLHUS o en el Parque Tecnológico Walqa sirve como oficina modular.",
+   "En suelo no urbanizable hace falta la autorización especial del Consejo Provincial de Urbanismo.",
+   "El cierzo pide anclajes firmes y cierres bien sellados; en el Pirineo, cubierta preparada para la nieve.",
+   "En los valles del Pirineo, la nieve y los puertos de paso limitado pueden condicionar la ruta."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

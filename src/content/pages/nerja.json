@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en Nerja, en Maro y en las fincas de las laderas, y te damos el precio puesto en destino, con los módulos ya colocados. Se llega por la A-7, la Autovía del Mediterráneo, desde Málaga o desde la costa granadina, y la N-340 reparte el tráfico por el litoral. Para la carga marítima tenemos a mano los puertos de Málaga y de Motril, y en avión, el aeropuerto de Málaga.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Nerja</strong> necesita licencia del Ayuntamiento de Nerja según la Ley 7/2021 (LISTA) de Andalucía y su plan general, más la Ley de Costas en el litoral, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Gran parte del término está en el Paraje Natural Acantilados de Maro-Cerro Gordo o en el Parque Natural de las Sierras.",
+   "Muchas parcelas están en bancales sobre la costa y piden muros y una cimentación escalonada.",
+   "Los caminos estrechos entre fincas de aguacate dificultan la llegada del camión y de la grúa.",
+   "Junto al mar el acero pide imprimación anticorrosión y pintura de calidad marina, con revisiones periódicas.",
+   "El aislamiento tiene que parar sobre todo el calor de agosto y evitar condensaciones."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

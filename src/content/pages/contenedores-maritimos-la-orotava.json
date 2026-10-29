@@ -1811,5 +1811,19 @@
     "html": "<p>En el clima húmedo de las medianías de La Orotava, la ventilación es la mejora más útil para evitar condensación y moho dentro del contenedor. Añade una pintura protectora, rejas y cerradura reforzada si la finca está apartada, y una placa solar, aunque conviene dimensionarla pensando en los días de nubes del alisio.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en La Orotava</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); desembarca en Santa Cruz de Tenerife y sube al valle por la TF-5.",
+  "datos": [
+   "En la costa guarda cajas y abonos de las plataneras; en medianías, aperos de las huertas de papas y viña.",
+   "En uno usado vigila juntas, techo y suelo: la humedad del alisio en medianías castiga si entra agua.",
+   "En las plataneras llanas cabe un contenedor largo; en las medianías, el 20 pies es casi siempre lo viable.",
+   "En el casco, de calles empinadas y estrechas, hay que planificar mejor la grúa.",
+   "Para la campaña de la papa o el Corpus Christi, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

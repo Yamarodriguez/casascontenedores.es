@@ -1811,5 +1811,19 @@
     "html": "<p>En La Línea, rodeada de mar por dos lados, la <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> es la mejor inversión para el contenedor. Si lo vas a usar como oficina o taller, el aislamiento y la electricidad lo hacen cómodo. La ventilación evita la condensación por la humedad, y en zonas poco transitadas conviene reforzar la seguridad con rejas y cerraduras.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en La Línea de la Concepción</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de la Bahía de Algeciras por la A-7 y la A-383, en un trayecto corto.",
+  "datos": [
+   "Con el puerto tan cerca es fácil encontrar uno usado, pero el aire salino del istmo acelera el óxido.",
+   "En patios y solares del centro lo habitual es el 20 pies; en naves de la periferia, un 40 pies.",
+   "Con levante fuerte la grúa no puede trabajar con seguridad y a veces hay que reprogramar la entrega.",
+   "Lo compran comercios, talleres, clubes náuticos y empresas de logística ligadas a la frontera y al puerto.",
+   "Para una reforma o la Feria de La Línea en julio, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1811,5 +1811,19 @@
     "html": "<p>En la costa de Lepe el extra más importante es una buena <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> que proteja la chapa del salitre. En las fincas, el aislamiento y la ventilación mantienen frescos los envases y el material, y convierten el contenedor en un vestuario cómodo para las cuadrillas. Para fincas alejadas, rejas, cerraduras reforzadas y una placa solar completan el equipamiento.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Lepe</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); la cercanía al puerto de Huelva abarata el viaje por la A-49.",
+  "datos": [
+   "En las fincas de fresa y cítricos guarda cajas, envases y material de riego, o hace de vestuario.",
+   "Cerca de la playa revisa bajos, esquinas y juntas: el aire salino del Atlántico acelera la corrosión.",
+   "En las fincas llanas entra bien un 40 pies; en la costa y el casco, mejor el 20 pies.",
+   "Entre túneles de invernadero sin espacio de giro o en calles con arena, la descarga exige más maniobras.",
+   "Para la campaña de la fresa o el verano en la costa, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

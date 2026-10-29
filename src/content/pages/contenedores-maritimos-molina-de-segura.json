@@ -1811,5 +1811,19 @@
     "html": "<p>En Molina de Segura el calor manda: el <a href=\"/aislamiento-contenedores/\">aislamiento</a> y la ventilación son casi imprescindibles para usar el contenedor como oficina o almacén de productos sensibles. Para la industria alimentaria, un contenedor refrigerado es una buena opción. Una pintura clara reduce el calentamiento de la chapa, y los paneles solares aprovechan el sol de la Vega.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Molina de Segura</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); suele salir del puerto de Cartagena y llega muy directo por la A-30.",
+  "datos": [
+   "Las conserveras y la industria agroalimentaria de los polígonos lo usan como almacén en naves.",
+   "En las fincas de la Vega Media del Segura sirve de caseta, y en urbanizaciones, de trastero.",
+   "Lejos del mar se conserva bien, pero el sol del verano castiga la pintura: mira si necesita repintado.",
+   "En polígonos y fincas llanas cabe un 40 pies; entre acequias o en patios de huerta, mejor el 20 pies.",
+   "Si va a guardar alimentos, comprueba que esté limpio y sin golpes graves en la estructura."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

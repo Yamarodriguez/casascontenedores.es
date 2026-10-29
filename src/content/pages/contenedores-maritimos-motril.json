@@ -1812,5 +1812,19 @@
     "html": "<p>En la costa de Motril, la transformación más útil es la <strong>pintura anticorrosiva</strong> contra el salitre, junto con rejillas de ventilación que eviten la humedad dentro. Para oficinas de obra o del entorno portuario se pueden añadir aislamiento, ventanas y electricidad; en las fincas de la vega, cerraduras reforzadas para guardar herramientas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Motril</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); si viene por mar entra por el Puerto de Motril, y por carretera llega por la A-7 o la A-44.",
+  "datos": [
+   "En las fincas de la vega del Guadalfeo o de Carchuna se usa como almacén agrícola.",
+   "Los negocios de playa de Calahonda o Playa Granada lo usan para guardar material.",
+   "Revisa el óxido de esquinas, techo y bajos; cerca de la playa, repíntalo con anticorrosivo desde el principio.",
+   "En la vega y los polígonos cabe un 40 pies; en La Garnatilla y callejas estrechas, gana el 20 pies.",
+   "En la vega, asegúrate de que el camión recorre el carril de la finca sin hundirse en tierra blanda."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

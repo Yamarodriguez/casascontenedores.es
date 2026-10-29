@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5427,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Baleares</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); viaja en barco desde València o Barcelona hasta Palma, Alcúdia, Maó, Eivissa o la Savina, y sigue por carretera insular.",
+  "datos": [
+   "Cada isla tiene su puerto y su naviera: en Menorca y Formentera conviene reservar plaza con antelación.",
+   "En el centro histórico de Palma, el área ACIRE puede obligar a pedir autorización previa para el camión.",
+   "Polígonos como Son Castelló, Marratxí o Santa Gertrudis lo piden como módulo de obra y almacén.",
+   "Los puertos deportivos lo usan como almacén de aparejos o taller, con tratamiento anticorrosivo por el salitre.",
+   "Fuera de los núcleos urbanos predomina el suelo rústico, ordenado por el Plan Territorial Insular de cada isla."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

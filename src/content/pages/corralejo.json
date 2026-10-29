@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en Corralejo y en el resto del municipio de La Oliva, con el <strong>precio puesto en destino</strong>. Los módulos llegan por mar al puerto de Puerto del Rosario y suben por la FV-1, que cruza las dunas antes de entrar en el pueblo. El Aeropuerto de Fuerteventura queda junto a la capital, y el puerto de Corralejo conecta en barco con Playa Blanca, en Lanzarote.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Corralejo</strong> necesita licencia del Ayuntamiento de La Oliva conforme a la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Los Parques Naturales de las Dunas de Corralejo y del islote de Lobos están protegidos.",
+   "Buena parte del suelo rústico de La Oliva no admite vivienda, y el alquiler vacacional tiene su propia regulación.",
+   "Sal y arena atacan la chapa: chorreado, imprimación y pintura de calidad marina, con sellados revisados.",
+   "El alisio sopla del norte y nordeste: cierra la casa por ese lado y abre un porche al sur.",
+   "Los módulos llegan en barco a Puerto del Rosario y suben por la FV-1, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo Torremolinos, desde La Carihuela a Los Álamos, y te pasamos el precio puesto en destino, con el módulo colocado en su sitio. La A-7 y la autovía de acceso al aeropuerto rodean el municipio y lo enlazan con Málaga y con la Costa del Sol occidental. El aeropuerto de Málaga-Costa del Sol linda con el término, y el puerto de Málaga, de donde suelen salir los contenedores, está muy cerca.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Torremolinos</strong> necesita licencia del Ayuntamiento de Torremolinos según la Ley 7/2021 (LISTA) de Andalucía y su planeamiento general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El término está casi todo urbanizado: lo habitual es un jardín, una azotea o un solar entre medianeras.",
+   "En las zonas de chalets de Montemar o El Pinillo encaja un estudio de jardín o una casa de invitados.",
+   "En el frente litoral se aplica la Ley de Costas, con su servidumbre de protección.",
+   "Meter la grúa en una calle estrecha puede requerir permiso de ocupación de vía y horarios especiales.",
+   "El aire marino obliga a imprimar la chapa con pintura de calidad marina y revisarla con regularidad."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

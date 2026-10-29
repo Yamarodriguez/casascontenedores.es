@@ -1812,5 +1812,19 @@
     "html": "<p>Para las fincas de Icod la transformación más útil es convertir el contenedor en un almacén fresco y ventilado: rejillas, <a href=\"/aislamiento-contenedores/\">aislamiento térmico</a> y pintura clara para el sol de la tarde. Y si la finca queda apartada, vale la pena un cierre más fuerte y un panel solar pequeño para alumbrar y enchufar herramientas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Icod de los Vinos</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la TF-5 desde el Puerto de Santa Cruz de Tenerife y suele acabar como almacén agrícola o bodega auxiliar.",
+  "datos": [
+   "Viticultores de la DO Ycoden-Daute-Isora lo usan para cajas de vendimia, barricas vacías y abonos.",
+   "Las fincas en ladera tienen bancales y caminos estrechos, así que el 20 pies es lo más práctico.",
+   "Sobre bancales y cuestas, dejarlo en su sitio puede pedir una grúa de brazo más largo.",
+   "Con el clima húmedo del norte, revisa juntas, techo y suelo; cerca de San Marcos, también el óxido.",
+   "El alquiler encaja con la vendimia en las medianías o con el corte en las plataneras."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

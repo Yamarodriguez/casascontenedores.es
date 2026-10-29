@@ -2549,5 +2549,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1263,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Albacete</strong> necesita licencia del ayuntamiento de cada municipio conforme al TRLOTAU de Castilla-La Mancha, la ley del suelo autonómica, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En suelo rústico de reserva, el artículo 54 del TRLOTAU admite la vivienda familiar aislada sin riesgo de núcleo.",
+   "Albacete está en la zona climática D3: heladas fuertes en invierno y calor intenso en verano.",
+   "La llanura de Los Llanos drena mal por el endorreísmo: pide un estudio geotécnico antes de cimentar.",
+   "Los módulos llegan por la A-31 desde el Puerto de Alicante; en pedanías el último tramo suele ser rural.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

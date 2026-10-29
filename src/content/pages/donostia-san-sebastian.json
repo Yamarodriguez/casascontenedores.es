@@ -2573,5 +2573,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1447,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Donostia San Sebastián</strong> necesita licencia del Ayuntamiento donostiarra conforme a la Ley 2/2006 de Suelo y Urbanismo del País Vasco, modificada por la Ley 6/2025, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En los caseríos de Zubieta o Igeldo, suelo no urbanizable, la vivienda debe ir ligada a una explotación agraria.",
+   "Todo el litoral, de La Concha a la Zurriola, está sujeto a la Ley de Costas.",
+   "Zona climática D1, con lluvia y humedad todo el año: la estanqueidad y el aislamiento continuo son prioritarios.",
+   "Las galernas obligan a cuidar la estanqueidad de puertas y ventanas y un buen anclaje frente al viento.",
+   "La Parte Vieja tiene calles estrechas y peatonales que impiden el paso de la góndola."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

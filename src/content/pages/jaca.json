@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en Jaca y en los núcleos de su término con precio <strong>puesto en destino</strong>. Se llega desde Huesca y Sabiñánigo por la A-23 y la N-330, que sigue hacia Canfranc y el puerto de Somport, y hacia Pamplona sale el eje de la Canal de Berdún. Los aeropuertos de referencia son Zaragoza y Huesca-Pirineos, y la plataforma logística de Zaragoza sirve de punto de enlace.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Jaca</strong> necesita licencia del Ayuntamiento de Jaca según su plan general y el Texto refundido de la Ley de Urbanismo de Aragón (DL 1/2014), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Jaca está en una de las zonas climáticas más frías del CTE: aislamiento grueso y barrera de vapor bien sellada.",
+   "La cubierta tiene que soportar el peso de la nieve y la cimentación quedar bajo la profundidad de helada.",
+   "En el Pirineo las normas estéticas son exigentes con cubiertas, materiales y colores.",
+   "Lo razonable es tramitar y fabricar en invierno y montar entre la primavera y el otoño.",
+   "Los módulos llegan por la A-23 y la N-330, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

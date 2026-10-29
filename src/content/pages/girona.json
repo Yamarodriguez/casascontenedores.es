@@ -2628,5 +2628,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Girona</strong> necesita licencia de obra mayor del ayuntamiento de cada municipio de la provincia conforme al Decreto Legislativo 1/2010 (TRLU) de Cataluña, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En Les Gavarres o la Vall de Sant Daniel la vivienda solo cabe dentro del catálogo de masías del TRLU.",
+   "En toda la Costa Brava rige además la servidumbre de protección de la Ley de Costas.",
+   "La plana del Gironès es aluvial y con nivel freático alto, así que la cimentación suele elevarse sobre la cota de inundación.",
+   "La tramuntana obliga a reforzar la fijación de cubiertas y cerramientos ligeros.",
+   "Al terminar necesitas la cédula de habitabilidad de la Generalitat y la licencia municipal de primera ocupación."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

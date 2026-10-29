@@ -2717,5 +2717,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Tenerife</strong> necesita licencia del ayuntamiento de cada municipio de la isla conforme a la ley del suelo de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Casi la mitad de la isla es espacio natural protegido, y buena parte del suelo rústico tiene alguna figura de protección.",
+   "Lo habitual es una parcela urbana en Santa Cruz-La Laguna, en el sur turístico o un asentamiento rural de medianías.",
+   "La antigua cédula canaria se sustituye por una comunicación previa de primera ocupación ante el ayuntamiento.",
+   "Santa Cruz está en zona α3, las medianías de La Laguna en A2 y las cotas altas en B2 o C2.",
+   "Los módulos llegan al Puerto de Santa Cruz de Tenerife o al de Granadilla y circulan por la TF-1 y la TF-5."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo el término de Vícar, del pueblo viejo a La Puebla, Las Cabañuelas, La Gangosa y Los Llanos, y el precio se da puesto en destino. Los módulos llegan por la A-7, la Autovía del Mediterráneo, que cruza el Poniente almeriense, y desde ella salen las carreteras hacia los núcleos. El Puerto de Almería y el Aeropuerto de Almería son las referencias logísticas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Vícar</strong> se tramita con licencia del Ayuntamiento de Vícar según su planeamiento general y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo de invernaderos es rústico: lo realista es un solar en La Puebla de Vícar, La Gangosa o Las Cabañuelas.",
+   "En el pueblo viejo, en la falda de la sierra de Gádor, la pendiente obliga a muros y cimentación a distinta cota.",
+   "Las ramblas que bajan de la sierra piden estudiar el riesgo de avenidas, y los informes de aguas alargan el plazo.",
+   "En el llano, descargar entre invernaderos y por caminos estrechos complica la maniobra de la grúa.",
+   "El clima es cálido y muy seco: aleros, pérgolas y cubierta ventilada contra el sol."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

@@ -2556,5 +2556,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Sevilla</strong> necesita licencia de cada ayuntamiento conforme a la Ley 7/2021 (LISTA) de Andalucía, que solo distingue suelo urbano y rústico, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Sevilla capital está casi totalmente urbanizada: lo típico es una ampliación en barrio periférico o una parcela del área metropolitana.",
+   "En el suelo rústico de la vega solo caben los usos ligados a la explotación agraria.",
+   "La capital está en zona B4 y las cotas altas en C4: el reto es el calor, no el frío.",
+   "Prioriza la protección solar, la ventilación cruzada y el aislamiento continuo por el exterior.",
+   "Desde el puerto de Sevilla los módulos circulan por la SE-30, la A-4, la A-49 o la A-92."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

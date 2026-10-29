@@ -1811,5 +1811,19 @@
     "html": "<p>En Coslada, para usos logísticos, los extras más útiles son la iluminación interior, la instalación eléctrica y los cierres de seguridad. Si el contenedor va a ser una oficina de muelle o una caseta de obra, añade aislamiento, ventanas y climatización. La pintura con la imagen de tu empresa lo identifica en el patio de la nave.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Coslada</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el puerto seco de Madrid está en el propio municipio, así que el viaje desde la terminal es muy corto y se nota en el precio.",
+  "datos": [
+   "Junto al puerto seco hay buena disponibilidad de usados: revisa la placa CSC y los golpes de manipulación.",
+   "En las naves logísticas, con patios amplios y muelles de carga, lo habitual es el 40 pies o el High Cube.",
+   "En una calle del centro suele hacer falta permiso de ocupación de vía pública para descargar.",
+   "Si guardas mercancía, comprueba que sea estanco y que el piso aguante el paso de la transpaleta.",
+   "Para campañas de Navidad o rebajas, una obra o una mudanza, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

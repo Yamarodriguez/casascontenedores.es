@@ -2647,5 +2647,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Santander</strong> necesita licencia de obra mayor del Ayuntamiento de Santander, con proyecto de arquitecto conforme a la Ley 5/2022 de Cantabria (LOTUCA), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Cantabria suprimió la cédula de habitabilidad: la obra se cierra con el certificado final y la licencia de primera ocupación.",
+   "Santander está en la zona climática C1, con clima oceánico de lluvias frecuentes y ambiente marino constante.",
+   "La humedad y el salitre obligan a reforzar el aislamiento y la ventilación cruzada para evitar condensaciones.",
+   "Los módulos llegan por la S-10 y la A-67, con precio puesto en destino.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

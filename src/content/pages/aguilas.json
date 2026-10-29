@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en todo el término de Águilas, Calabardina incluida, y la cifra que te damos es puesto en destino, con los módulos colocados. La autovía que la une con Lorca enlaza con la A-7, y la AP-7 recorre la costa hacia Mazarrón y Cartagena. El puerto de referencia es Cartagena, y como aeropuertos están el de la Región de Murcia y el de Almería.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Águilas</strong> necesita licencia del Ayuntamiento de Águilas conforme a la Ley 13/2015 de ordenación territorial y urbanística de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el casco encaja una vivienda compacta; en Calabardina o hacia las Cuatro Calas, una segunda residencia.",
+   "Las Cuatro Calas y el Parque Regional de Cabo Cope y Puntas de Calnegre tienen fuertes restricciones.",
+   "En el litoral se aplica además la Ley de Costas: consulta con urbanismo antes de comprar parcela.",
+   "Es una de las zonas más soleadas y secas de España: aislamiento contra el calor, aleros y pérgolas.",
+   "El plazo ronda los 4 a 7 meses; conviene evitar el verano para el montaje con grúa."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

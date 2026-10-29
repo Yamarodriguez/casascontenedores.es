@@ -1823,5 +1823,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4277,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Tenerife</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega primero en barco desde la Península al Puerto de Santa Cruz de Tenerife o al de Granadilla.",
+  "datos": [
+   "En las medianías se usa como almacén para la agricultura del plátano y otras explotaciones.",
+   "En el polígono de Granadilla funciona como nave auxiliar o local de obra.",
+   "En el sur, árido y soleado, pide ventilación y color claro; en el norte, estanqueidad frente a la humedad.",
+   "Casi la mitad de la isla es espacio protegido: revisa la clasificación antes de comprar el terreno.",
+   "Desde el puerto circula por la TF-1, la TF-5 o la TF-2 según dónde esté tu parcela."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

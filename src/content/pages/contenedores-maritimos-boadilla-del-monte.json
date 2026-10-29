@@ -1811,5 +1811,19 @@
     "html": "<p>Si el contenedor va a hacer de taller o de gimnasio, con aislamiento y una ventana se vuelve habitable en los inviernos fríos del oeste madrileño. Para la maquinaria de jardín, unas rejillas de ventilación evitan que se acumulen gases de combustible. Y en una urbanización con estética cuidada, una pintura en verde oscuro lo funde con los setos.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Boadilla del Monte</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la M-50 o la M-501 y, si es de importación, sube desde el puerto de Valencia por la A-3.",
+  "datos": [
+   "Las empresas de jardinería guardan en él cortacéspedes y herramientas; muchos vecinos lo usan como trastero.",
+   "Bajo pinos y encinas, la pinocha se acumula en el techo y retiene humedad: revisa que no haya óxido arriba.",
+   "Para un jardín lo normal es el 20 pies: cabe por más puertas y se maneja mejor entre árboles.",
+   "Los setos altos, las ramas o una calle privada con horario restringido alargan la maniobra de la grúa.",
+   "Para la reforma del chalé o la obra de una piscina, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

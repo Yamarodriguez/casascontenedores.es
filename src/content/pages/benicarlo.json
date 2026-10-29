@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todo Benicarló con el <strong>precio puesto en destino</strong>. El transporte entra por la AP-7 y la N-340, los dos ejes que recorren el litoral del Baix Maestrat, y desde ahí se reparte a la costa, el casco y la huerta. El puerto de referencia es el Puerto de Castelló, y los aeropuertos más cercanos son el de Castellón y el de Reus.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Benicarló</strong> necesita licencia del Ayuntamiento de Benicarló dentro del TRLOTUP (Decreto Legislativo 1/2021) de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la costa manda la Ley de Costas, junto al plan valenciano de infraestructura verde del litoral.",
+   "El mestral sopla fuerte desde el norte en invierno: cierra esa fachada y abre la casa al sur y al este.",
+   "Los terrenos son casi todos llanos, lo que abarata la base y la maniobra de la grúa.",
+   "En la huerta, los caminos estrechos con muretes complican el acceso, y la vivienda tiene requisitos estrictos.",
+   "Para montar, evita el verano en las urbanizaciones y las Fallas de marzo en el centro."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

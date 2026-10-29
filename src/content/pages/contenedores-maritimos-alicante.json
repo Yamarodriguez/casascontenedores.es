@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4274,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en la provincia de Alicante</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale casi siempre del Puerto de Alicante, con terminal de contenedores, y lo repartimos con transporte y descarga incluidos.",
+  "datos": [
+   "En las partidas rurales del interior se usa como caseta de aperos para segundas residencias.",
+   "En el puerto y los polígonos cercanos sirve de almacén u oficina modular.",
+   "Los módulos de chiringuito en el litoral están sujetos a la Ley de Costas y piden autorización específica.",
+   "Santa Cruz y el casco antiguo, en la ladera del Benacantil, no dejan pasar una góndola.",
+   "Con la gota fría de otoño, colócalo sobre una base elevada y bien drenada, por encima de la cota de avenida."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todo el término de Alcázar de San Juan y la casa se presupuesta puesta en destino, sin sorpresas por el porte. Para el transporte usamos la Autovía de los Viñedos (CM-42) y la N-420, con la A-4 a poca distancia hacia el oeste. Como puerto de referencia trabajamos con Valencia, y el aeropuerto más útil es el de Madrid-Barajas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Alcázar de San Juan</strong> necesita licencia del Ayuntamiento de Alcázar de San Juan conforme a su plan de ordenación y al TRLOTAU de Castilla-La Mancha, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En barrios y urbanizaciones encaja una casa familiar con patio; en fincas de viñedo, una pieza auxiliar.",
+   "El complejo lagunar está dentro de la Reserva de la Biosfera de La Mancha Húmeda, con más limitaciones.",
+   "Cerca de las lagunas el suelo puede ser húmedo o salino: estudia el terreno y ajusta la cimentación.",
+   "La partida que más crece es el aislamiento, para el calor de julio y las heladas de enero.",
+   "Los módulos llegan por la Autovía de los Viñedos (CM-42) y la N-420; evita la vendimia para el montaje."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

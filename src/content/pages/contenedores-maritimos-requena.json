@@ -1812,5 +1812,19 @@
     "html": "<p>El frío largo del invierno en Requena convierte el aislamiento térmico en la mejora clave, en especial si el contenedor guardará vino o hará de oficina o sala de catas. En fincas alejadas de las aldeas encajan la electricidad solar, para tener luz sin acometida, y las rejas y cerraduras reforzadas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Requena</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el Puerto de Valencia por la A-3 y la N-322, con un precio que ya contempla llegar a la bodega o la finca.",
+  "datos": [
+   "Bodegas y cooperativas de la DO Utiel-Requena lo usan como almacén, y en los viñedos de Bobal, como caseta.",
+   "Heladas, nevadas y tormentas de final de verano castigan la estanqueidad: revisa juntas, techo y suelo.",
+   "En patios de bodega con salida a la A-3 entra un 40 pies; en aldeas de calles estrechas, un 20 pies.",
+   "Antes de la entrega conviene comprobar los caminos rurales dañados por las crecidas de la DANA.",
+   "Para los picos de la vendimia y la Fiesta de la Vendimia, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

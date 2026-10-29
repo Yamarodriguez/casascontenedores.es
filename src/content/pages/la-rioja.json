@@ -2572,5 +2572,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1349,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en La Rioja</strong> necesita licencia de obra mayor del ayuntamiento de cada municipio según su Plan General y la Ley 5/2006 de Ordenación del Territorio y Urbanismo (LOTUR), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El suelo no urbanizable de viñedo o huerta admite como mucho una caseta agrícola; para vivienda, mejor suelo urbano.",
+   "Logroño está en la zona D2 del CTE, las cotas bajas del valle en C2 y la sierra en E1.",
+   "El cierzo domina el valle del Ebro: protege la fachada expuesta con aislamiento continuo por el exterior.",
+   "Sierra de Cebollera, los Sotos del Ebro y San Millán de la Cogolla condicionan dónde construir.",
+   "Sin puerto propio, los módulos llegan desde el Puerto de Bilbao por la AP-68."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

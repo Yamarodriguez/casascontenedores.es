@@ -2568,5 +2568,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Salamanca</strong> necesita licencia del ayuntamiento de cada municipio, con proyecto visado, conforme a la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la capital, el suelo rústico común solo admite usos vinculados a una explotación, con autorización excepcional.",
+   "Castilla y León no expide cédula: la obra terminada se acredita con la licencia de primera ocupación.",
+   "La capital está en la cota que separa las zonas D2 y E1 del CTE: decide la altitud de la parcela.",
+   "Fuera de la vega del río, los cerros de arenas y la penillanura del Campo Charro permiten cimentaciones sencillas.",
+   "En la Ciudad Vieja, Patrimonio de la Humanidad, el Ayuntamiento modula el paso del camión y la grúa."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

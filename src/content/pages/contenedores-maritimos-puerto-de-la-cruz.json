@@ -1811,5 +1811,19 @@
     "html": "<p>Para un contenedor en Puerto de la Cruz, la pintura anticorrosión y la ventilación son las mejoras prioritarias por el salitre y la humedad. Si se usa en la calle o en un recinto abierto, conviene añadir rejas y cerraduras reforzadas. Y si va a servir de oficina o punto de información, se puede aislar, abrir ventanas y añadir instalación eléctrica.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Puerto de la Cruz</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); desembarca en Santa Cruz de Tenerife y sube por la TF-5 hasta el Valle de La Orotava, con precio puesto en destino.",
+  "datos": [
+   "Hoteles en reforma, comercios, restaurantes y el muelle pesquero lo usan como almacén temporal o permanente.",
+   "Todo el municipio está cerca del mar: revisa bajos, bisagras y techo, y repíntalo con pintura protectora al llegar.",
+   "En una ciudad tan compacta, el 20 pies es casi siempre la medida más práctica para calles y solares.",
+   "Ocupar la calle, cortar el tráfico o trabajar en horario restringido alarga la maniobra y sube el precio.",
+   "Para reformas hoteleras con fecha de fin o el Carnaval, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

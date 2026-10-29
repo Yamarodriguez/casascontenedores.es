@@ -2728,5 +2728,19 @@
  "menu": "menu-principal",
  "bandaTitulo": false,
  "postId": 10013,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Rivas-Vaciamadrid</strong> necesita licencia o declaración responsable del Ayuntamiento de Rivas-Vaciamadrid conforme a la Ley 9/2001 del Suelo de la Comunidad de Madrid, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El Parque Regional del Sureste ocupa la mayor parte del término y solo admite usos agrarios o ambientales.",
+   "Lo residencial queda en el suelo urbano de los núcleos junto a la A-3: vivienda unifamiliar o ampliación.",
+   "El yeso ataca al hormigón convencional: en la cimentación suele pedirse cemento resistente a sulfatos.",
+   "Rivas está en la zona climática D3, con veranos calurosos y secos e inviernos fríos.",
+   "Los caminos rurales del parque no están pensados para pesados: el camión entra siempre por los núcleos urbanos."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

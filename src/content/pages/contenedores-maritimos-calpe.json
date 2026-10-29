@@ -1811,5 +1811,19 @@
     "html": "<p>En Calpe, cerca del mar, lo primero es una <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> de calidad marina. Para guardar aparejos o material náutico, ventilación que permita secarlo. En parcelas de urbanización, un color que lo integre en el entorno. Y en lugares sin vigilancia, rejas, cerraduras reforzadas y un panel solar para la luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Calpe</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la AP-7 o la N-332, con el puerto de Alicante como referencia, y te lo damos puesto en destino.",
+  "datos": [
+   "Las cofradías y los armadores del puerto pesquero lo usan para guardar aparejos.",
+   "Restaurantes, escuelas náuticas y negocios turísticos lo aprovechan como almacén cerca de la playa.",
+   "Las urbanizaciones, con calles estrechas y en pendiente, favorecen el 20 pies, más fácil de maniobrar.",
+   "Con el aire salino, revisa bajos, esquinas y bisagras y aplica un tratamiento anticorrosión antes de instalarlo.",
+   "Para la temporada alta de un negocio de playa o una obra, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

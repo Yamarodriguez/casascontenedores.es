@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo Tres Cantos y el precio se cierra <strong>puesto en destino</strong>. La M-607, la carretera de Colmenar, es el acceso principal desde Madrid y la M-40; hacia el este, la red regional la enlaza con Alcobendas y la A-1. El Aeropuerto Adolfo Suárez Madrid-Barajas queda muy cerca, y el puerto de Valencia es la referencia marítima habitual para el centro peninsular.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Tres Cantos</strong> necesita licencia del Ayuntamiento de Tres Cantos según la Ley 9/2001 del Suelo de la Comunidad de Madrid y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Casi no queda suelo libre: lo viable es un estudio de jardín, una ampliación o una vivienda compacta en parcela urbana.",
+   "Gran parte del término es Parque Regional de la Cuenca Alta del Manzanares o monte de Viñuelas, sin viviendas nuevas.",
+   "El plan general regula con detalle alturas, retranqueos y materiales, y las ordenanzas estéticas obligan a cuidar fachadas.",
+   "Los inviernos son más fríos que en Madrid, con heladas: el aislamiento grueso es una partida importante.",
+   "El terreno llano y las calles amplias facilitan la grúa; el plazo ronda los 4 a 7 meses."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

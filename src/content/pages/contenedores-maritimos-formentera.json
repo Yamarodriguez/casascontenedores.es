@@ -1811,5 +1811,19 @@
     "html": "<p>En Formentera la estética importa: muchos clientes piden pintar el contenedor en blanco o en tonos arena para que pase desapercibido entre las casas payesas. Para almacenar producto de hostelería conviene añadir aislamiento y ventilación, porque el sol calienta mucho la chapa. Y con lo escasa que es la red en algunas zonas, una placa solar resuelve la iluminación.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Formentera</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); cruza en barco desde Ibiza hasta La Savina y, en una isla tan protegida, se coloca y se retira sin obra.",
+  "datos": [
+   "Los chiringuitos lo usan para guardar mobiliario fuera de temporada y los payeses de La Mola, como cuarto de aperos.",
+   "En solares de La Savina o junto a la carretera principal cabe un 40 pies; en los caminos rurales, el 20 pies.",
+   "El aire salino llega a toda la isla: revisa el óxido antes de embarcarlo y píntalo al llegar.",
+   "En verano los barcos van más cargados, así que conviene reservar con antelación.",
+   "Muchos clientes lo pintan en blanco o tonos arena para que pase desapercibido entre las casas payesas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

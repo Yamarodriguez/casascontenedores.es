@@ -2557,5 +2557,19 @@
     "html": "<p>Damos servicio en Salobreña y en sus núcleos, de la vega a la costa. El acceso es por la autovía A-7 y la N-340, con el Puerto de Motril como puerto más cercano. Calculamos el precio <strong>puesto en destino</strong>, contando con el acceso real a tu parcela, sea en llano o en ladera.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Salobreña</strong> necesita licencia del Ayuntamiento de Salobreña conforme a la Ley 7/2021 (LISTA) de Andalucía, también en Lobres o Caleta-La Guardia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Cerca de las playas de La Guardia o La Charca encaja un estudio de un módulo para alquilar.",
+   "En el entorno del castillo y el casco, Bien de Interés Cultural, la estética se vigila de cerca.",
+   "En la vega el camión llega fácil; las laderas del oeste y las calles empinadas piden grúas de más alcance.",
+   "En la franja costera el salitre pide imprimación anticorrosiva y revisar los puntos de soldadura.",
+   "En la vega del Guadalfeo tiene sentido una casa de campo con almacén para la cosecha integrado."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

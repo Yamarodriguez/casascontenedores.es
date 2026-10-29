@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo Irun y el precio se da <strong>puesto en destino</strong>. La AP-8 enlaza con Donostia y con la autopista francesa, la N-1 conecta con el interior de Gipuzkoa y la GI-636 recorre la ciudad. El puerto de Pasaia y el Aeropuerto de San Sebastián, en Hondarribia, son las referencias más cercanas, junto al Puerto de Bilbao.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Irun</strong> se tramita con licencia del Ayuntamiento de Irun conforme a la Ley 2/2006 de Suelo y Urbanismo del País Vasco y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja como vivienda compacta en un barrio, como anexo de un caserío o como estudio con vistas al monte.",
+   "Las marismas de Txingudi están protegidas y el Parque Natural de Aiako Harria tiene normas propias.",
+   "La lluvia abundante es lo que más encarece: pide impermeabilización y aislamiento muy cuidados.",
+   "En la vega del Bidasoa, con terrenos blandos y riesgo de inundación, la cimentación requiere estudio previo.",
+   "El plazo ronda los 4 a 7 meses, y la fabricación en taller evita los retrasos por lluvia."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

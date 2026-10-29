@@ -2543,5 +2543,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 7234,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Extremadura</strong> necesita licencia de obra mayor de cada ayuntamiento conforme a la Ley 11/2018 (LOTUS) de Extremadura, cédula de habitabilidad al terminar, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Buena parte del suelo extremeño es rústico y mucho está protegido como dehesa: pide la calificación antes de comprar.",
+   "Badajoz está en zona climática B4 y Cáceres en C4, con veranos largos y muy calurosos.",
+   "Contra el calor funcionan el aislamiento continuo por el exterior, la cubierta ventilada y la sombra en huecos a sur y oeste.",
+   "Extremadura no tiene puerto: el contenedor llega por carretera, normalmente desde Sevilla o Huelva.",
+   "Un 40 pies circula como transporte especial y necesita espacio de maniobra en cascos históricos y núcleos rurales."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

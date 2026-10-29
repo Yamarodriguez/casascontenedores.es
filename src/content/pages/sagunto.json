@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo el término de Sagunto, de la ciudad histórica al Puerto, con precio <strong>puesto en destino</strong>. Llegamos por la AP-7, la A-7 y la A-23, la Autovía Mudéjar hacia Teruel, que tiene aquí su origen. El puerto de referencia es el propio puerto de Sagunto, junto al de Valencia, y el aeropuerto más cercano es el de Valencia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Sagunto</strong> necesita licencia del Ayuntamiento de Sagunto conforme a su plan general y al TRLOTUP de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Cerca de las playas del Puerto de Sagunto y Almardà encaja una vivienda de temporada con terraza.",
+   "El Marjal dels Moros es espacio protegido, la costa sigue la Ley de Costas y el casco tiene protección patrimonial.",
+   "En marjal y huerta cerca de la costa el nivel freático puede ser alto y pedir otra cimentación.",
+   "Sagunto está en la zona climática B3: el aislamiento frena sobre todo el calor y la humedad del mar.",
+   "Con tanta logística en el Puerto de Sagunto, encontrar transporte y grúas para el montaje es sencillo."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

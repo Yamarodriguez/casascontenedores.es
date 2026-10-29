@@ -1823,5 +1823,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9996,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Roquetas de Mar</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sube desde el Puerto de Almería por la A-7, con la descarga con grúa incluida en el presupuesto puesto en destino.",
+  "datos": [
+   "En los invernaderos del Campo de Dalías se usa como almacén de aperos, abono o maquinaria.",
+   "Los caminos entre invernaderos y los viales de urbanizaciones como Aguadulce son estrechos: mide el ancho antes.",
+   "Con calor seco y salitre constante, necesita pintura marina reforzada y ventilación cruzada.",
+   "En la parte semipeatonal del casco rige la Zona de Bajas Emisiones: el camión necesita distintivo ambiental.",
+   "Según el uso y el tiempo, el Ayuntamiento pide declaración responsable o licencia de obra menor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

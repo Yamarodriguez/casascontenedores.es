@@ -2586,5 +2586,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Crevillente</strong> necesita licencia de obra mayor del Ayuntamiento de Crevillent conforme al TRLOTUP (Decreto Legislativo 1/2021) de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El Parque Natural de El Hondo, humedal Ramsar y ZEPA, limita los usos residenciales en su zona de amortiguación.",
+   "La zonificación valenciana sitúa Crevillent en la zona A4: sombreamiento, ventilación cruzada y anticorrosión junto a El Hondo.",
+   "En el llano, los suelos salinos y el freático alto piden estudio geotécnico antes de cimentar.",
+   "El casco antiguo, en ladera y con calles estrechas, limita el paso del camión-grúa.",
+   "Los módulos llegan desde el puerto de Alicante por la A-7 o la A-70, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

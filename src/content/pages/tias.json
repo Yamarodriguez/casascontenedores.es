@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en todo el municipio de Tías, de Puerto del Carmen al pueblo, Mácher, Conil, La Asomada y Masdache, con un <strong>precio puesto en destino</strong> que ya incluye el porte. Las piezas llegan al puerto de Arrecife y avanzan hacia el sur por la LZ-2, que atraviesa el término. El Aeropuerto César Manrique-Lanzarote está prácticamente al lado de Puerto del Carmen.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Tías</strong> necesita licencia del Ayuntamiento de Tías según su planeamiento, el Plan Insular de Lanzarote y la Ley 4/2017 del Suelo de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el Paisaje Protegido de La Geria la vivienda nueva es prácticamente inviable.",
+   "En Puerto del Carmen encajan viviendas de dos módulos con azotea o apartamentos compactos de una planta.",
+   "En La Asomada y Conil, con vistas al mar, tienen sentido terrazas escalonadas, aunque la pendiente encarece la grúa.",
+   "Las normas de Lanzarote piden enfoscar en blanco o revestir la chapa, una partida más del presupuesto.",
+   "La costa está en zona α3: el aislamiento se piensa sobre todo para frenar el calor."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

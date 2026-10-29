@@ -1811,5 +1811,19 @@
     "html": "<p>En Santa Cruz conviene añadir ventilación para evitar la condensación y, si va a ser oficina o taller, un buen <a href=\"/aislamiento-contenedores/\">aislamiento</a> que frene el calor de la chapa al sol. Cerca del mar, la pintura anticorrosión es casi obligatoria, y en fincas aisladas de Anaga compensan las rejas, las cerraduras reforzadas y una pequeña instalación solar.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Santa Cruz de Tenerife</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el precio puesto en destino incluye el flete en barco desde la península hasta el puerto de la ciudad.",
+  "datos": [
+   "Se usa como almacén de comercios y distribuidoras, caseta de obra y trastero en fincas de Anaga.",
+   "En las carreteras estrechas y sinuosas de Anaga el 20 pies es el formato práctico.",
+   "Desde el puerto, la TF-5 sube hacia La Laguna, la TF-1 va al sur y la TF-11 llega a San Andrés.",
+   "Con el ambiente marino revisa el óxido de bajos y esquinas; en las zonas altas, que el techo no acumule agua.",
+   "Durante el Carnaval se alquilan como almacenes y camerinos, y se retiran sin dejar obra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2557,5 +2557,19 @@
     "html": "<p>Atendemos Carboneras y el importe que te damos ya contempla la entrega, es decir, <strong>presupuesto puesto en destino</strong>. La A-7, la Autovía del Mediterráneo, trae el camión hasta la zona y la AL-5105 lo mete en el pueblo. El Puerto de Carboneras tiene uso industrial y pesquero, y el Aeropuerto de Almería es la referencia aérea más cercana.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Carboneras</strong> necesita licencia del Ayuntamiento de Carboneras conforme a la Ley 7/2021 (LISTA) de Andalucía y casi siempre se plantea en suelo urbano; además, en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Buena parte del término está dentro del Parque Natural de Cabo de Gata-Níjar, que restringe mucho la edificación.",
+   "El PGOU declaró El Algarrobico suelo no urbanizable: confirma la clase de suelo antes de comprar la parcela.",
+   "Zona climática A4 del CTE junto al mar: pintura anticorrosión de calidad marina y aislamiento contra el calor.",
+   "Cerca del litoral o del parque pueden hacer falta informes de otras administraciones, además de la licencia municipal.",
+   "Los módulos llegan por la A-7 y la AL-5105, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

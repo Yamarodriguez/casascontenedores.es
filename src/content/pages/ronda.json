@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a la ciudad y a todas las fincas del término de Ronda, y el precio se entiende puesto en destino, con la casa entregada en tu parcela. Las vías de entrada son la A-397, que sube desde San Pedro de Alcántara, la A-374, que viene de la sierra de Cádiz, y la A-367, desde Campillos. Los módulos pueden salir de los puertos de Algeciras o Málaga, y el aeropuerto más cercano es el de Málaga.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Ronda</strong> necesita licencia del Ayuntamiento de Ronda conforme a la Ley 7/2021 (LISTA) de Andalucía y a su planeamiento, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El conjunto histórico, con el Puente Nuevo y la ciudad antigua, está muy protegido.",
+   "Junto a la Sierra de las Nieves o la de Grazalema, en suelo rústico, las restricciones son muy serias.",
+   "Aquí el problema es el frío: aislamiento grueso sin puentes térmicos y carpinterías estancas.",
+   "Muchas fincas se alcanzan por carreteras de montaña y caminos estrechos donde un camión largo no maniobra bien.",
+   "En fincas de viñedo encaja un alojamiento rural pequeño o un módulo de recepción para visitas a bodegas."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

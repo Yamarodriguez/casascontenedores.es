@@ -2557,5 +2557,19 @@
     "html": "<p>El extremo sur de Fuerteventura también está en nuestra zona de servicio, y el coste para Morro Jable incluye ya el viaje hasta Jandía. El módulo llega por mar a Fuerteventura y recorre la FV-2, la carretera que une la península de Jandía con el resto de la isla. El Puerto de Morro Jable conecta por ferri con Gran Canaria y Tenerife, y el Aeropuerto de Fuerteventura facilita las visitas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Morro Jable</strong> necesita licencia del Ayuntamiento de Pájara, del que depende el pueblo, según la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Buena parte de la península está en el Parque Natural de Jandía, con la edificación muy limitada.",
+   "El saladar de Jandía también está protegido, así que comprueba la parcela antes de comprar.",
+   "El módulo cruza el mar y recorre la FV-2 de norte a sur de Fuerteventura, y eso pesa en el precio.",
+   "En laderas y barrancos, la pendiente y el suelo pedregoso complican la cimentación y la grúa.",
+   "La brisa marina y la calima piden anticorrosión, pintura marina y juntas bien selladas contra el polvo."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

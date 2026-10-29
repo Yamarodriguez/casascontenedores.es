@@ -2556,5 +2556,19 @@
     "html": "<p>Atendemos todo el término de Valdepeñas y el precio de la casa se da puesto en destino, con el transporte incluido. Nuestros camiones circulan por la A-4, la Autovía del Sur, que pasa junto a la ciudad, y por las carreteras autonómicas hacia el Campo de Montiel y el Campo de Calatrava. Para los envíos por mar trabajamos con el puerto de Valencia, y Madrid-Barajas es el aeropuerto más cómodo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Valdepeñas</strong> se tramita con licencia del Ayuntamiento de Valdepeñas dentro del marco del TRLOTAU, la ley del suelo de Castilla-La Mancha, y del planeamiento local, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En suelo rústico la vivienda tiene condiciones estrictas de superficie y uso entre viñedos y olivares.",
+   "En el entorno del río Jabalón y de otros cauces se suman las limitaciones por inundabilidad.",
+   "Los veranos están entre los más intensos de La Mancha: aísla bien la cubierta, mejor con cámara ventilada.",
+   "El terreno llano y la cercanía a la A-4 facilitan la logística; el sur del término pide cimentación más elaborada.",
+   "Para el montaje, evita la vendimia y la Fiesta del Vino de principios de septiembre."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

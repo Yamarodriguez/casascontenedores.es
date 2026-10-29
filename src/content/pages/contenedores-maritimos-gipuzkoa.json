@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5430,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Gipuzkoa</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por el Puerto de Pasaia o el de Bilbao y circula por la AP-8, la AP-1 o la N-I hasta el valle de destino.",
+  "datos": [
+   "En la máquina-herramienta de Elgoibar, Deba o Bergara se usa como almacén u oficina de taller junto a la nave.",
+   "En las lonjas de Getaria, Pasaia y Hondarribia hace de caseta de aparejos con protección anticorrosiva reforzada.",
+   "Las pistas de los caseríos tienen pendiente y curvas cerradas: comprueba el ancho y el giro antes de la entrega.",
+   "Cada municipio guipuzcoano tiene su propio plan general, así que el trámite cambia según el ayuntamiento.",
+   "En la fachada cantábrica, de Donostia a Hondarribia, se suma la servidumbre de la Ley de Costas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

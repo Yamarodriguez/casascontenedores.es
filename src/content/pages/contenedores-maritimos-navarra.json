@@ -1828,5 +1828,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Navarra</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sin puerto propio, llega desde el Puerto de Bilbao por la A-15 o la AP-68, o desde Pasaia.",
+  "datos": [
+   "En la Ribera sirve de almacén para conservas vegetales y otra agroindustria.",
+   "En polígonos como Landaben, Arazuri-Orkoien o Noáin funciona como nave auxiliar de la automoción.",
+   "La Cuenca de Pamplona tiene margas sensibles al agua: comprueba el terreno tras la lluvia antes de la descarga.",
+   "Muchos concejos tienen travesías estrechas y carreteras de montaña que en invierno se cierran por nieve.",
+   "Para una bodega o conservera de la Ribera, lo habitual es un 40 pies dry van o refrigerado."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

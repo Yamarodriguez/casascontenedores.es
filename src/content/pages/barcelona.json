@@ -2645,5 +2645,19 @@
  "menu": "menu-2",
  "bandaTitulo": false,
  "postId": 1009,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Barcelona</strong> necesita la licencia de cada ayuntamiento de la provincia y cumplir la ley del suelo de Catalunya, con proyecto de arquitecto, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la capital casi todo es suelo urbano consolidado; el suelo no urbanizable se limita a Collserola.",
+   "El proyecto habitual es una ampliación en azotea o un uso terciario sobre una parcela ya edificada.",
+   "Catalunya exige la cèdula d'habitabilitat de primera ocupación para cualquier vivienda nueva.",
+   "Dentro de las Rondes hace falta distintivo ambiental, y en Ciutat Vella o Gràcia la góndola no siempre entra.",
+   "Sabadell, Terrassa y Mataró reciben el mismo servicio que la capital, con presupuesto según la dirección exacta."
+  ],
+  "enlace": {
+   "texto": "permisos y licencias",
+   "destino": "/permisos/"
+  }
+ }
 }

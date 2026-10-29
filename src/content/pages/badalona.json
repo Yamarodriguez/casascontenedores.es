@@ -2578,5 +2578,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Badalona</strong> necesita licencia de obra mayor del Ayuntamiento de Badalona, dentro del Pla General Metropolità y el Decret Legislatiu 1/2010 de urbanismo de Catalunya, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En el casco consolidado, el caso más frecuente es ampliar una vivienda que ya está construida.",
+   "Al acabar la obra se tramita la cèdula d'habitabilitat, con el certificado final firmado por el arquitecto.",
+   "En la Serra de Marina hay suelo no urbanizable donde la construcción de vivienda está muy limitada.",
+   "Badalona está en la zona climática C2: protege del sol los huecos a levante y sur y cuida el salitre.",
+   "En el casco antiguo y Dalt de la Vila, con calles estrechas y pendiente, revisa antes la descarga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

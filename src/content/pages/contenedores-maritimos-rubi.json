@@ -1811,5 +1811,19 @@
     "html": "<p>Para usos industriales en Rubí, los extras más pedidos son la instalación eléctrica, la iluminación interior y los cierres de seguridad. Si el contenedor va a hacer de oficina de obra o de nave, añade aislamiento y ventilación para trabajar con comodidad en verano. La pintura con los colores de tu empresa ayuda a integrarlo en la nave.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Rubí</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Barcelona, muy cerca, por la AP-7 o la B-30, con precio puesto en destino en todo el término.",
+  "datos": [
+   "Las empresas industriales y logísticas de los polígonos lo usan como almacén auxiliar sin hacer obra.",
+   "En polígonos con patios de maniobra cabe un 40 pies; en urbanizaciones con curvas y desniveles, el 20 pies.",
+   "Si se va a entrar con transpaleta, comprueba en uno usado que el suelo de madera esté firme.",
+   "En urbanizaciones con calles empinadas o parcelas con desnivel hace falta más maniobra y preparar el apoyo.",
+   "Para picos de producción, obras en naves o la Fiesta Mayor, alquilar es más ágil que buscar otra nave."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -2553,5 +2553,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Elche</strong> necesita licencia de obra mayor del Ayuntamiento de Elche conforme al Decreto Legislativo 1/2021 (TRLOTUP) de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En una partida rural del Camp d'Elx el suelo no urbanizable común solo admite la vivienda vinculada a explotación agraria.",
+   "El Palmeral, Patrimonio Mundial, y el Parque Natural de El Hondo limitan lo que se construye en su entorno.",
+   "Elche está en la zona climática B4: prioriza sombra en los huecos, ventilación cruzada y buen drenaje frente a tormentas.",
+   "En las huertas del Camp d'Elx el nivel freático es somero, así que conviene un estudio geotécnico.",
+   "Al acabar no hay cédula de habitabilidad: basta la declaración responsable de primera ocupación."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

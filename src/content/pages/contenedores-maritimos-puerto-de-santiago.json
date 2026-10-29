@@ -1812,5 +1812,19 @@
     "html": "<p>Frente a los acantilados de Los Gigantes, lo más útil es proteger el contenedor del mar: pintura de grado marino, rejillas de ventilación y aislamiento del techo para el sol de poniente. Para empresas náuticas, estanterías, ganchos para secar equipo, iluminación y cerraduras de seguridad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Puerto de Santiago</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); cruza a Tenerife y recorre todo el sur por la TF-1 hasta la costa oeste, con precio puesto en destino.",
+  "datos": [
+   "Lo compran empresas de excursiones y de avistamiento de cetáceos, complejos de apartamentos, restaurantes y constructoras de reformas.",
+   "Con calles en cuesta y parcelas escalonadas hacia el mar, el 20 pies es la opción más manejable.",
+   "El sol de la tarde castiga la pintura: en uno usado, mira si está cuarteada o desconchada.",
+   "Comprueba que haya sitio de verdad para colocarlo sin invadir la calle antes de cerrar la compra.",
+   "Los negocios náuticos de Los Gigantes lo alquilan en temporada alta o mientras arreglan sus instalaciones."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

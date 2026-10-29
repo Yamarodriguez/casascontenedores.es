@@ -2557,5 +2557,19 @@
     "html": "<p>Damos servicio en Cuevas del Almanzora y sus núcleos costeros con <strong>presupuesto puesto en destino</strong>. Desde la A-7 o la AP-7, el camión enlaza con la A-332, la A-352 o la A-1201 según la zona del término a la que vaya. El Aeropuerto de Almería es la referencia aérea más cercana.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Cuevas del Almanzora</strong> necesita licencia del Ayuntamiento de Cuevas del Almanzora conforme a la Ley 7/2021 (LISTA) de Andalucía y el planeamiento municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la vega del Almanzora o junto a una rambla, revisa primero la inundabilidad de la parcela.",
+   "La ZEC Sierras de Almagrera, de los Pinos y el Aguilón y la protección del litoral añaden límites.",
+   "En la Sierra Almagrera, las pendientes y los suelos removidos por la antigua minería complican el asiento.",
+   "En Villaricos y Palomares, junto al mar, la pintura anticorrosión del acero es imprescindible.",
+   "Los módulos llegan por la A-7 y la A-332 o la A-352, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

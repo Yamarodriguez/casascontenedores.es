@@ -1811,5 +1811,19 @@
     "html": "<p>En el campo de Mazarrón el sol pega fuerte, así que un contenedor usado como almacén agradece aislamiento en el techo y rejillas de ventilación. Si va a estar junto al mar, pide pintura marina anticorrosión. Y si queda en una finca alejada del casco, compensa añadir rejas, cerradura de seguridad y un pequeño panel solar para tener luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Mazarrón</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por la RM-3 desde la A-7 o por la AP-7 desde Cartagena, con precio puesto en destino.",
+  "datos": [
+   "En el campo, las explotaciones de tomate y hortaliza bajo plástico lo usan para cajas, abonos y herramientas.",
+   "En la costa, del Puerto a Bolnuevo e Isla Plana, sirve a negocios de temporada y clubes náuticos.",
+   "Cerca del Puerto o de las calas, mira largueros, esquinas y bisagras: el salitre de la bahía avanza deprisa.",
+   "En fincas llanas entre invernaderos cabe un 40 pies; en urbanizaciones y laderas mineras, mejor el 20 pies.",
+   "Para la campaña de hortaliza o una obra de verano en la costa, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

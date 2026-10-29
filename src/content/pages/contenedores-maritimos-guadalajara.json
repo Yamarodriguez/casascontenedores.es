@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 4218,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Guadalajara</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del puerto seco de Azuqueca de Henares o del de Coslada y llega por la A-2 o la R-2 a cualquier punto de la provincia.",
+  "datos": [
+   "En las plataformas logísticas del Corredor del Henares se usa como almacén u oficina modular auxiliar a la nave.",
+   "En la Alcarria, las explotaciones cerealistas y apícolas lo usan como caseta de aperos o almacén de campaña.",
+   "Junto al Palacio del Infantado las calles son estrechas y con cuestas: la descarga se organiza con más margen.",
+   "En la Alcarria y las riberas del Henares, con protección Natura 2000, el trámite es más restrictivo.",
+   "Con heladas largas y viento en zonas abiertas, revisa juntas y pintura si queda sin resguardo."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

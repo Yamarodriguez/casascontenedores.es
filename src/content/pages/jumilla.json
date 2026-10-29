@@ -2557,5 +2557,19 @@
     "html": "<p>Atendemos Jumilla dentro de nuestra cobertura en el Altiplano murciano. El contenedor llega por la A-33, la autovía del Altiplano, o por la N-344, y se distribuye por la RM-403, la RM-404 o la RM-714 hasta fincas y bodegas. Para contenedores de importación, la referencia es el Puerto de Cartagena. Todo se presupuesta con la entrega en tu finca o bodega.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Jumilla</strong> necesita licencia del Ayuntamiento de Jumilla conforme a la Ley 13/2015 de Ordenación Territorial y Urbanística de la Región de Murcia y su Plan General, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Entre viñas de la DO Jumilla encajan suites de enoturismo de uno o dos módulos junto a la bodega.",
+   "Los parques regionales Sierra del Carche y Sierra de la Pila tienen límites propios a la edificación.",
+   "En los llanos de viñedo la cimentación es sencilla; al pie de las sierras, el suelo calizo pedregoso la encarece.",
+   "En plena vendimia conviene coordinar entregas y montaje para no estorbar la entrada de uva.",
+   "Los módulos llegan por la A-33 o la N-344, con precio puesto en destino."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

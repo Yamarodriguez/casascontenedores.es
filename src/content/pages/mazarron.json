@@ -2556,5 +2556,19 @@
     "html": "<p>Llegamos a todo el término de Mazarrón y el precio se calcula <strong>puesto en destino</strong>. Los módulos bajan por la RM-3, la autovía que une Totana con la costa, o entran por la AP-7 desde Cartagena. El puerto de referencia para la llegada de contenedores es el de Cartagena, y el aeropuerto más próximo es el Internacional de la Región de Murcia.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Mazarrón</strong> necesita licencia del Ayuntamiento de Mazarrón dentro de la Ley 13/2015 de ordenación territorial y urbanística de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "La Ley de Costas, la Sierra de las Moreras y las Erosiones de Bolnuevo restringen mucho lo que se puede hacer.",
+   "En suelo no urbanizable la vivienda está muy limitada; en los campos tiene más lógica un módulo agrícola.",
+   "Las laderas de las viejas minas tienen terrenos removidos y pendientes que piden una cimentación más estudiada.",
+   "La costa está en zona B3 del CTE: el aislamiento debe frenar el calor del verano y la humedad marina.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

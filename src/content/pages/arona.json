@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en todo el término de Arona con el <strong>precio puesto en destino</strong>. Una vez descargada en el Puerto de Santa Cruz de Tenerife, la casa viaja por la TF-1, la Autopista del Sur, hasta Los Cristianos y Las Galletas; las medianías se alcanzan por las carreteras que suben hacia el casco. El aeropuerto de referencia es el de Tenerife Sur, muy próximo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Arona</strong> necesita licencia del Ayuntamiento de Arona conforme a la Ley 4/2017 del Suelo y de los Espacios Naturales Protegidos de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En medianías como Valle San Lorenzo o Cabo Blanco, la ladera y el terreno volcánico encarecen la cimentación.",
+   "La Montaña de Guaza y el Malpaís de Rasca son espacios protegidos donde no se puede edificar.",
+   "En la costa de Los Cristianos y Las Galletas, el salitre pide imprimación anticorrosiva y pintura marina clara.",
+   "Los módulos llegan en barco al Puerto de Santa Cruz y bajan al sur por la TF-1.",
+   "En suelo rústico la vivienda nueva está muy limitada: comprueba antes en el ayuntamiento qué suelo tiene tu parcela."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

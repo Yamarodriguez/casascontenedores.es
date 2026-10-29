@@ -2556,5 +2556,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Segovia</strong> necesita licencia de obra mayor de cada ayuntamiento conforme a la Ley 5/1999 de Urbanismo de Castilla y León, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En la capital, la Ciudad Vieja y el Acueducto tienen un plan especial que casi nunca admite un contenedor visto.",
+   "En el suelo rústico de pinares, sierra protegida y riberas del Eresma solo caben usos ligados a la explotación.",
+   "Castilla y León suprimió la cédula: el trámite se cierra con la licencia municipal de primera ocupación.",
+   "Segovia capital está entre las zonas D2 y E1, con nieve al pie de la sierra y cubierta calculada para su carga.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
  }
 }

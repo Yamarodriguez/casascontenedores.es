@@ -1811,5 +1811,19 @@
     "html": "<p>En el clima soleado del Valle de Aridane, compensa aislar y ventilar el contenedor si vas a guardar algo delicado. En las fincas, la pintura protectora y unas rejas dan tranquilidad. Una placa solar es muy útil en parcelas sin luz, y un contenedor acondicionado puede servir de oficina provisional mientras se reconstruye un negocio.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Los Llanos de Aridane</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); se descarga en el puerto de Santa Cruz de La Palma y cruza la isla por la carretera de la Cumbre.",
+  "datos": [
+   "Casi todos acaban junto al plátano, como almacén de cajas, abonos y material de riego en las fincas.",
+   "También sirven de almacén seguro a quienes reconstruyen su casa o su negocio tras la erupción.",
+   "La ceniza volcánica que queda en algunas zonas es abrasiva: las juntas tienen que estar en buen estado.",
+   "Por los caminos entre plataneras y los muros de piedra, el 20 pies es casi siempre lo práctico.",
+   "Para una obra de reconstrucción o una campaña en la finca, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

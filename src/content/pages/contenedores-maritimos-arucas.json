@@ -1811,5 +1811,19 @@
     "html": "<p>En el clima húmedo del norte, la ventilación es la mejora más útil para un contenedor en las medianías de Arucas. En la costa, la pintura anticorrosión. Si la finca está apartada, rejas y cerraduras reforzadas, y una placa solar para tener luz o mover una bomba de riego sin acometida.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Arucas</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto de La Luz y llega por la GC-2 en un trayecto corto que abarata el porte.",
+  "datos": [
+   "Las fincas de plátanos lo usan como almacén de cajas, abonos y material de riego.",
+   "Entre plataneras, con caminos estrechos y muros de piedra, lo habitual es el contenedor de 20 pies.",
+   "En Bañaderos vigila el óxido por el salitre; en medianías, la humedad del alisio en juntas y techo.",
+   "La descarga en una finca de ladera o en el casco histórico es lo que puede encarecer el servicio.",
+   "Para una obra o las fiestas de San Juan, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

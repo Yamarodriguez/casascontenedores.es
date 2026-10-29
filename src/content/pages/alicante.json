@@ -2551,5 +2551,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1012,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Alicante</strong> necesita licencia del ayuntamiento de cada municipio y proyecto de arquitecto conforme al TRLOTUP (Decreto Legislativo 1/2021), la ley del suelo valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En las partidas rurales de suelo no urbanizable común, el artículo 197 del TRLOTUP admite la vivienda aislada.",
+   "Tabarca, la Serra Grossa, el Saladar de Agua Amarga o las Lagunas de Rabasa no admiten vivienda nueva.",
+   "Toda la costa de la provincia está bajo la Ley de Costas y su servidumbre de protección.",
+   "La gota fría de otoño provoca avenidas en ramblas como las de las Ovejas: comprueba la cota de inundabilidad.",
+   "Los módulos salen del Puerto de Alicante y llegan por la A-7, la A-31 o la A-70 a toda la provincia."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

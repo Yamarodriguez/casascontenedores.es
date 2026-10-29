@@ -2556,5 +2556,19 @@
     "html": "<p>Damos servicio en todo el término de Vejer de la Frontera, El Palmar incluido, y el precio va puesto en destino, con los módulos colocados. La A-48 conecta con Conil, Chiclana y Cádiz, y la N-340 lleva hacia Tarifa y Algeciras. Los contenedores pueden salir del puerto de la Bahía de Cádiz o del de Algeciras, y el aeropuerto más próximo es el de Jerez.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Vejer de la Frontera</strong> necesita licencia del Ayuntamiento de Vejer según la Ley 7/2021 (LISTA) de Andalucía y su plan general, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja mejor en El Palmar o en la campiña que en el conjunto histórico, con normas estrictas de volumen y color.",
+   "Parte del término está en el Parque Natural de La Breña, y en la costa manda la Ley de Costas.",
+   "Cerca de El Palmar, el salitre pide imprimación y pintura de calidad marina en el acero.",
+   "El levante sopla muy fuerte: patio protegido del este y montaje fuera de los días de viento.",
+   "Las zonas bajas junto al río Barbate tienen suelos blandos que piden una cimentación más estudiada."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

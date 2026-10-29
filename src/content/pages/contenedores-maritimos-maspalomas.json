@@ -1811,5 +1811,19 @@
     "html": "<p>Con el sol de Maspalomas, el aislamiento y la ventilación son mejoras casi obligatorias si vas a guardar algo dentro. La pintura anticorrosión en tono claro protege la chapa del salitre y reduce el calor. Si el contenedor queda en un lugar de paso, añade rejas y cierres reforzados, y una placa solar aprovecha el sol del sur para dar luz.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Maspalomas</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por el Puerto de La Luz y de Las Palmas y baja al sur por la GC-1.",
+  "datos": [
+   "Hoteles y apartamentos lo usan para guardar mobiliario, hamacas y material de mantenimiento, y como caseta en reformas.",
+   "En las fincas del interior de San Bartolomé de Tirajana sirve también como caseta agrícola.",
+   "El salitre, el sol y la arena castigan la chapa: revisa bajos, esquinas y bisagras, y repíntalo en tono claro.",
+   "En recintos hoteleros cabe un 40 pies; en las calles de Playa del Inglés, mejor el 20 pies.",
+   "Para una reforma hotelera o el Carnaval Internacional de Maspalomas, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

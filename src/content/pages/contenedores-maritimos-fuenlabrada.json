@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 9844,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Fuenlabrada</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); no llega de un puerto directo sino del Puerto Seco de Coslada, por la A-42 y la M-50, con transporte y descarga incluidos en el precio.",
+  "datos": [
+   "En Cobo Calleja, el mayor recinto empresarial chino de la Unión Europea, se usa como almacén o punto de distribución.",
+   "Los polígonos de Cobo Calleja, Sonsoles y El Palomo tienen viales pensados para góndola.",
+   "El casco antiguo, en torno a la plaza de la Constitución, tiene calles más estrechas que el resto del municipio.",
+   "Incluso en suelo industrial hace falta declaración responsable o licencia, según la ordenanza municipal.",
+   "El clima continental pide ventilación cruzada y revisar juntas cada temporada si se usa como oficina."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

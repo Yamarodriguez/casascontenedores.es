@@ -2556,5 +2556,19 @@
     "html": "<p>Trabajamos en toda la extensión del término de Antequera, que es enorme, y te damos el importe puesto en destino, con la casa colocada en la parcela. En la ciudad se cruzan la A-45, entre Córdoba y Málaga, y la A-92, entre Sevilla y Granada, así que el camión llega por autovía desde casi cualquier origen. El puerto de Málaga y el aeropuerto de Málaga-Costa del Sol son las referencias más cercanas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Antequera</strong> necesita licencia del Ayuntamiento de Antequera conforme a su plan general y a la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En los barrios nuevos encaja una vivienda con jardín; en los cortijos de la vega, una casa de campo de una planta.",
+   "El Sitio de los Dólmenes, Patrimonio Mundial, y el Paraje Natural del Torcal imponen restricciones muy fuertes.",
+   "Algunos suelos arcillosos de la campiña se mueven con la humedad y piden una cimentación más cuidada.",
+   "Las nieblas y heladas de la vega favorecen la condensación: aislamiento continuo y barrera de vapor.",
+   "Los módulos llegan por la A-45 y la A-92; primavera y otoño son buenas épocas para el montaje."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

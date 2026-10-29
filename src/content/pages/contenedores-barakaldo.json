@@ -1827,5 +1827,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 10202,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Barakaldo</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto de Bilbao, con terminales en Santurtzi y Zierbena, y llega por la A-8 o la BI-30 con la descarga incluida.",
+  "datos": [
+   "En los polígonos de la Margen Izquierda se usa como almacén de materiales o como caseta de obra.",
+   "Con el clima atlántico, húmedo y lluvioso, conviene ventilación cruzada y apoyos que separen la chapa del suelo.",
+   "La parcela necesita una superficie firme y nivelada que apoye las cuatro cantoneras del contenedor.",
+   "Según el uso, el Ayuntamiento de Barakaldo pedirá declaración responsable o licencia de obra menor.",
+   "En suelo no urbanizable, la Ley 2/2006 de Suelo y Urbanismo del País Vasco es más restrictiva."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

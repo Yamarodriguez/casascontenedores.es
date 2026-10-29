@@ -2557,5 +2557,19 @@
     "html": "<p>Villacarrillo entero entra en nuestra zona de servicio, de la campiña a la sierra. Por la autovía A-32 y la N-322, que cruzan el municipio, llega el contenedor; el presupuesto se ajusta al acceso final y llega <strong>hasta el lugar de entrega</strong>. Como aeropuerto de referencia está el Aeropuerto Federico García Lorca Granada-Jaén.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Villacarrillo</strong> requiere licencia del Ayuntamiento de Villacarrillo con arreglo a la Ley 7/2021 (LISTA) de Andalucía y al PGOU municipal, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Parte del término está en el Parque Natural Sierras de Cazorla, Segura y Las Villas, con la edificación muy limitada.",
+   "El PGOU recoge ámbitos de hábitat rural diseminado como Cerro Molinos; en suelo rústico la vivienda es excepcional.",
+   "Cerca del Guadalquivir o del Guadalimar, consulta la cartografía oficial de inundabilidad antes del proyecto.",
+   "En la campiña el camión llega sin grandes maniobras; en la sierra, las pistas encarecen transporte y grúa.",
+   "Las heladas y el calor piden aislamiento generoso; conviene montar fuera de la campaña de aceituna."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

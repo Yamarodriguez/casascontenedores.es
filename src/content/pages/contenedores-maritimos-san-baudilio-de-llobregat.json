@@ -1811,5 +1811,19 @@
     "html": "<p>En San Baudilio, para usos logísticos, los extras más útiles son la iluminación, la instalación eléctrica y las cerraduras de seguridad. En la huerta, la ventilación evita que los productos se estropeen y una pequeña placa solar da luz sin acometida. Si va a ser oficina o caseta de obra, añade aislamiento y ventanas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en San Baudilio de Llobregat</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el puerto de Barcelona y el aeropuerto de El Prat están a pocos minutos, así que el transporte es de los más cortos.",
+  "datos": [
+   "Lo compran empresas logísticas de los polígonos, payeses del Parc Agrari, constructoras y particulares.",
+   "En las huertas, con caminos estrechos junto a acequias, y en el casco urbano, el 20 pies se coloca mejor.",
+   "Si va a quedar en la huerta, consulta antes las normas del parque agrario, que protege el uso agrícola.",
+   "En una calle urbana puede hacer falta permiso de ocupación de vía pública para la descarga.",
+   "Para picos logísticos, la Fiesta Mayor o la campaña de las huertas, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

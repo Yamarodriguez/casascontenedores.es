@@ -1812,5 +1812,19 @@
     "html": "<p>Para una finca de fruta en Cieza, las transformaciones con más sentido son el aislamiento térmico y la ventilación, para que el interior no se recaliente en verano, y una instalación de electricidad solar que dé luz o alimente un pequeño equipo de riego. En fincas aisladas de la vega conviene añadir rejas y cerraduras reforzadas contra el robo de herramientas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Cieza</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-30 desde el Puerto de Cartagena y se usa sobre todo como almacén en las fincas de fruta de hueso.",
+  "datos": [
+   "En la recolección de melocotón, albaricoque y nectarina sirve de almacén de cajas, caseta de riego o vestuario.",
+   "En la vega y los caminos agrícolas estrechos encaja el 20 pies; con acceso amplio, un 40 pies High Cube.",
+   "Acequias, arbolado y caminos de huerta estrechos son lo que más complica la descarga con grúa.",
+   "Las tormentas de gota fría del otoño ponen a prueba la estanqueidad: revisa suelo, juntas y techo.",
+   "Para una campaña de recolección con fecha de fin, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

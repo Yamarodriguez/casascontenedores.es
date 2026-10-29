@@ -2547,5 +2547,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1148,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en la provincia de Pontevedra</strong> necesita licencia del concello de cada municipio conforme a la Lei 2/2016 del suelo de Galicia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En parroquias de la capital como Salcedo, Lérez o Marcón, el suelo de núcleo rural admite vivienda unifamiliar.",
+   "Galicia no exige cédula: la primera ocupación se tramita con comunicación previa y certificado final de obra.",
+   "La capital está en zona climática C1 y el ambiente marino de la ría pide reforzar la protección anticorrosiva.",
+   "En la vega baja del Lérez hay rellenos de marisma: revisa el nivel freático antes de cimentar.",
+   "El casco histórico de Pontevedra es peatonal: la grúa necesita autorización municipal y una ventana horaria."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

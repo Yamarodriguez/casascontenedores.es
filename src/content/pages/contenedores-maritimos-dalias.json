@@ -1812,5 +1812,19 @@
     "html": "<p>En una finca de Dalías lo que más se pide al transformar un contenedor es <strong>ventilación y aislamiento</strong>, para que el almacén no se recaliente al lado del invernadero. También son útiles la electricidad solar para luz y bombas, y las rejas y cerraduras reforzadas en fincas alejadas del pueblo.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Dalías</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde la A-7 por la AL-4302 y la A-358, y se usa sobre todo junto a los invernaderos.",
+  "datos": [
+   "Sirve de almacén de cajas, plásticos y abonos, cuarto de bombas o vestuario en los invernaderos.",
+   "Entre invernaderos, con caminos estrechos y poco radio de giro, el 20 pies es el más manejable.",
+   "Comprueba que no queden restos de cargas anteriores que puedan contaminar productos o abonos.",
+   "Al lado del invernadero, la ventilación y el aislamiento evitan que el almacén se recaliente.",
+   "Para la campaña agrícola o las fiestas del Cristo de la Luz, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

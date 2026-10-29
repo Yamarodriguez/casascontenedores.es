@@ -1811,5 +1811,19 @@
     "html": "<p>Con los contrastes de temperatura de Manresa, el aislamiento es útil si el contenedor va a hacer de oficina, taller o almacén de productos sensibles. La ventilación evita condensaciones en invierno. En las masías apartadas, unas rejas y una cerradura reforzada protegen lo que guardas, y una placa solar aporta luz donde no llega la red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Manresa</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Barcelona por la C-16, el eje del Llobregat, con precio puesto en destino.",
+  "datos": [
+   "En la capital del Bages se usa como almacén en naves y talleres y como caseta en obras.",
+   "En las masías del entorno, entre viña, cereal y olivo, sirve de trastero agrícola o almacén de cosecha.",
+   "Con heladas en invierno y calor en verano, revisa el techo, las juntas resecas y la humedad del suelo.",
+   "En el casco antiguo, de calles empinadas, y en caminos de tierra de masías, el 20 pies es más manejable.",
+   "Para la vendimia, la Festa de la Llum o una obra con fecha de fin, conviene más el alquiler."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

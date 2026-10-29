@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5431,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Girona</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Barcelona o el Port de Palamós por la AP-7, la A-2/N-II o la C-25 hasta cada comarca gerundense.",
+  "datos": [
+   "La industria cárnica de Riudellots, Celrà o Fornells de la Selva lo usa como almacén u oficina junto a la nave.",
+   "En el Empordà sirve como caseta de aperos o almacén de campaña, y en la Costa Brava como quiosco de temporada.",
+   "Al Barri Vell no entra el camión-grúa: la descarga se organiza siempre fuera del recinto.",
+   "En suelo no urbanizable solo se puede ampliar una masía ya catalogada; un contenedor aislado no encaja.",
+   "Las nieblas del fondo del valle desgastan la pintura si no hay ventilación y revisiones periódicas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

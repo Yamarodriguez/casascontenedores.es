@@ -1823,5 +1823,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Huelva</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el nodo natural es el Puerto de Huelva, y el acceso solo se complica en los cabezos y la comarca fresera.",
+  "datos": [
+   "Las explotaciones de frutos rojos de Lepe, Moguer y Palos lo usan como almacén.",
+   "Las contratas del Polo Químico lo emplean como módulo de oficina o vestuario.",
+   "La descarga se hace siempre con pluma o grúa: reserva un tramo de acceso despejado.",
+   "En las marismas y en la servidumbre de Costas necesitas informe de Costas o de la Autoridad Portuaria.",
+   "El salitre y la humedad de la ría aceleran la corrosión si no se cuida la protección."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

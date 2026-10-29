@@ -2557,5 +2557,19 @@
     "html": "<p>Damos servicio en Mojácar, del pueblo a la costa, con <strong>presupuesto puesto en destino</strong>. La A-7, la Autovía del Mediterráneo, trae el camión hasta el término, al que se accede por la A-370. El Aeropuerto de Almería es la referencia aérea, y los puertos comerciales más cercanos son el de Carboneras y el de Almería.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Mojácar</strong> necesita licencia del Ayuntamiento de Mojácar según la Ley 7/2021 (LISTA) de Andalucía y su PGOU, que protege el carácter de pueblo blanco, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El PGOU limita la altura fuera de las zonas hoteleras: los planos de una sola planta encajan mejor.",
+   "La ZEC Sierra de Cabrera-Bédar restringe aún más lo que se puede hacer en la sierra.",
+   "En el cerro, las calles empinadas y estrechas obligan a usar grúas de más alcance.",
+   "Está en zona B4 del CTE: aislamiento frente al calor, anticorrosión en la costa y acabado blanco.",
+   "El plazo ronda los 4 a 7 meses; la licencia suele ser la fase más larga."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

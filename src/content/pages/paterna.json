@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo el término de Paterna y el precio se da <strong>puesto en destino</strong>. Llegamos por la CV-35, la autovía de Ademuz, y por la V-30 y la A-7, que rodean el área metropolitana. El puerto de referencia es el de Valencia y el aeropuerto de Valencia queda muy cerca, en Manises.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Paterna</strong> necesita licencia del Ayuntamiento de Paterna, que aplica su plan general y el TRLOTUP de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En La Cañada y otras zonas de chalets encaja una vivienda de dos o tres módulos con jardín.",
+   "El Parque Natural del Túria limita mucho las actuaciones, y en suelo no urbanizable las condiciones son muy estrictas.",
+   "El terreno es casi todo llano y las calles residenciales admiten camión y grúa, lo que abarata el montaje.",
+   "Con veranos calurosos y húmedos, orienta la casa al sur con aleros y evita huecos grandes al oeste.",
+   "Evita montar la última semana de agosto, cuando la Cordà y las fiestas mayores ocupan el centro."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

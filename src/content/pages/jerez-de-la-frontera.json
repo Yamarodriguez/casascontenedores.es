@@ -2733,5 +2733,19 @@
     }
    ]
   }
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Jerez de la Frontera</strong> necesita licencia del Ayuntamiento de Jerez conforme a la Ley 7/2021 (LISTA) de Andalucía y su PGOU, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El término combina suelo urbano en la ciudad y pedanías como Guadalcacín con mucho suelo rústico de viñedo.",
+   "Los suelos de bujeo son arcillas expansivas: un estudio geotécnico previo evita fisuras en la cimentación.",
+   "Jerez está en la zona climática A3, con veranos calurosos y vientos de levante y poniente.",
+   "Dentro del recinto amurallado, la Zona de Bajas Emisiones limita el acceso del camión de forma permanente.",
+   "Al terminar la obra, la declaración responsable de ocupación sustituye a la cédula de habitabilidad."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

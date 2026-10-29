@@ -1811,5 +1811,19 @@
     "html": "<p>Con los inviernos de Pamplona, el aislamiento marca la diferencia si el contenedor va a ser un taller, un vestuario o una oficina de obra. La ventilación evita la condensación cuando cambia la temperatura. Para un almacén en polígono, unas cerraduras reforzadas y una instalación eléctrica básica suelen bastar; en el campo, una placa solar da luz sin acometida.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Pamplona</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde los puertos de Bilbao o Pasaia y la ronda PA-30 lo reparte por los polígonos de la Cuenca, con precio puesto en destino.",
+  "datos": [
+   "Lo compran sobre todo empresas de la cadena del automóvil, talleres de polígono, constructoras y agricultores de la Cuenca.",
+   "Con heladas y alguna nevada, revisa que el techo no tenga abolladuras donde se acumule agua o nieve.",
+   "En el casco antiguo y en fincas de pueblo con accesos limitados, un 20 pies se coloca con menos maniobra.",
+   "En las calles estrechas del centro puede hacer falta cortar el tráfico y pedir permiso de ocupación de vía pública.",
+   "Durante los Sanfermines, bares y peñas alquilan almacenes temporales que se recogen al acabar las fiestas."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

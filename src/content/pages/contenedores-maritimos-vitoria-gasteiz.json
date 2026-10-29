@@ -1811,5 +1811,19 @@
     "html": "<p>En el clima de Vitoria-Gasteiz, el aislamiento es el extra más útil si el contenedor va a ser oficina, taller o vestuario de obra, porque los inviernos son largos. La ventilación evita que la humedad se condense en las paredes. Para almacenes en polígono, cerraduras reforzadas e instalación eléctrica; para el campo, una pequeña placa solar.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Vitoria-Gasteiz</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por el puerto de Bilbao y llega por la AP-68 o la A-1, y se usa mucho como almacén en polígonos como Júndiz.",
+  "datos": [
+   "Los proveedores de automoción y la logística lo usan como almacén en naves con viales anchos.",
+   "En la Llanada Alavesa, campo de cereal y patata, sirve de trastero agrícola en los pueblos.",
+   "Las heladas frecuentes castigan el techo: evita zonas hundidas donde el agua se acumule y luego se hiele.",
+   "La ciudad es muy llana y permite un 40 pies; en cascos con calles estrechas, mejor un 20 pies.",
+   "En las fiestas de La Blanca, a principios de agosto, se alquila como almacén temporal."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

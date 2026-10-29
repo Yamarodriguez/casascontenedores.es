@@ -1812,5 +1812,19 @@
     "html": "<p>En esta costa un contenedor agradece una <strong>pintura marina contra el salitre</strong> y rejillas de ventilación que reduzcan la condensación del alisio. En fincas aisladas de Teno o de la Isla Baja tiene sentido reforzar cerraduras y añadir placas solares para tener luz sin depender de la red. Todo se prepara antes del envío.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Buenavista del Norte</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); desembarca en el Puerto de Santa Cruz de Tenerife y sube por la TF-5 y la TF-42 hasta la Isla Baja.",
+  "datos": [
+   "En las fincas de plátano del llano sirve para guardar cajas, abonos y maquinaria.",
+   "En los caseríos de Teno, donde sigue viva la ganadería caprina, resguarda pienso y aperos.",
+   "Hacia Masca o Teno lo razonable es un 20 pies; en el llano de la Isla Baja cabe uno de 40 pies.",
+   "El salitre y el viento de la Punta de Teno atacan las esquinas, el techo y los bajos de la chapa.",
+   "Para rehabilitar una casa en un caserío de Teno, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

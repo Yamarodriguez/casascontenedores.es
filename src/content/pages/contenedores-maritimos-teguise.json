@@ -1811,5 +1811,19 @@
     "html": "<p>En Teguise muchos clientes piden pintar el contenedor de blanco o en tonos tierra para que se integre en el paisaje, algo muy valorado en Lanzarote. Para usarlo como taller u oficina conviene añadir aislamiento y ventilación. En fincas aisladas de El Jable, unas rejas y una pequeña instalación solar dan seguridad y luz sin necesidad de enganche a la red.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Teguise</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por mar al puerto de Arrecife y sube por la LZ-1 hasta Tahíche.",
+  "datos": [
+   "En El Jable guarda cajas y herramientas de los cultivos sobre arena.",
+   "Los comerciantes del mercadillo dominical de la Villa y las escuelas de surf de Famara lo usan como almacén.",
+   "En las calles históricas de la Villa y en los caminos de Los Valles, el 20 pies es mucho más fácil.",
+   "La arena del viento entra por cualquier rendija: comprueba que las puertas cierran sin holgura.",
+   "El alquiler encaja en la cosecha de batata o sandía, un campeonato de surf o el carnaval."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

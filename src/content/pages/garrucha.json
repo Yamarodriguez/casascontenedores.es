@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo el término de Garrucha y el precio se da puesto en destino. Los módulos llegan por la A-7, la Autovía del Mediterráneo, con salida por Vera, y desde allí por la carretera que une Vera con Garrucha y la costa de Mojácar. El Puerto de Almería y el Aeropuerto de Almería son las referencias logísticas, y el de Murcia queda como alternativa por el norte.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Garrucha</strong> necesita licencia del Ayuntamiento de Garrucha según su planeamiento y la Ley 7/2021 (LISTA) de Andalucía, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El término es casi todo urbano: encaja en un solar del casco, en una urbanización o como ampliación.",
+   "En primera línea, la Ley de Costas añade sus propias limitaciones en la zona de servidumbre.",
+   "La brisa salina del puerto y del paseo marítimo exige pintura de calidad marina y revisar las uniones.",
+   "En las calles estrechas del casco falta espacio para la grúa, y eso encarece la descarga.",
+   "Para el montaje, evita el verano y las fiestas de la Virgen del Carmen, cuando el paseo se llena."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

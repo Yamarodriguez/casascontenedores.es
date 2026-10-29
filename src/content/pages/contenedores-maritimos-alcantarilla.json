@@ -1812,5 +1812,19 @@
     "html": "<p>Con el calor que aprieta en la vega en verano, lo primero que suele compensar es aislar el contenedor y ventilarlo, más aún si va a ser oficina en un polígono. En parcelas de huerta encajan la puerta de personal, las rejas y el cierre reforzado, y una pequeña instalación de electricidad solar para luz o para el riego.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Alcantarilla</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-7 o la A-30, con el Puerto de Cartagena para lo que viene por mar, y te lo damos puesto en destino.",
+  "datos": [
+   "Se usa como almacenaje junto a las naves de los polígonos Oeste, Cabezo Verde y La Coroneja.",
+   "En la huerta limitan al camión los caminos estrechos, los pasos sobre acequias y los cables aéreos.",
+   "Un techo usado con abolladuras acumula el agua de las lluvias de otoño y acelera la corrosión.",
+   "El llano y los viales anchos admiten un 40 pies; entre acequias y en el casco rinde más un 20 pies.",
+   "Para un almacén de campaña de la cosecha o un pico de actividad, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

@@ -1812,5 +1812,19 @@
     "html": "<p>En las fincas de la vega del Almanzora, lo más útil es añadir ventilación y aislamiento para que el almacén no se recaliente, y una <strong>instalación solar</strong> para el riego o la luz. En la costa de Villaricos y Palomares, la pintura anticorrosión prolonga la vida del contenedor frente al salitre.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Cuevas del Almanzora</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); entra por la A-7 o la AP-7 y se reparte por la A-332, la A-352 o la A-1201 según el núcleo de destino.",
+  "datos": [
+   "En los regadíos de cítricos y hortalizas de la vega guarda cajas, abonos y herramientas.",
+   "Los cauces de rambla pueden quedar impracticables tras un aguacero: tenlo en cuenta al fijar la entrega.",
+   "En las fincas llanas de la vega entra el 40 pies; en los caminos de las sierras, mejor el 20 pies.",
+   "En la costa de Villaricos y Palomares, revisa el óxido en esquinas y puertas antes de comprar.",
+   "Para la campaña de cítricos o el festival Dreambeach, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

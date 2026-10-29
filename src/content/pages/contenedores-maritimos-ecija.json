@@ -1811,5 +1811,19 @@
     "html": "<p>En la «sartén de Andalucía» el extra imprescindible es el <a href=\"/aislamiento-contenedores/\">aislamiento</a>, acompañado de ventilación, para que lo que guardes no se estropee con el calor del verano. Una pintura clara reduce además la temperatura de la chapa. En fincas aisladas, rejas, candados reforzados y una placa solar para la luz completan el equipamiento.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Écija</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-4 desde Sevilla o Algeciras, y en la campiña llana la descarga suele ser sencilla.",
+  "datos": [
+   "Las fincas de cereal, girasol, algodón y olivar lo usan para semillas, abonos y recambios de maquinaria.",
+   "Los caminos rurales de la campiña son anchos y llanos: en la mayoría de fincas entra un 40 pies.",
+   "Con el sol, las gomas de las puertas se cuartean y el suelo de madera se reseca: revísalos.",
+   "Tras una tormenta los caminos de tierra pueden quedar impracticables: evita entregar justo después.",
+   "Para la cosecha o la feria, el alquiler cubre el pico de actividad sin comprar un contenedor."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

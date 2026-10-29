@@ -1811,5 +1811,19 @@
     "html": "<p>Con la humedad donostiarra, ventilar el contenedor es clave para evitar condensación y moho dentro. La pintura protege la chapa del salitre, especialmente en la zona costera. Si se va a usar como taller, oficina de obra o vestuario, el aislamiento hace que se pueda trabajar todo el año. En caseríos sin luz, una placa solar resuelve la iluminación.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Donostia-San Sebastián</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el puerto de Pasaia está a un paso y el camión entra por la AP-8, la A-15 o la N-1, con precio puesto en destino.",
+  "datos": [
+   "En una ciudad compacta entre montes y mar, sirve de almacén para restaurantes, comercios y clubes de remo.",
+   "Llueve mucho y en la costa el salitre ataca la chapa: revisa el techo, los bajos y las bisagras.",
+   "En los caseríos de Igeldo o Ulia, con caminos estrechos y empinados, lo sensato es un 20 pies.",
+   "En el centro, la falta de espacio puede obligar a ocupar la calle con permiso municipal.",
+   "Para la Semana Grande, la Tamborrada o el festival de cine, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

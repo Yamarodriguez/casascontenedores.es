@@ -1811,5 +1811,19 @@
     "html": "<p>Si el contenedor va a ser espacio de trabajo en Tres Cantos, conviene añadir aislamiento, ventanas, climatización e instalación eléctrica completa, porque los inviernos son fríos. Para almacén basta con ventilación y una buena cerradura. En jardines y zonas visibles, una pintura acorde con el entorno o un revestimiento de madera ayudan a cumplir las ordenanzas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Tres Cantos</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la M-607 desde Madrid y trabaja sobre todo para las empresas del Parque Tecnológico de Madrid como almacén de equipos o archivo.",
+  "datos": [
+   "Las calles anchas y el terreno llano hacen que el trayecto y la descarga rara vez den sorpresas.",
+   "En el jardín de un unifamiliar, el 20 pies suele ser la medida máxima razonable por espacio y ordenanzas.",
+   "Como queda a la vista en una ciudad muy cuidada, conviene elegir chapa en buen estado y repintarla.",
+   "Lo que cambia el coste es si la grúa descarga desde la calle o entra en la parcela entre árboles y cables.",
+   "Para espacio de trabajo hacen falta aislamiento y climatización, porque los inviernos de Tres Cantos son fríos."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

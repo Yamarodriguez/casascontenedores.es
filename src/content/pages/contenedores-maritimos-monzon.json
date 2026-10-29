@@ -1811,5 +1811,19 @@
     "html": "<p>En la industria de Monzón se piden contenedores con ventilación y <a href=\"/electricidad-contenedores/\">instalación eléctrica</a> para usarlos como taller o caseta de control. En la huerta, el aislamiento protege la cosecha del calor del verano, y la pintura anticorrosión prolonga la vida de la chapa junto a las acequias. Para fincas alejadas, rejas y cerraduras reforzadas dan tranquilidad.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Monzón</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde Tarragona o Barcelona por la A-22, y el terreno llano facilita la entrega.",
+  "datos": [
+   "Fábricas y logísticas de los polígonos lo usan como almacén auxiliar o caseta de vigilancia.",
+   "En la huerta del Canal de Aragón y Cataluña guarda maquinaria, cajas de fruta o material de riego.",
+   "Con riego por inundación, elévalo sobre apoyos para que la humedad no acelere la corrosión de los bajos.",
+   "Evita los días de riego: los caminos junto a las acequias se ablandan y complican la maniobra.",
+   "En polígonos y fincas llanas entra un 40 pies; en patios del casco, mejor el 20 pies."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

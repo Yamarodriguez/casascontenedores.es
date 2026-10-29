@@ -2557,5 +2557,19 @@
     "html": "<p>Puerto del Rosario y el resto de Fuerteventura están cubiertos por nuestra zona de servicio: el presupuesto ya cuenta con la entrega en el solar o la finca. El módulo desembarca en el Puerto de Puerto del Rosario y sale por la FV-1 hacia el norte o por la FV-2 hacia el sur de la isla. Para visitar la parcela, el Aeropuerto de Fuerteventura es la entrada aérea a la isla.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Puerto del Rosario</strong> necesita licencia del Ayuntamiento de Puerto del Rosario, según su Plan General, conforme a la Ley 4/2017 del Suelo de Canarias, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El módulo desembarca en el puerto comercial de la propia ciudad, lo que acorta mucho el trayecto por carretera.",
+   "Hacia La Oliva, el Paisaje Protegido de Vallebrón limita mucho la edificación en suelo rústico.",
+   "Con alisio casi constante y calima, crea un patio a sotavento y deja pocas ventanas, bien selladas, al viento.",
+   "Está en la zona climática α3 del CTE: el aislamiento se piensa ante todo para el calor del verano.",
+   "El terreno, llano y pedregoso, permite cimentaciones sencillas; encarecen la primera línea y los solares entre medianeras."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

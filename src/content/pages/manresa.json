@@ -2556,5 +2556,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1532,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Manresa</strong> necesita licencia del Ajuntament de Manresa según su POUM y el Decreto Legislativo 1/2010 de urbanismo de Cataluña, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "El POUM desclasificó parte del suelo urbanizable: busca parcela en el suelo urbano de los barrios residenciales.",
+   "Las riberas del Cardener y el Llobregat y el suelo agrícola del Pla de Bages son muy restrictivos.",
+   "El núcleo está en zona C2 del CTE, con heladas y nieblas: aísla por el exterior las cantoneras.",
+   "Hace falta cèdula d'habitabilitat, que expide la Agència de l'Habitatge de Catalunya tras el certificado final de obra.",
+   "El contenedor entra por el Port de Barcelona y llega a la ciudad por el Eix del Llobregat."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
+ }
 }

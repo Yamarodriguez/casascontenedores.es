@@ -1811,5 +1811,19 @@
     "html": "<p>En Benidorm los extras más pedidos son la ventilación y el <a href=\"/aislamiento-contenedores/\">aislamiento</a>, porque la chapa al sol se calienta mucho, y la pintura anticorrosión para los que quedan cerca del mar. Si va a estar a la vista de clientes, compensa pintarlo con los colores del negocio. En parcelas sin vigilancia, añade rejas y cerraduras reforzadas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Benidorm</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Alicante o de Valencia por la AP-7, la N-332 o la CV-70, puesto en destino.",
+  "datos": [
+   "Hoteles, restaurantes y comercios lo usan como almacén externo, y las playas como base de servicios.",
+   "En el centro, entre torres de apartamentos y mucho tráfico, el 20 pies necesita menos espacio de descarga.",
+   "En temporada alta algunas zonas limitan el acceso de camiones y los horarios de carga.",
+   "Cerca de la playa, la brisa salina acelera el óxido en bajos, esquinas y marcos de las puertas.",
+   "Para un festival de música o la reforma de un hotel, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

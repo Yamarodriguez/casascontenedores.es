@@ -1828,5 +1828,19 @@
  "menu": "contenedores-maritimos",
  "bandaTitulo": false,
  "postId": 5377,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Canarias</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sale del Puerto de la Luz o de Santa Cruz de Tenerife y, si la isla no es capitalina, suma un tramo interinsular.",
+  "datos": [
+   "Los complejos turísticos de costa lo piden sobre todo como módulo o local de temporada.",
+   "Las plataneras y la agricultura de exportación de medianías lo usan como caseta agrícola.",
+   "En medianías y cumbre, las curvas cerradas y la pendiente limitan el paso de una góndola larga.",
+   "En la Red Canaria de Espacios Naturales o en la Red Natura 2000, el trámite es más restrictivo.",
+   "El salitre y la calima desgastan el acero: mantén al día la pintura anticorrosiva cerca de la costa."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
+ }
 }

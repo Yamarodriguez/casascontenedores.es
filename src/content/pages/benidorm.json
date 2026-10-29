@@ -2556,5 +2556,19 @@
     "html": "<p>Servimos todo el término de Benidorm y el precio se da puesto en destino. Los módulos llegan por la AP-7 y la N-332, que recorren la costa de la Marina Baixa, y por la CV-70 desde el interior. El Puerto de Alicante y el Aeropuerto de Alicante-Elche Miguel Hernández son las referencias logísticas más próximas.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Benidorm</strong> se tramita como cualquier vivienda, con licencia del Ayuntamiento de Benidorm y el TRLOTUP (Decreto Legislativo 1/2021) de la Comunitat Valenciana, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Casi todo el suelo está urbanizado: encaja en solares residenciales, en las partidas del interior o como estudio.",
+   "La Serra Gelada y su franja litoral están protegidas como parque natural.",
+   "En el centro, el tráfico intenso y las calles muy ocupadas complican la descarga de los módulos.",
+   "En las partidas con pendiente hacia las sierras, los muros y la cimentación pesan en el presupuesto.",
+   "Para montar, evita las semanas de más ocupación turística y las fiestas patronales de noviembre."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

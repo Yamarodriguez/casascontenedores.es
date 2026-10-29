@@ -1811,5 +1811,19 @@
     "html": "<p>En fincas aisladas de La Serena lo que más se pide es seguridad: <a href=\"/seguridad-contenedores/\">rejas, candados y cerraduras reforzadas</a>, junto con una placa solar para tener luz sin red. En la vega, donde el contenedor almacena abonos o cosecha, el aislamiento y la ventilación evitan que el calor del verano estropee lo que guardas. La pintura en tonos tierra ayuda a integrarlo en la dehesa.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Villanueva de la Serena</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la N-430 o desde la A-5 por Miajadas, con los puertos de Sevilla y Lisboa como referencia.",
+  "datos": [
+   "En la vega del Guadiana sirve de almacén a las fincas de regadío y las empresas agroalimentarias.",
+   "En las dehesas de La Serena guarda pienso, herramientas y material ganadero en fincas grandes y alejadas.",
+   "Mide la cancela más estrecha del camino: si cruza pasos de ganado, el 20 pies es más manejable que el 40.",
+   "Tras varios kilómetros de pista de tierra, si llueve antes de la entrega quizá haya que retrasarla.",
+   "El clima seco no castiga la chapa, pero revisa el suelo si vas a guardar pienso."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

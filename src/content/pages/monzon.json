@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo el término de Monzón y el precio se da <strong>puesto en destino</strong>. La A-22 conecta la ciudad con Barbastro y Huesca hacia el oeste y con Binéfar y Lleida hacia el este. Para mercancía marítima los puertos de referencia son Tarragona y Barcelona, y los aeropuertos más cercanos son los de Lleida-Alguaire y Zaragoza.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Monzón</strong> necesita licencia del Ayuntamiento de Monzón con su plan general y el Texto refundido de la Ley de Urbanismo de Aragón (DL 1/2014), y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "En suelo no urbanizable de la huerta, levantar una vivienda tiene muchas condiciones.",
+   "Junto al Cinca y el Sosa hay zonas inundables y de policía de aguas que conviene revisar antes de comprar.",
+   "En la huerta el suelo puede ser blando y con nivel freático alto, y la cimentación debe adaptarse.",
+   "Las nieblas y heladas del valle piden aislamiento continuo y barrera de vapor bien sellada.",
+   "El terreno mayoritariamente llano abarata la descarga de los módulos."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

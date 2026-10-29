@@ -1812,5 +1812,19 @@
     "html": "<p>En la costa de Las Américas, la mejora más útil es la <strong>pintura marina contra el salitre</strong>, con rejillas para ventilar. Para escuelas de surf y comercios, persianas metálicas, iluminación y cerraduras de seguridad; para locales de ocio, aislamiento del techo que haga soportable trabajar dentro bajo el sol del sur.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Playa de las Américas</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); sube por la TF-1, la Autopista del Sur, y te lo damos puesto en destino; aquí pesa más la descarga que el trayecto.",
+  "datos": [
+   "Hoteles, complejos de apartamentos, escuelas de surf y locales de ocio lo usan como almacén cerrado junto al negocio.",
+   "En calles con tráfico intenso cabe mejor un 20 pies, en un patio de servicio o una zona de carga.",
+   "La calima mete polvo fino: comprueba que las puertas sellen bien y revisa el óxido de esquinas y bajos.",
+   "La grúa puede necesitar más alcance, horario restringido o permiso para ocupar la vía en Arona o en Adeje.",
+   "Los hoteles alquilan contenedores durante las reformas fuera de temporada alta, cuando el uso tiene fecha de fin."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

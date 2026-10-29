@@ -2748,5 +2748,19 @@
  "menu": "",
  "bandaTitulo": false,
  "postId": 1057,
- "huecoTitulo": false
+ "huecoTitulo": false,
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Murcia</strong> necesita, en cualquier ayuntamiento de la provincia, licencia conforme a su plan general y a la Ley 13/2015 (LOTURM) de la Región de Murcia, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Buena parte de la Huerta de Murcia es suelo no urbanizable de protección; en pedanías con suelo urbano sí cabe licencia.",
+   "La Región es la zona sismológica más activa de España: el proyecto debe aplicar la norma NCSE-02.",
+   "El terreno aluvial del Segura en la huerta exige a menudo losa o cimentación profunda.",
+   "La capital está en zona B3: el calor sobrecalienta la cubierta metálica y las DANA traen lluvias torrenciales.",
+   "No hay cédula separada: la primera ocupación se tramita por declaración responsable ante el ayuntamiento."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/permisos/"
+  }
+ }
 }

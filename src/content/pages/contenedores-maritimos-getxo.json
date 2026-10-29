@@ -1811,5 +1811,19 @@
     "html": "<p>En Getxo, entre la lluvia y el salitre, conviene una buena <a href=\"/pintura-contenedores/\">pintura anticorrosión</a> y ventilación para evitar condensaciones y moho, sobre todo si se guardan neoprenos, velas o tablas. En jardines visibles, un revestimiento de madera mejora la integración. Si va a ser oficina, añade aislamiento, ventanas y calefacción.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Getxo</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); el Puerto de Bilbao está al lado, así que lo que mueve el precio es la descarga en calles estrechas o en pendiente.",
+  "datos": [
+   "Escuelas de surf, clubes de remo y vela y el puerto deportivo lo usan para tablas y embarcaciones ligeras.",
+   "En Algorta y el Puerto Viejo, de parcelas ajustadas, el 20 pies es la medida más habitual.",
+   "A veces hace falta permiso de ocupación de vía pública y una grúa que salve muros y vallas.",
+   "La lluvia y el salitre castigan la chapa usada: revisa óxido en techo, bajos y esquinas.",
+   "Si guardas neoprenos o velas, añade ventilación para evitar condensaciones y moho."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

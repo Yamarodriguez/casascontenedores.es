@@ -2556,5 +2556,19 @@
     "html": "<p>Cubrimos todo el término de Arganda del Rey y damos el precio <strong>puesto en destino</strong>. La A-3, la Autovía del Este, cruza el municipio y la M-50 lo enlaza con el resto del área metropolitana; hacia el norte, la M-300 sube a Alcalá de Henares, y varias carreteras regionales bajan a las vegas del Tajuña. El Aeropuerto Adolfo Suárez Madrid-Barajas queda cerca, y el puerto de Valencia es la referencia marítima por la propia A-3.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Una <strong>casa contenedor en Arganda del Rey</strong> necesita licencia del Ayuntamiento de Arganda del Rey conforme a su plan general y a la Ley 9/2001 del Suelo de la Comunidad de Madrid, y en el mercado español cuesta entre 600 y 900 € el metro cuadrado en la gama económica y media (octubre de 2026).",
+  "datos": [
+   "Encaja como vivienda de dos módulos en L en urbanización o como caseta de bodega en las viñas.",
+   "Buena parte de la vega y los cerros está en el Parque Regional del Sureste, con normas muy limitantes.",
+   "Fuera de suelo urbano la vivienda es excepcional y requiere consulta previa al ayuntamiento.",
+   "Las arcillas y yesos de las lomas pueden pedir cimentación profunda; en la vega, el freático es alto.",
+   "La A-3 y la M-50 dejan el camión cerca de casi cualquier parcela; evita montar en pleno agosto."
+  ],
+  "enlace": {
+   "texto": "qué permite tu parcela",
+   "destino": "/estudio-de-parcela/"
+  }
  }
 }

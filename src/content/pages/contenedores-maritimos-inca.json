@@ -1811,5 +1811,19 @@
     "html": "<p>Para guardar piel, calzado o tejidos en Inca, el aislamiento y una buena ventilación son imprescindibles: evitan la condensación del invierno y el calor del verano, que estropean el producto. En los comercios del centro, la pintura en el color de la fachada ayuda a integrarlo. Y en las fincas apartadas, unas rejas y una cerradura reforzada protegen la maquinaria.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Inca</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega desde el puerto de Palma por la Ma-13, uno de los trayectos más cómodos de Mallorca.",
+  "datos": [
+   "Trabaja sobre todo como almacén en las fábricas de calzado y marroquinería y como cuarto de aperos en las fincas.",
+   "Lejos del mar la chapa sufre menos; revisa el techo y las juntas, porque al pie de la Serra llueve más.",
+   "En los polígonos cabe un 40 pies o un High Cube; en el centro histórico se maneja mejor el 20 pies.",
+   "El precio sube si hay que colocarlo con grúa en un patio del centro o llevarlo por un camino rural.",
+   "Para el Dijous Bo o la recogida de la almendra, el alquiler encaja mejor que la compra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }

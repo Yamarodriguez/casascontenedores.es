@@ -1812,5 +1812,19 @@
     "html": "<p>En las fincas de olivar alejadas del pueblo, la transformación más útil es la seguridad: rejas, cerraduras reforzadas y un pequeño equipo de <strong>electricidad solar</strong>. Para usarlo con heladas y calor, conviene añadir aislamiento y ventilación, y para oficinas de almazara en campaña, ventanas y climatización.</p>"
    }
   ]
+ },
+ "resumen": {
+  "respuesta": "Un <strong>contenedor marítimo en Villacarrillo</strong> cuesta en el mercado entre 850 y 2.300 € usado y entre 1.950 y 4.200 € nuevo, sin IVA ni transporte (octubre de 2026); llega por la A-32 y la N-322, que cruzan el municipio, y se usa sobre todo como almacén cerrado en las fincas de olivar.",
+  "datos": [
+   "Almazaras y cooperativas lo usan como apoyo durante la campaña de aceituna.",
+   "En caminos de tierra entre olivos y en la sierra, lo práctico es el 20 pies, de unos 6 m.",
+   "Subir a una finca de ladera o a un cortijo serrano puede exigir un camión más corto o más grúa.",
+   "La humedad invernal hace crecer el óxido de los bajos: revisa también juntas y piso antes de comprar.",
+   "Las calles del casco junto a la iglesia de la Asunción y los caminos embarrados complican la maniobra."
+  ],
+  "enlace": {
+   "texto": "precios por tipo de contenedor",
+   "destino": "/precios-contenedores-maritimos/"
+  }
  }
 }
